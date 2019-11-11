@@ -1,0 +1,980 @@
+L93293 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ Sure.
+L93292 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ She is a dancer! And a lovely one! You would like her very much! Shall we dance?
+L93291 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ Your mom was a dancer?
+L93290 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No, I'm not! My mom taught me.
+L93289 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ You're kidding!
+L93286 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Really?
+L93285 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ We work on Rodeo Drive.  But we're both professional dancers.
+L93280 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ He's really funny!
+L93279 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm Adam Webber.
+L93278 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ This is my new friend...
+L93277 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thank-Q!
+L93276 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ Bravo!
+L93275 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You like it?
+L93274 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ Oh, now, that's a great one!
+L93273 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I was wondering if you might help me. I...I seem to have lost my Congressional Medal of Honor somewhere around here.
+L93272 +++$+++ u560 +++$+++ m35 +++$+++ MISS SWEET +++$+++ Yes?
+L93271 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hi!
+L93482 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Young man, stop right there!
+L93481 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The key to my hotel room!  I want you to have my baseball cards!  And please be sure to pay my bill!
+L93463 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.
+L93462 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Let's go talk first, Adam.
+L93457 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I thank you very much for the invitation, but I'm quite busy today. Perhaps I could see you tomorrow.
+L93456 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Well, that depends...
+L93455 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ For how long?
+L93454 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ My office.
+L93453 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Come where?
+L93452 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ We want you to come with us so we can talk some more about your experiences.
+L93450 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Adam, I'd like to introduce you to my associate -- Mr. Brown.
+L93449 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Fallout shelter. There's a difference.
+L93448 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Very well, thank you. I'm with the County Family Services Department. Eve tells me you've been living in a bomb shelter most of your life.
+L93447 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How do you do?
+L93446 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ I'm Nina Aron, Adam.
+L93342 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Eve? I'm leaving.
+L93341 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It certainly is.  I agree with you completely.
+L93340 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Maybe we shouldn't fight at all. Fighting is pretty immature.
+L93334 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Do ya?
+L93333 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Cliff, I must warn you. I know how to defend myself.
+L93330 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Shallow? I'm shallow?!
+L93329 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm sorry, and legs. Legs, butt and hair.  Well, isn't he?  And shallow, as well?
+L93328 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ What?!
+L93327 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Eve, I don't mean to be rude, and please excuse me Cliff, but Eve, isn't Cliff just a butt with hair?
+L93326 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Oh, brother...
+L93325 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Please excuse this interruption.
+L93320 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ How 'bout a drink at the bar?
+L93319 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thank you very much. But, Cliff, that's my seat. And I was just--
+L93318 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ But I do miss that green sport coat of yours.
+L93046 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ I do fine, Adam.  How 'bout yourself?  You doin' any good?
+L93045 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How do you do?
+L93595 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ My mother's like that.
+L93594 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ We can make this work, Adam! Believe me! I'm very good at making things work!
+L93593 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ See! I can't tell them that!  I can't ever let them know. It makes their life..well, frankly... a joke.  I can't let that happen.  You understand?
+L93592 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No.
+L93461 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Could I please just go home?  I was lost, but this morning I found home and I promise not to bother any of you ever again.
+L93460 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ ...I do.
+L93459 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ ...All right, Eve.  If you say so.
+L93458 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam....you should go with Dr. Aron. It's the best thing.  The best thing for you. I promise.
+L93445 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Hi, Adam.  This is, uh....
+L93444 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hi, Eve!
+L93427 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Neat. Goodnight!
+L93426 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ And I think better than the ocean. I'm serious!
+L93425 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Really?  Okay!
+L93424 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It was at least as good as the sky.
+L93423 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ My pleasure.
+L93422 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Not at all.  And Eve thank you for tonight...and for the kiss. My first.
+L93421 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ That's right.  And I'll see you in the morning in the lobby.  Do you mind waiting outside for the taxi?
+L93420 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Of course.  I shouldn't be over here at this hour.
+L93419 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I want you to go back to the hotel now.  I'll call you a cab.
+L93418 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, Eve?
+L93417 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Uh-huh. Adam?
+L93414 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No.
+L93413 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam...dumb question, but humor me. Have you ever had sex before?
+L93412 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ "All at once am I--several stories high-- knowing I'm--on the street-- where you live."  It's about a young man who is overjoyed just to be standing in front of the house of the person he loves.
+L93411 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Sing it to me.
+L93410 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ But it just wasn't where I wanted to be so I left as politely as I could and found a taxi.  But I asked the driver to drop me here instead of at the hotel.  There's a song Mister Como sings called "On the Street Where You Live."  You know it?
+L93409 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Is that what you call it?
+L93408 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I went to Sophie's and she was very hospitable.
+L93406 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thanks.
+L93405 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ There.
+L93403 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, you had better!!
+L93402 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I know first aid!
+L93401 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Look! I'm limping!  How attractive is that?!  What if this is for life?!
+L93400 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Eve, if you'll let me, I can --
+L93399 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Goodnight!
+L93398 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What?
+L93397 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, you should be!  Thanks to you, my heart is in my neck!
+L93396 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I know...and I'm really sorry.
+L93395 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What in the hell are you doing here!! You're supposed to be over on San Vicente Boulevard having unsafe sex with that slut Sophie!!
+L93394 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm really sorry!
+L93393 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Scare me, why don't you?!!?  You stupid son of a bitch!!!
+L93392 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Eve?!
+L93348 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ And tomorrow maybe Troy will help you out--because I quit!  This is ridiculous! You're ridiculous! I'm ridiculous!
+L93347 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ But, Eve, I would--
+L93346 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I'm leaving, too.
+L93344 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Eve, I'm sorry.
+L93343 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I don't blame you!
+L93339 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm sorry.
+L93338 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam?!
+L93314 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ All right. Let me tell you the whole thing. In 1962--
+L93313 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I want to know exactly who you are and what you're really up to!
+L93312 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No.  I admire you.  I...I fell in love with you the first time I saw you.  I did. I think that you are the most--
+L93311 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You think I'm some sort of sap?! Don't you?!
+L93310 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I've never lied to you.  I've maybe let you believe things that you wanted to believe, but I've never lied.
+L93309 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Don't change the subject! I want you to tell me the truth about yourself.
+L93308 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why are you suddenly so mad at me?
+L93307 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You're not from Alaska!  Where'd you learn to dance like that?!  And there are no starving people, are there?!
+L93306 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You wanted to see me!
+L93268 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Did you?
+L93267 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Romeo and Juliet. I cried at the end.
+L93266 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?
+L93263 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Say something surprising. And funny. Lie, if need be.
+L93262 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay. All right.  And what do I say?
+L93261 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah.  Could be.  Go say hello, Romeo. Looks like a healthy non-mutant to me.
+L93259 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Maybe. But that's how it works.
+L93258 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ That's ridiculous.
+L93257 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yes, really! Basically, they want what they think they can't have.  Same with guys.  That's why everybody is walking around here sending off "you can't have me" signals!
+L93256 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Really?
+L93253 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What do I say to Miss Sweet when I meet her?
+L93252 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah, sweet.  That's a nice way of putting it.
+L93251 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay. I like that.
+L93246 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How 'bout this one?
+L93245 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Because we're bitches!  Look at her! Look at the expression on her face! The walk, the jewelry, the fingernails.  Please!
+L93244 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, I have a dictionary. But I can't understand for the life of me why you would call her that!  Or why Cliff would say that about you.
+L93243 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam!  She's got bitch written all over her!  You do know what "bitch" means, don't you?
+L93242 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why?!  I think she's very attractive.
+L93241 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No way.
+L93240 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What about her?
+L93239 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's a Rob Roy. A very popular drink, I'm told.
+L93238 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What have you ordered?
+L93237 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ And don't be so obvious!
+L93236 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I like her.
+L93235 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Not that one!
+L93234 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I thought I was here to meet women.
+L93232 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Good-bye!
+L93231 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Quit showing off!  We're here on business!
+L93211 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yes!
+L93210 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Do I look crazy?
+L93209 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No!  Not crazy!
+L93205 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Look unimpressed.
+L93204 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ My goodness gracious!  This place is something!
+L93197 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well...yeah. Okay.
+L93196 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Would you do it just because you're my friend? My very best friend.
+L93195 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Hey, screw you! Okay? You think I'm just somebody you can buy off! Listen, let me tell you something--
+L93194 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Then just help me find a girlfriend! That's all I ask. I'll give you every single card I've got left!
+L93193 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yes it is. A girlfriend maybe. But a wife? I mean...
+L93192 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No it's not!
+L93191 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay. But you know, this business of finding you a wife -- it's kind of ridiculous, don't you think?
+L93190 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I certainly do!
+L93189 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah? No kidding. Listen, you still want to go girl hunting tonight?
+L93188 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yep.  You know, my father -- who is a scientist -- says that everything is a miracle. Everything. Until recently I wasn 't sure what he meant by that.
+L93187 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Have you ever heard the saying, "He hasn't got enough sense to come in out of the rain?"
+L93186 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hey, Eve!
+L93179 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay!
+L93178 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ He's going to kill himself.  Go skate out on the bike path! It's that way!
+L93166 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's fine. Just give it a try. And for gosh sake, Eve, take your foot off the chair!
+L93165 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What about holding your right arm up like that all the time?
+L93162 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Whatever you two want. If you've got the time, I've got the wazoo.
+L93161 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah.
+L93160 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ About clothing?
+L93151 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ That's boring!
+L93150 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The guy with the underpants!
+L93140 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Wazoo!  Try to listen.  Whataya think? Surfer, grunge, hip- hop, Euro trash?
+L93139 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The what?
+L93136 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ So, what are you seeing?
+L93135 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ All right.
+L93111 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Uh...yeah.
+L93110 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ May I please be excused?
+L93109 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No.  We keep it in the backyard.  Of course, in the house.  It's in there.
+L93108 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ In the house?
+L93107 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Sure.
+L93106 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ He has a computer?
+L93105 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ He's gone to check your answers on his computer.
+L93104 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Where's he gone?
+L93093 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Good for you.
+L93092 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah, right!  That's where you'd go to find girls!  Nome.  He's gay, by the way.
+L93085 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Wow.
+L93084 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You live in...Alaska.  The only way in or out of your place is by plane and... you've definitely come down here for food and supplies and... to find a wife!
+L93083 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes!
+L93082 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I'm seeing...snow... lots of snow. Way up North.  Are we getting hot?
+L93081 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Um-hum.
+L93080 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay, let's see...I'm not promising anything. You okay?
+L93065 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well, I know Mom sure likes 'em!
+L93064 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I thought only hookers drank those things.
+L93063 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thank-Q!
+L93062 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Here you go.  One champagne cocktail.
+L93052 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?!
+L93051 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Actually,no. I was wondering why Cliff likes to wear another man's underpants.
+L93050 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ He's a former boyfriend. We lived together for about six months.  And yes, I'll admit it.  I've still kind of got a thing for him.  That's what you wanted to know, isn't it?
+L93049 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why, thank you!  Very nice to have met you, Cliff!  May I ask you a question?
+L93036 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I like it.
+L93035 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yes!
+L93034 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Is this your house?
+L93033 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I was wrong!!
+L93032 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You said it would be easy!
+L93031 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Never drive again!
+L93030 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I told you I've never driven before!
+L93029 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You almost got us killed!
+L93028 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Sorry!
+L93027 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Stop that ma'am crap!
+L93026 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am!
+L93025 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Now, get out!!
+L93024 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The engine is still running.
+L93023 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Get out!
+L93022 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Thank you.
+L93021 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Of course.
+L93020 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Could we talk about that a little later?
+L93018 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ That's what I was afraid of.
+L93017 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, I could probably get you laid in two weeks, but to locate a non-mutant wife from Pasadena...that could take some time.
+L93016 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Two weeks.
+L93015 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ When do you need her by?
+L93014 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ And if possible, I'd like to marry someone from Pasadena.
+L93013 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No dogs, huh? Okay.
+L93012 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ One who's not a mutant.
+L93011 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I wouldn't know.  What kind of wife are you looking for?
+L93010 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It didn't used to be that way.
+L93009 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Everybody's divorced.
+L93008 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ They're all divorced?
+L93007 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Everybody knows that. Ask my divorced sisters. Or ask my divorced mom and dad.
+L93006 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I didn't know that.
+L93005 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Sure.
+L93004 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It does?
+L93003 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ The big one!
+L93002 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Bites what?
+L93001 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You can be single and not alone. Marriage bites!
+L93000 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I don't want to be alone.
+L92999 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why?!
+L92998 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Because I want to get married.
+L92997 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What for?
+L92996 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes.
+L92995 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ A wife?
+L92994 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well... Okay. I would like you to help me find a...wife.
+L92993 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Think of me as your genie.  Just ask.
+L92992 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ This is for me.
+L92991 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No, no!  I'm sorry!  What is it?
+L92990 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Then forget it.
+L92989 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh, I'm sure it will!
+L92988 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well, this is going to sound a little crazy.
+L92987 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Name it.
+L92986 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ There's something else I would like you to help me with.
+L92985 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Now, let's take the truck back and get something to eat.
+L92984 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay.
+L92983 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam?  Don't even think about it. Okay? I'm sorry.  I know that sounds mean, but believe me, it would be meaner if I didn't say it. Okay?
+L92982 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ And, um ...I guess... I guess you and I, uh...
+L92981 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Thank you.
+L92980 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You know, Eve -- don't get mad, okay? - -  but, I'd just be lost without you.
+L92979 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No problem.  We'll just sell another baseball card.
+L92978 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I guess we'll need another locker.
+L92977 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ It's your life.  And, by the way, it's a dandy.
+L92976 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ We'll have to rent a refrigerated truck for the beef and poultry.
+L92974 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Night!
+L92973 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hey, you know. I was thinking...
+L92972 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Pick you up at eight tomorrow morning.
+L92971 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Sorry.
+L92970 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, another day, another dollar.  Stop staring at me!!
+L92969 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?
+L92968 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Wait! Wait!
+L92966 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hey!  Pipe tobacco!  I'm going to need all of this! This is swell!
+L92965 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Very funny, smart ass.
+L92964 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ My Mom and Dad.
+L92963 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Who are these people?
+L92962 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ They like Dr. Pepper.
+L92961 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why not buy them milk or something-- instead of Dr. Pepper?
+L92955 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Sure.
+L92954 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You got it! Wait here while I change.
+L92953 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I've got to make at least a thousand a week.
+L92952 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What's fair?
+L92951 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What's the pay?
+L92950 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Two weeks.
+L92949 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ How long would you need me?
+L92948 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well, they're not starving yet, but they need help.
+L92947 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Food and supplies?  Who for?  Like starving people?
+L92946 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Selling all my baseball cards. And helping me buy enough food and supplies to fill several large trucks.
+L92945 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Doing what?
+L92944 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why not go to work for me?
+L92943 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ It never works out because I'm into legs and butts and hair myself! That's why! So I wind up with guys who are very good looking, but even more shallow than I am, if you can picture that. Now, if you'll excuse me, I have to go find another low-paying, demeaning job where some guy named Jerry keeps telling me how lousy his marriage is.
+L92942 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ ...Okay.
+L92941 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why?!  Who the hell knows?!
+L92940 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why does it never work out?  You and...men?
+L92939 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?
+L92938 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why doesn't it never work out?
+L92937 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ See, ya.
+L92936 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Cross my heart and hope to die.
+L92935 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Hey, no kidding?  In color?
+L92934 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Watching television in color.
+L92933 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ The eyes.  Okay. An eye-man.  Anyhow, it never works out.  Okay?  Not that you even need to know that!  You look like crap, by the way.  What have you been doing?
+L92932 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I think it's the eyes.
+L92931 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh, stop that!  God! Listen, I know you like me.  I can tell. But you know what? A lot of guys like me.  Not me, exactly. It's more like the legs or the butt or the hair.  Or some combination of the above.
+L92930 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thank-Q!
+L92929 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No.
+L92928 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Troy? Is he your husband? Or a boyfriend?
+L92926 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay!  Damn!
+L92925 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Can't you please just talk to me for one second?
+L92924 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I knew this would happen!  You're like a lost puppy!
+L92923 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Please don't follow me.  Don't do it!
+L92922 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Wait, Eve, please!  Wait.
+L92921 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh. Okay. Well, so long. Enjoy your visit.
+L92920 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I haven't brushed yet.
+L92919 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why are you doing that?
+L92918 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay.
+L92917 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Take it. damn it!
+L92916 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I can't, it's yours.
+L92915 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay, down boy.  I can't take this for driving you home. I wish I could, but I can't. So here, take it back. I could have just left it for you at the desk, but it's very valuable. Now take it.
+L92914 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I am so glad to see you!!  I thought I'd never see you again!
+L92880 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Right.
+L92879 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah, same here. Don't forget your suitcase.
+L92878 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ That was...wonderful!  I've never felt anything like that in my life.
+L92876 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I can't help it. Perry Como always does this to me! I just get so cranked!
+L92875 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Gee-zooie!!  You better slow down!!!
+L92874 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I know a short-cut.
+L92873 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hey, what are you doing?!
+L92872 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You are one scary son-of-a-gun.
+L92871 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yeah! Listen to this part. This is where it really takes off!
+L92870 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Over this?
+L92869 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, I could die...
+L92868 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ How's that?
+L92867 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay, okay!  Take it easy!
+L92866 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Perry Como!  You had him!  Go back! Go back!
+L92865 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Perry?
+L92864 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's Perry!
+L92863 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What is it?!
+L92862 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Wait!  Wait!
+L92861 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Mind if I change the station? Better traffic reports on AM.
+L92860 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's Webber.  Adam Webber.
+L92859 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ So...Mister Andretti, your first time on the freeway?
+L92858 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Okay.  What the hell?  You got a deal. Get in.
+L92857 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Heck, no!  What?!
+L92856 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I don't have to take a physical in your space ship?
+L92855 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes.
+L92854 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ And that's it?
+L92853 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes.
+L92852 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ So for four thousand dollars, all I have to do is drive you to your hotel?
+L92851 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ So what?!  I've got two of him!  And this many DiMaggios and Robinsons. I was holding these out, too.
+L92850 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Rogers Hornsby's worth like four thousand dollars!
+L92849 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ He's all yours. I was holding him back.
+L92848 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Rogers Hornsby?!?
+L92847 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Wait! Please wait!  I'll make a deal with you!  I'll give you a Rogers Hornsby, if you'll take me to the hotel!
+L92846 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Get away from me!!
+L92845 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm sorry!  I said something wrong, didn't I!  Please forgive me!
+L92844 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, that changes everything. Get the fuck away from me!!  I mean it!!
+L92843 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Nope.
+L92842 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You don't?
+L92841 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ If it will make you feel any better, I don't have a gun.
+L92840 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I'm not taking you there, Sweetie. Rule Number One in North America: No strangers in the car.
+L92839 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Do you own a car?
+L92838 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah. Thanks. Anyhow, let me predict a bus for you to get on.
+L92837 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It was amazing.
+L92836 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ See? I'm psychic. Not completely, but pretty much. That was pretty good, wasn't it?!
+L92835 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes! Yes! The Holiday Inn! That's exactly right!
+L92834 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Where are you staying? The Holiday Inn?
+L92833 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Again.
+L92832 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I knew it! So anyhow, you get on a bus and before you know it, you're out here in the San Fernando Valley without a clue.  Which brings us to here.  Correct again?
+L92831 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Right.
+L92830 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yes, I'm right?
+L92829 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ So far?
+L92828 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Let me guess something. This is your first visit to La La Land. You're staying somewhere over in Hollywood because, like an idiot, you thought that would be an exciting place to stay.  Right so far?
+L92827 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, that's nice.
+L92826 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, I guess because I'm a little psychic...I have this thing.
+L92825 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I don't know. Why doesn't it?
+L92824 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why doesn't that surprise me?
+L92823 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I came on a bus.
+L92822 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Here, pick these up!
+L92821 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I just had a mental picture of...
+L92820 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What's wrong with you?
+L92819 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ A walking penis capable of intelligent speech.  A dickhead.
+L92818 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Dickhead?
+L92817 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Forget it.  I'm sick of working for that dickhead.
+L92816 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Say,...did you just lose your job because of me?
+L92815 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You're lost?
+L92814 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No, I'm lost.
+L92813 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ We? I'm going home. And, judging by that coat, I'd say you have to get back to the barber college.
+L92812 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Where are we going?
+L92805 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.  But my name is Adam.
+L92804 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Come on, Heathcliff, I'll walk you to the corner.
+L92797 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No, you get out of here.
+L92796 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Get out of here!
+L92795 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, your business must not be sports memorabilia, because this one Mantle card right here--  --is worth six thousand dollars all by its little self.
+L92794 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No.  I'm from out of town.  I'm here on business.
+L92793 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Are you French?
+L92792 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Bon soir, mademoiselle!
+L92886 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Of course!
+L92885 +++$+++ u554 +++$+++ m35 +++$+++ CLERK +++$+++ Yes, sir.
+L92884 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ A card?
+L92883 +++$+++ u554 +++$+++ m35 +++$+++ CLERK +++$+++ Fill this out please. And I'll need a card.
+L92882 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Good evening. I want to stay at this hotel.
+L92767 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Nothing.
+L92766 +++$+++ u554 +++$+++ m35 +++$+++ CLERK +++$+++ What?
+L92765 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Is this because of the radiation?
+L92762 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Gee-ma-nee!
+L92761 +++$+++ u554 +++$+++ m35 +++$+++ CLERK +++$+++ Yes, it is.
+L92760 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Is that a birthday cake?!
+L93501 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Archbishop Melker. We met earlier.
+L93500 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I've got almost everything we need! And this nice man...
+L92723 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I promise.
+L92722 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ The front door is open.  Will you be back?
+L92721 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How do I leave here?
+L92720 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ No. I don't need money anymore -- I see that now.
+L92719 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ That's always a good idea! Would you like some money? I have a great deal of it.
+L92718 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Of course you do.  I'll stay here and pray.
+L92717 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I've got to go, now.
+L92716 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Yes.
+L92715 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I know it has been terrible.  But it wasn't your fault. And now all the decay is over with and things are going to get better. You understand?
+L92714 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Ooooohhhh!!  Of course! The father! Forgive me!!  Can you forgive me for my wasted life?!  Everything has been so awful!!
+L92713 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ All in yellow?  Oh!  That was my father!
+L92712 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Yes!  Yes!  Oh, Lord!  Yes, oh, yes! But  where is the one who came last night -- all in yellow?!
+L92711 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Are you all right?
+L93625 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Hah!!! Those cagey rascals! Those sly dissemblers! Those, uh...  They've finally pulled the wool over everybody's eyes!
+L93624 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Uh, I think they have.
+L93623 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ My gosh, those Commies are brilliant! You've got to hand it to 'em!  "No, we didn't drop any bombs!  Oh yes, our evil empire has collapsed!  Poor, poor us!"  I bet they've even asked the West for aid!  Right?!
+L93622 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Uh-huh.
+L93621 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes. That's kind of how it was.
+L93620 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ What? Did the politburo just one day say - "We give up?"
+L93619 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, sir. It's true.
+L93618 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ That's what everybody believes?
+L93617 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Positive. The Soviet Union collapsed without a shot being fired. The Cold War is over.
+L93616 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You're sure?
+L93615 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Dad, I don't know how to tell you this. And I was going to wait a while, but I think...Dad,there was no bomb. A plane crashed into our backyard. I looked it up in old newspapers.
+L93614 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Uh-huh.
+L93613 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's Ukrainian. Her grandparents immigrated here.
+L93612 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ This is great son, just great. By the way, Eve's last name. Rus-to-kov, that's not Russian, is it?
+L93568 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Well, in that case...of course, son.
+L93567 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ And, I'm asking you to trust me without understanding why.
+L93566 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ But, I don't understand.
+L92710 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'll try.
+L92709 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ One more thing. If you find a healthy young woman, bring her back with you.
+L92708 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I promise. Is that all?
+L92707 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Poison gas. Invisible. Don't forget.
+L92706 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Adult Bookstore.  Why?
+L92705 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Also...stay out of the "Adult Bookstore."
+L92704 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, sir.  Is that all?
+L92703 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ ...the pipe tobacco.
+L92702 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, father?! Yes?
+L92701 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Adam...don't forget...don't forget ...
+L92631 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Merci!
+L92630 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ C'est bon, Monsieur.
+L92625 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Shit is a French word?
+L92624 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Helen-Thomas-Webber!  Maybe we have been down here a little too long!  Please excuse her French.
+L92622 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No, son! We wait for night.  Now...is precisely when... we must be at our... most cautious.
+L92621 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well, do we just go on up?!
+L92591 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ These are really swell! I mean swell!
+L92590 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Your roller-skates! I redesigned them! I think this new design will work even better!
+L92589 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Holy Cow! What the heck are these?!
+L92586 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No kidding!
+L92585 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Your mom made that all by herself.
+L92584 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, boy! A jacket!
+L92582 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Blow out the candles!
+L92581 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thank you, Mom! Thanks, Dad!
+L92576 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Because he must!
+L92575 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Then why go there?
+L92574 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Because he's forced out at third! It's a force!
+L92573 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why?
+L92572 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No, no! The runner on second goes to third! He's out there!
+L92565 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No. Sit down.
+L92564 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The nocturnal flying mammal?
+L92563 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Uh, no. There's a man who throws the ball -- to a man who has a bat.
+L92562 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Like one of Mom's?
+L92561 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No, son. A pitcher.
+L92560 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Like a painting?
+L92559 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It's a game, son. I can explain it pretty easily. There's a pitcher.
+L92558 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What's baseball?
+L92557 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It's my entire baseball collection. It's yours now.
+L92556 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ These are wonderful.
+L92553 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You know, you have a wonderful sense of humor, son!  I must say, the acorn doesn't fall very far from the tree. By the way, it's time I gave you something. Come with me.
+L92552 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Haben sie etuas nettes in leder?!
+L92551 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Sorgen sie bitte dafur das die gepack sorgfaltic behandeldt warren!
+L92550 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Gerade aus dann links!
+L92549 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ En arte voluptus. Que les bons temps roul!
+L92548 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Tempus fugit!
+L92547 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You're right!  It's Tuesday already! By gosh, time flies, doesn't it?!
+L92546 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Latin exam, Dad.  It's Tuesday.
+L92545 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Sure. Now, let's move on to our French exam.
+L92544 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ They're pretty.  Can I have them?
+L92543 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ This is what money looks like.  It comes like this, in coin, or like this in paper.  Or you can have an "investment."  These are stock "certificates" that we bought in your name.  Of course, they're worthless now, but at one time they were quite valuable.
+L93488 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What?
+L93487 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ And thanks for always being happy!
+L93486 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Bye, Adam!
+L93485 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Bye, Troy!
+L93465 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Goodbye.
+L93464 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Good-bye, Adam.
+L93443 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah...Seems to.
+L93442 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Does that work?
+L93441 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I know what you mean!  I usually wear a big hat and dark glasses.
+L93440 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No, I wouldn't go in one of those places with a gas mask on.
+L93439 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ A magazine?  A toy perhaps?  In the bookstore.
+L93438 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ What?
+L93437 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ So, did you buy a movie?
+L93436 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You bet!
+L93435 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ How 'bout we check with Eve first?
+L93434 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay, Troy!  Let's get those all-beef frozen patties!
+L93431 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No!  There's an Adult Bookstore back there!  I'll be right back!
+L93430 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I'm sorry. I took the Lord's name in vain again, didn't I?  I'm so sorry.
+L93265 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Okay. Thank you, my friends.
+L93264 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yes! Lying is always a very effective dating tool.
+L93203 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Ladies first, Troy! That was close.
+L93202 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What?!
+L93201 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh. I see.
+L93200 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Miss Rustokov refuses to let total strangers drive her car.
+L93199 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Why did you park way back there?
+L93183 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I LOVE THIS!!
+L93182 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ That's why little things mean so much to him.
+L93171 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Amazing. I'm very impressed.
+L93170 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ The recovery? Oh , yeah! Hey, they rebuilt the freeway in six months.
+L93169 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The recovery is very impressive.
+L93168 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Almost all of them.
+L93167 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I guess a lot of those tall buildings we saw this morning are new.
+L93164 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No.
+L93163 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Isn't it a little tiring to sit up straight like that?
+L93156 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Okay.
+L93155 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I just don't want to.
+L93154 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Why not? He has great pants.
+L93153 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'm not wearing his pants.
+L93152 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Not on him.
+L93129 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ True.
+L93128 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ ...I guess it's...just a matter of personal taste.
+L93127 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Well, I think Windows stink. What do you think of that?
+L93126 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes. He likes windows.
+L93125 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ He's a Windows guy then, huh?
+L93124 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, yes.  It would probably kill him.
+L93123 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah?
+L93122 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ That would knock my father out.
+L93121 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Okay, maybe she is psychic.  Let's go eat!
+L93120 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Mt. McKinley.  It's also the highest point in North America.
+L93119 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ How do you get through those winters?  Well, you're right.  Juneau.  What's the highest peak?
+L93118 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No.
+L93117 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ You don't have a computer in your cabin?
+L93116 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I don't think so.
+L93115 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What are you talking about? This is the new Mac. You a hacker?
+L93114 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's so small.
+L93113 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah.
+L93112 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ This must be very new.
+L93103 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Sorry, that's the largest city.
+L93102 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Hello! It's Anchorage!  Gotcha!
+L93101 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Juneau.
+L93100 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What's the capitol?
+L93099 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ 1867.  Seward's Folly. We paid 7.2 million dollars for it. A tidy sum then, as well as now. I'm quoting my father, of course.
+L93098 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ When did we get it from them?
+L93097 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Russia.
+L93096 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Who use to own it?
+L93095 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ 1959.
+L93094 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Well, we try. Listen, let me just ask you a few questions.  When did Alaska become a state?
+L93091 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Why not just go to... Nome for supplies and a wife?  Isn't that closer?
+L93090 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I've got goose-bumps all over me.
+L93088 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ She's right?!
+L93087 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I've never met anyone like you in my life.
+L93086 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ That's right?
+L93077 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Well, Dionne Warwick, guess his home town.
+L93076 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Right on the button.
+L93072 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Really?  Since when?
+L93071 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Maybe Eve can guess.  She's psychic.
+L93070 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ And it's called...?
+L93069 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ It's a very small place. People don't even know it's there.
+L93061 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ You nut!
+L93060 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I love Lucy!
+L93059 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Well, I hope you like these! Fresh sea urchin wrapped in seaweed. Or "nori" if you prefer. I love sushi.
+L93058 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Not particularly.
+L93057 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I do? Well, thank you! You like ceilings?
+L93056 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ You have very nice ceilings.
+L92904 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ Goodnight.
+L92903 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes. Up here on the fifteenth floor. Goodnight.
+L92902 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ Up here on the fifteenth floor?
+L92901 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I guess living up here makes people look older.
+L92900 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ Twenty-five? Around there.
+L92899 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How old do I look?
+L92898 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ You don't look thirty-five.
+L92897 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Thirty-five.
+L92896 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ How old are you?
+L92895 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Good night!  Sleep tight.  Don't let the bedbugs bite!  That's what my Mom always says...  ...who I'm really beginning to miss. I'm sorry.  It's my first night away from home.
+L92894 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ No kiddin'. Well...good night.
+L92893 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ My father is a genius.
+L92892 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ Thank you. Your father is a smart guy.
+L92891 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I see.  Well, thank you very much. You've been very, very nice.
+L92890 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ The hotel.
+L92889 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Of what?
+L92888 +++$+++ u550 +++$+++ m35 +++$+++ BELLBOY +++$+++ You dial nine to get out.
+L92729 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Just look!!
+L92728 +++$+++ u552 +++$+++ m35 +++$+++ BYSTANDER #1 +++$+++ I don't see anything!
+L92727 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Up there!!
+L92726 +++$+++ u552 +++$+++ m35 +++$+++ BYSTANDER #1 +++$+++ The sky?  Where?
+L92725 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ The sky!!!
+L92724 +++$+++ u552 +++$+++ m35 +++$+++ BYSTANDER #1 +++$+++ What?  What is it?!
+L92777 +++$+++ u551 +++$+++ m35 +++$+++ BUTCHER +++$+++ Gladly.
+L92776 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Well, that's great then! Terrific...except...it just occurred to me. I don't know where I live! I'm lost! I don't know where home is!  Would you excuse me?
+L92775 +++$+++ u551 +++$+++ m35 +++$+++ BUTCHER +++$+++ Sure.
+L92774 +++$+++ u551 +++$+++ m35 +++$+++ BUTCHER +++$+++ You could have a meat order that big delivered to your home.
+L92773 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Then I'll need, twelve into nine hundred, seventy-five boxes. And that's almost...five hundred dollars just for the hamburger! And my Mom only gave me three thousand dollars for everything! The yacht batteries! The diesel oil! The birthday candles!
+L92772 +++$+++ u551 +++$+++ m35 +++$+++ BUTCHER +++$+++ Frozen, they're six-thirty a dozen in the three pound box.
+L92771 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Come on. Frozen. How much are they?
+L92769 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, please.  I'm looking for all beef patties.
+L92768 +++$+++ u551 +++$+++ m35 +++$+++ BUTCHER +++$+++ Help you?
+L92742 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Good!
+L92741 +++$+++ u563 +++$+++ m35 +++$+++ POSTAL WORKER +++$+++ I do alright.
+L92740 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ How do you do, ma'am.
+L92739 +++$+++ u563 +++$+++ m35 +++$+++ POSTAL WORKER +++$+++ Say what?!
+L92738 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, my holy stars! A Negro!
+L92737 +++$+++ u563 +++$+++ m35 +++$+++ POSTAL WORKER +++$+++ Whatcha looking at?
+L92809 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ Hey, smart ass, how 'bout I kick your butt?
+L92808 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I didn't want to leave without saying how much I admire your jewelry.
+L92802 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ Oh, you got a problem with that?
+L92801 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Sir? I would really appreciate it if you wouldn't take the Lord's name in vain again.
+L92789 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ Well, we're here to help!
+L92788 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Oh, that would be wonderful!
+L92787 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ I see what ya mean. Tell you what...I'll give you five hundred dollars in small bills for the whole box.
+L92786 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ See, my problem is, all I have are hundred dollar bills and I need something smaller.  Ones, fives, tens. Like that.
+L92785 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ Really? No kidding?
+L92784 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I was thinking of selling all the cards.
+L92783 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ How--how much do you want for the Mickey Mantle, rookie season?
+L92781 +++$+++ u558 +++$+++ m35 +++$+++ JERRY +++$+++ Hi.
+L92780 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Hello.
+L93607 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes.
+L93606 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No.
+L93605 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Eve and I...eloped.  We're married.
+L93604 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Well, where are you --
+L93603 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ No, Mom, I've turned it into Dad's office.
+L93602 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ This is your bedroom?
+L93572 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No, wait! At least stay for dinner!
+L93571 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ We have to go.
+L93565 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I can't explain it now.  But I want you to set the locks for two months. You have more than enough of everything.  Then we'll be back to get you.
+L93564 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ What?
+L93563 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Mom?  Eve and I have to go.
+L93505 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ A psychiatrist?!
+L93504 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I think I'm being chased by a psychiatrist.
+L93503 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Are you in trouble, son?!
+L93502 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ ...and his church group have volunteered to help us bring the supplies down.  But we've got to hurry.
+L92700 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Heck, I know that mom! You're my parents.
+L92699 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Your father has a few final words for you. You know, he'd fight a buzz saw for you - he loves you so much. We both do.
+L92698 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.
+L92697 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Here's the shopping list and $3,000 which should take care of everything.
+L92695 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.
+L92694 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, Adam,that would be wonderful if you could find a girl. One who's not a mutant...and hopefully comes from Pasadena. Nothing against Valley girls, but in my day anyhow, the girls from Pasadena, I don't know...always just seemed a little nicer.
+L92693 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I was thinking that, uh...you know, while I was up there and all...that maybe I could, you know...try to meet a girl.  I've, been thinking about that a little...just these last...fifteen years or so.
+L92692 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes?
+L92691 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Mom?
+L92690 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I just hope this is still good up there.
+L92689 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Right.
+L92687 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.
+L92686 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I don't know how far you'll have to travel to find supplies, but if you can't get home by nightfall, I want you to look for something called a Holiday Inn. Write that down. It's a hotel. There might still be one standing.
+L92683 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ You're my brave boy.
+L92682 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'll be all right.
+L92681 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I'm afraid you've got to.
+L92680 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ I'll go up.
+L92679 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ He seems to be doing all right now.  I don't know if he's had a heart attack or just... a horrifying experience. But we  need supplies and I've got to stay with him.
+L92678 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, no! Oh, my goodness!   Let's get him into the bedroom.
+L92677 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Dad!
+L92607 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ You never know. You may someday dine at the White House with the president.
+L92606 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Sorry, Mom!
+L92605 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Elbows, Son.
+L92598 +++$+++ u547 +++$+++ m35 +++$+++ ADAM +++$+++ Yes, ma'am.
+L92597 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh. A nice one, I hope.
+L93480 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Let's all remain calm. That's the key thing.
+L93479 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I was frightened and I didn't know what to think! But you know-I believe him. I think he just wants to go home. Wherever the hell that is...
+L93478 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ And now you must let me be the judge of that!
+L93477 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You know, I don't think so. I'm confused but you know, I don't think he'd ever hurt me. I don't think he'd hurt anyone.
+L93476 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ Calm down, please. This man needs help and you need protection from him. That's obvious.
+L93475 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No, I can't have that! They'll come with their cars and their guns and their handcuffs--
+L93474 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ I have to. If a complaint is made and the person resists obser--
+L93473 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No!  Not the police!  Don't call them!
+L93472 +++$+++ u548 +++$+++ m35 +++$+++ ARON +++$+++ He'll catch him.  Hi. This is Nina Aron.  I've got a run away and I'm going to need police assistance.
+L93471 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh, my God!
+L92459 +++$+++ u549 +++$+++ m35 +++$+++ ATKINSON +++$+++ Yeah.
+L92458 +++$+++ u559 +++$+++ m35 +++$+++ LEVY +++$+++ Good god.
+L92457 +++$+++ u549 +++$+++ m35 +++$+++ ATKINSON +++$+++ Yeah.
+L92456 +++$+++ u559 +++$+++ m35 +++$+++ LEVY +++$+++ He drank it hot?
+L92455 +++$+++ u549 +++$+++ m35 +++$+++ ATKINSON +++$+++ The neighbors over there said the guy spent day and night out here. She'd bring him sandwiches and hot Dr. Pepper.
+L92454 +++$+++ u559 +++$+++ m35 +++$+++ LEVY +++$+++ All back East.
+L92453 +++$+++ u549 +++$+++ m35 +++$+++ ATKINSON +++$+++ What about relatives?
+L92452 +++$+++ u559 +++$+++ m35 +++$+++ LEVY +++$+++ Unless we get a postcard or somethin', that's my guess.
+L92451 +++$+++ u549 +++$+++ m35 +++$+++ ATKINSON +++$+++ Well, he and Mrs. Nutcase must have been out here when the plane hit.
+L92450 +++$+++ u559 +++$+++ m35 +++$+++ LEVY +++$+++ According to Caltech, this Webber guy was a bonafide genius and a borderline nutcase.
+L92652 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No, I can't.  I'm sorry!  I have to go!  I have to...
+L92651 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ Uh-huh. And it's all yours for the remarkably low price of only $200! And if you act now, I might even throw in some free lawn furniture.
+L92650 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Really?
+L92649 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ Cute Little Old Man, if you want a boy, I can be a boy.  And if you want a girl, I can be a girl.  I can be anything you want me to be!
+L92648 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes, I can tell that just looking around.  "Boy?"  Did you say you were a "country boy?"
+L92647 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ "Hell up here?"  Honey, it's been hell up here, down there and over yonder! Hell everywhere.
+L92646 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes, yes, the song.  So tell me...has it been...hell up here?
+L92645 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ The blast?  Honey, I have survived a host of things. Like the song says: "A country boy can survive!"
+L92644 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ So...you...survived the blast, did you?
+L92643 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ Good.
+L92642 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ What?!  A light!  Yes, I've got a light!
+L92641 +++$+++ u565 +++$+++ m35 +++$+++ STREET WALKER +++$+++ You got a light, honey?
+L93562 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ What can I offer you, Eve?
+L93561 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Some time.
+L93560 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Well, please excuse us!  We...we haven't entertained a guest in...um...
+L93554 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ To keep what's up there from getting down here! It's not the radiation I'm worried about.
+L93553 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Well, that's...considerably shorter than before.  I was wondering, Calvin, why set the locks at all.  I mean the radiation is gone and...
+L93552 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I thought ten years.
+L93551 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ How long will you set it for this time?
+L92906 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Amen.
+L92905 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ And Lord we ask finally that you send an angel to look after and protect our beloved son, Adam.  Amen.
+L92750 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes, dear, I know.
+L92749 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ He's smart.
+L92676 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ --do as I say!
+L92675 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ And the ocean!  A mountain range!
+L92674 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ --and we will--
+L92673 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I want him to at least see the sky!
+L92672 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Well, I am the head of this household--
+L92671 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No, Calvin.  We're not going to make do.  Not me!  Not Adam.  We're going up no matter what!  We deserve it. Even if it's terrible!
+L92670 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ We'll make do.  I'm of the opinion that these mutants will eventually kill each other off and then--
+L92669 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ For how long?  We've just about run out of everything!
+L92668 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Excuse me.
+L92667 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes.
+L92666 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ We do?
+L92665 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ We stay down here.
+L92664 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh my. Oh,my, oh my, oh, my. So, what do we do now?
+L92663 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ They've done a lot of re-building but society, at least as we knew it, has utterly collapsed. People throw up in the streets. Others point guns. There's something terribly wrong with the automobiles and...and I...I can't tell you the rest.  I just can't.
+L92661 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I don't believe it!
+L92660 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes.
+L92659 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No.
+L92658 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Others are...multi-sexual.  It seems...they can be both masculine and feminine...simultaneously.
+L92657 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It's not a pretty sight. Some eat out of garbage cans.  Others are...cover your ears, Son, and hum.  I mean that literally and I mean right now!
+L92656 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Mutants?!
+L92655 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I'm going to give it to you straight. There's no point in beating around the bush. There were survivors. Apparently, the fallout has created....a subspecies of mutants.
+L92628 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes! That's right!
+L92627 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It's an archaic colloquialism, roughly meaning..."good".
+L92626 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes, yes it is!
+L92620 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Just open the door.
+L92619 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Should we say a little prayer first?
+L92615 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I know exactly what you mean!  Hey, honey?
+L92614 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, yes.  It just fascinates me how all    these things work.
+L92613 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ In the generator room again?
+L92612 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Sure.
+L92611 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Would you excuse me?
+L92610 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You know, when we do go up...I'm going to miss this old place. How 'bout you, hon?
+L92609 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes...
+L92608 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ If we still have one.
+L92604 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yeah. Let's dig in!
+L92603 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Let's eat our cake.
+L92601 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Well, we'll be going up in two years. We'll know then. I'm very hopeful.
+L92600 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Calvin Webber! What a thing to say!
+L92599 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ One who doesn't glow in the dark.
+L92595 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Well, we did in my family!
+L92594 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, that's just a bunch of baloney! We never believed that in my family!
+L92593 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ If he tells, it won't come true!
+L92592 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ What did you wish for, Adam?
+L92588 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ And I made these!
+L92587 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No kidding.  Who else would have done it?
+L92580 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You bet.
+L92579 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Get the presents and do the lights.
+L92578 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Coming!
+L92577 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Calvin!
+L92555 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Hi.
+L92554 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Hi, honey!
+L92532 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I believe there will be other survivors. In fact, I'm guessing there's life on the surface, even now. It's not life worth living perhaps, but believe me, something's moving around up there. And I don't just mean the cockroaches.
+L92531 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, Calvin, I'm not sure we should be making promises that perhaps can't be kept.
+L92530 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes, you certainly will. And you'll find a nice girl and rebuild America. Just the way it used to be.
+L92528 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Nonsense. People have no idea what the human mind is capable of. Look at us!
+L92527 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes, he's very bright, dear. Much like his father. But you know, Calvin, maybe he's a little...young for school.
+L92526 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Not bad for a three and a half year old! I'd like to see the public school system match that! I don't care how terrific it is!
+L92509 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ What?
+L92508 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Watch this!
+L92507 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes.  Well... yes.
+L92506 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Very nice. Unless it caved in, too.
+L92505 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No reason.  Well, it's pretty clear that the front entrance caved in when the bomb went off. So, you know, when the time is up, we'll have to return to the surface using, you know, this back entrance.  Which is very nice because it has the service elevator!
+L92504 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Why?
+L92503 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Oh, I was just examining this rear hatchway.
+L92502 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ We looked all over for you. What are you doing back here?
+L92501 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Right here!
+L92500 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Calvin?!
+L92489 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ What? Whatever you want, Helen!
+L92488 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ If I...you know...
+L92487 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes!
+L92486 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ And I was wondering...if...if I could have a...
+L92485 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No.  I think it's just right.
+L92484 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ What shall we call him?
+L92483 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I've noticed.
+L92482 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No, Calvin.  Babies cry.
+L92481 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Is there a problem?
+L92479 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Honey?
+L92478 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Uh, oh. Now it's time.
+L92477 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ What?
+L92476 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, no.
+L92475 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I told you! I've got everything!
+L92474 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ You have tranquilizers?
+L92473 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Would you like a tranquilizer?
+L92472 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No. No! Calvin, this is different! Believe me!
+L92471 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ How could you?! This is just like home!
+L92470 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Maybe I've just got the creeps.
+L92468 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Really?
+L92467 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No, Calvin, you're favorite.
+L92466 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Hot Dr. Pepper! Your favorite!
+L92465 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I'm not hungry.
+L92464 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Burnt to a crisp.  I've given you the most well-done cut.
+L92463 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ All our friends...
+L92462 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ We have to be strong, sweetheart. If not for ourselves, for the child.
+L92461 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ No.
+L92460 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Hi, honey! Feeling better?
+L92448 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ To go up.
+L92447 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ To go up.
+L92446 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ It's safe.
+L92445 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Then after that it's safe.
+L92444 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Thirty -five years!
+L92443 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ To keep us from trying to leave. After an atomic blast there's a radiation half-life that lasts thirty five years.
+L92442 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ The locks?
+L92441 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ The locks.
+L92440 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ What's that noise?
+L92434 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ To you maybe.
+L92433 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Home sweet home!
+L92432 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ As long as we've got that straight.
+L92431 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yes, dear!
+L92430 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Now you listen to me Calvin Webber, when this baby comes, you're going to be out in the waiting room smoking yourself to death with all the other fathers.
+L92429 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I've read up on it. I'll deliver the baby myself if I have to.
+L92428 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ But, what if I go into labor? That could happen any time.
+L92427 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Rather safe than sorry. That's my motto!
+L92426 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Days??
+L92425 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I don't know. For this thing to blow over, it could take days.
+L92424 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ How long will we have to stay down here?
+L92419 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Yeah, yeah. Okay.  Give me the roast and watch your step.  I'll come back for the radio.
+L92418 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Oh, much worse. But not as bad as that Mexican Jumping Bean dip. You remember that?
+L92417 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Worse than your Kraft Holiday dip?
+L92416 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Cheese is particularly troublesome.
+L92415 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I just hope those plates aren't radioactive by tomorrow morning.
+L92414 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Calvin, I wish you would have at least let me do the dishes. It's not going to be that easy getting all that dried- on food off my nice plates.
+L92412 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Yes.
+L92411 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You hear that?!
+L92408 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ I never know anymore.
+L92407 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ No.  They all do.
+L92406 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Did you rig it to do that? You're so clever.
+L92405 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It shuts off automatically.
+L92401 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Time? Oh, no Calvin. It's not time yet. I still have--
+L92400 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ It's time.
+L92398 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ We'll do this again! Maybe next week. Here's your hat. Could I wrap something up for you? Did you have a coat?
+L92397 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ I'm sorry everyone, but given this extraordinary turn of events, I think it's prudent that we cut the evening short. I'm sure this Cuban thing will resolve itself, but in the meantime...I'd suggest taking a prayerful watch-and-wait stance!
+L92357 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ You bet, hon!
+L92356 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ Well, put it down and come in!
+L92355 +++$+++ u553 +++$+++ m35 +++$+++ CALVIN +++$+++ Sorry, honey!  I just got to fooling with this darn rheostat.
+L92354 +++$+++ u557 +++$+++ m35 +++$+++ HELEN +++$+++ For Pete's sake, Calvin!  We've got guests!
+L93336 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ I guess we shouldn't fight in here.
+L93335 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Stop it, you two!
+L93332 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Yeah. Before I kick your ass.
+L93331 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Go home, Adam.  Go to your hotel.
+L93324 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ You know, I don't know.  And looking at you, I don't care.  It's been too long, Eve.
+L93323 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ So where is your roommate, the model?
+L93048 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Shana Gillroy's apartment.  Remember her?  The model who went to Harvard? Well, I better get going!  Bye, Adam. Nice coat!
+L93047 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Go home, Cliff, wherever that might be.
+L93044 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ This is Adam.  Adam, meet Cliff.
+L93043 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ Hey, they're Ralph Laurens.  And who's this interesting looking fellow?
+L93042 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You came back for these?
+L93041 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Your stuff?  Let me see that.
+L93040 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ I forgot some of my stuff.
+L93039 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What are you doing here?
+L93038 +++$+++ u555 +++$+++ m35 +++$+++ CLIFF +++$+++ What are you bitching about now?
+L93549 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Stop!
+L93548 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Where?!
+L93547 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Adam!!
+L93544 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah.  Maybe he'll call.
+L93543 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, we've come a long way, haven't we?  I want to go home.
+L93542 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ None of this stuff was here in 1962. The Valley was mostly small homes and fruit orchards.
+L93541 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Why would you put a fallout shelter under a porno shop?
+L93535 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Come on.
+L93534 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ An adult bookstore. He was very excited about seeing it. You think home is under a dirty bookstore in the Valley?
+L93533 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?!
+L93532 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ No. No, wait a minute. We stopped at a porno store.
+L93531 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You didn't stop anywhere else?!
+L93530 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ We came back to the house!
+L93529 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Then what?
+L93528 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ To get some frozen poultry.
+L93527 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, at least I fell for him before I found out he was rich! That's new.  Wait a minute! He said today he knew where home was. What happened this morning?! Where did you go?!
+L93526 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I don't know. I like to think so.
+L93525 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ He was always so "nice"! How was I supposed to know that's a good thing?! "Nice" is weird! Nice is...what is "nice"? It's not cool! I'll tell you that.  Was it ever?
+L93524 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah! That's thinking.
+L93523 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Have him committed.
+L93522 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Millions upon millions upon millions! The cards. The stock!  The clothes! The toothpaste!  The guy was on the level!  And you blew it!  A man walks into your life who is the kindest, most polite, honest, trustworthy, incredibly rich guy you have ever met in your life!! And what do you do?!
+L93519 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ See these?  Found them in the box with the cards.  These are stock certificates.  IBM.  AT&T.  Polaroid.
+L93518 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I don't know.  Everything's so neat. It's all just so...goddamn dear.  Damn!
+L93517 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What's wrong?
+L93515 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ We'll find him.
+L93514 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ And if we can't find him?
+L93513 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Give it back to him.
+L93512 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What do you want to do with it?
+L93498 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Fallout shelter.
+L93497 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Good God...you don't think there really is a bomb shelter, do you?
+L93490 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Oh.  Well, you're...certainly welcome!
+L93489 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Gay.
+L93470 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What?!
+L93469 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh, no!
+L93468 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I know...I know. You did the right thing.
+L93467 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well what was I supposed to do?! He wants me to live underground with him! That's like Silence of the Lambs, don't you think?!
+L93388 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Coward!
+L93387 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I don't think so.
+L93386 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ You're goddamn right I am!
+L93385 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What are you going to do? Go over to her place and kick in the door?
+L93384 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Oh, no! Not Sophie! No way! Please don't tell me that!!
+L93383 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ It's true.  She swept him out the door whispering little French things into his ear.
+L93382 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?!!
+L93381 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ He left with Sophie.
+L93380 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well...I admit it. I'm glad to hear that.
+L93379 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ He didn't leave with them.
+L93378 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ So now I suppose he's trying to make those two dancers feel as comfortable as possible.
+L93377 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ From the oddest place. His parent's told him. I don't think I got that memo.
+L93376 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Where did he get all that information?
+L93375 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Exactly! I thought a gentleman was somebody who owned horses. Turns out, the short and very simple definition of a gentleman or a lady is: someone who always attempts to make the people around him or her feel as comfortable as possible. That's it! If you don't do that, nothing else matters. The cars, the clothes, the houses...
+L93374 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, consider the source. I don't even know what a lady is.
+L93373 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ He thinks that I am a gentleman and that you are a lady!
+L93372 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?
+L93371 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ You know, I asked him about that. And he said that good manners are a way we have of showing other people that we respect them. See, you'd eat like a slob if you were alone, but since another human being is present, you show that person respect by going to the trouble of having proper manners. I didn't know that. I thought it was a way of appearing superior.  Know what else he told me?
+L93370 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Or have perfect table manners.
+L93369 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yes, you do!
+L93368 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Or pee in their pants when they see the ocean!
+L93367 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Uh, yes, you do.
+L93366 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ And I don't fall in love with grown men who collect baseball cards!!
+L93365 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yes, you do.
+L93364 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ In the first place, I don't fall in love with weirdos I've only known for four or five days.
+L93363 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What?!  Now hold on!  Wait one damn minute!
+L93362 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah.  I'm not the one who's in love with the guy.
+L93361 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ To bed?
+L93360 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ To bed.
+L93359 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Where are you going?
+L93358 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Yeah. But who's not a slut these days?
+L93357 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Those sluts!
+L93356 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Hey, you're the psychic. Eve, the psychic pimp.  You tell me.
+L93355 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I'm his pimp. He left with the dancers, didn't he?
+L93354 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What's it to you?!
+L93353 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Who did he leave with?
+L93352 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ We did not leave together.
+L93351 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What's that mean?
+L93350 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Uh..he might of.
+L93349 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ He go back to the hotel?
+L93305 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Right here?  Well, you're being so bossy I wasn't sure!
+L93304 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Go to the bathroom.
+L93255 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ It's not so much what you say but how you say it.  Women like men who are unpredictable.
+L93254 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Um... Eve?
+L93250 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Adam,  I think for you, we should go for "sweet."
+L93249 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, I'm trying to educate him!  It's nothing personal.
+L93248 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Eve?!
+L93247 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Are you kidding?!  You wouldn't even be a crumb on her table!  You don't see that?!
+L93215 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ For him. It doesn't work for the rest of us.
+L93214 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Always good advice.
+L93213 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Just be yourself.
+L93181 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ He's from Alaska.
+L93180 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ That water's freezing!
+L93177 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ No.
+L93176 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ How 'bout it, Eve? Can he skate around your block?
+L93174 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Let me show you the entire trousseau!
+L93173 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I think...it...works.
+L93172 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Well, what do you think?
+L93159 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ What do you think, Adam?
+L93158 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I'm busy tomorrow anyway. I have to buy six thousand paper napkins.
+L93157 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Alright, I will.
+L93149 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ That's what I'm sensing.
+L93148 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Yeah? Like Ralph Lauren?
+L93147 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I see "elegant."
+L93146 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ And I suppose you see him in some sort of strapless  thing, don't you?
+L93145 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I'm sorry. But if the shoe fits.
+L93144 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Well, that's blunt!
+L93143 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ It means that your taste in men's apparel is as bad as your taste in men.
+L93142 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ What's that supposed to mean?
+L93141 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ You're serious, aren't you?
+L93138 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Money is no object.  He's got cards up the wazoo.
+L93137 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ I don't know.
+L93134 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Exactly.  You understand that, don't you?  You have no chance of meeting a woman dressed like that.
+L93133 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ But first, you have to start with the clothes!
+L93079 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Oh, my God...
+L93078 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Give me your hand.
+L93075 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I even guessed his hotel, didn't I?
+L93074 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Oh, yes.
+L93073 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Since that guy rear-ended me in Palm Springs.
+L93068 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ Out-of-town.  That's all he'll say.
+L93067 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ So, Adam...where on earth are you from?
+L93055 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Darlin', this is X-File stuff!  Think about it!  The guy's got all this easily negotiable property. He's obviously setting something up very big.  Like a self-sustaining island off the coast of South America, for instance. Or perhaps he's the head of a cult that's doing weird things with poultry and pipe tobacco. I've heard worse.
+L93054 +++$+++ u556 +++$+++ m35 +++$+++ EVE +++$+++ I knew you'd like him.
+L93053 +++$+++ u567 +++$+++ m35 +++$+++ TROY +++$+++ Eve!  This guy is un-be-liev-able!
+L92570 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ I'll give it to ya, no money down. The neighborhood has gone to hell anyway.
+L92569 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Yeah!  Yeah, that's it!
+L92568 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ Buy it from me?
+L92567 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Could I, like...oh, wow...like,uh...
+L92566 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ I'm selling this place.  I want out of this hell hole!
+L92540 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Um...uh...
+L92539 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ I miss those nice flower-power kids. How 'bout you?
+L92537 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ Uh...yeah. It's like hard.
+L92536 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ I can't tell the boys from the girls anymore!
+L92534 +++$+++ u564 +++$+++ m35 +++$+++ SODA JERK +++$+++ You bet, Mom! Coming up!
+L92533 +++$+++ u561 +++$+++ m35 +++$+++ MOM +++$+++ I'm going to need two more banana- splits and a cherry coke!
+L92423 +++$+++ u566 +++$+++ m35 +++$+++ TOWER +++$+++ Roger, Wolf One.
+L92422 +++$+++ u562 +++$+++ m35 +++$+++ PILOT +++$+++ I'm marking the 180 radial for five and ejecting.
+L92421 +++$+++ u566 +++$+++ m35 +++$+++ TOWER +++$+++ The SAR HELO is airborne with you in sight.
+L92420 +++$+++ u562 +++$+++ m35 +++$+++ PILOT +++$+++ Tower, say again!!
+L92395 +++$+++ u566 +++$+++ m35 +++$+++ TOWER +++$+++ Roger, Wolf One. Can you make it to the ocean?
+L92394 +++$+++ u562 +++$+++ m35 +++$+++ PILOT +++$+++ I've got secondaries of an engine fire and I'll need to find a clear area to eject.
+L92393 +++$+++ u566 +++$+++ m35 +++$+++ TOWER +++$+++ Wolf One -- say intentions.
+L92363 +++$+++ u562 +++$+++ m35 +++$+++ PILOT +++$+++ Stand by. One.
+L92362 +++$+++ u566 +++$+++ m35 +++$+++ TOWER +++$+++ Say your problem, Wolf One. Are you declaring an emergency?
+L92361 +++$+++ u562 +++$+++ m35 +++$+++ PILOT +++$+++ Tower. Wolf One. I've got a problem here.

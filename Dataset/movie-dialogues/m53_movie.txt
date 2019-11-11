@@ -1,0 +1,463 @@
+L180382 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ If only I could find her. If only she could see me now, here, with such lovely kind friends. You, Mrs. Treves, and you, Mr. Treves. Then maybe she would love me as I am. I've tried to hard to be good.
+L180381 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh no, Mr. Merrick. No. No son as loving as you are could ever be a disappointment.
+L180380 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ She has the face of an angel... She was an angel. She was so kind... so kind to me. It's not her fault, for in the fourth month of her maternal condition she was knocked down by an elephant. I'm sure I must have been a great disappointment to her.
+L180379 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh... why Mr. Merrick she's beautiful.
+L180375 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, yes.
+L180374 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ I've always thought that myself.
+L180373 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ They have noble faces.
+L180370 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ How lovely.
+L180369 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ And here is one of Frederick's mother.
+L180352 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh?
+L180351 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh yes. You have so many nice things, and so much room.
+L180348 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Two, please.
+L180347 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ One or two?
+L180346 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes please, two.
+L180345 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Mr. Merrick, sugar?
+L180508 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh Frederick.
+L180507 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ ...Am I a good man or am I a bad man?
+L180506 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Frederick, just what is it that you are saying?
+L180505 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ But why did I do it? What was this all for? So John Merrick could live out his last days in peace and comfort? Or so I could become famous?
+L180504 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh that's absurd, Frederick. No, no Frederick, that's all wrong! John is happier and more fulfilled now than he has ever been in his entire life. And, that is completely due to you.
+L180503 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ That I am very little different from him.
+L180502 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Oh, Freddie. What could that wretched vampire say to upset you?
+L180501 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh... I've just been thinking about something that man Bytes said.
+L180500 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ ...Freddie! What's the matter? You've been like this all evening.
+L180499 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Hmmm?
+L180498 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ More romances for John?
+L180497 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Dinner will be served, shortly, dear.
+L180496 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You stay with me.
+L180372 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ And here are my mother and father.
+L180371 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes.
+L180350 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Do you?
+L180349 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John loves the house.
+L180168 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I've only got until two o'clock tomorrow afternoon, when Carr Gomm meets him. Somehow, between now and then I've got to make John Merrick at least seem like an intelligent man... Why am I fooling myself? Nothing short of John delivering the Sermon on the Mount is going to sway Carr Gomm...
+L180167 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Well, these things take time.
+L180166 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'm sorry... I don't know either. I just don't know.
+L180165 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ I'm sure I don't know, Freddie.
+L180164 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ And what qualities are those? Intelligence or stupidity?
+L180163 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Perhaps you're just polishing a stone, endowing this Elephant Man with qualities he doesn't possess?
+L180162 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I don't know. I can't explain it. If this is an intelligent man, trapped in the body of a monster, then I'm under a moral obligation to help free that mind, free that spirit as best I can, to help him live as full and content a life as possible. But! If he's an imbecile, who's body I can't treat and who's mind I can't touch, well, then my obligation is discharged. They can put him where they will; he won't be bothered, I won't be bothered, and everyone's conscience can remain free and untroubled. And that is my dilemma... what is in his mind?
+L180161 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Frederick, why are you so interested in this particular case?
+L180160 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He is. I mean, I've always thought he was. I think he must be. Is he simple? Or is that just something I've wished upon him to make things simpler for myself?
+L180159 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ But I thought you said that he was rather... simple?
+L180158 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Well, I wasn't sure whether he was parroting me because that's all he was capable of, or whether he sensed that that's all I wanted to hear, and he was trying to please me.
+L180157 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ What do you mean?
+L180156 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I shouldn't be. We made great progress today. I taught him to repeat a few basic phrases. He did rather well, too, but I had to lead him every step of the way. Though frankly, at times I was unsure of who was leading whom.
+L180155 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Freddie?... Freddie, don't look so discouraged.
+L179960 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, I think a whiskey.
+L179959 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Yes, and they send their kisses. Would you like your sherry now?
+L179958 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, very well, I think. Are the girls in bed?
+L179957 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ Did it go well, darling?
+L179847 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'll join you shortly.
+L179846 +++$+++ u824 +++$+++ m53 +++$+++ ANNE +++$+++ You won't be long?
+L179972 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'll get my bag.
+L179971 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ Like this. 
+L179970 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ What is it?
+L179969 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ Our man is sick. Come right away.
+L179889 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Did you see it?
+L179888 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ I found it.
+L179887 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes?
+L179886 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ Excuse me, Mr. Treves, sir.
+L180635 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ Shut up!
+L180634 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ Don't!
+L180633 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ I'll show you! I'll show you!
+L180632 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ What are you going to do?
+L180631 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ If he does it's his own fault! But I'm not burying that swollen bag of flesh.
+L180630 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ He's sick, Bytes. He's going to die.
+L180629 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ He's doing it to spite me, I tell you, and it's got to stop!
+L180628 +++$+++ u825 +++$+++ m53 +++$+++ BOY +++$+++ Aw, Bytes, he's sick.
+L180627 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ You sly bastard. You're doing this to spite me, aren't you!
+L180145 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ Right... Right.
+L180144 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Now I think we really do understand one another.
+L180141 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ I've got my rights, damn you, and I'm going to the authorities!
+L180140 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ So you can beat him? So you can starve him? A dog in the street would fare better with you!
+L180139 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ I want him back!
+L180138 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You don't own this man!
+L180137 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ You think you're better 'n me? YOU wanted the freak to show all your doctor chums and make a name for yourself, you guv. So I gave him to you. On trust, in the name of science! And now I want him back.
+L180136 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ All you do is profit from another man's misery!
+L180135 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ He's a freak! That's how they live. We're partners, him and I, business partners. You're willfully deprivin' me of my livlihood!
+L180134 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I know what you've done to him and he's never going back to that.
+L180133 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ Pull the other one, why don't you! We made a deal!
+L180132 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You misunderstood. This man suffered a severe fall, if you take my meaning. He's my patient now and I must do what...
+L180131 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ DON'T... Don't muck me about. You've had plenty of time to fix him up, and he's leaving with me, NOW. Do you understand me? Now, Mr. Treves. We had a bargain!
+L180130 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He's still very sick. Please come downstairs with me. I'll explain the situation.
+L180129 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ Never mind that, I want my man!
+L180128 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Just a moment, how did you get in here?
+L180127 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ I want my man back.
+L179988 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Everything will be seen to.
+L179987 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ I like doing business with you. You and I understand each other, completely. I know I can trust you. Can't I?
+L179985 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You listen, you're not going to have much of a livelihood if this man dies. He's got the rale, he's very weak, and I don't know how much damage has been done by his "fall". Now stop wasting time and fetch a cab.
+L179984 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ Can't you fix him up here? ...He's my livelihood. Listen.
+L179983 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ This man belongs in hospital.
+L179982 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ That's the way he sleeps. If he lays down, he'll die.  Head's too heavy.
+L179981 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Why is he sitting up like this? He needs rest.
+L179980 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ He's a clumsy git. Never watches where he is going.
+L179979 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He must have taken quite a fall.
+L179978 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ He fell.  He falls.
+L179977 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ What happened?
+L179976 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I intend to.
+L179975 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ He was fine when he left here, and now look at him.
+L179974 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ What do you mean?
+L179973 +++$+++ u826 +++$+++ m53 +++$+++ BYTES +++$+++ What did you do to him? He's been like this all night!
+L180516 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Steady on, Treves. Have a seat.
+L180515 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Don't you think this is a bit premature? We don't have the backing yet to...
+L180318 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Please do.
+L180317 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Well... I'll let you know if there's something in the afternoon post.
+L180316 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ But he's so afraid he's going to be carted off. I've promised him that won't happen.
+L180315 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Frankly, Treves, it's not what I'd expected. A few small cheques. Well- wishers. Don't worry, these things undoubtedly take time.
+L180314 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Has the response picked up?
+L180256 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Well, it's up to us then, isn't it?
+L180255 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, we don't. Their committees have informed me that they're unwilling to take Mr. Merrick, even if they were supplied with funds. They don't want him.
+L180254 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Don't we?
+L180242 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Of course they will. They're reasonable men.
+L180241 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Do you think they'll go along with us?
+L180240 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Excellent. We shall present them, along with the other particulars of the case to the committee. I want them to see, exactly, how horribly his body has been affected. You and I shall vouch for his inner qualities.
+L180239 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Well, yes.
+L180238 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ No, not that way. Broadneck and the others don't like to deal with patients directly. It makes them queasy... Do you have any photographs of Mr. Merrick?
+L180237 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I could easily arrange...
+L180236 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ You are quite right, Treves, this is an exceptional case. And I quite agree that the committee should see Mr. Merrick.
+L180235 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ No you can't. You can't begin to know, no one can.
+L180234 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, I think I can.
+L180233 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Can you imagine what his life has been like?
+L180227 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Not me, sir. Mr. Merrick. He succeeded in spite of my shortsightedness.
+L180226 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Treves. Well done.
+L180218 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Tell me, John, how did you know the rest of the 23rd Psalm?
+L180217 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I don't understand.
+L180216 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ How did you, know the rest? I never taught you the rest of it.
+L180210 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I'm sorry too. He simply doesn't belong here. He's be much happier somewhere else, where he could be constantly looked after. Believe me, Frederick, it's better that it worked out this way. Good day.
+L180209 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, I'm very sorry to have wasted your time, sir. I just felt that I had to do anything I could to protect him.
+L180208 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ It was a nice try, Treves, but the man is so obviously mouthing your words.
+L180193 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ And what was that, John?
+L180192 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Oh yes?
+L180179 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Fine, fine. You know, your dedication to this patient is an inspiring thing, Treves. But you must remember that this is a hospital, and there are many patients here. Patients who can be made well, and you owe them your first consideration. Just don't become so obsessed, old man, that you begin to neglect them.
+L180178 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, I spoke to both the British Home and Royal Hospital for Incurables. I'm afraid that they weren't very encouraging, but they said they'd bring it up at their next committee meeting, so we should have their answers shortly.
+L180177 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ He needn't. I have no desire to cause him any discomfort. Did you make those inquiries we spoke about?
+L180176 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ ...As I said, it's only a physical problem... but I do feel that Mr. Merrick is very flattered that you're taking the time and trouble to meet him, and he's most anxious to make a good impression, so he might seem rather nervous.
+L180175 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Speaking is one thing, Treves, but can the man comprehend?
+L180174 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ It's only a physical problem. He has trouble with certain sounds because of the constrictive deformity of the mouth. But he can talk, and has a great eagerness to make contact with people who will let him. So if you have any difficulty understanding what he is saying, just tell me and I'll make it clear.
+L180151 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ ...Yes, Sir.
+L180150 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Two o'clock then... you know Treves... It seems this acquaintance of yours has become rather more than just an acquaintance.
+L180149 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Wh... whatever is most convenient for you, sir.
+L180148 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Shall we say two o'clock tomorrow afternoon?
+L180147 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Thank you very much Sir. Shall we say in a few days then?
+L180146 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Singularly unpleasant chap... uh... I don't suppose there would be any harm in my meeting your... patient, Mr. Treves.
+L180126 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Mr. Treves, it's out of the question. I want to hear as soon as possible what the other hospitals can do. I'm sorry.
+L180125 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Then will you meet him, as a representative of the committee.
+L180124 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ No, Treves, it's out of the question. Now if it was up to me, I'd say "Certainly, let's meet the fellow, by all means," I'm sorry, I simply can't speak for the other members of the committee.
+L180123 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I don't agree. No one can make a reasonable decision about this man's future without at least meeting him. No doctor would presume to diagnose a patient he had never met.
+L180122 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I really don't think that's necessary Treves. I'm quite sure the committee will be able to make an equitable decision on the merits of the case, such as they are.
+L180121 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Well sir, perhaps I should explain...
+L180120 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ A few words? I thought he was imbecile?
+L180119 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He's doing very well. In fact that's why I came to see you. I think that if I were to present Mr. Merrick to the hospital committee, then they would have a chance to see for themselves not only the extraordinary nature of the disease, but of the man as well. If the committee had a chance to speak with him, hear him say a few words for himself, I'm sure they would see him as a patient, rather than as a violation of the rules.
+L180118 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Good! How is the patient?
+L180117 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Ah, no sir. I had planned to see them in the morning.
+L180116 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Have you contacted the British Home and the Royal Hospital?
+L180016 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes sir, I'll look into that.  Would you like to meet him sir?
+L180015 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I certainly sympathize with your problem, Treves... Why don't you try the British Home, or the Royal Hospital for perhaps they would have a place for him.
+L180014 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, more of an acquaintance.
+L180013 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Oh, is he a friend of yours?
+L180012 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, I'm well aware of that. But this case is quite exceptional.
+L180011 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ What are your plans then, Treves... You are aware that the London does not accept incurables. The rules are quite clear on that point.
+L180010 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes sir.
+L180009 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Deformed? Is that it. Then am I to assume that he is ultimately incurable?
+L180008 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Well sir, he's quite seriously deformed, and I fear the other patients would find him... rather shocking.
+L180007 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Why isn't he in the General Ward, then?
+L180006 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No sir, he's got bronchitis and he's been badly beaten.
+L180005 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ A hospital is no place for secrecy, Mr. Treves. Doctors spiriting hooded figures about are liable to cause comment. Why wasn't this patient properly admitted, and why is he in isolation? Is he contagious?
+L180004 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Indeed!
+L180003 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Don't be frightened. He won't hurt you.
+L180000 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Don't be mad. This muck can kill you.
+L179999 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ It's quite nutritious, sir.
+L179998 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ You've acquired a taste for this?
+L179997 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Good morning, sir.
+L179996 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Good morning, Treves.
+L180222 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I hope we can talk together again sometime. Good day.
+L180221 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I am very pleased to meet you.
+L180220 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ It was a great pleasure to meet you, Mr. Merrick.
+L180213 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Thou preparest a table before me in the presence of mine enemies, Thou anointest my head with oil...
+L180212 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ What is it, Treves?
+L180205 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Yes, of course... Well, it's been a pleasure meeting you, Mr. Merrick. Good day.
+L180204 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...everyone has been very kind.
+L180203 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Of course. How long did you and Mr. Treves prepare for this interview?
+L180202 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...I... everyone has been very kind to me.
+L180189 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Everyone has been very kind. I am extremely grateful.
+L180188 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ Are you comfortable here?
+L180187 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I feel much better. Thank you.
+L180186 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ I'm feeling very fit, thank you. How is your bronchitis?
+L180185 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I feel much better. Thank you for asking. And you?
+L180184 +++$+++ u827 +++$+++ m53 +++$+++ CARR +++$+++ How are you feeling today?
+L179952 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He's imbecile, no doubt from birth. He speaks, but... it's all gibberish. No, the man's a homeless idiot...  I pray God he's an idiot.
+L179951 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ You never mentioned his mental state.
+L179934 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ Nothing of any importance, eh?
+L179933 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I don't know what I've got.
+L179932 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ Certainly, if you insist. You must have quite a find there.
+L179931 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You'll know presently. At the meeting of the society. But until then, I beg of you Fox, keep it to yourself.
+L179930 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ Good Lord, Freddie! What have you got in there?
+L179892 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh nothing... nothing of any great importance.
+L179891 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ I say Freddie, what are you about?
+L179878 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ What a mess.
+L179877 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Abominable things these machines. One can't reason with them.
+L179876 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Mmmm. Hodges, Pierce come closer. Mr. Hill, take hold of the rope please. It's a machine accident. I expect you'll be seeing a good deal of this.
+L179875 +++$+++ u828 +++$+++ m53 +++$+++ FOX +++$+++ Three quarters of an hour.
+L179874 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ How long has this man been here?
+L180711 +++$+++ u829 +++$+++ m53 +++$+++ K. HEN +++$+++ I know no way to mince it in love, but directly to say "I love you". What! A speaker is but a prater; a rhyme is but a ballad. A good leg will fall; a straight back will stoop; a black beard will turn white; a curl'd pate will grow bald; a fair face will wither; a full eye will wax hollow; but a good heart, Kate, is the sun and the moon, or rather the sun and not the moon; for it shines bright and never changes, but keeps his course truly.
+L180710 +++$+++ u830 +++$+++ m53 +++$+++ KATH +++$+++ Oui, dat de tongues of de mans is be full of deceits.
+L180709 +++$+++ u829 +++$+++ m53 +++$+++ K. HEN +++$+++ What say you, fair one? That the tongues of men are full of deceits?
+L180708 +++$+++ u830 +++$+++ m53 +++$+++ KATH +++$+++ O bon Dieu! les langues des hommes sont pleines de tramperies.
+L180707 +++$+++ u829 +++$+++ m53 +++$+++ K. HEN +++$+++ An angel is like you, Kate, and you are like an angel.
+L180706 +++$+++ u830 +++$+++ m53 +++$+++ KATH +++$+++ Pardonnez-moi, I cannot tell vat is "like me".
+L180705 +++$+++ u829 +++$+++ m53 +++$+++ K. HEN +++$+++ O fair Katharine, if you will love me soundly with your French heart, I will be glad to hear you confess it brokenly with your English tongue. Do you like me, Kate?
+L180704 +++$+++ u830 +++$+++ m53 +++$+++ KATH +++$+++ Your majesty shall mock at me; I cannot speak your England.
+L180703 +++$+++ u829 +++$+++ m53 +++$+++ K. HEN +++$+++ Fair Katharine, and most fair, will you vouchsafe to teach a soldier terms Such as will enter at a lady's ear And plead his love-suit to her gentle heart?
+L180436 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Oh no... no... you're a Romeo.
+L180435 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh no?
+L180434 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Why, Mr. Merrick, you're not an Elephant Man at all...
+L180433 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ O, then, dear saint, let lips do what hands do. They pray, grant thou, lest faith turn to despair.
+L180432 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Ay, pilgrim, lips that they must use in prayer.
+L180431 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Have not saints lips, and holy palmers too?
+L180428 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ No, but I certainly shall.
+L180427 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Have you read it?
+L180426 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ That's one thing the theatre has in great store. which reminds me. I have something else for you...
+L180425 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Romance!
+L180424 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ It's very difficult to put into a nutshell, but I should say the theater is the shrine of the imagination, where one may suspend disbelief and travel anywhere in the world, to any time you desire. You may look over the shoulders of kings, unobserved, battle with ruthless tyrants, and marry the beautiful princess, all in the space of a few hours. Onstage you may be whoever you wish to be, do anything you please, and always, always live happily ever after. The theatre is all the brightest and best things of the world, Mr. Merrick. It is lights and music, gaiety and joy. It's... well, it's romance.
+L180423 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Tell me about it, please!
+L180422 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Well you must go. It is one of the most beautiful places on earth. Of course, I'm rather partial.
+L180421 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Alas, no.
+L180420 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ You've never been?
+L180419 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Well, even to work there would be wonderful. Is it beautiful?
+L180418 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Oh no, Mr. Merrick. I just work there.
+L180417 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mr. Treves says that you are in the theatre. Do you live there?
+L180416 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes.
+L180415 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ She's very pretty, your mother.
+L180414 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, no. I would never think it! It's so beautiful. You are so... I'll give it a place of honor, here, next to my mother.
+L180413 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ I want you to know that I don't go about giving my pictures to just anyone.
+L180412 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ I knew you'd understand. Here.
+L180411 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, no.
+L180410 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ I've brought you some things. I hope you'll like, Mr. Merrick. I hope you don't think it too forward.
+L180409 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Good day...!
+L180699 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes.
+L180698 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Well, it's all quite... I've never heard... It's quite...
+L180697 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes. There is nothing more frustrating, nothing that makes a physician feel more useless, than standing by watching his patient deteriorate. And when that patient is a friend, no... no, there's absolutely nothing I can do.
+L180696 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Is he... dying then?
+L180695 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ And yet, not once have any of us heard him complain.
+L180694 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ How awful for John.
+L180693 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I fear not, Mrs. Kendal. Even in the short time he was gone the size of his head has increased rapidly... as is his pain.
+L180692 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Well it is a miracle he ever got back. And, I'm sure, Mr. Treves, under your expert care, he'll have many happy years ahead.
+L180691 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'm very grateful to you, Mrs. Kendal. This is just the thing to help him forget his ordeal. John will be very excited.
+L180690 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ It's all arranged. I'll send over some evening gowns for the sisters that you select to accompany Mr. Merrick. You'll be using the Royal entrance and Princess Alexandra herself will be there to welcome him to her private box.
+L180408 +++$+++ u831 +++$+++ m53 +++$+++ KENDAL +++$+++ Good day, Mr. Merrick.
+L180407 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John, I'd like you to meet one of the brightest lights of the British stage, Mrs. Kendal. Mrs. Kendal, John Merrick.
+L180661 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ You know, I saw you once there, in London. You're a great attraction.
+L180660 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, yes.
+L180659 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ Say hello to London for me. I miss her.
+L180658 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh no, my friend...
+L180657 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ I'm sorry I could only get you a third class ticket, but it's all we had.
+L180646 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ Won't be a moment.
+L180645 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes.
+L180644 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ Of course! You want out?
+L180643 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ You're English.
+L180642 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ Want to come out?
+L180641 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ y-y-yes--
+L180640 +++$+++ u837 +++$+++ m53 +++$+++ PLUMED DWARF +++$+++ You alright?
+L180402 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ Yes... well, good day, Mr. Merrick.
+L180401 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I'll have to find some more.
+L180399 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...I learned a long time ago.
+L180398 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ The... oh, the spire! How silly of me, it's as plain as day... Mr. Merrick, where did you learn to do this?
+L180397 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ The main spire.
+L180396 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ What's this?
+L180395 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ It's alright, it was thrown away. No one wants it. It's just that it's a little dirty, that's all.
+L180394 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I meant no harm, it was the only place where I could find cardboard. I thought it has been thrown away.
+L180393 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ The hallway? Oh, the wastecan!
+L180392 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ Where did you get this box?
+L180391 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Thank you... very much.
+L180390 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ But it's so good, I mean... it's so very good.
+L180389 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes.
+L180388 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ What? Oh! I see! It's St. Phillips. Oh, of course. Why... why that's very good, I mean you've gotten the windows and arches just right.
+L180385 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Good morning.
+L180384 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ Good morning, Mr. Merrick.
+L180329 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ No, nothing.
+L180328 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ Well, if there is nothing more, I suppose we'll be leaving you now.
+L180327 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Thank you very much.
+L180325 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes.
+L180324 +++$+++ u835 +++$+++ m53 +++$+++ NORA +++$+++ Feeling better now, Mr. Merrick?
+L180732 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ You too, my friend. Goodnight.
+L180731 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Goodnight John. Sleep well.
+L180729 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, no, I wouldn't change a thing.
+L180728 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Then I shouldn't change anything?
+L180727 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, John, not one that I can see.
+L180726 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mr. Treves, tell me... tell me truly. Is it alright, did I make any mistakes that you can see?
+L180725 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes John?
+L180723 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'm glad, John. Goodnight.
+L180722 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh yes! It was wonderful!
+L180721 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Splendid. it's truly a masterpiece. Well, I suppose I'll be on my way now. I hoped your enjoyed yourself this evening.
+L180720 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes, very soon.
+L180719 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Will the cathedral be finished soon, John?
+L180716 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ It's for you, John. It's all for you. Go ahead, let them see you.
+L180715 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh no, I couldn't.
+L180714 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Stand up, John. Let them see you.
+L180689 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John.... how can you ever forgive me?
+L180688 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mr. Treves! Treves.
+L180551 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mr. Treves. Thank you my... friends.
+L180550 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Are you sure? Because I can take it back.
+L180549 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, Mr. Treves. Mr. Treves.
+L180548 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Is it the one you wanted?
+L180547 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ There is one more thing, John. Here.
+L180546 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ My home.
+L180545 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Please... please thank the governing committee for me. I will do my utmost to merit their kindness.
+L180544 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes.
+L180543 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ You did this for me?
+L180542 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, John.
+L180541 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...my... home?
+L180483 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ You don't think it's too gaudy, do you?
+L180482 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You want a dressing bag, John?
+L180481 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Please John, it would give me so much pleasure to give you something. Something just for yourself. Isn't there something you would like to have?
+L180480 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh no! There is nothing! I have everything, you have given me everything I could possibly want. I am happy every hour of the day. I only wish there was something I could give to you.
+L180479 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ How blind of me. Is there anything else, John, anything at all that I could get for you?
+L180478 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes, soon I will start the main spire, but I must finish these columns first, How kind of her!
+L180477 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ The cathedral is coming along nicely.
+L180471 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I thought as much.
+L180470 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No John, I can't. I can care for you, but I can't cure you.
+L180469 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...Can you cure me?
+L180468 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes, John?
+L180467 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mr. Treves, there is something I've been meaning to ask you for some time...
+L180466 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Never, oh! Never, nothing will die. the stream flows the wind blows the heart beats Nothing will die.
+L180465 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ When will the stream be aweary of flowing under my eye? When will the wind be aweary of blowing over the sky? When will the clouds be aweary of fleeting? When will the heart be aweary of beating, and nature die?
+L180406 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John, there's someone here who would like to meet you. Would that be alright?
+L180405 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Good morning.
+L180404 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Good morning, John.
+L180378 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Here.
+L180377 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Your mother?
+L180376 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Would you... would you like to see my mother?
+L180368 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Friends. Ah yes, friends! How nice.
+L180367 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh, they're gone for the day... with friends.
+L180366 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ The Children. Where are your children
+L180365 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Of course.
+L180364 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ The children! May I see?
+L180363 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh, our relatives... the children.
+L180362 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Who are they of?
+L180361 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh yes.
+L180360 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I love the way you've arranged your pictures on the mantlepiece. Is that the way it's done in most houses?
+L180359 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Not at all, John.
+L180358 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ It's very good. I'm enjoying my visit with you very much. It's so very kind of you to have me as a guest in your home. I'm sorry I made a spectacle of myself.
+L180357 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ How is your tea, John?
+L180356 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Ohhh...
+L180355 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ That's a canopy, John.
+L180354 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Well, it's a lovely bedroom. What do you call that thing above the bed?
+L180339 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ I'm not used to such kindness. From a beautiful woman.
+L180338 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John... what's the matter? John... why are you upset?
+L180332 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ When one is invited to tea, one must look one's best.
+L180331 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Thank you very much.
+L180330 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You look splendid, John.
+L180312 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I promise you. You will never see the inside of that horrible place again. You will never, ever go back to the workhouse... or that man. It's a splendid room, don't you think?
+L180311 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ How long will I stay here?
+L180310 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Of course! What did you think?
+L180309 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ The hospital?
+L180308 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes.
+L180307 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ This... is my new home?
+L180297 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Very well, thank you. I have something for you, John. I'm sure you'll enjoy it, it's very popular.
+L180296 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Good evening. Very well, thank you. And you?
+L180295 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Good evening. How are you feeling?
+L180232 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ We do have a lot to talk about, don't we?
+L180231 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh, no do not say that. You have been so kind to me. I was afraid to say too much. People always want me to be quiet. You wanted me to speak, but I was afraid. Forgive me.
+L180230 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I never thought to ask. How can you ever forgive me?
+L180229 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ You did not ask me.
+L180228 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Why did you let me go on like that, teaching you what you already knew? Why didn't you tell me you could read?
+L180196 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ But the variety of food here is very pleasing... I commend you.
+L180195 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ ...Yes potatoes... but...
+L180191 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Oh yes! It is much better than what I am used to.
+L180190 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Mr. Merrick likes the food here. Don't you John?
+L180182 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Hello... my name is John Merrick. I am very pleased to meet you.
+L180181 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John, may I introduce you to Sir Carr Gomm.
+L180173 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Hello, my name is John Merrick. I am very pleased to meet you!
+L180172 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Very good, very good. Now, when your visitor comes today I want you to say it exactly the way you said it just now. I will introduce him to you and you will say the words you've learned. If you have any trouble with any of the words, I'll help you. I'm sure you'll be just fine. If you do as well for him as you've done for me these last two days, then I'm sure our visitor will be very pleased. Now, let's go through the whole thing again, shall we? I will say "May I introduce you to Mr. Carr Gomm." And you will say...
+L180171 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Righteousness for his namesake.
+L180170 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Righteousness...
+L180169 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ The Lord is my shepherd, I shall not want, he maketh me to lie down in green pastures; He leadeth me beside still waters. He restoreth my soul: He Guideth me in the paths of righteousness...
+L180109 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Hello, my name is John Merrick.
+L180108 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Why, my dear Mrs. Mothershead, how good of you to join us. Mr. Merrick, will you please introduce yourself?
+L180104 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Hello... my name is... John Merrick.
+L180103 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Well, that's alright. I understand you. Now, say the whole thing again, Hello ...
+L180102 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mmmerrick.
+L180101 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Say "Mmmerrick."
+L180100 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Mmmerrick.
+L180099 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Say "Mmmerrick."
+L180098 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Merrick...
+L180097 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Say "Merrick".
+L180096 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ John... Merrick
+L180095 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John Merrick.
+L180094 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ My... name is...
+L180093 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ My name is...
+L180092 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Hello...
+L180091 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Excellent! Now, say... "Hello"
+L180090 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes.
+L180089 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Very good! Oh yes! Now listen. I'm going to say some things to you and I want you to repeat them... um... I want you to say them back to me. Do you understand? I'm going to say some things to you and I want you to say them back to me. Do you understand?
+L180088 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yes!
+L180087 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ That's much better. I could understand that "yes".
+L180086 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yyess.
+L180085 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yyyess.
+L180084 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ ...Yyes
+L180083 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes John!
+L180082 +++$+++ u832 +++$+++ m53 +++$+++ MERRICK +++$+++ Yyyy... Yyye... yyyess.
+L180540 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Welcome home, John.
+L180539 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ So you see, John, there's no need for a lighthouse. All your friends are here.
+L180493 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ John thinks it's very dashing. Something no gentleman should be without. I'm inclined to agree.
+L180492 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Well...
+L180491 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You don't think it's too gaudy, do you.
+L180490 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ A dressing bag?
+L180489 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes. John wants it.
+L180488 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Very smart indeed.
+L180487 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ A dressing bag.
+L180486 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Yes sir.  What's that?
+L180485 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Thank you, Mothershead. Have a porter put them in my office.
+L180484 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Mr. Treves, some more books arrived for Mr. Merrick.
+L180463 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ You're right, Mothershead, please forgive me... Of course, I appreciate everything you've done for John, and I'm glad that you are concerned about his welfare. But, I'm the physician in charge and I must do what I think best. I'm also very late, so please forgive me.
+L180462 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ I bathed him, didn't I? I fed him and cleaned up after him! If loving kindness can be called care and practical concern, then yes, I did treat him with loving kindness, and I'm not ashamed to say it.
+L180461 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Aren't you being just a little harsh, Mothershead? You yourself hardly treated John with much loving kindness when he first arrived.
+L180460 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ But you saw them, sir. They couldn't hide their disgust. They don't care anything for John, they're just trying to impress their friends.
+L180459 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Now Mothershead, you have to understand that this is very good for John. He relishes contact with people outside the hospital...
+L180458 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ I can't understand why you let those people go in there, sir.
+L180457 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Oh?... Well, quickly please, Mothershead, I'm overdue.
+L180456 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Excuse me, sir. I'd like to have a word with you.
+L180455 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Incredible, isn't it? Well, I think John has had enough visitors for one day, Mothershead. I've got a lecture at the college, I'll be back this evening.
+L180453 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I regret that I must leave you here, m' Lord, m' Lady. Thank you so much for coming. It was an act of the greatest charity.
+L180452 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Watery headed bunch.
+L180113 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'm sure that if Mr. Merrick made a good impression on the hospital committee they'd see that he's the exception to their rule. Now I'm not expecting miracles. I'm not saying he'll be able to read or write, but I do think that I can get him to speak for himself. I'm going to arrange things with Carr Gomm right now.  That was very good, John, very good. That's all for today. We shall do some more tomorrow. Mothershead?
+L180112 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Parrots can do as much, Mr. Treves. It's all very nice, but I don't see the point. You know they won't let him stay here.
+L180111 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ We've made tremendous strides today, Mothershead. He listens and repeats with great attention, and this certainly isn't easy for him.
+L180110 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Good Lord, Mr. Treves!
+L180076 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Perhaps you've got the time for that, Mr. Treves, I certainly don't. I've got an entire hospital to look after, and you have your real patients. Don't waste your time with him sir, it's like talking to a wall. I don't mean to be harsh, but truthfully what can you do for him? I'll be back later for his bath. And Mr. Carr Gomm would like to see you when you have a moment. Good day sir.
+L180075 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ He's had his share of "smacks", Mothershead. I expect that's what drives him under the bed. We must use patience and understanding with this man.
+L180071 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Just being obstinate, sir. I'll handle it.
+L180070 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ No, he's very upset about something.
+L180069 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Won't come out, eh?
+L180068 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Not quite yet, Mrs. Mothershead. There seems to be some difficulty this morning.
+L180067 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Good morning, Mr. Treves. It'll be his bath-time soon. Has he eaten?
+L180041 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes! The workhouse!
+L180040 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ The workhouse.
+L180033 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes... Yes, let's go in.
+L180032 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Sir, you don't have to worry about me. I'm not the sort to cry out. Shall we go in?
+L180031 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Yes... Well, I want you to clear up a little mess, a breakfast tray was spilt. And bring up another breakfast. When you've done that, you and I shall give the man a bath. But, Mothershead, I'm counting on your many years of experience to get you through this, Above all, do not scream, do not cry out, or in any way show this man that you are frightened of him...
+L180030 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ I've heard.
+L180029 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Good. Excellent. Now then, Mrs. Mothershead, I want you to come into this room with me. Inside there is a man with a rather... unfortunate appearance.
+L180028 +++$+++ u833 +++$+++ m53 +++$+++ MOTHERSHEAD +++$+++ Fine.
+L180027 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Ah, Mothershead. How are you feeling today?
+L180601 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ YOU'RE THE MONSTER! YOU'RE THE FREAK! GET OUT! YOU'RE FINISHED!
+L180600 +++$+++ u834 +++$+++ m53 +++$+++ NIGHT PORTER +++$+++ YOU'RE NOT LISTENING TO ME! I ain't done nothing wrong. People pay to see your monster, Mr. Treves. I just take the money.
+L180599 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ YOU BASTARD! You tortured him. YOU TORTURED HIM, you bastard. WHERE is HE?
+L180598 +++$+++ u834 +++$+++ m53 +++$+++ NIGHT PORTER +++$+++ When I left him, he was in his bed, safe and sound.
+L180597 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ HE'S GONE!
+L180596 +++$+++ u834 +++$+++ m53 +++$+++ NIGHT PORTER +++$+++ Take him? Now wait... I didn't take him anywhere. We were just having some fun. We didn't hurt him... just having a laugh, that's all.
+L180595 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Don't lie to me. I know all about it. You were SEEN. Where did you take him?
+L180594 +++$+++ u834 +++$+++ m53 +++$+++ NIGHT PORTER +++$+++ I... I don't know what you mean, Sir.
+L180593 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ WHERE IS MR. MERRICK?
+L179912 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'll send a cab. Here is my card.
+L179911 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ Bytes. Mr. Bytes. He'll be there.
+L179910 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ So you'll bring him to me, tomorrow, 10:00 a.m.? Mr...?
+L179904 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ Never mind. I'm the owner.
+L179903 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Pardon me?
+L179902 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ Handsomely?... Who sent you?
+L179901 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ I'd pay handsomely for a private showing. Are you the proprietor?
+L179900 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ I don't think so. No sir, we're closed.
+L179899 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Just one of the curious. I'd like to see it.
+L179898 +++$+++ u836 +++$+++ m53 +++$+++ OWNER +++$+++ And who might you be, sir?
+L179897 +++$+++ u838 +++$+++ m53 +++$+++ TREVES +++$+++ Are you the proprietor?

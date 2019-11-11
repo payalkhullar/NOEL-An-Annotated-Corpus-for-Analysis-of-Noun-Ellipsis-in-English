@@ -1,0 +1,494 @@
+L88357 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ That wouldn't be very sporting.
+L88356 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Then go get him.
+L88355 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ One man.  He must be good.
+L88349 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You underestimate the trap, Mary.
+L88348 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Not to be trapped.
+L88347 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What's the point?
+L88346 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Anywhere.
+L88345 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Where?
+L88344 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ Let's go while there is still time.
+L88238 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Pris?
+L88237 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ I don't think there is another human being in this whole world who would have helped us.
+L88236 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I'm sure glad you found us, Sebastian.  What do you think, Mary?
+L88143 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Mr. Sebastian is a host who wants to be appreciated.  We'll appreciate him and he'll cooperate.
+L88142 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ If he won't cooperate?
+L88141 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ He knows what he's doing.
+L88121 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Well stocked.
+L88120 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ You certainly have a nice place here.
+L88119 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ We're not used to the big city. Where we come from it's not so easy to get lost.
+L88118 +++$+++ u538 +++$+++ m34 +++$+++ MARY +++$+++ We were worried to death.  It's awfully kind of you.
+L88117 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Can't thank you enough, Mr. Sebastian. If you hadn't come along...
+L88306 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Nothing the God of biomechanics wouldn't let you in heaven for.
+L88305 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Also extraordinary things.
+L88304 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I've done some questionable things.
+L88302 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I am?
+L88301 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Also you're too valuable to experiment with.
+L88300 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Put it this way.  Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last.
+L88299 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ But not to last.
+L88298 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you.
+L88297 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Then a repressor protein that blocks the operating cells.
+L88296 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table.
+L88295 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What about E.M.S. recombination?
+L88294 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship.  The ship sinks.
+L88293 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Why?
+L88292 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ The facts of life.  I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal.  A coding sequence can't be revised once it's established.
+L88290 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Come here.
+L88289 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I want more life, fucker.
+L88288 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ I'm afraid that's a little out of my...
+L88287 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Death.
+L88286 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ What's the problem?
+L88285 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Had in mind something a little more radical.
+L88284 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Would you like to be modified?
+L88283 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Can the maker repair what he makes?
+L88282 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ And what can he do for you?
+L88281 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ It's not an easy thing to meet your maker.
+L88280 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ I'm surprised you didn't come to me sooner.
+L88276 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Here's your check, my boy.  Thank you.
+L88275 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Yeah.  It might be better if we talk in private, Sebastian.  Why don't you go home.
+L88271 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Oh?
+L88270 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ The name is Batty.  Roy Batty.
+L88352 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ No, you stay here with us.  Out last night together.
+L88351 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Just thought I'd...
+L88350 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Where are you going, Sebastian?
+L88240 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Thank you.
+L88239 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You're our best and only friend.
+L88233 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ This afternoon.
+L88232 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ When do you deliver your project?
+L88231 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ No.
+L88230 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Be better if I could talk to him in person.  But he's not an easy man to get to.
+L88229 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I'd be happy to mention it to him.
+L88228 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ His company made us.
+L88227 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ He could?
+L88226 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Tyrell could help us, Sebastian.
+L88225 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ He's not really my friend.  I just do a job for him now and then.
+L88224 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Dr. Tyrell?
+L88223 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What about your friend, the man who owns this building?
+L88222 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ If we don't find help soon, Pris hasn't got long to live.
+L88221 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I don't know much about biomechanics, Roy.  I wish I did, but you're out of my league.
+L88220 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ You could help us.
+L88219 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Of course not.
+L88218 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Not only that, but we have smiliar problems.  Accelerated decrepitude. But we don't want to die quite yet.
+L88217 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You mean that you can't come here and I can't go there?
+L88216 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ We have a lot in common.
+L88212 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Like...
+L88211 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Like what?
+L88210 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Show me something?
+L88207 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Nexus - 6.
+L88206 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ What generation are you?
+L88203 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You're androids.
+L88202 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What, Sebastian?
+L88201 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You're just all so... so different.
+L88200 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Why are you staring at us?
+L88130 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Well, actually
+L88129 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Oh, no bother, I'd be glad to.
+L88128 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ If it wouldn't be too much of a bother... a little bite to eat would be...
+L88127 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ How about breakfast, I was just going to make some.
+L88125 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+L88124 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?
+L88359 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Okay, but don't kill him.  Save a little for everybody.  A masterpiece.
+L88358 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I want to do it.
+L88215 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Very good, Pris.  Now show him why.
+L88214 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I think, therefore I am.
+L88138 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Not if everybody is doing their job here at home.  How are things at home?
+L88137 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Then we're stupid and we'll die.
+L88114 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ Hello, glad to meet you.
+L88113 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ This is my Uncle Roy, Sebastian.
+L87923 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Tomorrow, he says.
+L87922 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ When?
+L87921 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ He's not ready yet.
+L87920 +++$+++ u529 +++$+++ m34 +++$+++ BATTY +++$+++ What's going on down there?
+L88328 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Go.
+L88327 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.  I got it.
+L88326 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ If you don't, we will.  It has to be total, Deckard.  That's an order from as high as it comes.  Got it?
+L88325 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Okay, here it is.  Eldon Tyrell, his family and half his staff were just massacred.  The cat is about to get out of the bag.  Pressure is definitely on.  The Nexus program is terminated.  When you finish there, locate Nexus designated Rachael and retire.
+L88324 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Got it.
+L88323 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Take a number.  Canapt 1700, tenth floor, Villa Vita District, Olympia South.
+L88322 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Who.
+L88321 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ She's not with you?
+L88320 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88319 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ This is Bryant.  Are you alone?
+L88318 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88047 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88046 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Look, go home.  Get some rest. Take an aspirin.
+L88044 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ You didn't like her!?
+L88043 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I didn't like her.
+L88041 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker!
+L88040 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ She was gonna get away.
+L87960 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ If you hurry you'll get back before it gets cold.  I got a spinner on your roof in five minutes.  Good luck.
+L87959 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I was just about to have my dinner.
+L87958 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Bryant here.  Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section.  You better get on it.
+L87957 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L87705 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Garbage man?
+L87704 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Industrial refuse.
+L87703 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What was the cover on the one that got Holden?
+L87702 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek.
+L87701 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Where do we start?
+L87700 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city.
+L87699 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You got a machine on it yet?
+L87698 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one.
+L87697 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What was he after?
+L87696 +++$+++ u530 +++$+++ m34 +++$+++ BRYANT +++$+++ Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field.
+L87695 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Six, huh?
+L87730 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Oh!  Day after tomorrow.
+L87729 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Day after tomorrow.
+L87728 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ When might that be?
+L87727 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Soon as I finish the job.
+L87726 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Well, when do you get paid?
+L87722 +++$+++ u531 +++$+++ m34 +++$+++ CHEW +++$+++ Your customer, eh?
+L87721 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ It's gotta be right for my customer.
+L87971 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.
+L87970 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Number three.
+L87969 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
+L87968 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Next.
+L87967 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position.
+L87966 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Okay, gimme a run-down on the three females.
+L87965 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Longevity is classified.  No.
+L87964 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Never mind.  Do they have that knowledge?
+L87963 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Four years.  Which would make her termination date...
+L87802 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ The umbrella.
+L87801 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ And what in your estimation works?
+L87800 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Not if it works.
+L87799 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Do you have something against science?
+L87798 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yes?
+L87796 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I think we're through for the night.
+L87795 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ What about a summary then.
+L87794 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I know all that.
+L87793 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Here's something you might find interesting.  They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.
+L87765 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement.
+L87764 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Okay, but...
+L87763 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,
+L87762 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ How do I stop one?
+L87761 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me?
+L87760 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You start.
+L87759 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ Why, yes, of course.
+L87758 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You equipped for random questions?
+L87757 +++$+++ u534 +++$+++ m34 +++$+++ ESPER +++$+++ This is Esper and I'm ready.  Go ahead please.
+L87756 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot.
+L88088 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Four years.
+L88087 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ My birthday is April 10, 2015. How long do I live?
+L88086 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I don't know.
+L88085 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ How old am I?
+L88081 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I gotta piss.
+L88080 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ One more, eh?
+L88079 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I like you too.
+L88078 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I like you.
+L88076 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No thanks.
+L88075 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ You like to kiss her goodbye.
+L88071 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Prosit.
+L88070 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Prosit.
+L88068 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Two months.  But this one is not guy.  It is girl.  His girl.
+L88067 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ How long you had these guys?
+L88066 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Ya.
+L88065 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Those cockroaches?
+L88064 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ No problem.
+L88063 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sorry, don't have the time.
+L88062 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ You want to see my friends?
+L88061 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Prosit.
+L88060 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Prosit.
+L88059 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ My pleasure.
+L88058 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Thank you very much.
+L88057 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Shot of vodka, please.
+L88056 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Vodka!
+L88055 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'll but you one.  What'll you have?
+L88054 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ But I would like to buy you drink.
+L88053 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It's okay.  Forget it.
+L88052 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I think I have no money.
+L88164 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ I know what they are, Deck -- Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart -- no way.
+L88163 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ These aren't just...
+L88162 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Love is just another name for sex. Love is sexy and sex is lovely -- I don't care what you call it, an android can't have it.
+L88158 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ I'm taking a piss.
+L88157 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What's that?
+L88156 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I think I'm starting to empathize with these Nexus-sixes.
+L88155 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Let's hear it.
+L88154 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No.  I got a problem.
+L88153 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Money?
+L88152 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.  But that's what I wanted to talk to you about.
+L88151 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ From what I hear you're doing great.  Bryant tells me you're going like a god damn one-man army.  Making a lot of money, huh?
+L88150 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'm doing okay.
+L88149 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Hey, it's okay.  I like to pee. So how are you doing?
+L88148 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sorry.
+L88147 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Don't make me laugh.  It makes me pee.
+L88146 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Well, you don't have to worry about getting it wrinkled.
+L88145 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ I'm great.  I mean, I know I'm not really great, but I feel just great.  How you like my new suit?
+L87915 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Me too.
+L87914 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ My job is here.
+L87913 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ But if you could?
+L87912 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ Too old.
+L87911 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Why didn't you go?
+L87910 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Never been more sure of anything in my life.
+L87909 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ You sure?
+L87908 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ They'll change the limit before I change my mind.
+L87907 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ What if you change your mind?
+L87906 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there.
+L87905 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ You're going to be over the limit.
+L87904 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Nope.
+L87903 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ But you haven't put in for emigration.
+L87901 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ True.
+L87900 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ Considering the nature of your work, that could be unhealthy.
+L87899 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Huh huh.
+L87898 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ Your mind kept wandering.  That bothered me.
+L87897 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah?
+L87896 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ During the road test...
+L87895 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ Meaning you don't run as fast as you used to.
+L87894 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Meaning?
+L87893 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ I didn't say that.  Your motivity rate checked out a little slower than last time.
+L87892 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No rust?
+L87891 +++$+++ u546 +++$+++ m34 +++$+++ WHEELER +++$+++ Nerves of steel.
+L87994 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Silicone Valley.  Lots of these science guys never leave that place.  We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd.
+L87993 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What shows?
+L87992 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Lots of places.  The tours, the clubs, the Silicone shows, private parties.
+L87991 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Book the good ones for where?
+L87990 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You talking about the Opera House on the Main?
+L87989 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's her.
+L87988 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What's suck night?
+L87987 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ I didn't know if I wanted to handle her -- I already got a snake act.  But my partner goes down there to the Opera House on suck night to book the good ones.
+L87986 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What night?
+L87985 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Nothing.  She wanted to know about suck night.
+L87984 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ The girl that doesn't look like that girl.
+L87983 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Who?
+L87982 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What did she want?
+L87981 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ This one looks familiar, but I don't know.  Naw.  There's one came in today looks a little like this one but...
+L87980 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Do you recognize any of them?
+L87979 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for?
+L87978 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Of course.
+L87977 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'd like  you to take a look at these pictures.
+L87975 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Can I come in?
+L87974 +++$+++ u543 +++$+++ m34 +++$+++ TAFFEY +++$+++ Yes?
+L87973 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Taffey Lewis?
+L88029 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ And who do I go to about you?
+L88028 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Me.
+L88026 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Little dirty holes the bastards drill in the wall so they can watch a lady undress.
+L88025 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ I bet I would.
+L88024 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You'd be surprised what a guy'll go through to get a glimpse of a beautiful body.
+L88022 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Hey!  Do your job but don't wreck mine, huh?
+L88021 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sorry.
+L88020 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Jeezus!
+L88019 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Come on.
+L88018 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Does it eat?
+L88017 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ The best.
+L88016 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ You mean the snake.
+L88015 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It's a good job.
+L88014 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Of course he's not real.  You think I'd be working here if I could afford a real snake?
+L88013 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It that mother real?
+L88011 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ For holes.
+L88010 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ What the fuck for?
+L88009 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Oh, yeah. You'd be surprised what goes on around here.  I'd like to check the dressing room if I could.
+L88008 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Are you for real?
+L88007 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Like to get this position.  Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?
+L88006 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ How do you mean 'exploited'?
+L88005 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You haven't felt yourself to be exploited by the management in any way?
+L88004 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ I don't know nothing about it.
+L88003 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ There's been reports of management sexually abusing the artists in this place.
+L88000 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'm with the American Federation of Variety Artists...
+L87999 +++$+++ u541 +++$+++ m34 +++$+++ SALOME +++$+++ Yeah?
+L88340 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ That some of the folks around here are more programmed then me.
+L88339 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What?
+L88338 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ You know what I think?
+L88337 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Just wait here.
+L88336 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ What difference will it make?
+L88335 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Don't leave here.  Don't open the door, don't answer the phone.
+L88334 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No, I don't.
+L88333 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Do you think I simulated what happened between us?
+L88332 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Andies only simulate suffering -- if they're programmed for it.
+L88331 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Don't you think anything that can suffer deserves to be considered?
+L88330 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Because it's not.
+L88329 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Why do you call it retire, why don't you call it murder?
+L88317 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Nope.  Nobody could stand me that long.
+L88316 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Ten years.
+L88315 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What's a long time?
+L88314 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Uh-huh.
+L88313 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You mean a woman?
+L88312 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Have you ever known anybody a long time?
+L88260 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I never felt better.
+L88259 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ You're sick, Deckard.
+L88258 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Good for a smart girl to feel stupid.  Part of your education.
+L88257 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ This feels stupid.
+L88254 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I don't like the noise.  Just practice.  Practice makes perfect.
+L88253 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ But then how can you...
+L88252 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Never mind the plug, just go through the motions.
+L88251 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ But if I don't plug it in how can I...
+L88248 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I don't like people snooping around my stuff.
+L88247 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ They could clean around the arrangement.
+L88245 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ It appears to be dirty -- why don't you get somebody?
+L88244 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Don't be fooled by appearances.
+L88243 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Have you ever cleaned your apartment?
+L88242 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Hmmm?
+L88241 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ When was the last time you cleaned this place?
+L88198 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I'm not sure.  Is there a secret?
+L88197 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Like?
+L88196 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I don't know... I think I missed something.
+L88195 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What?
+L88194 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I don't know, I have nothing to compare it to.  I guess I thought there was something more to it.
+L88193 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It wasn't very good last night, was it?
+L88192 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Nobody is freer than when he dreams.  I read that.
+L88191 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ That's another thing I can't do.
+L88190 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L88189 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Did you cry when your father died?
+L88186 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I wish I could.
+L88185 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.  Sometimes.
+L88184 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Do you dream?
+L88183 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ If they are smart, they take naps.
+L88182 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ What do people do in the afternoon?
+L88181 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Not too good.
+L88180 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ How are you doing?
+L88179 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I am.  Part of my job is to sit on a couch and try and figure things out.
+L88178 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ How come you're not on the job?
+L88177 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Oh.
+L88176 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Dead.
+L88175 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Where is he?
+L88174 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Me and my dad.
+L88173 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Who is this?
+L88171 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ You didn't hear me.  You were sleeping.
+L88170 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You did?
+L88169 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I told you I'd come back.
+L88104 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ There's a lot I haven't done with a man before.
+L88103 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You ever take a bath with a man before?
+L88101 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sit.
+L88100 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ What do you want me to do?
+L88099 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Don't just stand there looking at me.  It's not polite.
+L87950 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Right.
+L87949 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ They probably want to find out when they were made.
+L87946 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Can you?  I couldn't.
+L87945 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I can imagine.
+L87943 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I'm sorry.
+L87942 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yeah.
+L87941 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Do I make you nervous?
+L87939 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ So, I'm a piece of equipment. Use me.
+L87938 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ So?
+L87937 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ You use your equipment, don't you?
+L87935 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I work alone.
+L87934 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Two of us might be more effective than one.
+L87933 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sounds like I'm an ass-hole either way, but the answer is still no.
+L87932 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ There's two reasons a man rejects help.  Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it.
+L87931 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I think you need more help than you've got.
+L87930 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I've already got more help than I need.
+L87929 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I know you think it complicates your work, but I'm here to help.
+L87928 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Is there anything else?
+L87860 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Ugh.
+L87859 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Last question.  You're watching an old movie.  It shows a banquet in progress, the guests are enjoying raw oysters.
+L87858 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Sounds like you speaks from experience.
+L87857 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ It would be my child.
+L87856 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ In your opinion.
+L87855 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ That would be murder, Mr. Deckard.
+L87854 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Why not?
+L87853 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I'd never get an abortion.
+L87852 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You become pregnant by a man who runs off with your best friend, and you decide to get an abortion.
+L87848 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You show the picture to your husband. He likes it and hangs it on the wall. The girl is lying on a bearskin rug.
+L87847 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Is this testing whether I'm an android or a lesbian?
+L87846 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ In a magazine you come across a full-page photo of a nude girl.
+L87845 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I'd kill it.
+L87844 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You're watching T.V. and suddenly you notice a wasp crawling on your wrist.
+L87843 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I'd take him to the doctor.
+L87842 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You have a little boy.  He shows you his butterfly collection, plus the killing jar.
+L87841 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ I wouldn't accept it.  Also, I'd report the person who gave it to me to the police.
+L87817 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ For the responsibility of your power.  Being a police bureaucrat, you've got more than your share.
+L87816 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Why should I be?
+L87815 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Are you apprehensive?
+L87813 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ Of course not.
+L87812 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ It's artificial?
+L87810 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem.  Correct, Mr. Deckard?
+L87809 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ A humanoid robot is like any other machine, it can be a benefit or a hazard.  If it's a benefit, it's not our problem.
+L87808 +++$+++ u540 +++$+++ m34 +++$+++ RACHAEL +++$+++ It seems your department doesn't believe out new unit is to the public benefit.
+L87690 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ I'll see you in a minute.
+L87689 +++$+++ u535 +++$+++ m34 +++$+++ GAFF +++$+++ Severed spine.  You'd better get in here.  Bryant's waiting for you.
+L87688 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Bad?
+L87687 +++$+++ u535 +++$+++ m34 +++$+++ GAFF +++$+++ Holden got hit.
+L87686 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ What's up?
+L87685 +++$+++ u535 +++$+++ m34 +++$+++ GAFF +++$+++ Next time you go on vacation, do me a favor, let us know where it is.
+L87684 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ You know where I been.  I been on vacation.
+L87683 +++$+++ u535 +++$+++ m34 +++$+++ GAFF +++$+++ Where the hell you been?
+L87879 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ All pertinent information is being fed into your departmental computer, an Esper 231 -- I believe -- and a photo over-lay packet is being produced.
+L87878 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Discreetly.
+L87877 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ And how is it one man will be able to cover so much ground?
+L87872 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Five, maybe six.
+L87871 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ How many questions does it usually take, Mr. Deckard?
+L87870 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Memory implant.  She was programmed. But I think she has transcended her conditioning.  I think she was beginning to suspect.
+L87869 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ She didn't know?
+L87868 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Thirteen.
+L87867 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ How many questions did it take?
+L87866 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ The machine works.  She is.
+L87865 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ If she is, the machine works.
+L87864 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Well?
+L87837 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Sitting next to you.
+L87836 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ One that relies on human interpretation.  Where's the subject?
+L87835 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Like you said, Mr. Deckard, a machine can be a hazard.  The Voight-Kampff scale is a machine, isn't it?
+L87834 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Nothing is infallible, but so far the Voight-Kampff scale bas been foolproof.
+L87833 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ But in your profession that is a risk.
+L87832 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ No.
+L87831 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Have you ever retired a human by mistake?
+L87830 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Go ahead.
+L87829 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ May I ask a personal question?
+L87828 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Capillary dilation of the so-called blush response?  Plus fluctuation of the pupil, plus involuntary dilation of the iris?
+L87827 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Yes.
+L87826 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Is this to be an empathy test?
+L87824 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Please.
+L87823 +++$+++ u544 +++$+++ m34 +++$+++ TYRELL +++$+++ Black?
+L87822 +++$+++ u532 +++$+++ m34 +++$+++ DECKARD +++$+++ Thanks.
+L87889 +++$+++ u545 +++$+++ m34 +++$+++ VOICE +++$+++ Almost through.
+L87888 +++$+++ u533 +++$+++ m34 +++$+++ DECKARD'S VOICE +++$+++ I'm tired of this.
+L87887 +++$+++ u545 +++$+++ m34 +++$+++ VOICE +++$+++ You're not responding to the stimulus.  I can see right here, I'm not getting a reading.
+L87886 +++$+++ u533 +++$+++ m34 +++$+++ DECKARD'S VOICE +++$+++ How do you know I'm not?
+L87885 +++$+++ u545 +++$+++ m34 +++$+++ VOICE +++$+++ We're going to have to start the sequence again if you don't stay with me, Deckard.  Concentrate.
+L87883 +++$+++ u533 +++$+++ m34 +++$+++ DECKARD'S VOICE +++$+++ Sorry.
+L87882 +++$+++ u545 +++$+++ m34 +++$+++ VOICE +++$+++ Let's keep our eyes on the road, Deckard.
+L87677 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ I mean you're not helping! Why is that, Leon?
+L87676 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Whatcha mean, I'm not helping?
+L87673 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ You reach down and flip the tortoise over on its back, Leon.
+L87672 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ But I understand what you mean.
+L87671 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I never seen a turtle.
+L87670 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Same thing.
+L87669 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Of course.
+L87668 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Know what a turtle is?
+L87667 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ A tortoise.  What's that?
+L87666 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Maybe you're fed up, maybe you want to be by yourself -- who knows.  So you look down and see a tortoise.  It's crawling towards you...
+L87665 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ But how come I'd be there?
+L87664 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Doesn't make any difference what desert -- it's completely hypothetical.
+L87663 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ What desert?
+L87662 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ What?
+L87661 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ What one?
+L87660 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ You're in a desert, walking along in the sand when all of a sudden you look down and see a...
+L87659 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Reaction time is a factor in this, so please pay attention.  Answer quickly as you can.
+L87658 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Already had I.Q. test this year -- but I don't think I never had a...
+L87657 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ Sorry.
+L87656 +++$+++ u536 +++$+++ m34 +++$+++ HOLDEN +++$+++ Don't move.
+L87655 +++$+++ u537 +++$+++ m34 +++$+++ LEON +++$+++ I kinda get nervous when I take tests.
+L88205 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You're all so perfect.
+L88204 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ What makes you think so?
+L88123 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I keep a lot of provisions right here.
+L88122 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Sebastian doesn't like to go out too much.
+L87789 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Good.
+L87788 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ As a matter of fact I did.  They've got some work to do tonight, but they're gonna come tomorrow.
+L87787 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Ah, you get hold of your friends?
+L87785 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Yes.  I couldn't pass the test.
+L87784 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Is that why you're still here?
+L87783 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ My glands.  They grow old too fast.
+L87782 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ What's that?
+L87781 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Methuselah Syndrome.
+L87780 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ What's your problem?
+L87779 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Twenty.
+L87776 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Yeah, I live here pretty much alone right now...
+L87775 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ And you live in this building all by yourself?
+L87774 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Thanks.
+L87773 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Beautiful.
+L87772 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Just better.
+L87771 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You look... better.
+L87769 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You scared me.
+L87768 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Whatcha doin'?
+L87755 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I was hoping you'd say that.
+L87754 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ I've got stuff.  If you wanna go to my place?
+L87753 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I'm hungry, J.F.
+L87752 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ We sure did.
+L87751 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ We scared each other pretty good didn't we?
+L87749 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I have some, but I have to find out where they are staying.
+L87748 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ What about friends?
+L87747 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ They left.
+L87746 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Where are your folks?
+L87745 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Oh.
+L87744 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I don't have one.
+L87743 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ You want to go home?
+L87741 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Hi.
+L87740 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ Mine's J.F. Sebastian.
+L87739 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ Pris.
+L87738 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ What's your name?
+L87735 +++$+++ u539 +++$+++ m34 +++$+++ PRIS +++$+++ I was tired and didn't have any place to go.
+L87734 +++$+++ u542 +++$+++ m34 +++$+++ SEBASTIAN +++$+++ How come you were in my truck?

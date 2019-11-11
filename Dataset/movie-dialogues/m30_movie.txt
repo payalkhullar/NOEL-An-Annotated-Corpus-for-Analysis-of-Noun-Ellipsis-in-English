@@ -1,0 +1,407 @@
+L84067 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Good luck, kid.
+L84066 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Thank you.
+L84065 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Her name is Sandra Templeton. She's going to Auburn. The semester's almost over, so you better hurry.
+L84064 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ There's only one I want.
+L84063 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ I was wrong about you kid. You may not have much, but what you got, you got a lot of. You could get any girl.
+L84062 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ That would explain the indigestion.
+L84061 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ A few rabbits, but I think one of them was already dead.
+L84060 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Didn't kill anything, did I?
+L84045 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'll work night and day, and you won't have to pay me. You just have to tell me who she is.
+L84044 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Sorry, kid. I don't do charity.
+L84043 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I don't have a job, but I would have a job if you gave me one. And I may not have much, but I have more determination than any man you're ever going to meet.
+L84041 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Kid, you were a big fish in a small pond. This here is the ocean, and you're drowning. Take my advice and go back to Puddleville. You'll be happy there.
+L84040 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Someone stole my backpack.
+L84039 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I've got a whole backpack full of clothes!
+L84038 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Sure I do. You were hot shit back in Hickville, but here in the real world, you got squat. You don't have a plan. You don't have a job. You don't have anything but the clothes on your back.
+L84037 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What do you mean? You don't even know me.
+L84036 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Kid. Don't waste your time. She's out of your league.
+L84035 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Who is she? Where does she live?
+L84034 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ I know her uncle. Friends of the family.
+L84033 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Yes!
+L84032 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Jesus, kid.  Let me guess. Real pretty, blonde hair, blue hat?
+L84031 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'm going to spend the rest of my life looking for her. That or die alone.
+L84030 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Tough break. Most men have to get married before they lose their wives.
+L84029 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I just saw the woman I'm going to marry, I know it. But then I lost her.
+L84028 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ See! The big guy likes it.
+L84024 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ That's great.
+L84023 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Hey kid! Your friend just made himself a star.
+L84021 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ It was on that night Karl met his destiny. And I met mine. Almost.
+L84020 +++$+++ u488 +++$+++ m30 +++$+++ AMOS +++$+++ Great, great. That's fantastic.
+L83943 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I don't expect to.
+L83942 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ You won't find a better place!
+L83939 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ No one's ever left.
+L83938 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ This town is everything a man could ask for. And if I were to end up here, I'd consider myself lucky. But the fact is, I'm not ready to end up anywhere.
+L83937 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Why?
+L83936 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I have to leave. Tonight.
+L83899 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ It truly is.
+L83898 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Now tell me if that isn't the best pie you ever ate.
+L83896 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ No. I've gotta meet somebody. I'm already running late.
+L83895 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ He's still here. Let me buy you a drink. I'll tell you all about it. Hell, I'll have him tell you.
+L83894 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ The poet? What ever happened to him?
+L83893 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ The town of Spectre. Best kept secret in Alabama. Says here you're from Ashton, right? Last person we had from Ashton was Norther Winslow.
+L83892 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What is this place?
+L83886 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Not yet.
+L83885 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You were expecting me?
+L83884 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Oh. Here! Right here. Edward Bloom. We weren't expecting you yet.
+L83883 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Yes.
+L83882 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Bloom like a flower?
+L83881 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Edward Bloom.
+L83880 +++$+++ u489 +++$+++ m30 +++$+++ BEAMEN +++$+++ Welcome to ya. What's your name?
+L84093 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I didn't know she belonged to anybody.
+L84092 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ What the hell are you doing? This is my girl. Mine!
+L84091 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Don.
+L84090 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ Bloom!
+L83739 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ Let's see it.
+L83738 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I brought it.
+L83737 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ You get the eye?
+L83733 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Fine, I'm doing it.
+L83732 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ Fine, you do it.
+L83731 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Fine, I will.
+L83730 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ Then do it.
+L83729 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'll go in right now and get that eye.
+L83728 +++$+++ u490 +++$+++ m30 +++$+++ DON PRICE +++$+++ Or are you too scared?
+L84364 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Your mother came in about three in the afternoon. Her neighbor drove her, on account of your father was on business in Wichita. You were born a week early, but there were no complications. It was a perfect delivery. Now, your father was sorry to miss it, but it wasn't the custom for the men to be in the room for deliveries then, so I can't see as it would have been much different had he been there. And that's the real story of how you were born.
+L84363 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ No.
+L84362 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Not that one. The real story. Did he ever tell you that?
+L84361 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ A thousand times. He caught an uncatchable fish.
+L84360 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Did your father ever tell you about the day you were born?
+L84359 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Five-eleven. One-eighty. Regulated hypertension.  How would his son describe him?
+L84358 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How would you describe him?
+L84357 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Thirty years. Maybe more.
+L84356 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How long have you known my father?
+L84355 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ My father and I have an advantage. We never talk.
+L84354 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Glad to see you're not trying to have a heartfelt talk. It's one of my greatest annoyances, when people talk to those who can't hear them.
+L83774 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Absolutely. Be good for you to talk to him.
+L83773 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Can I see him?
+L83767 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ A pleasure.
+L83766 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Dr. Bennett. It's good to see you.  My wife, Josephine.
+L83765 +++$+++ u491 +++$+++ m30 +++$+++ DR. BENNETT +++$+++ Will.
+L84318 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'm sorry, Jenny. I am.
+L84317 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Lucky girl.
+L84316 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ And from the moment I saw her until the moment I die, she's the only one.
+L84315 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I know.
+L84314 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Don't. Don't be embarrassed. I should never have let you think that...  I am in love with my wife.
+L84307 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Go.
+L84306 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'll...
+L84305 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Please. Go. Just go.
+L84304 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Lord, I'm sorry I...
+L84303 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I can get it. I can just...
+L84302 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ It's okay, just leave it.
+L84300 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I see. I thank you for your time.
+L84299 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I won't be selling you this house, Mr. Bloom.
+L84298 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I was 18. He was 28. Turns out that was a big difference.
+L84297 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You're Beamen's daughter. Your last name is different.  You married.
+L84295 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'm sorry. Have I offended you?
+L84294 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I'm not convinced you should be happy.
+L84293 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Helping people makes me happy.
+L84291 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ It's not like you're going to lose anything. You can ask anyone in town. I've been nothing if not generous. I want the best for everyone.
+L84290 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Then I don't think so Mr. Bloom. If nothing is going to change, I'd just as soon it not change in the way it hasn't been changing all this time.
+L84289 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ In so many words, yes.
+L84287 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I'll offer you more than it's worth. And you know you won't have to move. Nothing will change except the name on the deed, you have my word.
+L84286 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ So I've heard.
+L84285 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Apparently I've overlooked this one piece of it, and I'd like to remedy that. You see, in order for the town to be preserved, the trust must own it in its entirety.
+L84284 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ No one would come out here unless they had business. And no one would have business with me except for you. You're buying the town.
+L84283 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ How did you know?
+L84282 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ You must be Edward Bloom.
+L83945 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I promise. Someday. When I'm really supposed to.
+L83944 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Promise me you'll come back.
+L83941 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I suspect it will hurt a lot.
+L83940 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ How are you gonna make it without your shoes?
+L83931 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ And when I'm 38, you'll be 48. And that's not much difference at all.
+L83930 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You're pretty good at arithmetic.
+L83929 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I'm eight. That means when I'm eighteen, you'll be 28. And when I'm 28, you'll only be 38.
+L83928 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Eighteen.
+L83927 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ How old are you?
+L83924 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ It's not a woman, it's a fish. No one ever catches her.
+L83923 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Yeah.
+L83922 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Was she nekkid?
+L83921 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Well, she... uh...
+L83920 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ What did she look like?
+L83919 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Did you see that woman?
+L84115 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ And I like you.
+L84114 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I like your stories.
+L84113 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I didn't forget. I was just working on a tangent. See, most men, they'll tell a story straight through, and it won't be complicated, but it won't be interesting either.
+L84112 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ You were talking about your wedding.
+L84111 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ There was one time when I was eleven...
+L84110 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Truth is, I've been thirsty my whole life. Never really known why.
+L84109 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Is it the medicine that's making you thirsty?
+L84108 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Well, we were all set to, but there was a complication.
+L84107 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I thought you said you didn't have a church wedding.
+L84011 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Well, it's not a short one.
+L84010 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Oh, so this is a tall tale?
+L84009 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Will never told you that?  Probably just as well. He would have told it all wrong anyway. All the facts and none of the flavor.
+L84008 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I never knew.
+L84007 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ That's because we didn't have a wedding. Your mother-in-law was never supposed to marry me. She was engaged to somebody else.
+L84004 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Please?
+L84003 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You don't need a picture. Just look up handsome in the dictionary.
+L84002 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Can I take your picture?
+L84001 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Spooning the sherbet.
+L83999 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ They were squeezing the cheese. Clanking the bottles. Licking the popsicle.
+L83998 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Stop.
+L83997 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ He was buttering her rolls. Pumping her churn. Splashing milk in her box.
+L83995 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ He was slipping her a little extra cream.
+L83994 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ No, I understand.
+L83993 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Because see, my mother was banging the milkman.
+L83991 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Terrible for her, but think about me, young boy with that kind of power. Wasn't three weeks later that the crow came back to me in a dream and said, "Your Grampa is going to die." Well, I ran right back to my parents. My father said, no, Gramps is fine, but I could see there was trepidation. And true enough, that next morning my Grampa was dead.
+L83990 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ That's terrible.
+L83989 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Means when you dream about something that's going to happen.  Like one night, I had a dream where this crow came and told me, "Your Aunt is going to die." I was so scared I woke up my parents. They told me it was just a dream, to go back to bed. But the next morning, my Aunt Stacy was dead.
+L83987 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ What were you dreaming about?
+L83986 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I was dreaming.
+L83985 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Hi. How are you feeling?
+L83958 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You're lucky to get four words out of them in English. But if you were to walk through the jungle, you'd hear them speaking the most elaborate French. Those parrots talk about everything: politics, movies, fashion -- everything but religion.
+L83957 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Really.
+L83875 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Just to be sure, you can take my pack.
+L83874 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ You're not trying to run away?
+L83873 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ That poet, Norther Winslow did. He was going to Paris, France. He must have liked it, because no one ever heard from him again.  Tell you what. You take the other way and I'll cut through here. Meet you on the far side.
+L83872 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ You know anyone's who's taken it?
+L83869 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Beats me.
+L83868 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ What did she say?
+L83860 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Okay.
+L83859 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ Okay.
+L83858 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I love every square inch of it. But I can feel the edges closing in on me. A man's life can only grow to a certain size in a place like this.  So what do you say? Join me?
+L83857 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ You don't like it?
+L83856 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Mine's Edward. And truthfully, I do want you to leave, Karl. But I want to leave with you.  You think this town is too small for you, well, it's too small for a man of my ambition. I can't see staying here a day longer.
+L83855 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ Karl.
+L83854 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What's your name, Giant?
+L83853 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ You're just trying to get me to leave, aren't you? That's why they sent you here.
+L83852 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ So why are you wasting your time in a small town? You're a big man. You should be in the big city.
+L83851 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ I can.
+L83850 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Wouldn't lie to you. And they've got all-you-can-eat buffets. You can eat a lot, can't you?
+L83849 +++$+++ u495 +++$+++ m30 +++$+++ KARL +++$+++ Really?
+L83848 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Hardly two stories in the whole place. Now I've heard in real cities, they've got buildings so tall you can't even see the tops of 'em.
+L84408 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Yes. Exactly.
+L84407 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You become what you always were. A very big fish.  And that's the way it happens.
+L84402 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Story of my life.
+L84401 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ It's unbelievable.
+L84398 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ The River!
+L84397 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You say...
+L84396 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Where are we headed?
+L84383 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Somehow, you're better. Different. You're getting ready to go. And I say...
+L84382 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Let's get out of here.
+L84378 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Okay. Okay.
+L84377 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Like this.
+L84376 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I can try, Dad. If you help. Just tell me how it starts.
+L84373 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ How I go.
+L84372 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How what happens?
+L84371 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Tell me how it happens.
+L84370 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ The river?
+L84369 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ The river.
+L84193 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I have been nothing but myself since the day I was born. And if you can't see that, it's your failing, not mine.
+L84192 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Yourself. Good, bad, everything. Just show me who you are for once.
+L84191 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What do you want, Will? Who do you want me to be?
+L84190 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ It would kill you, huh?
+L84189 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Dad, I'm about to have a kid of my own here. It would kill me if he went through his whole life never understanding me.
+L84188 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Only on the surface. But that's all I've ever seen.
+L84187 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You think I'm fake.
+L84186 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You tell lies, Dad. You tell amusing lies. Stories are what you tell a five-year old at bedtime. They're not elaborate mythologies you maintain when your son is ten and fifteen and twenty and thirty. And the thing is, I believed you. I believed your stories so much longer than I should have. And then when I realized that everything you said was impossible -- everything! -- I felt like such a fool to have trusted you. You were like Santa Claus and the Easter Bunny combined. Just as charming and just as fake.
+L84185 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I've told you a thousand facts. That's all I do, Will. I tell stories.
+L84184 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I have no idea who you are because you have never told me a single fact.
+L84183 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What, you're seeing down to my nose? My chin?
+L84182 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ The thing about icebergs is you only see 10 percent of them. The other 90 percent is below the water where you can't see it. And that's what it is with you Dad. I'm only seeing this little bit that sticks above the water.
+L84181 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Then you shouldn't have started with a question. Because people want to answer questions. You should have started with, "The thing about icebergs is..."
+L84180 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I'm trying to make a metaphor here.
+L84179 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What?
+L84178 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Dad!
+L84177 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Do I? I saw an iceberg once. They were hauling it down to Texas for drinking water, only they didn't count on an elephant being frozen inside. The woolly kind. A mammoth.
+L84176 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Do you know much about icebergs, Dad?
+L84173 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Can we talk?
+L84172 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Son?
+L84171 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Dad?
+L84170 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ But the real story is how I got the car. You see...
+L84168 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I think someone hasn't.
+L84167 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ The maple tree and the Buick. We heard it.
+L84166 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Yes.
+L84165 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Did I ever tell you about how...
+L83962 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Oh, so you know.
+L83961 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Josephine actually went to the Congo last year.
+L83960 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ It's rude to talk about religion. You never know who you're going to offend.
+L83959 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Why not religion, Dad?
+L83814 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I said this isn't how I go. The last part is much more unusual. Trust me on that.
+L83813 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I thought you weren't dying.
+L83811 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I used to do it when you were gone, remember? I used to do it a lot.
+L83810 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You know where the chemicals are?
+L83809 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I will.
+L83808 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Your mother hasn't been keeping up the pool. If you wanted to you could...
+L83807 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I'd just like to know the true versions of things. Events. Stories. You.
+L83806 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You mean, while I'm here.
+L83805 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Dad, I'm hoping we can talk about some things while I'm here.
+L83803 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You're right.
+L83802 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ There's a lot you don't know about me.
+L83801 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ When did you ever work in an office?
+L83800 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ True story.
+L83799 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Really.
+L83798 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You owe me three-fifty.
+L83797 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ What did he say?
+L83796 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ And every day I gave him a quarter. Every day. Then I got sick and was out for a couple of weeks. And when I went back there, you know what he said?
+L83795 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Okay.
+L83794 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ There was this panhandler who used to stop me every morning when I came out of this coffee shop near the office.
+L83793 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Surprise ending. Wouldn't want to ruin it for you.
+L83792 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ So how does it happen?
+L83791 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I saw my death in that eye. And this is not how it happens.
+L83790 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ No, she was old and probably senile. Maybe schizophrenic.
+L83789 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ She was a witch.
+L83788 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ The Old Lady by the swamp.
+L83787 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Truly. I saw it in The Eye.
+L83786 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Really.
+L83785 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ People needn't worry so much. It's not my time yet. This isn't how I go.
+L83783 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You learned from the best.
+L83782 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You think I'm up for it?
+L83781 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ No, but I hear it's terrible. Then you spend years trying to corrupt and mislead this child, fill its head with nonsense and still it turns out perfectly fine.
+L83780 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Did you do any of that?
+L83779 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Having a kid changes everything. I mean, there's the diapers and the burping and the midnight feedings...
+L83778 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Am I?
+L83777 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You --  -- are in for a surprise.
+L83705 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I'm not scared.
+L83704 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Your mom says I can't tell you that one anymore. You get nightmares.
+L83703 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ The one about the witch.
+L83675 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ No Dad, they don't. I do not like the story. Not anymore, not after a thousand times. I know all the punchlines, Dad. I can tell them as well as you can.  For one night, one night in your entire life, the universe does not revolve around Edward Bloom. It revolves around me and my wife. How can you not understand that?
+L83674 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Come on, Will. Everyone likes that story.
+L83673 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Friend of yours? Did you help him out of a bind?
+L83672 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Jesus Christ.
+L83671 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I am a footnote in that story. I am the context for your great adventure. Which never happened! Incidentally! You were selling novelty products in Wichita the day I was born.
+L83670 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ What, a father's not allowed to talk about his son?
+L83659 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Make him stop.
+L83658 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You can see my predicament. My wedding ring, the symbol of fidelity to my wife, soon to be the mother of my child, was now lost in the gut of an uncatchable fish.
+L84239 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I see. We need to get you one of those plant misters. We can spray you like a fern.
+L84238 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I was drying out.
+L84104 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Go out with me.
+L84103 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ How can I convince you to stop?
+L84086 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I have the rest of my life to find out.
+L84085 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ You don't even know me.
+L84084 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I called everywhere in five states and explained this was the only way I could get my wife to marry me.
+L84083 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ How did you get so many?
+L84082 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ They're your favorite flower.
+L84081 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Daffodils?
+L84074 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ But you're wrong. I do know you, at least by reputation. Edward Bloom from Ashton. See, I'm actually engaged to a boy from Ashton. Don Price. He was a few years older than you.
+L84073 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Oh.
+L84071 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Don't need to apologize to me. I mean, I'm the luckiest person you're going to find today...
+L84070 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I'm sorry.
+L84229 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ Edward, it's got your deposit slip on it.
+L84228 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ 'Fraid so.
+L84227 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ This is it? The whole vault.
+L84218 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ I'm robbing this place.
+L84217 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ So what are you up to now?
+L84216 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ That's great, Norther. I'm happy for you. I can't believe I helped.
+L84215 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ I want you to know, when you left Spectre it opened my eyes. There was a whole life out there that I was not living. So I travelled. I saw France, and Africa, half of South America. Every day a new adventure, that's my motto.
+L84214 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I don't believe it!
+L84213 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ I was astonished to see the greatest poet of both Ashton and Spectre all the way out in Texas.
+L84212 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ It's me. Norther Winslow.
+L83915 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ You're a poet. You oughta be able to. And maybe if you'd seen more, you could.
+L83914 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ I can't imagine any place better than here.
+L83913 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Norther, do you ever regret not making it to Paris?
+L83912 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ This is why you don't show work in progress.
+L83910 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ There's a lot of expectation. I don't want to disappoint my fans.
+L83909 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Really.
+L83908 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ I've been working on this poem for 12 years.
+L83903 +++$+++ u496 +++$+++ m30 +++$+++ NORTHER WINSLOW +++$+++ There is no softer ground than town.
+L83902 +++$+++ u492 +++$+++ m30 +++$+++ EDWARD +++$+++ Wait! I need those!
+L84326 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Well, therapy. And one day I realized I was in love with a man who could never love me back. I was living in a fairy tale.
+L84325 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You didn't become crazy.
+L84324 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ No, it's logical if you think like your father. See, to him, there's only two women: your mother and everyone else.
+L84323 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Logically, you couldn't be the Witch, because she was old back when he was young.
+L84267 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ My father talked about a lot of things he never did, and I'm sure he did a lot of things he never talked about. I'm just trying to reconcile the two.
+L84266 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Look, I don't know how much you want to know about any of this. You have one image of your father and it would be wrong for me to go and change it. Especially this late in the game.
+L84265 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Because he's dying.
+L84264 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Can I ask you a question? Why did you come here today? If you found this deed, why didn't you just ask Eddie?
+L84263 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I've seen him with women. He flirts. He always has. On some level, I presumed he was cheating on my mother. I just never had proof.
+L84262 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Wow. Wow, you just said it. I was expecting to dance around this for another half hour.
+L84261 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Were you and my father having an affair?
+L84260 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ This was on his sales route, so he was through here all the time. Everyone in town knew him.
+L84259 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How did you know my father?
+L84255 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I am. And you're Will. I've seen your picture, that's how I recognize you. I almost said something at the store, but it would have been awkward.  Like this.
+L84254 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Are you Jenny Hill?
+L84253 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ I wasn't expecting you.
+L84252 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Hello.
+L84251 +++$+++ u493 +++$+++ m30 +++$+++ JENNY +++$+++ Oh. Oh.
+L84351 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I loved it. It sounds peculiar, but I loved every minute of it. I did. Eddie was travelling a lot, so he was gone, but I felt like I always had a piece of him with me. A little part of his soul inside me. I could feel it. It was alive and kicking.
+L84350 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I do.
+L84349 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Do you like it, being pregnant?
+L84348 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I know. It was the same when I was carrying Will. Like clockwork.
+L84347 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I'm sorry. It seems every hour I have to...
+L84200 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I need to lie down for a bit.
+L84199 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I'm going to check on him.
+L84175 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I'll help you.
+L84174 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I'm going to get started on dishes.
+L83955 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ We'll have to pick up a copy.
+L83954 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I spent a week in Morocco for the story. It was incredible.
+L83758 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Down the hall on the right. The door sticks. You have to really pull it.
+L83757 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Yes.
+L83756 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Thank you. I'll bet you need to --
+L84336 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Is he going to be okay?
+L84335 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Your father had a stroke. He's upstairs with your mom and Dr. Bennett.
+L84334 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ What happened?
+L84164 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I am always on your side. And I think you should talk to him.
+L84163 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I need you on my side.
+L84162 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ You're not.
+L84161 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Look, I know why you like him. I know why everyone likes him. But I need you to tell me I'm not crazy.
+L84160 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ What is "true?" I've never heard my father say a single true thing.
+L84159 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ But it's not true.
+L84158 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You have to understand. When I was growing up, he was gone more than he was here. And I started thinking -- maybe he has a second life somewhere else. With another house, another family. He leaves us, he goes to them. Or maybe there is no family. Maybe he never wanted a family. But whatever it is, maybe he likes that second life better. And the reason he tells all those stories is because he can't stand this boring place.
+L84157 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Do you love him?
+L84156 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Everyone loves my father. He's a very likeable guy.
+L84155 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Do you love your father?
+L84154 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mmm, what. I know better than to argue romance with a French woman.
+L84153 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ Mmm, what?
+L84152 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mmm.
+L84151 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ But it's romantic.
+L84150 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ That's because most of it never happened.
+L84149 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ What about the details? How they fell in love. The Circus. The War. You never told me any of that.
+L84148 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ They met at Auburn.
+L84147 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ You never told me how your parents met.
+L84146 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Did you?
+L84145 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I talked with your father last night.
+L83701 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I'm going with you.
+L83700 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ You don't have to.
+L83699 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ I'm going with you.
+L83698 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Probably tonight.
+L83697 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ You need to go.
+L83696 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ It's more than they thought. They're going to stop chemo.
+L83695 +++$+++ u494 +++$+++ m30 +++$+++ JOSEPHINE +++$+++ It's bad.
+L84346 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Yes. Thank you.
+L84345 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mom, do you want some time with Dad?
+L84341 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ That's okay?
+L84340 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I'll stay. Why don't you go home with Josephine and I'll stay tonight.
+L84339 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I don't suppose one of us could stay with him. In case he...  In case he wakes up, one of us should be there.
+L84249 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Heavens no. We had a hard enough time keeping the mortgage on this place.
+L84248 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ So you never bought any land.
+L84247 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I suppose your grandmother's house when she passed on. But we sold that right away. Your cousin Shirley bought it.
+L84246 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Did you and Dad have any other property?
+L84245 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Yes?
+L84244 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mom?
+L84243 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ He just fell asleep. Josephine's with him.
+L84242 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Is he awake?
+L84198 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Not everything your father says is a complete fabrication.
+L84197 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ That really happened?
+L83982 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Do you know who that is?
+L83981 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ No. But it's weird. She seemed to recognize me.
+L83980 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Was she one of your teachers?
+L83979 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mom, do you know who that is? Blonde hair.
+L83978 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Before I forget, your father has papers in the basement I'd like you to go through. I wouldn't know what's important.
+L83977 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Well, clearly you don't. But I'm not the mystery you're trying to solve right now.
+L83976 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ But I understand you, Mom. I always have.
+L83975 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ I know it's not easy. Just remember, he didn't choose to be your father and you didn't choose to be his son. You just ended up together. You could pick numbers out of a dark bag and it'd be just the same. If you ask me, it's a wonder parents and children can stand each other at all.
+L83974 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ True. But I've known him my whole life, and I don't feel like I know him at all. Or ever will.
+L83973 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Yes, you both think William Bloom is a very smart man.  The problem is, you only see me as your mother, and not as someone's wife. And I've been his wife longer than I've been your mother. You can't discount that.
+L83972 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Josephine and I have a lot in common.
+L83971 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ No it's not. It's exactly the same. Your father and I met, we dated, and we married -- we chose each other -- because we understood each other on some fundamental level. Just the same as you two.
+L83970 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Yes. But that's a different...
+L83969 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Would you say you understand Josephine?
+L83968 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Yes, Will, I do. And don't presume things you don't know.
+L83967 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How is that possible? I mean, you try to ask him a question and suddenly it's another one of his stories.  You can't honestly say you know him.
+L83966 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Yes.
+L83965 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ What I mean is, do you really know what's going on in his head?
+L83964 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Of course.
+L83963 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Mom, would you say you understand Dad?
+L83953 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Really! That's wonderful.
+L83952 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ I don't know if you've seen it, but Josephine has some photos in the most recent Newsweek.
+L83764 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ You don't talk about those things. Not yet.
+L83763 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How much time does he have left?
+L83762 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ He's impossible. He won't eat. And because he won't eat, he gets weaker. And because he's weaker, he doesn't want to eat.
+L83761 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ How is he?
+L83760 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ He's up with your father.
+L83759 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ Is that Dr. Bennett's car?
+L83751 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ You didn't need to do that. You just didn't.
+L83750 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ We rented a car.
+L83749 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ Ruth McHibbon offered to pick you up at the airport.
+L83748 +++$+++ u498 +++$+++ m30 +++$+++ WILL +++$+++ We swam. The Atlantic, it's not that big really.
+L83747 +++$+++ u497 +++$+++ m30 +++$+++ SANDRA +++$+++ How did you get here?

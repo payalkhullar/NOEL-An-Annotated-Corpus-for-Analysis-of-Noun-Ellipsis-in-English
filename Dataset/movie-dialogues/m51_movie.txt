@@ -1,0 +1,306 @@
+L171359 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I'm gonna be on TV! Just like Diane Sawyer.
+L171358 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Our baby's going to Nationals! Lincoln, Alabama -- look out!
+L171357 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I just, I just can't believe it. I'm Minnesota's American Teen Princess!
+L171306 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Okay, sweetie, that's all right. Let's go. Let's go.
+L171305 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I gotta work with these women.
+L171304 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ I'm sorry. They're just starin'.
+L171303 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Loretta, don't do that.
+L171302 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ I got it! Yeah, why don't ya take a...
+L171301 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Airport Ho-Jo!
+L171300 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ All right, say "Airport Ho-Jo."
+L171298 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ There's an indoor swimming pool! Ahhhh!
+L171297 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Right by the airport -- Oh, Amber...
+L171296 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I'll be stayin' overnight at... The Airport Howard Johnsons!
+L171295 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ What? For chrissakes, spit it out.
+L171294 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ It's all the stuff I get to do. Oh my God, oh my God... Okay, okay... We get a "personal consultation" with a make-up artist -- Eeeh! Okay, um, there'll be a choreographer to the stars and, oh no -- No way. Oh... My... God!
+L171293 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Ah! It's from State! Oh my God!
+L171292 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ This came for you, sweetie.
+L171291 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I never liked her, but she didn't deserve to die in the belly of a swan like that. The whole thing's just kinda sad and lame at the same time.
+L171290 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Do you guys want some shots? I'm buyin'.
+L171289 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Okay.
+L171288 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ No. It's pure bullshit, sweetie. You're lucky as hell, so you might as well enjoy it. Let's get you a root beer float.
+L171287 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Really?
+L171286 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ You stop right there. You are a good person. Good things happen to good people.
+L171285 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I don't know. I just didn't wanna win like this.
+L171284 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ What is wrong with you?
+L171217 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ ...Yah -- well, at least, y'know, I got to perform. And Mom got to see me.  I guess number eight only worked for Diane Sawyer...
+L171216 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Thank God for bunge cords.
+L171215 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh, Mom's okay. They're just givin' her a ride back. She almost blew outta the back of Loretta's pick-up on the way over.
+L171066 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Well God-love-ya for thinkin' I still could.
+L171065 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Loretta, never have kids.
+L171064 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Oh, shut up. I thought it might help you get some sleep.
+L171063 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ My mom wanted me to have this?
+L171062 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ You-betcha.
+L171061 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Really, Loretta?
+L171060 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ That was your mom. She wanted you to have this.
+L171008 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh-yah.
+L171007 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ "Once a carnie, always a carnie."
+L171004 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ No. Mom said if I did, she'd look up my dad and marry him.
+L171003 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Hell-no, she ain't quittin'.
+L170984 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Yeah, you betcha...
+L170983 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh my God. I'm so dead...
+L170982 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Simple. Just say, "Mom, I know you sacrificed everything -- relationships, dreams -- your tummy, ass and thighs -- all to bring me into this world. All so I could have tap lessons and be in the pageant -- the same one you were in. But, y'know what? I'm quittin'." There. Easy as pie.
+L170981 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ So, what do I say?
+L170978 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh God, I'm dead...
+L170977 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ I heard you, I was just tryin' to scare you into changin' your mind. Oh for Chrissakes, Amber, the woman clung to your tap shoes while flyin' through the air like a Goddamn lawn dart!
+L170976 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I -- I'm quittin' the pageant.
+L170975 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ You're what?!
+L170961 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Don't let that worry you, Annette!
+L170960 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Mommmm! I'll be right behind you in the hearse!
+L170959 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ She's right over there.
+L170958 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Where is she?!
+L170957 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ She's alive, sweetie.
+L170956 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Is Mom okay?
+L171169 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Oh-you-beccha.
+L171168 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yah?
+L171167 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Then do it for Peter. Mrs. Leeman used to call him a "skinny little fag" when he'd bag her groceries. He'd pop his Nancy-belt if his old jacket somehow, I don't know, got her back.
+L171166 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Lis, I want to, I really do, but... Oh, I can't.
+L171165 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Oh c'mon, I love 'em, but you know they only had me 'cause Peter needed a kidney.
+L171164 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Your parents'd kill you.
+L171163 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Shut up, yous guys. Look, Amber, I'm not gonna win. And let's be honest, a family only needs one "Liza" and you know Peter's got much better legs than me.
+L171160 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ My jacket. Take it 'cause, y'know, I got my costume okay'd before the pageant. You can wear it.
+L171159 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ "Here," wh-wh-what?
+L171158 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Amber? Here.
+L171157 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ I can't believe this is happenin'. I can't believe she said you couldn't...
+L171156 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I -- I -- I -- I -- I --, j-uh-j-uh- just wanted to compe-e-e-e-ete.
+L171155 +++$+++ u809 +++$+++ m51 +++$+++ LISA +++$+++ Oh, Amber...
+L171149 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ But, you -- I mean... It's not my fault. I -- I... Please? I didn't do anything wrong...
+L171148 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh really -- I don't think so.  Uh, Amber, I hate to be the bearer of bad news, but rules state that a costume must be okay'd at least a week in advance. And this...  This is why we have the rule. My goodness gracious, I couldn't allow a neckline this low on stage. We have kids in the audience.
+L171147 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I -- I'm wearin' this costume. I'm, uh, I'm gonna do my talent tonight.
+L171146 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Huh?
+L171145 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Mrs. Leeman?
+L170727 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh, yeah, sure. You know, every pageant is special, but this one is extra-special to me. When I was seventeen, I don't know if you know this, but I was crowned Mount Rose's American Teen Princess. And this year... drum roll please, my lovely daughter, Rebecca Ann Leeman is competin'.
+L170726 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I'm lucky I have an after-school job where I can practice my talent.
+L170951 +++$+++ u812 +++$+++ m51 +++$+++ MR. LARSON +++$+++ No. Loretta called. There's been a... a fire.
+L170950 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Relax, that's my ma's code for, "Bring home milk and a carton-a Luckys."
+L170949 +++$+++ u812 +++$+++ m51 +++$+++ MR. LARSON +++$+++ You hafta go home. There's some kinda emergency at the trailer park.
+L170948 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I'm gonna need more caps.
+L170947 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ No, don't say it. Another stray bullet to the head.
+L170946 +++$+++ u812 +++$+++ m51 +++$+++ MR. LARSON +++$+++ Amber...
+L170939 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ -- red nose and ears. I know, I know.
+L170938 +++$+++ u812 +++$+++ m51 +++$+++ MR. LARSON +++$+++ Well, your "cheap whore" is this family's "lovin' mother."  The Clemens said to make him look like he just came from snowmobilin'. Pink cheeks, and...
+L170937 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Sorry. I just thought she might not wanna meet her Maker lookin' like a cheap whore.
+L171214 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ It's okay.
+L171213 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ We was robbed.
+L171212 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Bye mom.
+L171002 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I love you much.
+L171001 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ C'mere. I love you so much.
+L171000 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ It's me... I just don't want this to be the thing you'd do over. This pageant's your ticket outta here. I know you can win, Amber.
+L170999 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ God I hope that's you and not your concussion talkin'.
+L170998 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Honest to God, if I got to do it over? I'd start walkin' outta this town the minute I took my first step. Practically the only thing I wouldn't do different is have you...
+L170997 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ That's it, I'm goin'...
+L170996 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Let me tell you "scary," Amber. Look at me. Do you wanna look like you been rode hard and put away wet at my age? I'm a "lifer" here. Best I can hope for is to end up in a descent "raisin ranch" where they'll change me twice a day.
+L170995 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh, c'mon... First the picture of Tammy, then Brett Clemens, now this? It's scary.
+L170994 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ You're not goin' through this again? You? You're not the one who knows how Jiffy Pop feels.
+L170993 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Nice mouth you got there, Mom, but I -- I'm not goin' through this again.
+L170992 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Would yous boys excuse us a second? Loretta, you too.
+L170991 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Ow!
+L170990 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ What?!
+L170989 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Okay. Yesterday I... I got this picture. So I kinda, y'know, I'm thinkin' no. I'm gonna, I -- I -- I'm gonna quit the pageant.
+L170988 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ I ain't lettin' go ktil you tell me what's up. I'm reaching' a point where I'd kill someone for the nicotine on their fingernails.
+L170987 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Mom!
+L170986 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Mom, look, don't say anything. First of all, I'm not pregnant.
+L170985 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Go on! Get out!
+L170965 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Ruined a brand-new pair of Lee Press- ons.  Well, I sat down for a beer and KA- BLEWEY! Next thing I know, somethin' blows through my kitchen window. Next thing I know, I'm ass up in Loretta's flower bed.
+L170964 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh, Mom, it's so ugly.
+L170821 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Oh... How quickly they grow up.  Hey, if they ask you to take off your shirt, get the money first.
+L170820 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ They're from L.A. They wanted to see my room and film me for their movie.
+L170819 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Oh shit!
+L170818 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ That's my mom.  I'll get 'em in a sec.
+L170817 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Hey, Amber, y'get my smokes?
+L170816 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ ...Yah -- 1963. Her beauty worked against her when she started as a reporter in Louisville, her hometown. Those were different times.
+L171143 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Good, 'cause this isn't an American Teen Princess Pageant -- it's, it's Nazi Germany!
+L171142 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Amber Atkins! That is not American Teen Princess language!
+L171141 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ This, this... This is bullshit!
+L171140 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Sorry. I -- I don't make the rules.
+L171139 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ But, doesn't someone taking your costume so you can't compete, overrule that rule?
+L171138 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Amber, I'm sorry. I really am. But you know the rules. All talent costumes hafta be okay'd by Gladys before the pageant.
+L171137 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Mrs. Clark, why are you doing this to me? Why're you pretendin' you don't know what's goin' on?
+L171102 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ We all do. Now let's go.
+L171101 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I hate her!
+L171084 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ No, wait. It -- it was here before the openin' number... wait. What am I sayin'? I should just ask you, Becky. Where is it?
+L171083 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Uh, Amber? We're not puttin' on our Talent costumes. You need to put on your "Physical Fitness" outfit. And let's shake a leg, ladies.
+L171082 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh my God! My -- my tap costume's gone.
+L171081 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Okay, okay!  Listen-up. Coupla notes from last night's dress rehearsal.  Number one, Gladys says a coupla yous are gettin' sexy with your hips durin' the "Physical Fitness" routine...
+L171094 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Bitch!
+L171093 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ If you want seconds, then I'll make sure it's hot enough for ya.
+L171092 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh, I'll "get it." I'll "get it" all right. I might even take seconds.
+L171091 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ Well, as my mother says at Sunday dinner, "Come and get it," bitch!
+L171090 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Oh -- oh, you bring me some of that snotty attitude, Becky -- bring it on.
+L171089 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ Well then, you better be willin' to back it up, 'cause you're talkin' like crazy.
+L171088 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I just did.
+L171087 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ If you're gettin' at somethin', you better just say it.
+L171086 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ You heard me. Where is it?
+L171085 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ What?
+L170810 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ Oh, Amber, like you're the only one who visits Mary.
+L170809 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ What're you doin' here?
+L171252 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yes, Leslie!
+L171251 +++$+++ u807 +++$+++ m51 +++$+++ LESLIE +++$+++ I know it doesn't matter, but on my inner thighs.
+L171250 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yes...
+L171249 +++$+++ u807 +++$+++ m51 +++$+++ LESLIE +++$+++ And the bite marks on my ears?
+L171248 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yeah...
+L171247 +++$+++ u807 +++$+++ m51 +++$+++ LESLIE +++$+++ Amber, if I die from these fumes, will you be sure to cover the hickies on my neck?
+L171193 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yah -- I brought her some flowers this morning. She's in the room next to my mom. She's super happy.
+L171192 +++$+++ u807 +++$+++ m51 +++$+++ LESLIE +++$+++ So, anyone talk to Janelle?
+L171117 +++$+++ u807 +++$+++ m51 +++$+++ LESLIE +++$+++ Here, have some.
+L171116 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Here, I didn't get any.
+L170894 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Bye.
+L170893 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ Okay... well, bye.
+L170892 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Yah-sure, fine... fine.
+L170891 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ Well, uh, I'm cuttin' out early today to do a little duck huntin'... but, uh, maybe I could call you tonight.
+L170889 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ So if, uh, you wanted to do somethin'...
+L170888 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ I know.
+L170887 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ So, uh, I -- I'm not really busy Friday. I just said that -- y'know.
+L170885 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Then it must be Wednesday.
+L170884 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ Oh man, you got leutefisk in your hair.
+L170882 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ NO...  It's all right. I got it. Don't worry about it.
+L170881 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Here, I'll take it. It's my job.
+L170877 +++$+++ u796 +++$+++ m51 +++$+++ AMBER +++$+++ Hi.
+L170876 +++$+++ u799 +++$+++ m51 +++$+++ BRETT +++$+++ Hi...
+L171361 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ They told me to practice.
+L171360 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Annette, just use your hand.
+L171211 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Okay. Take her purse.
+L171210 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ We was robbed.
+L170974 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Annette, why don't you just see if there's any beer left in that can and relax a bit.
+L170973 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Oh-Jesus-Mary-n-Joseph, she's pregnant!  If you are -- come back, sweetie. Mommy wants to talk, then KILL YOU!
+L170930 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Anyone?
+L170929 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Go on home, Loretta. Come on. Go on, the party's over.
+L170928 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ So? Be real easy.
+L170927 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Don't fall for it. She lives two trailers down.
+L170924 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ I got a hairdo.
+L170923 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ You don't know where this is gonna...
+L170922 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ All right, they're makin' a movie.
+L170921 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ They're makin' a movie, here, goddamn it.
+L170920 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ I'll be right back. See ya later.
+L170919 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Well, excuse me, Annette, but I'm braggin' up your kid, here.  Amber's gonna be the next Diane Sawyer, y'know...
+L170918 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ "Most smartest?" Oh, that's good, Loretta. Make sure you get a picture of that. "Most smartest." We're cuttin you off and sendin' you home.
+L170917 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ She's the prettiest, y'know. The best damn tapper. The most smartest...
+L170916 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Why don't you paint a big red target on your ass, Loretta.
+L170915 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Let's just say who should win, who deserves to win is Amber.
+L170914 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Oh, Christ, it's true.
+L170913 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Shut it up, Loretta.
+L170912 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Y'know, if you have, you got all the pictures of the winner you need.
+L170911 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Loretta, shut it.
+L170910 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Say, yous boys been to the Leeman's?
+L170907 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ I tell Annette, I says, "You talk to me durin' my stories, you might as well be talkin' to the wall."  You guys want a beer?
+L170906 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ This here's Loretta.
+L170905 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Oh, naw. Hi.
+L170904 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ It's just the guys that are... you know, makin' the movie about the pageant. I told you about 'em.
+L170903 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Hi.
+L170902 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Hi.
+L170901 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ You could be quiet.
+L170900 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ Are we on "Cops" again?
+L170899 +++$+++ u797 +++$+++ m51 +++$+++ ANNETTE +++$+++ Oh, Jesus H. Christ!
+L170898 +++$+++ u810 +++$+++ m51 +++$+++ LORETTA +++$+++ What do you mean, they take out her butt?
+L171246 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Listen, little missy, this cost your dad a pretty penny. Now get your ass up there and show me some teeth.
+L171245 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ My dress'll reek.
+L171244 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh for chrissakes, everything smells like that in Mexico.
+L171243 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ It smells funny. Like gasoline.
+L171242 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ C'mon, Rebecca, you wanted it. Now get up there. Ride it side-saddle if you have to -- like a horse. C'mon, now.
+L171227 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ She's the winner and we're going to state.
+L171226 +++$+++ u798 +++$+++ m51 +++$+++ BECKY +++$+++ Well, it's all happenin' so fast. Goodness-gracious, it hardly seems real, y'know? I mean, I won! I'm the winner! I'm going to State!
+L171345 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ The important thing is that we have a winner...
+L171344 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ The bitch.
+L171343 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ All right, then.
+L171342 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ Wisconsin.
+L171341 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ What?
+L171340 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ That bitch from...
+L171339 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ Ohio...
+L171338 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ Dakota.
+L171337 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ Yeah.
+L171336 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ People, people -- wait, wait a minute, here. Uh, while we haven't ruled out sabotage from neighboring state pageants -- Iowa, Wisconsin, North Dakota...
+L171317 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ Mm-hm.
+L171316 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ Okay?
+L171315 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ That's right.
+L171314 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ We're also the co-founders of the Minnesota Modeling Academy. Applications are at the tiki bar. We'll wave the fifty dollar application fee if you list a friend and put her address.
+L171313 +++$+++ u800 +++$+++ m51 +++$+++ COLLEEN +++$+++ Correction. This spunky monkey on my right is Terry Macey. And we are your Minnesota American Teen Princess State Board.
+L171312 +++$+++ u814 +++$+++ m51 +++$+++ TERRY +++$+++ I'm a mirror.
+L170718 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ "Can I? I'm Amer-I-Can!" People ask me where I get this. I don't know, it's... maybe a gift from God or somethin'.
+L170717 +++$+++ u801 +++$+++ m51 +++$+++ DOCUMENTARIAN +++$+++ Can you remember the theme of your favorite pageant?
+L170716 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ "U.S.A. is A-okay."
+L170715 +++$+++ u801 +++$+++ m51 +++$+++ DOCUMENTARIAN +++$+++ And the year before that?
+L170714 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Last year? It was, "Buy American."
+L170713 +++$+++ u801 +++$+++ m51 +++$+++ DOCUMENTARIAN +++$+++ So what was the theme of the pageant last year?
+L170690 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh yah-sure, I know what some of your big city, no bra wearin', hairy- legged women's libbers say, "Pageants are old-fashioned" and, uh, and "demeaning" to the girls --
+L170689 +++$+++ u801 +++$+++ m51 +++$+++ DOCUMENTARIAN +++$+++ Do you think that most people would say that teenage beauty pageants are a good idea?
+L171229 +++$+++ u813 +++$+++ m51 +++$+++ PREGNANT FRY GIRL +++$+++ I wonder how she's gonna fix that one.
+L171228 +++$+++ u802 +++$+++ m51 +++$+++ FRY GIRL #1 +++$+++ What a surprise. Gladys Leeman's finally gonna go to State. And she'll probably ride on Becky's ass all the way to Nationals, too.
+L170791 +++$+++ u802 +++$+++ m51 +++$+++ FRY GIRL #1 +++$+++ Yeah.
+L170790 +++$+++ u813 +++$+++ m51 +++$+++ PREGNANT FRY GIRL +++$+++ Yeah. And they say smokin' is bad for your health.
+L170789 +++$+++ u802 +++$+++ m51 +++$+++ FRY GIRL #1 +++$+++ Girls check in, but they don't check out.
+L170788 +++$+++ u813 +++$+++ m51 +++$+++ PREGNANT FRY GIRL +++$+++ This pageant's like a roach motel.
+L170787 +++$+++ u802 +++$+++ m51 +++$+++ FRY GIRL #1 +++$+++ Yah -- yah. Everyone says this is a big accident? She got iced because she wins everything, and this time someone didn't want her to win.
+L170786 +++$+++ u813 +++$+++ m51 +++$+++ PREGNANT FRY GIRL +++$+++ Tammy Curry?
+L170785 +++$+++ u802 +++$+++ m51 +++$+++ FRY GIRL #1 +++$+++ ...Oh, yeah-right. I ain't gonna be in no goddamn pageant! Look what happened to that dork-ass farm girl.
+L171275 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Let go! Let go of me. Oh my God, it's COPS!
+L171274 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ That's enough!
+L171273 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Becky was my only shot at state!
+L171272 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ So help me, Gladys.
+L171269 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Guess it wasn't a garage sale as much as it was a bake sale. Ah- hahahahahahahaha!
+L171268 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Gladys! Stop it!
+L171267 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Hey, Ted, sorry. I didn't know your family was in the garage when I set it on fire!
+L171234 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Yah -- Gladys had me order that swan special made from Mexico  in case Becky won. I do a lotta business with those people. I always offer to pay 'em in tacos.  Whoo, they love that.
+L171233 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Hey! Turn that float around. You think a swan's gonna swim ass first up Main Street?
+L170838 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Yeah, yeah, the Jew.
+L170837 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Sammy Davis, Jr., honey.
+L170836 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Yah -- she's damn near as good as that little black fella -- with the glass eye.
+L170830 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Oh, all right  How soon they forget where all this comes from.
+L170829 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Lester?
+L170826 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ We're not in the showroom, Dear.
+L170825 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ Hey, ya like it? Open it... Yah -- the globe. Pull at the equator there.
+L170824 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh, Lester. He loves his weather, y'know.
+L170823 +++$+++ u808 +++$+++ m51 +++$+++ LESTER +++$+++ ...You betcha. S'posed to be colder- n-a witches tit tonight...
+L171261 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ I swear to God she can't do anything by herself.
+L171260 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Enid ate a whole pan!
+L171259 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ This is -- what?
+L171258 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ We need more bars!
+L171257 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ What!
+L171256 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Uh, Gladys?
+L171255 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Okay, I designed the float, you know. And, what's gonna happen here is that this is going to look like a glistening lake beneath the swan.
+L171015 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Number one, American Teen Princess' don't cross their legs like streetwalkers.
+L171014 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Okay, everybody, listen up!
+L171013 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ So, remember the three most important parts of a good interview...
+L170781 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Yeah.
+L170780 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ You know that sometimes it's hard to understand God's great plan.
+L170779 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ It's always hard to see the young ones called home, especially on an exploding thresher. It's just so odd and gross.
+L170778 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Well, you know, I think everyone's doing really well considering the fact that she was so young.
+L170712 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ "Proud... to be... an... American."
+L170711 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Oh! What is it?
+L170709 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ All right, let's go.
+L170708 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ I said I'd move if a cripple came. Let's just run in the store and pick out some outfits.
+L170707 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ It's a two-hundred dollar fine!
+L170706 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ You'd think they'd build the parking lot of America to go with the Mall of America!
+L170705 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Oh, there's a parking space over there. Oh, no, that's just a compact. Sorry.
+L170704 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ That's why we Lutherans use grape Koolaid for the blood of Christ.
+L170703 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Iris, stop!  It's not his fault. The communal wine just proves too temptin' for some of them.
+L170702 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Oh, my!  Hello, Father Donigan! Sidewalks, sidewalks?
+L170701 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Gladys -- Gladys! Look out!
+L170700 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ Y'betcha, Iris. We still need a third judge and we need to think of a theme.
+L170699 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ Nothin' too showy!
+L170698 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ ...Today's "To Do" list includes a trip to the Mall of America. We need outfits for the "Physical Fitness" number --
+L170696 +++$+++ u806 +++$+++ m51 +++$+++ IRIS +++$+++ A.k.a. Minneapolis -- St. Paul.
+L170695 +++$+++ u803 +++$+++ m51 +++$+++ GLADYS +++$+++ ...that filth is better left in the "Sin Cities."
+L171241 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ There's your paint can. The next time you drink window cleaner, I'm just gonna leave it in ya.
+L171240 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ I want to get the big bag of little donuts.
+L171239 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ You get nothing, Hank, okay?
+L171238 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ I want to have the big bag of little donuts.
+L171237 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Let's get this straight right now. We wouldn't have been late at all if it wasn't for you.
+L171189 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Come on! Hankey here can't help it if he was born crazier than a shithouse rat!
+L171188 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ EE-AAAYEEEE-AAAAYOUIAAAEEEEEEEE!
+L171038 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Close up shop!
+L171037 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ Harold!
+L171036 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Close up shop. Close up shop, Hank.
+L170856 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Don't make me kick-ya where the good Lord split-ya.
+L170855 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ I will if you shut your piehole.
+L170854 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Well, Mom's dead, so shut your fly trap.
+L170853 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ Ow, Harold -- Mom said not the head.
+L170852 +++$+++ u805 +++$+++ m51 +++$+++ HAROLD +++$+++ Shut up, Hank. This here's business.
+L170851 +++$+++ u804 +++$+++ m51 +++$+++ HANK +++$+++ Are we on "Cops?" Are we on "Cops?" Are we on "Cops?"
+L170757 +++$+++ u811 +++$+++ m51 +++$+++ MR. HOWARD +++$+++ What, you deaf? I say shut up -- shut up -- SHUT UP!  Cut her outta this!
+L170756 +++$+++ u815 +++$+++ m51 +++$+++ TINA +++$+++ Oh, I almost forgot...  I got my acceptance to Tokyo University.
+L170755 +++$+++ u811 +++$+++ m51 +++$+++ MR. HOWARD +++$+++ No! We not like to hear it! Go to your room and shut up!
+L170754 +++$+++ u815 +++$+++ m51 +++$+++ TINA +++$+++ Mom, I just finished the third movement of that concerto I was working on. I put, like, this techno beat on this Japanese folk tune -- wanna hear it?
+L170751 +++$+++ u811 +++$+++ m51 +++$+++ MR. HOWARD +++$+++ Tina! Tina!! TINA!!!
+L170750 +++$+++ u815 +++$+++ m51 +++$+++ TINA +++$+++ I'm sorry, Dad, but with all due respect, my name isn't "Tina," it's Seiko.
+L170749 +++$+++ u811 +++$+++ m51 +++$+++ MR. HOWARD +++$+++ English! English, you stupid little retard! We America now, Tina!
+L170748 +++$+++ u815 +++$+++ m51 +++$+++ TINA +++$+++ Excuse me, Father, Mother, when are we moving back to Tokyo? I can't stand this place anymore. They put butter on everything.

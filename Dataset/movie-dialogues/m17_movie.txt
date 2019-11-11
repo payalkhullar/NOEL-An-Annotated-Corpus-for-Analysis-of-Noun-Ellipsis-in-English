@@ -1,0 +1,578 @@
+L31667 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Thank you.
+L31666 +++$+++ u280 +++$+++ m17 +++$+++ ORDERLY +++$+++ I'm an orderly, not a bleeding psychiatrist! I push things about, but I've little say what happens to them.
+L31665 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ You know, did he seem depressed? Do you think he'll eat the food?
+L31664 +++$+++ u280 +++$+++ m17 +++$+++ ORDERLY +++$+++ What do you mean, 'how did he look'?
+L31663 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ How did he look?
+L31662 +++$+++ u280 +++$+++ m17 +++$+++ ORDERLY +++$+++ The American? Yes, duck.
+L31661 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Has the patient in twenty-one gotten his tray yet?
+L32200 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I doubt it. But it's something to do.
+L32199 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David?
+L32198 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Nurse Hobbs said there's a disturbance in Leicester Square involving some sort of mad dog.
+L32135 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Tea would be nice.
+L32134 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What shall we do?
+L32060 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I expect you shortly.
+L32059 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No, a cab will be faster.
+L32058 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Shall I send a car?
+L32057 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He's fine. We'll come right over.
+L32056 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You're certain he's lucid? You won't need any help?
+L32055 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, Doctor.
+L32054 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Right. Now listen carefully. I want you to bring David here. I want him in my care. I'll notify the police that we've found him. It is imperative that you bring him straight to the hospital. Do you understand?
+L32053 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, I should think so.
+L32052 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Could you get here without any trouble?
+L32051 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No, not really.
+L32050 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Is David acting strangely?
+L32049 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No, why?
+L32048 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Have you read the papers today? Have you listened to the radio or television?
+L32047 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, he is. He's very excited and confused, but he's not crazy, if that's what you mean.
+L32046 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ The zoo? Is he rational?
+L32045 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He doesn't remember. He woke up at the zoo.
+L32044 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Is he all right? Why didn't you call me? Where was he?
+L32043 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He's here.
+L31993 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Let's call the police and see if they can help us find our wandering boy.
+L31992 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What shall we do?
+L31991 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Oh, I don't mean running about on all fours and howling at the moon. But in such a deranged state he could harm himself, or perhaps others.
+L31990 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Dr. Hirsch?
+L31989 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ David has suffered a severe trauma. I myself witnessed some form of mass neurosis in East Proctor. If all the villagers believe that Jack Goodman was killed by a werewolf, why shouldn't David? And then it follows that if he survived an attack by a werewolf, wouldn't he himself become a werewolf the next full moon?
+L31988 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Surely you're not suggesting...
+L31987 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No. He knows no one in London, besides me. I shouldn't have left him alone.
+L31986 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You've absolutely no idea where David might be?
+L31985 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I think the village of East Proctor is hiding some dark and terrible secret. I'm convinced that, like David, they believe in this werewolf.
+L31984 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ And what else?
+L31983 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ They were lying. There were no witnesses, no escaped lunatic. The whole community is hiding the truth of what actually happened up there.
+L31982 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes.
+L31981 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I tried to investigate the attack. There are no records. The case was closed and now they've 'misplaced' the file. David's lacerations were cleaned and dressed when he arrived here and yet supposedly no doctor examined him before I did. The Goodman boy is already in the ground so he's no good to us. So I went to the pub in East Proctor where I was convinced of two things.
+L31980 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Dr. Hirsch, what's wrong? Is this more serious than I know?
+L31979 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Warn him?
+L31978 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David says Jack comes to warn him.
+L31977 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ What did he say?
+L31976 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes.
+L31975 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Has his friend appeared to him again?
+L31974 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Well, yes, but he seems to be more upset by the death of his friend.
+L31973 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Alex, has David persisted in his werewolf fantasies?
+L31972 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He's not?
+L31969 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ At my flat. I'm off at midnight and...
+L31968 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ It's a full moon. Where is he?
+L31967 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, sir.
+L31966 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Oh dear girl, your extracurricular activities are of no consequence to me. I don't give a damn who you sleep with. I'm concerned about David.
+L31962 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Come to my office, Miss Price.
+L31961 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ It's all right, Susan. Yes, Doctor, I have.
+L31591 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, I believe he did.
+L31590 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Did he say a wolf?
+L31557 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No, sir. Of course, sir. Good day, Doctor.
+L31556 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ The police report said an escaped lunatic attacked them. He must have been a very powerful man. Although I really don't see that it is any of your concern, Miss Price.
+L31555 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What happened to them?
+L31554 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ That would be Jack Goodman, the boy who was killed.
+L31553 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He said 'Jack'.
+L31552 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ What exactly did he call out?
+L31551 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, Doctor?
+L31550 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Oh, Miss Price?
+L31549 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, Doctor.
+L31548 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Go about your duties.
+L31547 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Dr. Hirsch?
+L31546 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Can I be of service, Miss Price?
+L31542 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Miss Gallagher, surely you must perform some function here at the hospital.
+L31541 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Dr. Hirsch, Mr. Kessler cried out a minute ago.
+L32119 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Control!?! What control!?! Get away from me!
+L32118 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, don't lose control.
+L32117 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Leave me alone, dammit! You people are crazy! I've got to get away from here! I've got to do something!
+L32116 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, let's go now.
+L32115 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hopeless. It's hopeless.
+L32106 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you shut up!?!!
+L32105 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Sir, he's very upset. His friend was killed and...
+L32093 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I swear, I don't know this girl.
+L32092 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ We had an argument. He's being silly.
+L32091 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What?
+L32090 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ He's playing a stupid joke, sir.
+L32087 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Rational!?! I'm a fucking werewolf, for Christ's sake!
+L32086 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, please be rational. Let's go to Dr. Hirsch.
+L32085 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack is dead. Look, six people have been killed. I'm going to the police.
+L32084 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Jack is dead!
+L32083 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I am going to the cops. There's a full moon tonight. Jack was right. I...
+L32082 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, stop!
+L32081 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Six people mutilated? It had to be me, Alex.
+L32080 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, what are you doing?
+L32077 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Pull over.
+L32076 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ But...
+L32065 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I don't know why I feel so good. I haven't felt this good in a long time.
+L32064 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Dr. Hirsch will know what to do.
+L32063 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I should be committed.
+L32062 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ The next corner we can get a cab.
+L32037 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I said goodbye to you. I was locked out of the flat. I climbed the wall and came in through the bathroom window. I started to read and then I was naked at the zoo!  I guess I am out of my fucking mind.
+L32036 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Don't you remember?
+L32035 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Waking up at the zoo, that's not so insane. Having no clothes on? That's insane. What did I do last night, Alex?
+L32034 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ The zoo?
+L32033 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Alex, I've lost my mind. I woke up at the zoo! But you know what? I feel terrific!
+L32032 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm freezing.
+L32031 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David! Where on earth have you been!?!
+L31919 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ See you later.
+L31918 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I'm off. There's food in the fridge.
+L31917 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A doper werewolf.
+L31916 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I've left those pills for you.
+L31915 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Okay.
+L31914 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Listen, if you get too anxious, call me at the hospital, okay?
+L31913 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yeah, I do, but go to work.
+L31912 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, do you want me to stay here tonight?
+L31911 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Werewolves simply do not exist.
+L31910 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ It's silly of you to be apprehensive.
+L31909 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Tell me that it's silly of me to be apprehensive.
+L31908 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Anything.
+L31907 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Do me an enormous favor?
+L31906 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Let me go now, you'll make me late.
+L31852 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ That's good, Alex.  Reassure me.
+L31851 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Tomorrow is the full moon.
+L31850 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I wasn't hallucinating.
+L31849 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ But, David.
+L31848 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I was awake and he was in my room.
+L31847 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, you don't honestly believe that in reality your friend Jack rose from the grave to breakfast with you? Do you really?
+L31846 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Good.
+L31845 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Of course.
+L31844 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you be here in about fifteen minutes?
+L31843 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes?
+L31842 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Alex?
+L31841 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ It's nice to see you.
+L31840 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It's nice to see you.
+L31839 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, perhaps you'd like to watch the telly while I take a shower.
+L31838 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ There is only one bed.
+L31837 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ The bedroom.
+L31836 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Lovely.
+L31835 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Bathroom.
+L31834 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Charming.
+L31833 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Closet.
+L31832 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Very nice.
+L31831 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ The kitchen.
+L31829 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yeah, I would think so, too.
+L31828 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I would think so.
+L31827 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I was dreaming again?
+L31826 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What do I think? You mean about the possibility of your becoming a monster in two days or about visits from dead friends?
+L31825 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yeah. He says that I will become a monster in two days. What do you think?
+L31824 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Your dead friend Jack?
+L31823 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ My friend Jack was just here.
+L31822 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ You're to be discharged tomorrow. Will you be all right?
+L31821 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'll let you know the next full moon.
+L31820 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Are you better now?
+L31819 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ A werewolf?
+L31818 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm a werewolf.
+L31758 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Good. I thought for a moment I was the only embarrassed one in the room.
+L31757 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Now I'm embarrassed.
+L31756 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ All I am to you is a sex fantasy then?
+L31755 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Forgive me, I'm trying to cheer myself up and an affair with a beautiful nurse seemed like just the thing to do it.
+L31754 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ You're being awfully forward, aren't you?
+L31753 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Not just a patient -- me.
+L31752 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ How did we get from your bad dreams to my taking a holiday with a patient?
+L31751 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you think about it?
+L31750 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Now, David, I said I would keep you company, but I meant right here and now.
+L31749 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm serious. You don't know me and I know nothing about you. We have a perfect relationship.
+L31748 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What?
+L31747 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you come with me?
+L31746 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ David, your dreams will stop. You'll leave England and your bad memories; and then this will all fade away.
+L31745 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I keep having these really terrible dreams. They are getting worse and I can't seem to stop them.
+L31744 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ That's easy enough.
+L31743 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ No, thank you. Just keep me company for a while.
+L31742 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Don't be silly. Can I get you something?
+L31741 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm sorry I woke you up.
+L31740 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Hello. You all right?
+L31736 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Ahem, A Word of Explanation. It was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company - for he did all the talking. We fell together as modest people will in the tail of the herd...
+L31735 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yes, go on.
+L31734 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ A Connecticut Yankee in King Arthur's Court by Samuel L. Clemens. This is after the preface but before chapter one: A Word of Explanation. You all right?
+L31733 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What? Oh, yes, please.
+L31732 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Shall I read to you?
+L31731 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ My best friend. My very best friend.
+L31730 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Was Jack Goodman your good friend?
+L31729 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Now what do you want to talk about?
+L31728 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I know.
+L31727 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm twenty-seven.
+L31726 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Twenty-eight.
+L31725 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How old are you?
+L31724 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ That's not really a very proper question.
+L31723 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How old are you?
+L31722 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It's okay. I want to talk to you.
+L31721 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I'm sorry. I shouldn't have asked you.
+L31720 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I dream of death mostly.
+L31719 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What do you dream about?
+L31718 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I've just started it. My friend gave it to me.
+L31717 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Do you like it?
+L31716 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ 'A Connecticut Yankee in King Arthur's Court' by Mark Twain.
+L31715 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I was. What are you reading?
+L31714 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I thought you were asleep.
+L31713 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You're a very beautiful girl.
+L31688 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you give me a break?
+L31687 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Let's try a little harder, shall we?
+L31686 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Right.
+L31685 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ This is absurd. I'm not hungry. I don't want any food.
+L31684 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Shall I be forced to feed you, David?
+L31683 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Call me David.
+L31682 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Shall I be forced to feed you, Mr. Kessler?
+L31681 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Aw come on, Alex!
+L31680 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Call me Alex.
+L31679 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Aw come on, Miss Price!
+L31678 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Sorry.
+L31677 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Leave the pills. I'll take them later.
+L31676 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Well, you're to take these after you've eaten. Now what kind of nurse would I be if I failed in so simple a task as giving out some pills?
+L31675 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How is that?
+L31674 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ You put me in an awkward position, Mr. Kessler.
+L31673 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Please, really. I'm not hungry.
+L31672 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I'm afraid you have to eat something.
+L31671 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm not very hungry, thank you.
+L31670 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ You haven't eaten your lunch.
+L31669 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yes?
+L31668 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Mr. Kessler?
+L31589 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A wolf.
+L31588 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ What?
+L31587 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It was a wolf.
+L31586 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I beg your pardon?
+L31585 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It wasn't a lunatic.
+L31935 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ I thought not.
+L31934 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31933 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Benjamin, have you ever been severely beaten about the face and neck?
+L31932 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No!
+L31931 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No what?
+L31930 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31929 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ How are we feeling tonight?
+L31660 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Right.
+L31659 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31658 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ The doctor will be round later. Would you like a picture book to look at? We have some lovely funny Beanos.
+L31657 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31656 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Feeling better?
+L31655 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31654 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Well, all right then, be that way. Here, swallow this.
+L31653 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31652 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ No what?
+L31651 +++$+++ u270 +++$+++ m17 +++$+++ BENJAMIN +++$+++ No.
+L31650 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Hello, Benjamin.
+L31539 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Really, Susan, I don't think that was very proper, and besides, it's common practice now.
+L31538 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ I looked.
+L31537 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Why on earth do you say that?
+L31536 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ I think he's a Jew.
+L31535 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Chart says he's from New York.
+L31534 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ He's an American, you know. Dr. Hirsch is going to fetch round one of those Embassy fellows to see him.
+L31533 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, I should think. He called out just now.
+L31532 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ He all right?
+L31649 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, Mrs. Hobbs.
+L31648 +++$+++ u279 +++$+++ m17 +++$+++ MRS. HOBBS +++$+++ Nothing quite as dramatic as that, Miss Price. He just doesn't eat enough of what is put before him. He suffers from nightmares. I'd think he just needs a hand to hold.
+L31647 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Has he been refusing food?
+L31646 +++$+++ u279 +++$+++ m17 +++$+++ MRS. HOBBS +++$+++ Take these round now, will you please? The American boy in twenty-one is only to have these after he's eaten. Will you be sure of that?
+L31645 +++$+++ u269 +++$+++ m17 +++$+++ ALEX +++$+++ Yes, Mrs. Hobbs.
+L31644 +++$+++ u279 +++$+++ m17 +++$+++ MRS. HOBBS +++$+++ Miss Price.
+L32104 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ That's what I want you to do, you moron!
+L32103 +++$+++ u271 +++$+++ m17 +++$+++ BOBBIE +++$+++ You're going to have to stop this disturbance or I shall arrest you.
+L32102 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Who is this girl?
+L32099 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Shakespeare was French! The Queen Mother sucks cocks in hell! Shit! Fuck! Piss!
+L32098 +++$+++ u271 +++$+++ m17 +++$+++ BOBBIE +++$+++ Now see here young man.
+L32097 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Queen Elizabeth is a man! Prince Charles is a faggot! Winston Churchill was full of shit!
+L32096 +++$+++ u271 +++$+++ m17 +++$+++ BOBBIE +++$+++ There's no call for that kind of language.
+L32095 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hey, you asshole! I want you to arrest me!
+L32094 +++$+++ u271 +++$+++ m17 +++$+++ BOBBIE +++$+++ All right, you two, move along.
+L32089 +++$+++ u271 +++$+++ m17 +++$+++ BOBBIE +++$+++ You did, did you?
+L32088 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Officer, I killed those people last night.
+L32171 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Why are you doing this to me?
+L32170 +++$+++ u272 +++$+++ m17 +++$+++ BRINGSLY +++$+++ No, David. Harry and I and everyone you murder are not dead. The undead.
+L32169 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ That's easy for you to say - you're already dead.
+L32161 +++$+++ u272 +++$+++ m17 +++$+++ BRINGSLY +++$+++ You've left my wife a widow and my children fatherless. And I understand that I am to walk the earth one of the living dead until the wolf's bloodline is severed and the curse lifted.
+L32160 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Mr. Bringsly, I'm sorry. I have absolutely no idea what to say to you.
+L32159 +++$+++ u272 +++$+++ m17 +++$+++ BRINGSLY +++$+++ This isn't Mr. Goodman's idea. He is your good friend, whereas I am a victim of your carnivorous lunar activities.
+L32158 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Why are you doing this to me, Jack?
+L31475 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ You could have told them!
+L31474 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ No one brought them here! No one wanted them here!
+L31429 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ That's very funny, that is.
+L31428 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ Oh, all right. There was this airplane over the Atlantic on its way to New York. It was full of men from the United Nations.
+L31421 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ No. You've had your chance.
+L31420 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Oh, come on, tell us.
+L31419 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ All right, laugh then. I shan't tell it.
+L31418 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Quiet, everyone! Hush! Shhh!
+L31417 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ You be quiet, woman, and let me speak.
+L31416 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ No, but we're about to.
+L31415 +++$+++ u273 +++$+++ m17 +++$+++ CHESS PLAYER +++$+++ Here, Gladys, Tom. Did you hear the one about the crashing plane?
+L31642 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ Bambi?
+L31641 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yes, but does everyone kill Bambi?
+L31640 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ Some, everyone does.
+L31639 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Do you have bad dreams, too?
+L31638 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ An American film about the Mafia called 'See You Next Wednesday', and I want to see it badly, so you give me no problems and go to sleep.
+L31637 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What are you going to see?
+L31636 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ Miss Price, the other nurse that attended you.
+L31635 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Alex?
+L31634 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ It's nearly eight. I'm off duty shortly, then I'm off to the films with Alex.
+L31633 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What time is it?
+L31632 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ Now go back to sleep so you'll be fresh for Dr. Hirsch in the morning.
+L31630 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I was having a nightmare.
+L31629 +++$+++ u278 +++$+++ m17 +++$+++ MISS GALLAGHER +++$+++ Mr. Kessler? Wake up, please.
+L31712 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Of course not, David. I'll fetch in young Miss Price.
+L31711 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Dr. Hirsch?  I'd rather not be by myself.
+L31709 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Believe me. The Hound of the Baskervilles was an invention of Sir Arthur Conan Doyle's. And if you'd read the bloody book, you'd find that Holmes discovered your house of hell a fraud, a fake.
+L31708 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You really think I'm crazy, don't you?
+L31707 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ David, please. The police are satisfied. I'm certain that if a monster were out roaming northern England we'd have seen it on the telly.
+L31706 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Then why the hell are you so quick to disbelieve me? You yourself said it must have taken incredible strength to tear apart a person like that.
+L31705 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I really don't know.
+L31704 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Did you talk to the police in East Proctor? Did the cops go to The Slaughtered Lamb?
+L31703 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ No. In fact, your wounds were cleaned and dressed before you arrived here.
+L31702 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Did you see Jack?
+L31701 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You'd be surprised what horrors a man is capable of.
+L31700 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Look, Dr. Hirsch, I know I've been traumatized, but Jack was torn apart. I saw him. A man can't do that to someone with his bare hands.
+L31699 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Yes.
+L31698 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I've told you, it wasn't a man. It was an animal. A big wolf or something. A rabid dog.
+L31697 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Did you get a good look at the man who attacked you?
+L31696 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Sure, as a kid. But never so real. Never so bizarre.
+L31695 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You've never had bad dreams before?
+L31628 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Doctor, my memory is fine. It's my sanity I'm beginning to worry about.
+L31627 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ In time I'm sure it will all come back to you.
+L31626 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How could there have been witnesses? It was so dark. We were running and I fell and Jack went to help me up and this thing came from nowhere... I don't understand what they're talking about.
+L31625 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ So they said.
+L31624 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ There were witnesses?
+L31584 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Now we've just given you a pretty strong sedative, so try to get some rest now. Miss Price will see to your needs. Rest now.
+L31583 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Lunatic?
+L31582 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You've suffered some rather severe cuts and bruises, lost a bit of blood, but nothing too serious; black and blue for a while. You'll have some dueling scars to boast of. That lunatic must have been a very fierce fellow. They say a mad man has the strength of ten.
+L31581 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Two weeks?
+L31580 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You've been unconscious since you were brought in two weeks ago.
+L31579 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How long have I been here?
+L31573 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Get your fucking hands off me! What the hell is going on here?
+L31572 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Miss Price! Miss Price, please!
+L31564 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Now, David, I want you to prepare yourself; your friend is dead.
+L31563 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ The guy I was with. Is he all right? How did I get to London?
+L31562 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I should think so after your recent traumatic experiences.
+L31561 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ London? Where's Jack? I had a strange dream.
+L31560 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You're in a hospital in London.
+L31559 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Where am I?
+L31558 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Hello, David. I am Dr. Hirsch and this is a countryman of yours, Mr. Collins.
+L32177 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ If you did it wrong, it would be painful. You'd choke to death.
+L32176 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I could hang myself.
+L32173 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ How shall I do it?
+L32172 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Because this must be stopped.
+L32156 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Gerald is the man you murdered in the subway. We thought it best you didn't see him as he's a fresh kill and still pretty messy.
+L32155 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hello.
+L32154 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David Kessler, this is Gerald Bringsly.
+L32153 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I want you to meet some people.
+L32152 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Well, even if I'm not the wolfman, I am crazy enough to do something like that. I mean, here I sit in Leicester Square talking to a corpse. I'm glad to see you, Jack.
+L32151 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What about the zoo?
+L32150 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I didn't mean it. I don't know what I'm saying. I'm not even sure it was me who killed those people. I don't remember doing it.
+L32149 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Thank you.
+L32148 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You look awful.
+L32147 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ If I was still alive, I probably would.
+L32146 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Aren't you going to say, 'I told you so'?
+L32145 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You don't have to say anything.
+L32144 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What can I say, Jack?
+L32143 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Hi, David.
+L32142 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hi, Jack.
+L31874 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I will not accept this! Now go away!
+L31873 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ The canines will be real. You'll taste real blood! God damit, David, please believe me! You'll kill and make others like me! I'm not having a nice time, David! Don't allow this to happen again! You must take your own life!
+L31872 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What, Jack? That tomorrow night beneath the full moon I'll sprout hair and fangs and eat people? Bullshit!
+L31871 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You must believe me.
+L31870 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I think I've lost my mind. I think you're not real. I think I'm asleep and you're a part of another bad dream.
+L31869 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What do you think?
+L31868 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack, are you really dead?
+L31867 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You must take your own life now, David, before it's too late.
+L31866 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A monster. I know, I know.
+L31865 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David, tomorrow night is the full moon. You'll change, you'll become...
+L31864 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Get out of here, Jack!
+L31863 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Yes.
+L31862 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I understand all right. You're one of the undead and I'm a werewolf.
+L31861 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David, I'm sorry I upset you yesterday, but you must understand what is going on.
+L31860 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Okay, you've seen me. Now go away.
+L31859 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I wanted to see you.
+L31858 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What are you doing here?
+L31857 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Don't be an asshole, David. Come here.
+L31856 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You're not real.
+L31812 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It's cold, David, and I'm so alone. The undead surround me. Have you ever talked to a corpse? It's boring! I'm lonely! Kill yourself, David, before you kill others.
+L31811 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Nurse! Oh God! Alex!
+L31810 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ The supernatural! The powers of darkness! It's all true. Take your own life! Suicide, David. Join me.
+L31809 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Nurse!
+L31808 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Listen to me! Take your own life, David. It's our only chance.
+L31807 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Nurse!
+L31806 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David, please believe me. You will kill people, David. You've got to stop the bloodshed before it begins.
+L31805 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You're talking like Boris Karloff! It's movie dialogue!
+L31804 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You'll stalk the streets of London a creature of the night.
+L31803 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack, please go away. Please go away.
+L31802 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Beware the moon. The full moon, David. You've got two days.
+L31801 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Stop it, Jack.
+L31800 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Remember what that guy at The Slaughtered Lamb said? 'Beware the moon.'
+L31799 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What are you talking about? I won't accept this! Get out! God damit!
+L31798 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You survived and now you shall continue the curse.
+L31797 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What?!
+L31796 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It's you, David.
+L31795 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Will you be quiet?!
+L31794 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ The wolf's bloodline must be severed. The last remaining werewolf must be destroyed.
+L31793 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What's wrong with you? Shut up!
+L31792 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I was murdered, an unnatural death, and now I walk the earth in limbo until the werewolf's curse is lifted.
+L31791 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Shut up, you zombie!
+L31790 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ On the moors, we were attacked by a lycanthrope, a werewolf.
+L31789 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm not listening!
+L31788 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ We were attacked by a werewolf.
+L31787 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ If you love me so much, Jack, you'll realize how disconcerting it is to share one's breakfast with the living dead!
+L31786 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I'm a grisly sight, it's true; but I love you and that's why I'm here. You've got to know.
+L31785 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Warn me? Will you get out of here, you meat loaf?
+L31784 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David, now I know this may be hard for you, but I have to warn you.
+L31783 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What?!
+L31782 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David!
+L31781 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm going completely crazy.
+L31780 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Life mocks me even in death.
+L31779 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Rudy Levine the shmuck?
+L31778 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ So you know what she does? She's so grief stricken she runs to find solace in Rudy Levine's bed.
+L31777 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I can't stand it.
+L31776 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Debbie Klein cried a lot.
+L31775 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Why should you be surprised? You were a very well-liked person.
+L31774 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Yeah. Your parents came to my funeral. I was surprised at how many people came.
+L31773 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Aren't you supposed to be buried in New York someplace?
+L31772 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I'm sorry to be upsetting you, David, but I had to come.
+L31771 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hurting your feelings? Has it occurred to you that it may be unsettling to have you rise from your grave to visit me? Listen to me, I'm talking to a hamburger!
+L31770 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David! You're hurting my feelings.
+L31769 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I'm aware that I don't look so great, but I thought you'd be glad to see me.
+L31768 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ This is too much. I can't handle this.
+L31767 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Thanks a lot.
+L31766 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Get the fuck out of here, Jack.
+L31765 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Nice to see you.
+L31525 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Are you going to help me up?
+L31524 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You really scared me, you shithead.
+L31523 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Well. I'm glad we... WHOAA!!
+L31522 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I'll tell you when we get there.
+L31521 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Where are we going?
+L31520 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Yeah.
+L31519 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack?
+L31518 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Not far enough. Come on.
+L31517 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It sounds far away.
+L31516 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ No.
+L31515 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ See anything?
+L31514 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Walking away, yes, sir. Here we are walking away.
+L31513 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Walk away, Jack.
+L31512 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Nice doggie. Good boy.
+L31511 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A sheep dog or something. Turn slowly and let's walk away.
+L31510 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Oh shit. What is that?
+L31509 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Do you think it's a dog?
+L31508 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It's in front of us.
+L31506 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Let's just keep walking.
+L31505 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Plan?
+L31504 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What's the plan?
+L31502 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It's circling us.
+L31501 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It's moving.
+L31500 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Anywhere! I think we should just keep moving.
+L31499 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Come on, where?
+L31498 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I don't know. Come on.
+L31497 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Shit! David, what is that?
+L31495 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yeah.
+L31494 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I vote we go back to The Slaughtered Lamb.
+L31493 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It's a full moon, 'beware the moon'.
+L31492 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ No, but he was on the moors.
+L31491 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Heathcliffe didn't howl.
+L31490 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Heathcliffe.
+L31489 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Pecos Bill.
+L31488 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ The Hound of the Baskervilles.
+L31487 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ There aren't any coyotes in England.
+L31486 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A coyote.
+L31485 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Yeah?
+L31484 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Could be a lot of things.
+L31483 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What was it?
+L31482 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I heard that.
+L31481 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Did you hear that?
+L31471 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm well aware of how pleasant the weather is in Rome at the present time thank you.
+L31470 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Say, David...
+L31467 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I see and they were too embarrassed to talk about it, because they felt so silly.
+L31466 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Maybe that pentangle was for something supernatural.
+L31465 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I have no idea.
+L31464 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What do you think was wrong?
+L31463 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Well, not quite a blood-thirsty mob.
+L31462 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I don't know. Now that we're out here and it's three degrees, I'm not so sure I wouldn't rather face a blood-thirsty mob.
+L31461 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ That was weird. I guess leaving was the best idea.
+L31456 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Come on, I'm freezing.
+L31455 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Beware the moon?
+L31454 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I don't know. Let's see if there's an inn or something up the road.
+L31453 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What the hell was that all about?
+L31444 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Apparently so.
+L31443 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Come on, Jack, shall we go?!!
+L31441 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ What do you mean? I'm starving.
+L31440 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack, we'd better go.
+L31431 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You ask them.
+L31430 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Go on, ask them.
+L31427 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Wrong.
+L31426 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Right.
+L31425 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I see. You want me to ask these people if they're burning candles to ward off monsters.
+L31424 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Listen, that's a pentangle, a five- pointed star. It's used in witchcraft. Lon Chaney, Jr. and Universal Studios maintain it's the mark of the wolf man.
+L31423 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You ask them.
+L31422 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Ask them what the candles are for.
+L31406 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Maybe the owners are from Texas.
+L31405 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It's a five-pointed star.
+L31404 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ What about it?
+L31403 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Look at that.
+L31402 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Listen, at least it's warm in here.
+L31401 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Nice looking group.
+L31388 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Nice to see you.
+L31387 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Hello.
+L31386 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Shall we?
+L31385 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Okay.
+L31384 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I assume full responsibility.
+L31383 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David, before we go in there I want you to know that - no matter what happens to us - it's your fault.
+L31382 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ A severed wolf's head on a pike as their symbol.
+L31381 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ That's not a spear. It's a pike.
+L31380 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Of course, The Slaughtered Lamb. Why else would they have a severed wolf's head on a spear as their symbol?
+L31379 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ That's a wolf's head.
+L31378 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Of course, The Slaughtered Lamb. Why else would they have a severed fox head on a spear as their symbol?
+L31377 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ The Slaughtered Lamb?
+L31376 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ She says she 'likes me too much'.
+L31375 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ We've known Debbie what, since the eighth grade? How many years of foreplay is that?
+L31374 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ It is impossible for a body like that to be dull.
+L31373 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ It just fascinates me that you can spend so much energy on someone so dull.
+L31372 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I have to make love to her. It's very simple. She has no choice really.
+L31371 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ If you don't stop, I'm going to kill you.
+L31370 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Rendezvous in Rome starring Jack Goodman and Debbie Klein. The love affair that shocked Europe! See torrid lovemaking at its most explicit! See Jack and Debbie expose their lust in the sacred halls of the Vatican! Never has the screen dared...
+L31369 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I don't know.
+L31368 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Well, anyway, do you think she'll be there?
+L31367 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I'm talking about a girl you want to fuck, so give me a break.
+L31366 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ You're talking about the woman I love.
+L31365 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ She's a jerk.
+L31364 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Debbie is not mediocre and she has one of the great bodies of all time.
+L31363 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ I think Debbie Klein is a mediocre person with a good body.
+L31362 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Do you think she'll meet me in Rome?
+L31361 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Right.
+L31360 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ I'm sorry. Northern England first, Italy later.
+L31359 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Well, I like it here.
+L31358 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Oh, I don't know. I mean look around. Isn't this a fun place?
+L31357 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ You're not having a good time are you?
+L31356 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ David.
+L31355 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Jack.
+L31354 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Good.
+L31353 +++$+++ u274 +++$+++ m17 +++$+++ DAVID +++$+++ Yes.
+L31352 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Are you cold?
+L32131 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Stay here. If we need you, we'll know where to reach you.
+L32130 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ What can we do to assist you?
+L32123 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Regardless of what you think, Lieutenant, the fact remains that David is missing and that we must find him.
+L32122 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ The forensic lads seem to feel that some sort of animal was involved, that's true, but I hardly think...
+L31614 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Why don't we ask him?
+L31613 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Has David Kessler anything to say concerning the attack on the moors?
+L31612 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ You were saying?
+L31603 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Well, then, what can I do for Scotland Yard?
+L31602 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ No, thank you, Doctor.
+L31597 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Come in, come in. Please sit. Some tea?
+L31596 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Dr. Hirsch?
+L31611 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Tell him I'm out. No, tell him I've passed away. An old war wound or something. Tell him I'm dead. And no more calls!
+L31610 +++$+++ u281 +++$+++ m17 +++$+++ SECRETARY +++$+++ He's on the telephone.
+L31609 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ What here?
+L31608 +++$+++ u281 +++$+++ m17 +++$+++ SECRETARY +++$+++ Roger Mathison, Doctor.
+L31607 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Excuse me.  Yes?
+L31595 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Send them in.
+L31594 +++$+++ u281 +++$+++ m17 +++$+++ SECRETARY +++$+++ Lt. Villiers and Sgt. McManus are here to see you, Doctor.
+L31593 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Yes?
+L31896 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I see. You've heard nothing about the incident?
+L31895 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Oh, that's been there for two hundred years. We were going to paint it out, but it's traditional, so we left it.
+L31894 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ What's that?
+L31884 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ I suppose Guinness will suffice.
+L31883 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Sorry, love.
+L31882 +++$+++ u275 +++$+++ m17 +++$+++ DR. HIRSCH +++$+++ Campari and soda would do nicely.
+L31881 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ Hello, there. What can I get you?
+L31408 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ I beg your pardon?
+L31407 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Remember the Alamo?
+L31399 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ But I can heat some up for you if you'd like.
+L31398 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Oh.
+L31397 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ No.
+L31396 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Then you have some hot tea?
+L31395 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ We've got spirits and beer. If it's something hot you want, you can have tea.
+L31394 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Hot chocolate?
+L31391 +++$+++ u283 +++$+++ m17 +++$+++ WOMAN +++$+++ No.
+L31390 +++$+++ u276 +++$+++ m17 +++$+++ JACK +++$+++ Do you have any hot soup?
+L32133 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ We'll find him, not to worry.
+L32132 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ I cannot accept a connection between David Kessler and last night's murders. We will find him, however. I can assure you of that.
+L31622 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ That is precisely my point. David, as far as we are concerned, the matter is closed. We won't trouble you any further. Good day.
+L31621 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ I don't rightly know, sir.
+L31620 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ And what, Sergeant?
+L31619 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ Lieutenant, the boy seems pretty lucid to me and...
+L31618 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Sgt. McManus, are you suggesting that David and Jack were, in fact, attacked by some animal and that the officialdom of East Proctor has conspired to keep it a secret? We have an autopsy report on the murderer who was shot in the act by the local police. We have two witnesses to the crime. You'll forgive me, Mr. Kessler, if I consider your testimony as coming from someone who has gone through a terrible shock.
+L31617 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ He may have a point, Lieutenant. Two strong boys would be able to defend themselves against one man.
+L31606 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ Has Mr. Kessler said anything regarding the attack on the moors?
+L31605 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ Sorry.
+L31599 +++$+++ u282 +++$+++ m17 +++$+++ SGT. MCMANUS +++$+++ I'd like some tea, please.
+L31598 +++$+++ u277 +++$+++ m17 +++$+++ LT. VILLIERS +++$+++ No, thank you.

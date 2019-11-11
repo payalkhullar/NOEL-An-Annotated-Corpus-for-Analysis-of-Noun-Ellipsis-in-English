@@ -1,0 +1,359 @@
+L26618 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Uh, seems to be in front and behind.
+L26617 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Talk to me, Hudson.
+L26616 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Can't lock up...
+L26615 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Position?
+L26614 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Movement!
+L26401 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Rescue mission.  There's some juicy colonists' daughters we gotta rescue from virginity.
+L26400 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hey, 'Top.'  What's the op?
+L26399 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Let's go...let's go.  Cycle through!
+L26398 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Whoooah!  No shit?  I'm impressed.
+L26387 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Would you, Sir?
+L26386 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Christ.  I never saw such a buncha old women.  You want me to fetch your slippers, Hudson?
+L26385 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ This floor's freezing.
+L26632 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Say again?  All after incinerators?
+L26631 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Uh,...Apone, I want you to lay down a suppressing fire with the incinerators and fall back by squads to the APC, over.
+L26606 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Let's go.  Pull 'em out.
+L26605 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Flame-units only.  I want rifles slung.
+L26487 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Vasquez, take point.  Let's move.
+L26486 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ First squad up, on line.  Hicks, get yours in a cordon.  Watch the rear.
+L26485 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Ten seconds, people.  Look sharp!
+L26484 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Set down sixty meters this side of the telemetry mast.  Immediate dust off on my 'clear,' then stay on station.
+L26480 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Awright!  I want a nice clean dispersal this time.
+L26479 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Okay, let's do it.
+L26474 +++$+++ u228 +++$+++ m15 +++$+++ APONE +++$+++ Awright.  Fire-team A.  Gear up. Let's move.  Two minutes. Somebody wake up Hicks.
+L26473 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ ...that's better.  Pan it around a bit.
+L26972 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Well, thanks, I --
+L26971 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You did okay, Bishop.
+L26945 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ In seventeen minutes this place will be a cloud of vapor the size of Nebraska.
+L26944 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ She's alive.  They brought her here and you know it.
+L26943 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Ripley...
+L26942 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ WE'RE NOT LEAVING!
+L26941 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ PLENTY!  TWENTY-SIX MINUTES!
+L26940 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ HOW MUCH TIME?
+L26808 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ See you soon.
+L26807 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ It's going to be closer.  You better get going.
+L26803 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ All right.  Let's get on it.  What'll you need?
+L26802 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm really the only one qualified to remote-pilot the ship anyway. Believe me, I'd prefer not to.  I may be synthetic but I'm not stupid.
+L26801 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What?
+L26800 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'll go.
+L26789 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm afraid so.  The crash did too much damage.  The overload is inevitable, at this point.
+L26788 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ And it's too late to shut it down?
+L26785 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I'm projecting total systems failure in a little under four hours.  The blast radius will be about thirty kilometers.  About equal to ten megatons.
+L26784 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How long until it blows?
+L26783 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ That's it.  See it?  Emergency venting.
+L26759 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Hard to say.  It may have been blind instinct...attraction to the heat of whatever...but she did choose to incubate her eggs in the one spot where we couldn't destroy her without destroying ourselves.  That's if she exists, of course.
+L26758 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Could it be intelligent?
+L26757 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Well, the queen is always physically larger then the others.  A termite queen's abdomen is so bloated with eggs that it can't move at all.  It is fed and tended by drone workers, defended by the warriors.  She is the center of their lives, quite literally the  mother of their society.
+L26756 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You're saying one of those things lays all the eggs?
+L26755 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ That is the question of the hour.  We could assume a parallel to certain insect forms who have hivelike organization. An ant of termite colony, for example, is ruled by a single female, a queen, which is the source of new eggs.
+L26754 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ But these things come from eggs...so where are all the eggs coming from.
+L26753 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ Yes.  That follows.
+L26752 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Which would mean lots of those parasites, right?  One for each person...over a hundred at least.
+L26751 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Now let me get this straight. The aliens paralyzed the colonists, carried them over there, cocooned them to be hosts for more of those...
+L26750 +++$+++ u229 +++$+++ m15 +++$+++ BISHOP +++$+++ I've isolated a neuro-muscular toxin responsible for the paralysis.  It seems to be metabolizing.  He should wake up soon.
+L26774 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Sorry to disappoint you.
+L26773 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I expected more of you, Ripley. I thought you would be smarter than this.
+L26770 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Look, maybe the thing didn't even exist, right?  And if I'd made it a major security situation, the Administration would've stepped in.  Then no exclusive rights, nothing.
+L26769 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You sent them out there and you didn't even warn them, Burke. Why didn't you warn them?
+L26768 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You sent them to that ship.  I just checked the colony log... directive dates six-twelve-seventy-nine. Signed Burke, Carter J.
+L26767 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Now, wait a second --
+L26766 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ But they will know about it, Burke. From me.  Just like they'll know how you were responsible for the deaths of one hundred and fifty-seven colonists here --
+L26765 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You've been doing your homework. Look, they can't impound it if they don't know about it.
+L26764 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You just try getting a dangerous organism past ICC quarantine. Section 22350 of the Commerce Code.
+L26763 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Those specimens are worth millions to the bio-weapons division.  Now, if you're smart we can both come out of this heroes.  Set up for life.
+L26682 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ This operation is under military jurisdiction and Hicks is next in chain of command.  Right?
+L26681 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Corporal Hicks!?
+L26680 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What rank?  I believe Corporal Hicks has authority here.
+L26679 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Don't make me pull rank, Ripley.
+L26678 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You son of a bitch.
+L26673 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Bullshit!
+L26672 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ This is clearly an important species we're dealing with here. We can't just arbitrarily exterminate them --
+L26671 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They can bill me.  I got a tab running.  What's second?
+L26670 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, I mean...I know this is an emotional moment, but let's not make snap judgments.  Let's move cautiously.  First, this physical installation had a substantial dollar value attached to it --
+L26669 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Why not?
+L26668 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Now hold on a second.  I'm not authorizing that action.
+L26667 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No good.  How do we know it'll effect their biochemistry?  I say we take off and nuke the entire site from orbit.  It's the only way to be sure.
+L26597 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ She's right.
+L26596 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's not what I mean.  Gorman, if your men have to use their weapons in there, they'll rupture the cooling system.
+L26595 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yeah?  Maybe the organisms like the heat, that's why they built...
+L26594 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They're right under the primary heat exchangers.
+L26476 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Uh-hunh.  One of thirty or so, all over the planet.  They're completely automated.  We manufacture them, by the way.
+L26475 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That the atmosphere processor?
+L26442 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I suggest you study the disks Ripley has been kind enough to prepare for you.
+L26441 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I hope you're right.  I really do.
+L26408 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, it didn't occur to me.  It's been policy for years to have a synthetic on board.
+L26407 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You never said anything about an android being here!  Why not?
+L26378 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ That's the plan.  My word on it.
+L26377 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Burke, just tell me one thing. That you're going out there to kill them.  Not study.  Not bring back.  Just burn them out...clean ...forever.
+L26376 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yello?  Oh, Ripley.  Hi...
+L26374 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No!  The answer is no.  Now please go.  I'm sorry.  Just go, would you.
+L26373 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Yes, and I've read it.  You wake up every night, sheets soaking, the same nightmare over and over...
+L26372 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Spare me, Burke.  I've had my psych evaluation this month.
+L26371 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ If you go.  It's a second chance, kiddo.  And it'll be the best thing in the world for you to face this fear and beat it.  You gotta get back on the horse...
+L26370 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ If I go.
+L26369 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ What if I said I could get you reinstated as a flight officer? And that the company has agreed to pick up your contract?
+L26368 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ It's all I could get.  Anyway, it keeps my mind off of... everything.  Days off are worse.
+L26367 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Running loaders, forklifts, that sort of thing?
+L26366 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's right.
+L26365 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ I heard you were working in the cargo docks.
+L26364 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Yeah, yeah.  I saw the commercial.
+L26363 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, the corporation co-financed that colony with the Colonial Administration, against mineral rights.  We're getting into a lot of terraforming...'Building Better Worlds.'
+L26362 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What about you?  What's your interest in this?
+L26357 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I was reamed, steamed and dry-cleaned by you guys...and now you want me to go back out there?  Forget it.
+L26356 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Hear me out...
+L26355 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No.  There's no way!
+L26309 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You are a head case.  Have a donut.
+L26308 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They had their minds made up before I even went in there. They think I'm a head case.
+L26307 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You had them eating out of your hand, kiddo.
+L26287 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Just tell them what happened.  The important thing is to stay cool and unemotional.
+L26286 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I get the picture.
+L26285 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Look, I believe you, but there are going to be some heavyweights in there.  You got Feds, you got interstellar commerce commission, you got colonial administration, insurance company guys...
+L26284 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You read my deposition...it's complete and accurate.
+L26280 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Cancer.  Hmmmm.  They still haven't licked that one.  Cremated.  Interred Parkside Repository, Little Chute, Wisconsin.  No children.
+L26279 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Amy.
+L26278 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Amanda Ripley-McClaren.  Married name, I guess.  Age:  sixty-six ...at time of death.  Two years ago.  I'm sorry.
+L26277 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Is she...?
+L26276 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Well, I was going to wait until after the inquest...
+L26275 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Have they located my daughter yet?
+L26266 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ You'd drifted right through the core systems.  It's blind luck that deep-salvage team caught you when they...are you all right?
+L26265 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Fifty-seven...oh, Christ...
+L26602 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Shit.  Apone, collect magazines from everybody.  We can't have any firing in there.
+L26601 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ We're talking thermonuclear explosion.
+L26550 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ PDT'S.  Personal-Data Transmitters. Every adult colonist had one surgically implanted.
+L26549 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ What's he scanning for?
+L26513 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ It's insured.
+L26512 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Looks like you company can write off its share of this colony.
+L26448 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Dead on all channels.
+L26447 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Still nothing from the colony?
+L26361 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ We're trained to deal with these kinds of situations.
+L26360 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ These Colonial Marines are some tough hombres, and they're packing state-of-the-art firepower. Nothing they can't handle...right, Lieutenant?
+L26359 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ You wouldn't be going in with the troops.  I can guarantee your safety.
+L26358 +++$+++ u230 +++$+++ m15 +++$+++ BURKE +++$+++ Look, we don't know what's going on out there.  It may just be a down transmitter.  But if it's not, I want you there...as an advisor.  That's all.
+L26836 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Forget it.
+L26835 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ All right, I guess.  One hell of a hangover.  Look, Ripley... I...
+L26834 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How do you feel?
+L26639 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They're but off!  Do something!
+L26638 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ I told them to fall back...
+L26630 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Shut up.  Just shut up!
+L26629 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ GET THEM OUT OF THERE!  DO IT NOW!
+L26600 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ So?  So?
+L26599 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ So...then the fusion containment shuts down.
+L26598 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ So.
+L26587 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Proceed inside.
+L26586 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I don't know.
+L26585 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ What is it?
+L26541 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Gorman!  Give it a rest would you.
+L26540 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Where are your parents?  You have to try...
+L26528 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Apone...where are your people? Anybody in D-Block?
+L26527 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ One of us?
+L26478 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ The structure seems intact.  They have power.
+L26477 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Hold at forty.  Slow circle of the complex.
+L26468 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Thirty-eight...simulated.
+L26467 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How may drops is this for you, Lieutenant?
+L26584 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ You tell me.  I only work here.
+L26583 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ We're not making that out too well.  What is it?
+L26573 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Unknown.  But, it looks like all of them.  Over at the processing station...sublevel 'C' under the south tower.
+L26572 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Alive?
+L26571 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hah!  Stop your grinnin' and drop your linen!  Found 'em.
+L26507 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Okay, stand by in operations.  Let's go.
+L26506 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Sir, the CPU is on-line.
+L26504 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ He's coming in.  I feel safer already.
+L26503 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ ...We're coming in.
+L26502 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ All right, the area's secured. Let's go in and see what their computer can tell us.  First team head for operations. Hudson, see if you can get their CPU on line.  Hicks, meet me at the south lock by the up-link tower...
+L26444 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ How do I get out of this chicken-shit outfit?
+L26443 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Are there any questions?  Hudson?
+L26423 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ All we know is that there's still no contact with the colony and that a xenomorph may be involved.
+L26422 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Is this going to be a stand-up fight, Sir, on another bug-hunt?
+L26421 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ What's the question?
+L26420 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hudson, Sir.  He's Hicks.
+L26419 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ Yes, Hicks?
+L26418 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Sir?
+L26417 +++$+++ u231 +++$+++ m15 +++$+++ GORMAN +++$+++ At ease.  I'm sorry we didn't have time to brief before we left Gateway but...
+L26900 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Fuckin' A!
+L26899 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Let's go!  Let's go!
+L26895 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Six meters.  Five.  What the fu --
+L26894 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Well you're not reading it right!
+L26884 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Let's get these things lit.
+L26883 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Seventeen meters.
+L26854 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Do it!
+L26853 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ The corner!  Ready?
+L26819 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ I want you two walking the perimeter. I know we're all in strung out shape but stay frosty and alert. We've got to stop any entries before they get out of hand.
+L26818 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Maybe we got 'em demoralized.
+L26787 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ I don't fucking believe this. Do you believe this?
+L26786 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ We got problems.
+L26716 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Aye-firmative.
+L26715 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Outstanding.  Then all we need's a deck of cards.  All right, let's move like we got a purpose.
+L26694 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Are you finished?  You okay?
+L26693 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Well that's great!  That's just fucking great, man.  Now what the fuck are we supposed to do, man? We're in some real pretty shit now!
+L26627 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Not that tunnel, the other one!
+L26626 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Let's get the fuck out of here!
+L26460 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Sure, Hicks.
+L26459 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Save it.
+L26951 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Don't be long, Ellen.
+L26950 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Ellen.
+L26947 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ We ain't going anywhere.
+L26946 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Hicks, don't let him leave.
+L26938 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ All right!  She's alive.  I believe it.  But we gotta get moving!  Now!
+L26937 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No!  No!  She's alive!  We have to --
+L26903 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Stand back.
+L26902 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Locked.
+L26886 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ We didn't miss anything.
+L26885 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They learned.  They cut the power and avoided the guns.  They must have found another way in, something we missed.
+L26877 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Get back here, both of you.  Fall back to Operations.
+L26876 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ It's game time.
+L26864 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Let's waste him.  No offense.
+L26863 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You know, Burke, I don't know which species is worse.  You don't see them screwing each other over for a fucking percentage.
+L26860 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ The only way it would work is if he sabotaged certain freezers on the trip back.  Then he could jettison the bodies and make up any story he liked.
+L26859 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Wait a minute.  We'd know about it.
+L26833 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Yeah.  I've noticed.
+L26832 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Look, you started this.  Now show me everything.  I can handle myself.
+L26831 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Well, that's the grenade launcher ...you probably don't want to mess with that.
+L26830 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What's this?
+L26824 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ If it comes to that, I'll do us both.  Let's see that it doesn't Here, I'd like to introduce you to a close personal friend of mine.
+L26823 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Hicks, I'm not going to wind up like those others.  You'll take care of it won't you, it if comes to that?
+L26822 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Maybe.  Maybe not.
+L26821 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They'll get us.
+L26817 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ But they don't know that.  They're probably looking for other ways to get in.  That'll take them awhile.
+L26816 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Newt time then can walk right up and knock.
+L26813 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Can't tell.  Lots.  D gun's down to twenty.  Ten.  It's out.
+L26812 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Now many?
+L26810 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ On my way.
+L26809 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ They're in the approach corridor.
+L26714 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's right.  So we put up welded barricades at these intersections...  ...and seal these ducts here and here.  Then they can only come at us from these two corridors and we create a free field of fire for the other two sentry units, here.
+L26713 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ We gotta figure on them getting into the complex.
+L26712 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ All right.  There's a fire door at this end.  The first thing we do is put a remote sentry in the tunnel and seal that door.
+L26703 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ About seventeen days.
+L26702 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How long after we're declared overdue can we expect a rescue?
+L26525 +++$+++ u232 +++$+++ m15 +++$+++ HICKS +++$+++ Poor bastard.
+L26524 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Removed surgically before embryo implantation.  Subject:  Marachuk, John L.   Died during procedure.  They killed him getting it off.
+L26873 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ No.  No!  It ain't you.  They're inside.  Inside the perimeter. They're in here.
+L26872 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ You're just reading me.
+L26871 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ It's inside the complex.
+L26791 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ Hudson, give us a break.
+L26790 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Oh, man.  And I was gettin' short, too!  Four more weeks and out. Now I'm gonna buy it on this fuckin' rock.  It ain't half fair, man!
+L26675 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Maybe you haven't been keeping up on current events, but we just got out asses kicked, pal!
+L26674 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ Yeah, bullshit.  Watch us.
+L26666 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Look, man, let's just bug out and call it even, okay?
+L26665 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ All right, we can't blow the fuck out of them...why not roll some canisters of CN-20 down there. Nerve gas the whole nest?
+L26439 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Anytime.  Anywhere.
+L26438 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ Fuck you.
+L26437 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Somebody said alien...she thought they said illegal alien and signed up.
+L26389 +++$+++ u240 +++$+++ m15 +++$+++ VASQUEZ +++$+++ No.  Have you?
+L26388 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hey, Vasquez...you ever been mistaken for a man?
+L26893 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ It's readin' right.  Look!
+L26892 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Can't be.  That's inside the room!
+L26891 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Nine meters.  Eight.
+L26890 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They're right on us.  Vasquez, how you doing?
+L26889 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Twelve meters.  Man, this is a big fucking signal.  Ten meters.
+L26888 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I don't know, an acid hole in a duct.  Something under the floors, not on the plans. I don't know!
+L26887 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Fifteen meters.
+L26882 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Seal the door.
+L26881 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Range twenty meters.
+L26879 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Just get back here!
+L26878 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ This signal's weird...must be some interference or something. There's movement all over the place...
+L26867 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ What do you mean, they cut the power?  How could they cut the power, man?  They're animals.
+L26866 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They cut the power.
+L26799 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Oh, right!  Right!  With those things running around.  No way.
+L26798 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Well then somebody's just going to have to go out there.  Take a portable terminal and go out there and plug in manually.
+L26796 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What about the colony transmitter? That up-link tower down at the other end.  Why can't we use that?
+L26795 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Think of what?  We're fucked.
+L26794 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I don't care how!  Think of a way.  Think of something.
+L26793 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ How?  The transmitter was on the APC.  It's wasted.
+L26792 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ We need the other drop-ship.  The on one the Sulaco.  We have to bring it down on remote, somehow.
+L26724 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Uh, what's next?
+L26723 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Thanks.
+L26711 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Yeah, right, it runs from the processing station right into the sublevel here.
+L26710 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ This service tunnel is how they're moving back and forth.
+L26705 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ She survived longer than that with no weapons and no training.
+L26704 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Man, we're not going to make it seventeen hours!  Those things are going to come in here, just like they did before, man... they're going to come in here and get us, man, long before...
+L26663 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Oh, God.  Jesus.  This ain't happening.
+L26662 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You can't help them.  Right now they're being cocooned just like the others.
+L26660 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Hey...hey!  Look, Crowe and Dietrich aren't dead, man.
+L26659 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Looks like it stung him.
+L26431 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ The embryo, the second form, hosts in the victim's body for several hours.  Gestating.  Then it...  ...then it...emerges.  Moults. Grows rapidly --
+L26430 +++$+++ u233 +++$+++ m15 +++$+++ HUDSON +++$+++ Sounds like you, Hicks.
+L26326 +++$+++ u238 +++$+++ m15 +++$+++ SIMPSON +++$+++ Tell him, as far as I'm concerned, he finds something it's his.
+L26325 +++$+++ u234 +++$+++ m15 +++$+++ LYDECKER +++$+++ So what do I tell this guy?
+L26324 +++$+++ u238 +++$+++ m15 +++$+++ SIMPSON +++$+++ Christ.  Some honch in a cushy office on Earth says go look at a grid reference in the middle of nowhere, we look.  They don't say why, and I don't ask.  I don't ask because it takes two weeks to get an answer out here and the answer's always 'don't ask.'
+L26323 +++$+++ u234 +++$+++ m15 +++$+++ LYDECKER +++$+++ There's a guy on the horn, mom-and-pop survey team.  Says he's homing on something and wants to know if his claim will be honored.
+L26322 +++$+++ u238 +++$+++ m15 +++$+++ SIMPSON +++$+++ Yeah.  What?
+L26321 +++$+++ u234 +++$+++ m15 +++$+++ LYDECKER +++$+++ You remember you sent some wildcatters out to that plateau, out past the Ilium range, a couple days ago?
+L26271 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No.. I've slept enough.
+L26270 +++$+++ u235 +++$+++ m15 +++$+++ MED-TECH +++$+++ Bad dreams again?  Do you want something to help you sleep?
+L26257 +++$+++ u235 +++$+++ m15 +++$+++ MED-TECH +++$+++ Just a couple of days.  Do you feel up to a visitor?
+L26256 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How long have I been on Gateway station?
+L26255 +++$+++ u235 +++$+++ m15 +++$+++ MED-TECH +++$+++ Just terrible?  That's better than yesterday at least.
+L26254 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Terrible.
+L26253 +++$+++ u235 +++$+++ m15 +++$+++ MED-TECH +++$+++ And how are we today?
+L26983 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Yes, honey.  I think we both can.
+L26982 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Can we dream?
+L26981 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's right.
+L26980 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Are we going to sleep now?
+L26979 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Right here, baby.  Right here.
+L26978 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Mommy...Mommy?
+L26957 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Newt, I want you to hang on, now.  Hang on tight.
+L26956 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ I knew you'd come.
+L26922 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Newt, wait!
+L26921 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ This way.  Come on, we're almost there!
+L26912 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Sure.  Go left.
+L26911 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ DO you know how to get to the landing field from here?
+L26910 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Come on.  Crawl faster.
+L26898 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Look!
+L26897 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Burke!  Open the door!
+L26851 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I know, honey.  Me too.
+L26850 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Mommy...I mean, Ripley...I'm scared.
+L26844 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Sssh.  Don't move.  We're in trouble.
+L26843 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Wah...?  Where are...?
+L26842 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Newt.  Newt, wake up.
+L26747 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I'll be right in the other room, Newt.  And look...I can see you on that camera right up there.
+L26746 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Don't go!  Please.
+L26743 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ You mean dead.
+L26742 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Gone.
+L26741 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Where is she?
+L26740 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Yes.  A little girl.
+L26739 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Did you ever have a baby?
+L26738 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ No, it's different, honey.
+L26737 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Isn't that how babies come? I mean people babies...they grow inside you?
+L26736 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I don't know, Newt.  That's the truth.
+L26735 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Did one of those things grow inside her?
+L26734 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Well, some kids can't handle it like you can.
+L26733 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Why do they tell little kids that?
+L26732 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Yes, there are, aren't there.
+L26731 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ My mommy always said there were no monsters.  No real ones.  But there are.
+L26730 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Oh.  Sorry, Newt.
+L26729 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Ripley...she doesn't have bad dreams because she's just a piece of plastic.
+L26726 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ I don't want to...I have scary dreams.
+L26725 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Now you just lie here and have a nap.  You're exhausted.
+L26697 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ You don't have to be sorry.  It wasn't your fault.
+L26696 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ I'm sorry, Newt.
+L26695 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ I guess we're not leaving, right?
+L26580 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ You're really something, ace.
+L26579 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Yeah, you know.  In the walls, under the floor.  I was the ace.  I could hide better than anybody.
+L26578 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ The 'maze'?  You mean the air ducts?
+L26577 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ I was the best at the game. I knew the whole maze.
+L26569 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ And hope to die?
+L26568 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Cross my heart.
+L26567 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ You promise?
+L26566 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Newt.  Look at me...Newt.  I won't leave you.  I promise.
+L26565 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ They're dead.
+L26564 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ They'd be here if they could, honey.  I know they would.
+L26562 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Because you'll be gone soon, like the others.  Like everybody.  You'll be dead and you'll leave me alone.
+L26561 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Why not?
+L26560 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ I don't want you for a friend.
+L26559 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What about me?
+L26558 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Casey.  She's my only friend.
+L26555 +++$+++ u236 +++$+++ m15 +++$+++ NEWT +++$+++ Newt.  My n-name's Newt. Nobody calls me Rebecca except my dork brother.
+L26554 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What did you say?
+L26318 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Sweet Jesus.
+L26317 +++$+++ u239 +++$+++ m15 +++$+++ VAN LEUWEN +++$+++ Sixty, maybe seventy families.
+L26316 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ How many colonists?
+L26314 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ What are you talking about. What people?
+L26313 +++$+++ u239 +++$+++ m15 +++$+++ VAN LEUWEN +++$+++ Because I don't have to.  The people who live there checked it out years ago and they never reported and 'hostile organism' or alien ship.  And by the way, they call it Acheron now.
+L26312 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Why won't you check out LV-426?
+L26304 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ ...because just one of those things managed to kill my entire crew, within twelve hours of hatching...
+L26303 +++$+++ u239 +++$+++ m15 +++$+++ VAN LEUWEN +++$+++ Thank you, Officer Ripley.  That will be...
+L26302 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Look, I can see where this is going.  But I'm telling you those things exist.  Back on that planetoid is an alien ship and on that ship are thousands of eggs.  Thousands. Do you understand?  I suggest you find it, using the flight recorder's data.  Find it and deal with it -- before one of your survey teams comes back with a little surprise...
+L26297 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ That's because I blew it out the Goddamn airlock!  Like I said.
+L26296 +++$+++ u239 +++$+++ m15 +++$+++ VAN LEUWEN +++$+++ The analysis team which went over your shuttle centimeter by centimeter found no physical evidence of the creature you describe...
+L26293 +++$+++ u239 +++$+++ m15 +++$+++ VAN LEUWEN +++$+++ It did not, however, contain any entries concerning the hostile life form you allegedly picked up.
+L26292 +++$+++ u237 +++$+++ m15 +++$+++ RIPLEY +++$+++ Look, I told you...

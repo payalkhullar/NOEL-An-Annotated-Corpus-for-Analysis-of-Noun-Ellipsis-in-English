@@ -1,0 +1,236 @@
+L19838 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ That's a very nice compliment, and I'd like to say that...you've done the same for me.
+L19837 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Just in case I don't have a chance to say goodbye, I want you to know that I haven't spent so many pleasant hours for many years.
+L19836 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ No. I'm all alone.
+L19835 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I'm sure we'll both make it...but just in case one of us...well, is there a message you'd like me to give someone?
+L19714 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ That's a lovely name. Mine's Milton...Milt Ettenhenim. But my friends call me 'Bubbles.'
+L19713 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Mine's Eleanor. Eleanor Schiff.
+L19712 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ You know, here we are having coffee together, and discussing education and business and economy...and we don't even know each other's names...full names I mean.
+L19711 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ I wish I could fool myself into believing that that's the reason. The truth of the matter is, nobody ever asked me.
+L19710 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I know the answer -- Career. A smart woman like you became so involved in your work, you didn't have time for marriage.
+L19709 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, I'm afraid that's a question that's all too easy to answer.
+L19708 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ But I think it's time we stopped talking about me. A woman like you -- why haven't you ever married?
+L19707 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, after a thing like that you wouldn't be expected to.
+L19706 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ After my wife died, I felt like a fifth wheel. You know, so many years being with one person -- a very wonderful person -- makes you always think of yourself as part of a pair...When Ethel passed away, I was lost. I couldn't function socially and I couldn't function in business.
+L19402 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ No. I'm from Washington, D.C. I'm a lobbyist for the Small Businessmen's Assocation.
+L19401 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Well, it really wasn't a vacation. You see, I'm a teacher in the New York City school system, and I was attending a seminar on visual aids to education. Are you from L.A.?
+L19400 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Were you vacationing in Los Angeles?
+L19399 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ No, thank you. I take it black. Like my men.
+L19398 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ Thank you. Cream?
+L19397 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ Ah, won't you sit down?
+L19396 +++$+++ u195 +++$+++ m13 +++$+++ BERNICE +++$+++ That's very nice of you. Thank you.
+L19395 +++$+++ u205 +++$+++ m13 +++$+++ MILTON +++$+++ I happened to be passing, and I thought you might like some corfee.
+L19611 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, no! He gets so excited when new people are here.
+L19610 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ ...but after...awhile...you begin to...  ...get used to it.
+L19608 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, no! I'll bet you have exciting things happen all the time down there.
+L19607 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Yeah, something like that, but as I say, they didn't have time to tell me very much.
+L19606 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Something about a plane with no pilot?
+L19605 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Well, to tell the truth, they really didn't fill me in on many of the details. Just told me to pick up Captain Kramer.
+L19604 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Shep, sit...sit! So, I understand you've got a real emergency down there.
+L19603 +++$+++ u207 +++$+++ m13 +++$+++ MRS. KRAMER +++$+++ Oh, yes. Come in, Paul. Rex will be right out.
+L19602 +++$+++ u196 +++$+++ m13 +++$+++ CAREY +++$+++ Hello, I'm Paul Carey from the airline. I'm here to pick up Captain Kramer.
+L19789 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Excuse me, Doc, I've got a plane to land.
+L19788 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ And the last thing he said to me, "Doc," he said, "Sometime when the crew is up against it and the breaks are beating the boys, tell them to go out there with all they've got and win just one for the Zipper. I don't know where I'll be then, Doc," he said, "but I won't smell too good. That's for sure."
+L19787 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ George Zipp said that?
+L19757 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I'm doing everything I can! -- And stop calling me Shirley!
+L19756 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Surely there must be something you can do.
+L19755 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I won't deceive you, Mister Striker. We're running out of time.
+L19754 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Yes, everything they've got. How are the passengers doing?
+L19753 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Will the hospital equipment be at the airport?
+L19736 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Chicago, the passengers are beginning to panic. When do we start down?
+L19735 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ ...safe and sound and free to pursue a life of religious fulfillment.
+L19653 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Let's see. Those are the flaps, that's the thrust, this must turn on the landing lights.
+L19652 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Elaine, I haven't time to put this gently, so I'll be very direct. Everyone of us on this plane is in a desperate situation. Mister Striker is the only hope we've got.
+L19633 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Well, I flew single-engine fighters in the Air Force, but this plane has four engines. It's an entirely different kind of flying...<u>all</u> <u>together</u>!!!
+L19632 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I <u>am</u> serious, and don't call me Shirley! What flying experience have you had?
+L19631 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Surely you can't be serious.
+L19630 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Can you fly this airplane and land it?
+L19629 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Both pilots!
+L19554 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I'm not sure. I haven't seen anything like this since the Lina Wertmuller Film Festival.
+L19553 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ What is it, Doctor? What's happening?
+L19551 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ No, I mean we can't <u>land</u> for another two hours. Fog has closed down everything this side of the mountains. We've got to go through to Chicago!
+L19550 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ You can't take a guess for another two hours?
+L19549 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Well...not for another two hours.
+L19548 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Can't you take a guess?
+L19545 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ I can't tell.
+L19544 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Captain, how soon can we land?
+L19601 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ I think you ought to know what our chances are. The life of everyone on board depends on just one thing: finding someone back there who not only can fly this plane, but who didn't have fish for dinner.
+L19600 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ No. No one that I know of.
+L19599 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Well...
+L19598 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ All right. Unless I can get all these people to a hospital quickly, I can't even be sure of saving their lives. Now, is there anyone else on board who can land this plane?
+L19597 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ No.
+L19596 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Elaine, you're a member of this crew. Can you face some unpleasant facts?
+L19576 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Extremely serious. It starts with a slight fever.
+L19575 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Just how serious is it, doctor?
+L19573 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ He had fish, too.
+L19572 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Let's see now. The co-pilot had fish. What did the navigator eat?
+L19571 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Doctor Rumack, Mister Hammen ate fish. And Randy says there are five more cases, and they ate fish, too.
+L19559 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ He had fish.
+L19558 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ What did he have?
+L19557 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Yes, yes, I remember. I had lasagna.
+L19556 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Well, we had a choice. Steak or fish.
+L19555 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ What was it we had for dinner tonight?
+L19541 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Certainly.
+L19540 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ It's a big building with patients. But that's not important right now. Tell the Captain I must speak to him.
+L19539 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ A hospital? What is it?
+L19538 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ You'd better tell the Captain. We've got to land as soon as we can. This woman has to be gotten to a hospital.
+L19534 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ Yes. Yes, of course.
+L19533 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ We have some passengers who are very sick. Could you come and take a look at them?
+L19532 +++$+++ u197 +++$+++ m13 +++$+++ DR. RUMACK +++$+++ That's right.
+L19531 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Sir. Excuse me, sir. I'm sorry to have to wake you. Are you a doctor?
+L19857 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Uh-huh.
+L19856 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ See them, Elaine?
+L19833 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ The gear is down.
+L19832 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Tell them the gear is down and we're ready to land.
+L19831 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I wanted you to know -- now -- I'm very proud.
+L19830 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Yes?
+L19829 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Ted...
+L19781 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I don't care. I just don't have what it takes. They'd be better off with someone who'd never flown before.
+L19780 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ But Ted, you're the only...
+L19775 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Oil pressure. I forgot to check the oil pressure. When Kramer hears about this, the shit's gonna hit the fan.
+L19774 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ What happened, Ted? What went wrong?
+L19773 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Rats! I've lost number three.
+L19693 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ It's a damn good thing you don't know how much he hates your guts.
+L19692 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ It's a damn good thing he doesn't know how much I hate his guts.
+L19691 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Sluggish. Like a wet sponge.
+L19690 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Sluggish. Like a wet sponge.
+L19689 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ And a little ice!
+L19688 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ And a little ice.
+L19687 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Rain.
+L19651 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ That's what I've been trying to tell these people.
+L19650 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Ted! What are you doing? You can't fly this plane!
+L19514 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ A lot of people made plans before the war. Like George Zipp.
+L19513 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Ted, I don't want to stay here. It's time for us to go back home -- to the plans we made before the war.
+L19512 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I think they're getting the hang of it! When we re-enlist I'll teach them baseball!
+L19473 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ That's Lieutennt Hurwitz. Severe shell shock. He thinks he's Ethel Merman.
+L19472 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ What's his problem?
+L19468 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Be patient, Ted. No one expects you to get over this immediately.
+L19467 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I wish I could say the same for George Zipp.
+L19466 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Seven. Lieutenant Zipp died this morning. Ted, Doctor Sandler says you'll be out in a week. Isn't that wonderful?
+L19465 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Is it? Because of my mistake six men didn't return from that raid.
+L19464 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ It's a big building where the generals meet. But that's not important right now. They've cleared you of any blame for what happened on that raid. Isn't that good news?
+L19463 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Headquarters!? What is it?
+L19462 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ You got a telegram from headquarters today.
+L19460 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ But it won't be. Not as long as you insist on living in the past!
+L19459 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ That's the way I've always wanted it to be, Elaine.
+L19458 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Mostly I remember...the nights when we were together. I remember how you used to hold me...and how I used to sit on your face and wriggle...and then afterwards how we'd watch until the sun came up. When it did, it was almost like...like each new day was created...only for us.
+L19457 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I remember everything. All I have are memories.
+L19456 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Elaine, just hear me out. I know things haven't been right for a long time. But it will be different...like it was in the beginning. Remember?
+L19422 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I love you.
+L19421 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I love you, Elaine.
+L19420 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Oh, Ted, please be careful. I worry about you so much.
+L19419 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ My orders came through. My squadron ships out tomorrow. I'll be leading a very important mission.
+L19418 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ What's the matter?
+L19385 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ You...you shouldn't have come. I don't have time now.
+L19384 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Elaine, I've got to talk to you.
+L19383 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Ted, what are you doing here?
+L19314 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ It's too late, Ted. When I get back to Chicago, I'm going to start my life all over again. I'm sorry.
+L19313 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ But if you'll just give me...
+L19312 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ It's the truth. What's hurt you the most is your record since the war. Different cities, different jobs, and not one of them shows you can accept any real responsibility.
+L19311 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ You expect me to believe that?
+L19310 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Your <u>war</u> <u>record</u>? You're the only one keeping that alive. For everyone else it's ancient history.
+L19309 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ You know I haven't been able to get near an airplane since the war. And even if I could, they wouldn't hire me because of my war record.
+L19308 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Then why don't you take the job that Louie Netz offered you at Boeing?
+L19307 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Elaine, not yet. I promise you I really can change.
+L19306 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I won't be back. I've requested the Atlanta run.
+L19305 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Look, you'll be back in town tomorrow night. We'll have dinner -- talk it over.
+L19297 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ It takes so many things to make love last. Most of all it takes respect. And I can't live with a man I don't respect!
+L19296 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Don't you feel anything for me at all any more?
+L19295 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I have been patient and I've tried to help, but you wouldn't even let me do that.
+L19294 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I know things haven't been right for a long time, but it'll be different. If you'll just be patient, I can work things out.
+L19293 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I just don't want to go over it any more.
+L19292 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ I came home early and found your note. I guess you meant for me to read it later. Elaine, I've got to talk to you.
+L19291 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Ted!
+L19290 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Elaine!
+L19526 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Find out if there's a doctor on board, as quietly as you can.
+L19525 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ I think so, but I've never seen it so acute.
+L19524 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Airsick?
+L19504 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ Who wants to be first?
+L19503 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Hey, we've been waiting for you. A little bit late tonight.
+L19437 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Joey can stay up here for a while if he'd like to.
+L19436 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ We'd better get back now.
+L19425 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Hello.
+L19424 +++$+++ u198 +++$+++ m13 +++$+++ ELAINE +++$+++ We have a visitor.
+L19368 +++$+++ u213 +++$+++ m13 +++$+++ SOLDIER +++$+++ Good-bye, darling.
+L19367 +++$+++ u199 +++$+++ m13 +++$+++ GIRL +++$+++ Good-bye, darling. I love you. I love you, darling.
+L19366 +++$+++ u213 +++$+++ m13 +++$+++ SOLDIER +++$+++ Good-bye, darling.
+L19365 +++$+++ u199 +++$+++ m13 +++$+++ GIRL +++$+++ Bill! Bill! Good-bye, Bill.
+L19364 +++$+++ u213 +++$+++ m13 +++$+++ SOLDIER +++$+++ So long, darling. Good-bye. Take care of yourself.
+L19363 +++$+++ u199 +++$+++ m13 +++$+++ GIRL +++$+++ Oh, Bill, I'll keep it. I'll keep it with me all the time.
+L19362 +++$+++ u213 +++$+++ m13 +++$+++ SOLDIER +++$+++ Good-bye, darling.
+L19333 +++$+++ u199 +++$+++ m13 +++$+++ GIRL +++$+++ Every day.
+L19332 +++$+++ u213 +++$+++ m13 +++$+++ SOLDIER +++$+++ You promise you'll write.
+L19331 +++$+++ u199 +++$+++ m13 +++$+++ GIRL +++$+++ Oh, Bill, I'm going to miss you so much.
+L19849 +++$+++ u203 +++$+++ m13 +++$+++ KRAMER +++$+++ All right, he's on final now! Put out all runway lights except niner.
+L19848 +++$+++ u200 +++$+++ m13 +++$+++ GUNDERSON +++$+++ He's right on the heading.
+L19825 +++$+++ u203 +++$+++ m13 +++$+++ KRAMER +++$+++ Watch your altitude, Striker. It's too erratic. You can't come straight in. You've got enough fuel left for two hours flying. You've got to stay up there 'til we get a break in the weather.
+L19824 +++$+++ u200 +++$+++ m13 +++$+++ GUNDERSON +++$+++ He's all over the place! Nine hundred feet up to thirteen hundred feet! What an asshole!
+L19817 +++$+++ u203 +++$+++ m13 +++$+++ KRAMER +++$+++ You are now eight miles from the airport. Turn right to a heading of zero eight niner, throttle back slightly and begin to lose altitude to fifteen hundred feet.
+L19816 +++$+++ u200 +++$+++ m13 +++$+++ GUNDERSON +++$+++ Eight miles. Turn right to heading zero eight niner.
+L19809 +++$+++ u200 +++$+++ m13 +++$+++ GUNDERSON +++$+++ Runway niner. It's the longest, and directly into the wind.
+L19808 +++$+++ u203 +++$+++ m13 +++$+++ KRAMER +++$+++ Did you decide on a runway yet?
+L19807 +++$+++ u200 +++$+++ m13 +++$+++ GUNDERSON +++$+++ Yes, Captain?
+L19806 +++$+++ u203 +++$+++ m13 +++$+++ KRAMER +++$+++ And get that finger out of your ear. You don't know where that finger's been! Gunderson?
+L19705 +++$+++ u201 +++$+++ m13 +++$+++ JACK +++$+++ Here.
+L19704 +++$+++ u211 +++$+++ m13 +++$+++ SHIRLEY +++$+++ Oh Jack, I'm so warm. I'm burning up.
+L19703 +++$+++ u201 +++$+++ m13 +++$+++ JACK +++$+++ How ya doing, honey?
+L19518 +++$+++ u201 +++$+++ m13 +++$+++ JACK +++$+++ What is it?
+L19517 +++$+++ u211 +++$+++ m13 +++$+++ SHIRLEY +++$+++ Oh, I can't stand it.
+L19330 +++$+++ u211 +++$+++ m13 +++$+++ SHIRLEY +++$+++ Well, it wasn't all that I had hoped.
+L19329 +++$+++ u201 +++$+++ m13 +++$+++ JACK +++$+++ What did you think of 'Great Expectations?'
+L19280 +++$+++ u201 +++$+++ m13 +++$+++ JACK +++$+++ Yeah, I think he is.  Hey, Fred!
+L19279 +++$+++ u211 +++$+++ m13 +++$+++ SHIRLEY +++$+++ Jack, isn't that Fred Bliffert over there in the blue turtleneck? Maybe he's on our flight to Chicago.
+L19454 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ The hell I don't! I'm out there busting my buns every night.
+L19453 +++$+++ u202 +++$+++ m13 +++$+++ JOEY +++$+++ ...and that you don't really try, except during the playoffs.
+L19452 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ We are turning left to a heading of zero- niner-niner.
+L19451 +++$+++ u202 +++$+++ m13 +++$+++ JOEY +++$+++ ...and that lots of times you don't even run down court.
+L19450 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ Denver Control, this is Flight two-zero- niner intersecting Victor Airway seven- niner-niner.
+L19449 +++$+++ u202 +++$+++ m13 +++$+++ JOEY +++$+++ I think you're the greatest. But my Dad says you don't work hard enough on defense.
+L19448 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ I'm an airline pilot.  Ah, Clarence, according to my calculations, with this tailwind we ought to be able to make up an additional fifteen minutes over the Rockies.
+L19445 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ I think you should go back to your seat now, Joey. Right, Clarence?
+L19444 +++$+++ u202 +++$+++ m13 +++$+++ JOEY +++$+++ You <u>are</u> Kareem. I've seen you play. My Dad's got season tickets!
+L19442 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ I'm sorry, son, but you must have me confused with someone else. My name is Roger Murdock. I'm the co-pilot.
+L19441 +++$+++ u202 +++$+++ m13 +++$+++ JOEY +++$+++ Wait a minute. I know you. You're Kareem Abdul Jabbar. You play basketball for the Los Angeles Lakers!
+L19493 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Okay, this is one of my favorites.
+L19492 +++$+++ u204 +++$+++ m13 +++$+++ LISA +++$+++ Oh, I'd love to.
+L19491 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ I thought maybe you'd like to hear a song.
+L19490 +++$+++ u204 +++$+++ m13 +++$+++ LISA +++$+++ I'm Lisa. Oh, you have a guitar!
+L19489 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ I'm Randy.
+L19488 +++$+++ u204 +++$+++ m13 +++$+++ LISA +++$+++ Hi!
+L19570 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Oh, it's nothing to be alarmed about. We'll get back to you very quickly.
+L19569 +++$+++ u206 +++$+++ m13 +++$+++ MRS. HAMMEN +++$+++ Yes, of course. We both had fish. Why?
+L19568 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Well, the doctor will be with you in just a moment. One thing: do you know what he had for dinner?
+L19567 +++$+++ u206 +++$+++ m13 +++$+++ MRS. HAMMEN +++$+++ Oh, Stewardess. My husband is very sick. Can you do something, please?
+L19566 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Yes?
+L19477 +++$+++ u206 +++$+++ m13 +++$+++ MRS. HAMMEN +++$+++ I will, but Jim won't.
+L19476 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Would either of you like another cup of coffee?
+L19447 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ All right. But just remember, my name is Roger Murdock.
+L19446 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ No, he's not bothering anyone. Let him stay up here.
+L19435 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ No, why don't you take care ot it?
+L19434 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ Do you want me to check the weather, Clarence?
+L19376 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Roger, Roger. What's our vector, Victor?
+L19375 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ We have clearance, Clarence.
+L19372 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ Huh?
+L19371 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Roger.
+L19370 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ Huh?
+L19369 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Roger.
+L19325 +++$+++ u209 +++$+++ m13 +++$+++ OVEUR +++$+++ Hi, Roger. Good to have you aboard. Victor, this is Roger Murdock.
+L19324 +++$+++ u208 +++$+++ m13 +++$+++ MURDOCK +++$+++ Sorry, Clarence. Latest weather report shows everything socked in from Salt Lake to Lincoln.
+L19484 +++$+++ u212 +++$+++ m13 +++$+++ SISTER ANGELINA +++$+++ Of course.
+L19483 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Could I borrow your guitar? I thought I might be able to cheer her up.
+L19482 +++$+++ u212 +++$+++ m13 +++$+++ SISTER ANGELINA +++$+++ Oh yes, I saw. Poor child.
+L19481 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ There's a little girl on board who's ill and...
+L19480 +++$+++ u212 +++$+++ m13 +++$+++ SISTER ANGELINA +++$+++ Yes?
+L19479 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Excuse me, Sister?
+L19828 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Thank you, Randy. You better leave sweetheart. You might get hurt in here.
+L19827 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Mr. Striker, the passengers are ready.
+L19625 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Would you go up, please?
+L19624 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Well, I flew in the war, but that was a long time ago. I wouldn't know anything about it.
+L19623 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ It's the little room at the front of the plane where the pilots sit. But that's not important right now. The first officer is ill and the Captain would like someone with flying experience to help him with the radio. Do you know anything about planes?
+L19622 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ The cockpit? What is it?
+L19621 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Excuse me, sir. There's been a little problem in the cockpit and I was wondering...
+L19475 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ No. No thank you.
+L19474 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Excuse me, sir. Would you like some coffee before we serve dinner?
+L19378 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Oh -- I haven't flown for a long time.
+L19377 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Do you feel all right, sir?
+L19344 +++$+++ u214 +++$+++ m13 +++$+++ STRIKER +++$+++ Thank you.
+L19343 +++$+++ u210 +++$+++ m13 +++$+++ RANDY +++$+++ Fourteen-B. It's halfway down on your right.

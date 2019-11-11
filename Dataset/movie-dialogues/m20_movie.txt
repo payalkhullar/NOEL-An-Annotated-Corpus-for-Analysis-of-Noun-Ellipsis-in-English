@@ -1,0 +1,678 @@
+L37123 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Nothing.
+L37122 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes?
+L37121 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick?
+L37118 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, Courtney?
+L37117 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Isn't that special?  Patrick?
+L37116 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You look marvelous. There's nothing to say. You're going to marry Luis. Next week, no Less.
+L37115 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Listen...Patrick. Can we talk?
+L37114 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ You never noticed.
+L37113 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I never knew you smoked.
+L37112 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ We were supposed to have dinner at Tad and Maura's, but-you know how Luis is...
+L37111 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You and...Luis?
+L37110 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ That's nice.
+L37109 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Dinner at the River Cafe. Au Bar afterwards, maybe.
+L37108 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ What are you doing tonight?
+L37107 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Maybe.
+L37106 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Will you call me before Thanksgiving?
+L36778 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Oh God, just get it over with.
+L36777 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ See? Happy? You dumb bitch? Are you happy, you dumb bitch?
+L36776 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Well, it's not a turn-on for me. I have a promotion coming to me. I don't want to get AIDS.
+L36775 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh Christ, this really isn't worth it. And see, Courtney, it's there for what? Huh? Tell us.  Why is it pulled down half an inch? So it can catch the force of the ejaculate!
+L36773 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Because you have to leave half an inch at the tip   to catch the force of the ejaculate! BATEMAN I'm getting out of here. Where's your lithium?
+L36772 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why?
+L36771 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Take it off.
+L36770 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's a plain end, see? So?
+L36769 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick. Turn on the Light. He turns on the light.
+L36768 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh Jesus. I'm going home.
+L36767 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Turn the light on.
+L36766 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's a plain end. I think.
+L36765 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What do you want, Courtney?
+L36764 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pull out, goddamnit!
+L36763 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm ignoring you.
+L36762 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pull out.
+L36761 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is it a what?
+L36760 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ No, you idiot. I said "Is it a receptacle tip?" Not, is Luis a despicable twit. Is it a receptacle tip? Get off me.
+L36759 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, Luis is a despicable twit. I hate him.
+L36758 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Luis is a despicable twit.
+L36755 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Mmmm...thanks, Patrick.
+L36754 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Courtney, you're going to have the peanut butter soup with smoked duck and mashed squash. New York magazine called it a 'playful but mysterious little dish." You'll love it. And then...the red snapper with violets and pine nuts. I think that'll follow nicely.
+L36753 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, dear.
+L36752 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ This is Dorsia?
+L36751 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes.
+L36750 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Are we here?
+L36749 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Champagne on the rocks. Oh-could I have that with a twist? She starts to sink back in her chair and Bateman leans over and pulls her back up.
+L36748 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ J&B. Straight.
+L36747 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I just want to have a child. Just...two... perfect...children... 
+L36746 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You know, Courtney, you should take some more lithium. Or have a Diet Coke. Some caffeine might get you out of this slump.
+L36745 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Oh God, Patrick. Shut up.
+L36744 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is that Donald Trump's car?
+L36743 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ A facial at Elizabeth Arden, which was really relaxing, then to the Pottery Bam where I bought this silver muffin dish. 
+L36739 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Sounds like I'll have to. Don't fall asleep, okay? Wear something fabulous. Dorsia, remember?
+L36738 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Pick me up?
+L36737 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Eight?
+L36736 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Okay. Yeah. What time?
+L36735 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ The question is do you like it, Courtney? And will you blow off a fucking phone call from your sad excuse for a boyfriend to eat there tonight.
+L36734 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ You like it there, don't you?
+L36733 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nice?
+L36732 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Dorsia's nice.
+L36731 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm thinking Dorsia.
+L36730 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I can't.
+L36729 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Courtney? Dinner?
+L36728 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Patrick don't call me pumpkin anymore, okay? I have to go.
+L36727 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin, you're dating a tumbling, tumbling dickweed.
+L36726 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ I know. Stop it.
+L36725 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin you're dating the biggest dickweed in New York.
+L36724 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Uh huh.
+L36723 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin you're dating an asshole.
+L36722 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Yes?
+L36721 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Pumpkin?
+L36720 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Ummm . . yeah. Luis is calling me tonight. I need to be home for that.
+L36719 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Am I confused or were we talking about tonight?
+L36718 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You should come have dinner with me. COURTNEY But-when?
+L36717 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Waiting for Luis to call me. He said he'd call tonight. Oh don't be difficult, Patrick.
+L36716 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ On a lot of lithium?
+L36715 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ Stop it. I'm...
+L36714 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, you're dating Luis, he's in Arizona. You're fucking me, and we haven't made plans. What could you possibly be up to tonight?
+L36713 +++$+++ u331 +++$+++ m20 +++$+++ COURTNEY +++$+++ What? Oh, I'm...busy.
+L36712 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, what are you doing tonight?
+L37301 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's not that nice.
+L37300 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ This is nicer than your other apartment.
+L37291 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh, lawyers are so complicated-don't do that. Here.
+L37290 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ My friend told me I should maybe even get a lawyer.
+L37289 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Really?
+L37288 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ Well, I actually might need a little surgery after last time.
+L37287 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ So, you're looking great, how have you been?
+L37286 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ Alright.
+L37285 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nothing like last time, promise.
+L37283 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I don't think so.
+L37282 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh this won't be anything like last time, I promise.
+L37281 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I'm not so sure about this. I had to go to Emergency after last time...
+L37056 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Actually, that's none of your business, Christie, hut I can assure you it certainly wasn't cheap.
+L37055 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ You have a really nice place here...Paul. How much did you pay for it?
+L37040 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you take American Express?
+L37039 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ I'm not supposed to.  But I can make an exception.
+L37038 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you want to come to my apartment or not?
+L37036 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Would you like to see my apartment?
+L37035 +++$+++ u330 +++$+++ m20 +++$+++ CHRISTIE +++$+++ You just haven't been looking.
+L37034 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I haven't seen you around here.
+L37367 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I have to return some videotapes.
+L37366 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But where?
+L37365 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm just leaving.
+L37364 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Where are you going?
+L37363 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm leaving now. I've assessed the situation and I'm going.
+L37362 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Oh God, I can't believe this.
+L37361 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ If you really want to do something for me, you can stop making this scene right now.
+L37359 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know my behavior is...erratic sometimes.
+L37358 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ No, no, no.
+L37357 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm...in touch with humanity. Evelyn, I'm sorry.  You're just not terribly important to me.
+L37356 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ You're inhuman.
+L37355 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We never really shared one.
+L37354 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But what about the past? Our past?
+L37353 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, I am.
+L37352 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ You're really serious, aren't you?
+L37351 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know that your friends are my friends. I've thought about that. You can have them.
+L37350 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ But your friends are my friends. My friends are your friends. I don't think it would work.  You have a little something on your upper lip.
+L37349 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm fucking serious. It's fucking over. Us. This is no joke. I don't think we should see each other anymore.
+L37348 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Touchy, touchy. I'm sorry I brought the wedding up. Let's just avoid the issue, alright? Now, are we having coffee?
+L37347 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's over, Evelyn. It's all over
+L37346 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Talk about what, Patrick? What is there to talk about?
+L37345 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We need to talk.
+L37344 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ My need to engage in homicidal behavior on a massive scale cannot be, um, corrected, but I have no other way to fulfill my needs.
+L37343 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Why? What's wrong?
+L37342 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I think, Evelyn, that we've...lost touch.
+L37341 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ I want a firm commitment.
+L36683 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's not.
+L36682 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Your hairline looks like it's receding.
+L36681 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. I'm not. Why should I ?
+L36680 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Are you using minoxidil?
+L36678 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody has a great body now.
+L36677 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He has a great body
+L36676 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody's good-looking, Patrick.
+L36675 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He's good-looking.
+L36674 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Everybody's rich.
+L36673 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He's rich.
+L36672 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Oh God, Patrick. Why Price? Price?
+L36671 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why don t you just go for Price?
+L36656 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hi. Pat Bateman.
+L36655 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Pat, this is my cousin Vanden and her boyfriend Stash. He's an artist.
+L36651 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Because I...want...to...fit...in.
+L36650 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Well, you hate that job anyway. Why don't you just quit? You don't have to work.
+L36649 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I don't want to talk about it.
+L36648 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Your father practically owns the company. You can do anything you like, silly.
+L36647 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No-I can't take the time off work.
+L36646 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ We should do it.
+L36645 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is your Evian spiked?
+L36644 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Yes, darling?
+L36643 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Evelyn?
+L36642 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Get married. Have a wedding.
+L36641 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do...what.
+L36640 +++$+++ u334 +++$+++ m20 +++$+++ EVELYN +++$+++ Marzipan. Pink tents. Hundreds, thousands of roses. Photographers. Annie Leibovitz. We'll get Annie Leibovitz. And we'll hire someone to videotape. Patrick, we should do it.
+L37092 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is that all you ever have to contribute, Van Patten? "What about fucking dinner?"
+L37091 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Listen, what about dinner?
+L37086 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, serial killer, Wisconsin in the fifties. He was an interesting guy.
+L37085 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Ed Gein? Maitre d' at Canal Bar?
+L37084 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you know what Ed Gein said about women?
+L37078 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Thanks, guy, but...she's got a lousy personality.
+L37077 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Girls dig Bateman. He's CQ. You're total CQ, Bateman.
+L37076 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ How did you guess?
+L37075 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Because he dated her.
+L37074 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know her. I knew her.
+L37073 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ But Laurie Kennedy is a total hardbody. What do you think, Bateman?
+L36809 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nice.
+L36808 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Eggshell with Romalian type.  What do you think?
+L36804 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ That's bone. And the lettering is something called Silian Rail.
+L36803 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Good coloring.
+L36802 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Picked them up from the printers yesterday
+L36555 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ What are the rules for a sweater vest?
+L36554 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You'll notice that my friends and I all look and behave in a remarkably similar fashion, but there are subtle differences between us. McDermott is the biggest asshole. Van Patten is the yes man. Price is the most wired. I'm the best looking. We all have light tans. Right now I'm in a bad mood because this is not a good table, and Van Patten keeps asking dumb, obvious questions about how to dress .
+L37420 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I won't...don't worry.
+L37419 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ Don't come back.
+L37418 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ Don't make any trouble. Please. I suggest you go.
+L37417 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ But I think...I want to know what happened here.
+L37416 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ I think you should go now.
+L37415 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ There was no ad in the Times.
+L37414 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. Yes. I mean yes, I did. In the Times. But... doesn't Paul Owen still live here?
+L37413 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ You saw the ad in the Times?
+L37412 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Are you sure?
+L37411 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ No, he doesn't.
+L37410 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Doesn't he live here?
+L37409 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm looking for...Paul Owen's...place.
+L37408 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ Can I help you?
+L37407 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No.
+L37406 +++$+++ u339 +++$+++ m20 +++$+++ MRS. WOLFE +++$+++ Are you my two o'clock?
+L37470 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Now, if you'll excuse me.
+L37469 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, you...didn't?
+L37468 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Because I had dinner with Paul Owen twice in London...just ten days ago.
+L37467 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why not, you stupid bastard?
+L37466 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ It's just not.
+L37465 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It never was supposed to he! Why isn't it possible?
+L37464 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ But that's simply not possible. And I don't find this funny anymore.
+L37463 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Now, Carnes, listen to me. Listen very, very carefully. I killed Paul Owen and I liked it. I can't make myself any clearer
+L37462 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No! Listen, don't you know who I am? I'm not Davis, I'm Patrick Bateman! I talk to you on the phone all the time! Don't you recognize me? You're my lawyer.
+L37461 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Excuse me. I really must he going.
+L37460 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Wait. Stop. You don't seem to understand. You're not really comprehending any of this. I killed him. I did it, Carnes. I'm Patrick Bateman. I chopped Owen's fucking head off. I tortured dozens of girls. The whole message I left on your machine was true.
+L37459 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Now, if you'll excuse me, I really must...
+L37458 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Oh Christ. He can barely pick up an escort girl, let alone...what was it you said he did to her?
+L37457 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What are you talking about? Bateman is what?
+L37456 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Davis. I'm not one to bad-mouth anyone, your joke was amusing. But come on, man, you had one fatal flaw: Bateman's such a dork, such a boring, spineless lightweight, that I couldn't fully appreciate it. I wasn't fooled for a second. Now, if you'd said Price, or McDermott...Otherwise, it was amusing. Now, let's have lunch or dinner or something. Hilarious, Davis. A killer.
+L37455 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Carnes? Wait.
+L37453 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ But wait, Harold, what do you mean?
+L37452 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ By the way Davis, how is Cynthia? You're still seeing her, right?
+L37451 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ The message you left.
+L37450 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What exactly do you mean?
+L37449 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ It was a pretty long message, wasn't it?
+L37448 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Bateman killing Owen and the escort girls? Oh that s fabulous. That's rich...
+L37447 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, naturally.
+L37446 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Jesus, Davis. Yes. That was hilarious. That was you, wasn't it?
+L37443 +++$+++ u328 +++$+++ m20 +++$+++ CARNES +++$+++ Face it-the Japanese will own most of this country by the end of the '90s.
+L37442 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Excuse me, gentlemen. Right back. He approaches Carnes cautiously.
+L37105 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What? CARRUTHERS  I'll call you.
+L37104 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ Patrick?
+L37103 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I've gotta...I've gotta...return some videotapes.
+L37102 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ Where are you going?
+L37101 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What...is...it?
+L36903 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jesus lives, Luis.
+L36902 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ Call me please, Patrick.
+L36901 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Commes des Garcon.
+L36900 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ This is Gwendolyn Ichiban. This is my very good friend Patrick Bateman. Where are you going? We're going to Nell's. Gwendolyn's father's buying it.  Where did you get your overnight bag?
+L36899 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, Luis. It's not me. You're mistaken.
+L36898 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ Patrick? Is that you?
+L36784 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Your compliment was sufficient Luis.
+L36783 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ It looks so soft.
+L36782 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Uh huh.
+L36781 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ That's a wonderful jacket. Let me guess, Valentino Couture?
+L36780 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Lucky, I guess.
+L36779 +++$+++ u329 +++$+++ m20 +++$+++ CARRUTHERS +++$+++ Patrick, thanks so much for looking after Courtney. Dorsia, how impressive! How on earth did you get a reservation there?
+L37477 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm just a happy camper. Rockin' and a-rollin'. VAN PATTEN  Rehab's done wonders for you, pal. Working for UNICEF now?
+L37476 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ And Bateman, what are YOU SO fucking zany about?
+L37167 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Where to? Morgan Stanley? Rehab? What?
+L37166 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ No, you dumb son of a bitch. I'm serious. I'm disappearing.
+L37165 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Don't tell me...merchant banking?
+L37164 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I'm leaving! I...am...leaving!
+L37163 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Where to? Are you going to go get a gram?
+L37162 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Listen to me, Patrick. I'm leaving.
+L37161 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Don't, I'll drink it.
+L37160 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ This.
+L37159 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Leaving what?
+L37158 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I'm leaving. I'm getting out.
+L37148 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Ask me a question.
+L37147 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Yes, Caron's right. Gorbachev's not downstairs. He's at Tunnel.
+L36814 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Impressive. Very nice. Let's see Paul Owen's card.
+L36813 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Raised lettering, pale nimbus white...
+L36812 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ But wait. You ain't seen nothin' yet.
+L36811 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I can't believe that Price prefers McDermott's card to mine.
+L36801 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ New card. What do you think?
+L36800 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ What's that, a gram?
+L36668 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, we have to end apartheid for one. And slow down the nuclear arms race, stop terrorism and world hunger. But we can't ignore our social needs. either We have to stop people from abusing the welfare system. We have to provide food and shelter for the homeless and oppose racial discrimination and promote civil rights while also promoting equal rights for women but change the abortion laws to protect the right to life yet still somehow maintain women's freedom of choice.
+L36667 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Like what?
+L36666 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh come on. Price. There are a lot more important problems than Sri Lanka to worry about. Sure our foreign policy is important, but there are more pressing problems at hand.
+L36597 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I guess you're right...  THAT IS, IF THE FAGGOT IN THE NEXT STALL THINKS IT'S OKAY!
+L36596 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Calm down. Let's do it anyway
+L36595 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ SHUT UP!
+L36593 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I want to get high off this; Bateman, not sprinkle it on my fucking All-Bran.
+L36592 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's definitely weak but I have a feeling if we do enough of it we'll be okay.
+L36591 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ It's a fucking milligram of Sweet'n Low!
+L36590 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What?
+L36589 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Is he fucking selling it by the milligram?  Oh my God...
+L36588 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Maybe it's just the light.
+L36587 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Jeez. That's not a helluva lot, is it?
+L36585 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ Oh, who knows? They don't know that. Prove it.
+L36584 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm not sure, guy, but I don't think dyslexia is a virus.
+L36583 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ There's this theory out now that if you can catch the AIDS virus through having sex with someone who is infected, then you can also catch anything-Alzheimer's, muscular dystrophy, hemophilia, leukemia, diabetes, dyslexia, for Christ's sake-you can get dyslexia from pussy-
+L36567 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ That's not Paul Owen. Paul Owen's on the other side of the room. Over there.
+L36566 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ That's Paul Owen.
+L36563 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ It looks that way, doesn't it?
+L36562 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Van Patten looks puffy. Has he stopped working out?
+L37205 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ See you then.
+L37204 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ There are no tables available tonight. The waiting list is also totally booked.
+L37203 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Two at nine? Perfect.
+L37202 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ I said we are totally booked.
+L37201 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh really? That's great.
+L37200 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ We are totally booked.
+L37199 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, can you take two tonight, oh, let's say at nine o'clock?
+L37198 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ Dorsia, yes?
+L36854 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ Your friend has already been seated. Follow me, Mr. Halberstam.
+L36853 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Marcus Halberstam. For two at eight?
+L36742 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Umm...yes...I know it's a little late but is it possible to reserve a table for two at eight or eight-thirty perhaps?
+L36741 +++$+++ u338 +++$+++ m20 +++$+++ MAITRE D' +++$+++ Dorsia.
+L37439 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Stop sounding so Fucking sad! Jesus!
+L37438 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ What is it, Patrick? Are you alright?
+L37437 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Just...say...no!
+L37436 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Why?
+L37435 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ ...to the office this afternoon.
+L37434 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I don't think I'm gonna make it, Jean.
+L37433 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Where are you? Patrick, what's wrong?
+L37432 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What are I doing?
+L37431 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick? I can't hear you.
+L37430 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh God, what did you say, you dumb bitch?
+L37429 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Craig McDermott called. He wants to meet you and David Van Patten and Tim Price at Harry's for drinks.
+L37428 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean-I'm not-
+L37427 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Where are you?
+L37426 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hello? Jean, I need help!
+L37425 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick? Is that you?
+L37424 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean? Hello? Jean?
+L37423 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick Bateman's office.
+L37253 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Thanks. It slipped my mind completely.
+L37252 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ And don't forget you have a breakfast meeting with Frederick Bennet and Charles Rust at '21.
+L37251 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ No. No, I guess not. I don't want to get bruised. You're right, I should go.
+L37250 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ If you stay, I think something bad will happen. I think I might hurt you.  You don't want to get hurt, do you?
+L37249 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ I know I should go. I know I have a tendency to get involved with unavailable men, and...I mean, do you want me to go?
+L37248 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes. I don t think I can...control myself.
+L37242 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Hmmmm.
+L37241 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm looking for...I guess you could say I just want to have a meaningful relationship with someone special.
+L37240 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Make someone happy-have you ever wanted to?
+L37239 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean? What?
+L37238 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Sorry. 
+L37237 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What...No! Put it in the carton.
+L37236 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick, have you ever wanted to make someone happy?
+L37235 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh. Uh, tape. Duct tape. I...need it for... taping something. Bateman goes back to the cupboard for the nail gun.
+L37234 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ What's that?
+L37233 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Forget it.
+L37232 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Who's Ted Bundy?
+L37231 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Did you know that Ted Bundy's first dog, a collie, was named Lassie? Had you heard this?
+L37230 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Growing. I'm glad you said that.
+L37229 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Well, I guess I do. For a long time I was too focused on my work, I think, but now I've really begun to think about changing myself, you know, developing, and...growing.
+L37228 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean, do you feel...fulfilled? I mean, in your life?
+L37227 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Maybe. I don't know Not really. Bateman opens up a cupboard where there are a lot of very Bateman opens a cupboard where there are a lot of neatly ordered weapons - an ax, a rifle, a chain saw, duct tape, twine and a nail gun.
+L37226 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Are you seeing anyone? I mean, seriously?
+L37225 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Interesting.
+L37224 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ No, not really.
+L37223 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you have a boyfriend?
+L37222 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Well, I'd like to travel. And maybe go back to school, but I really don't know...I'm at a point in my life where there seems lo be a lot of possibilities, but I'm so... I don't know...unsure.
+L37221 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ And don't tell me you enjoy working with children, okay?
+L37219 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. It's all right. I'm not very good at controlling it anyway.
+L37218 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Well, maybe we shouldn't go out to dinner. I don't want to ruin your willpower.
+L37217 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You can always he thinner. Look...better.
+L37216 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ You don't need to lose any weight. You're kidding, right? You look great. Very fit.
+L37215 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm on a diet. But thank you.
+L37214 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Want a bite?
+L37213 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Thanks, Patrick. I'd love some.
+L37212 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean? Sorbet?
+L37208 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ They know me.
+L37207 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ You didn't give them a name.
+L37206 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes? You're dressed...okay.
+L37197 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Dorsia is...fine.
+L37196 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh, I don't know. No, we'll go anywhere you want.
+L37195 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Soooo...Dorsia is where Jean wants to go...
+L37193 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Come on. Where do you want to go? Anywhere you want. Just say it. I can get us in anywhere.
+L37192 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh, I can't.  I don't know.
+L37191 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, come on. Anywhere you want.
+L37190 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh Patrick, I can't make this decision.
+L37189 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Let's not think about what I want. How about anywhere you want.
+L37188 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Anywhere you want?
+L37186 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, isn't this a coincidence.
+L37185 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh no. I have no plans.
+L37184 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ That is...if you're not doing anything.
+L37183 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Would you like to accompany me to dinner?
+L37182 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Yes, Patrick?
+L37181 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Jean?
+L36968 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Bring us an ashtray for Mr. KIMBALL, please. She whisks in with a crystal ashtray as they sit in silence.
+L36967 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Yes, Patrick?
+L36935 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Can you bring Mr...
+L36934 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick?
+L36914 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick, I think he knows you're here. It's only ten-thirty.
+L36913 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Tell him I'm at lunch.
+L36912 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Detective Donald KIMBALL?
+L36911 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Who?
+L36910 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick, a Mr. Donald KIMBALL is here to see you.
+L36909 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Ye-es, Je-an?
+L36908 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Patrick?
+L36907 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What is it?
+L36636 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Thanks, Patrick.
+L36635 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Come on, you're prettier than that.
+L36634 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ You don't like this, I take it?
+L36633 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I said "Do not wear that outfit again." Wear a dress. A skirt or something.
+L36632 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Ummm...what? I didn't hear you.
+L36631 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Is that the Ransom file? Thanks. Don't wear that outfit again.
+L36630 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Yes?
+L36629 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ You look nice today.
+L36628 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. No. Be a doll and just get me a Perrier, okay?
+L36627 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ I'll do it.
+L36626 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, silly. Forget it. I'll make them. Thanks.
+L36625 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh, something. . romantic?
+L36623 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Yes, sir.
+L36622 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Okay, Jean. I need reservations for three at Camols at twelve-thirty, and if not there, try Crayons. All right?
+L36621 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Just say no?
+L36620 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Just...say...no.
+L36619 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Oh? And what should I say?
+L36618 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Negative. Cancel it.
+L36617 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ After six.
+L36616 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ When?
+L36615 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ And...Spencer wants to meet you for a drink at Fluties Pier 17.
+L36614 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I occasionally box with Ricky at the Harvard Club. Anyone else?
+L36613 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Ricky Hendricks has to cancel today. He didn't say what he was canceling or why.
+L36612 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Aerobics class. Sorry. Any messages?
+L36611 +++$+++ u336 +++$+++ m20 +++$+++ JEAN +++$+++ Late?
+L37178 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ That's okay. I don't mind. There's something sweet about you.
+L37177 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. I really don't.
+L37176 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ You think I'm dumb. You think all models are dumb.
+L37175 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What?
+L37174 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ You think I'm dumb, don't you?
+L37173 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ That's...that's too bad.
+L37172 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh really? DAISY He said...  He said you gave him bad vibes.
+L37156 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ Well, most guys I know who work in mergers and acquisitions don't really like it.
+L37155 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Welt...it depends, why?
+L37154 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I m into, well, murders and executions mostly.
+L37153 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ Well...
+L37152 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. Flattering, but no.
+L37151 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ A model? An actor?
+L37150 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What do you think I do?
+L37149 +++$+++ u332 +++$+++ m20 +++$+++ DAISY +++$+++ So, what do you do?
+L36711 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Okay. Do.
+L36710 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh, can't, I'm afraid. Matine of Les Miserables. Listen, I've really got to go. I'll-Oh...Christ...I'll call you.
+L36709 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Yeah.
+L36708 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Next Saturday?
+L36707 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Well, what about, oh, you know, maybe a Saturday?
+L36706 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh, I don't know, Victoria. I'm at work all the time.
+L36705 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Maybe we could have lunch one day next week? You know, I'm downtown near Wall Street quite often.
+L36704 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yeah, well, oh boy, listen, I've got to go. Thank you, uh... Victoria?
+L36703 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Hubert's? Oh really? It moved uptown, right?
+L36702 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, if you could talk to them  I would really appreciate it. I'm really late. I have a lunch appointment at Hubert's in fifteen minutes.
+L36701 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Oh yeah. Oh I get it. Fun with chocolate.
+L36700 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, I mean, um, it s really...Bosco. You know, like... like a Dove Bar. It's a Dove Bar...Hershey's Syrup?
+L36698 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Then why can't they get these stains out? I mean can you talk to these people or something? I'm not getting anywhere.
+L36697 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Isn't it ridiculous? Coming all the way up here, but you know. They really are the best.
+L36696 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well.
+L36695 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hello 
+L36694 +++$+++ u343 +++$+++ m20 +++$+++ VICTORIA +++$+++ Hi, Patrick. I thought that was you.
+L37337 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ You actually listen to Whitney Houston? You actually have a Whitney Houston CD? More than one?
+L37336 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Did you know that Whitney Houston's debut LP called simply Whitney Houston had four number-one singles on it? Did you know that, Christie? Whitney's voice leaps across so many boundaries and is so versatile-though she's mainly a jazz singer-that it's hard to take in the album on a first listening.
+L37335 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Those are Sarah Lawrence guys, Patrick. You're making me feel weird.
+L37334 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, you went to Sarah Lawrence for one thing.
+L37333 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ No! I'm not a lesbian. Why do you think I'd be into that?
+L37332 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Are you telling me you've never gotten it on with a girl?
+L37330 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Does he do this all the time?
+L37329 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Come on. I think it would be a turn-on.
+L37328 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Let's not get lewd.  I'm in no mood to have a lewd conversation.
+L37327 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Come on. Don't you find Christie attractive?
+L37326 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Patrick, you re a lunatic.
+L37325 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, I would just like to see...the two of you...get it on. What's wrong with that? It's totally disease-free.
+L37324 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Do you have any coke? Or Halcyon? I'd take a Halcyon.
+L37323 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No.
+L37322 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Did you know that guy who disappeared? Didn't he work at Pierce & Pierce, too? Was he a friend of yours?
+L37321 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ I want the number, idiot.  Anyway, I'm at Paul Norman's and I'll try you later and if I don't see you at Canal Bar tomorrow night I'm going to sic my hairdresser on you.
+L37320 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Paul Owen.
+L37319 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Who?
+L37318 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You're at Paul Owen s.
+L37317 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ This tastes weird.  Harley? It's me. I need your services. Translate that anyway you'd like. I'm at-
+L37316 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Why would I?
+L37315 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Don't tell him you're here.
+L37314 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ He's a goddamn drug dealer! These are his peak hours.
+L37313 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Elizabeth, it's three in the morning.
+L37308 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ She's from...France.
+L37307 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ Uh huh?
+L37306 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ She's my...cousin.
+L37305 +++$+++ u333 +++$+++ m20 +++$+++ ELIZABETH +++$+++ If you had an American Express card she'd give you a blowjob.  Listen, this girl worked in a tanning salon, need I say more?...What do you do?
+L37304 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What do you mean, she was a hot number.
+L37400 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Personally I think the guy went a little nutso. Split town for a while. Maybe he did go to London. Sightseeing. Drinking. Whatever. Anyway, I'm pretty sure he'll turn up sooner or later.  I mean, to think that one of his friends killed him, for no reason whatsoever would be too ridiculous. Isn't that right, Patrick?
+L37399 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh, right. Of course...We had wanted Paul Owen to come. But he said he had plans...I guess I had dinner with Victoria...the following night.
+L37398 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ He was at Atlantis with Craig McDermott, Frederick Dibble, Harry Newman, George Butner and   - you.
+L37397 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ So who was he with?
+L37396 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ He wasn't with Paul Owen.
+L37395 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Where was Marcus?
+L37394 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh. KIMBALL Now where were you? 
+L37393 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I checked it out. It's clean.
+L37392 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He does? You're sure?
+L37391 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yes.
+L37390 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, does Marcus have an alibi?
+L37389 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yes.
+L37388 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ But Marcus denied it?
+L37387 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yes. And he denies it. Though at first he couldn't be sure.
+L37386 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Marcus?
+L37385 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I've questioned him.
+L37384 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ And?
+L37383 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ According to his date book, and this was verified by his secretary, he had dinner with...Marcus Halberstam.
+L37382 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ But how? Where do you place Paul that night?
+L37381 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I think maybe you've got your dates mixed up.
+L37380 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm not really sure. I had a shower...and some sorbet?
+L37379 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ So, the night he disappeared? Any new thoughts on what you did?
+L37378 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Suit yourself, I guess.
+L37377 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, of course. The hash browns are delicious. I'm just...not... ordering them.
+L37376 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ But...everyone orders the hash browns here. I mean- it's-have you been here before?
+L37375 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Not in the mood, I guess.
+L37374 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No hash browns?
+L37280 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'll be there.
+L37279 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Well, to each his own. So-lunch, Thursday? I'll call your secretary about reservations.
+L37278 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, I like music. Just-they're-Huey's too... black sounding. For me.
+L37277 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Not a big music fan, eh?
+L37276 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Never. I mean...I don't really like... singers.
+L37274 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Absolutely. I'm with you on that one.
+L37273 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ And if you could try and pin down where you were the night of Owen's disappearance, it would make my job a lot easier.
+L37272 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Great, yes, I'd like that.
+L37271 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Listen, I'm a little spent for now but how about lunch in a week or so when I've sorted out all this information?
+L37270 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Patrick, please. I hope I've been informative. Long day-a bit scattered.
+L37269 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Well, thank you, Mr. Bateman.
+L37268 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We had...gone to a new musical called...Oh Africa, Brave Africa. It was...a laugh riot...and that's about it. I think we had dinner at Orso's. No, Petaluma. No, Orso's. The...last time I physically saw him was...at an automated teller. I can't remember which...just one that was near, um, Nell's.
+L37267 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Well...When was the last time you were with Paul Owen?
+L37266 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, I could he wrong.
+L37265 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Let's see...  That you were with-
+L37264 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well...I...Wait...What information have you received?
+L37263 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ That's not the information I've received.
+L37262 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What?
+L37261 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Wait. That's not what I've got.
+L37260 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I had a date with a girl named Veronica.
+L37259 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ God...I guess...I was probably returning videotapes.
+L37258 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Do you remember where you were on the night of Paul's disappearance?  Which was on the twentieth of December?
+L37257 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Not really.
+L37256 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yeah, gone into rehab. Shame.  Is he a suspect?
+L37255 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I actually came to see Timothy Price, but he's taken a leave of absence.
+L37135 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Dan, great to see you again. Like I said, you need anything at all, I'm your man. I don't envy your job. I mean Owen was a...complex man.
+L37134 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I mean they want to get caught.
+L37132 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Too true. You know, Bateman-people tend to reveal so much more about themselves when they're in a relaxed setting, don't you think?
+L37131 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yeah. No Finlandia, as usual. Fucking dump.
+L37130 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ 0h no. Informal conversations, mostly. What's that, Stoli?
+L37129 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ How's the investigation going? Taken anyone in for "formal questioning?" 
+L37128 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Uh, yes...I mean...whenever necessary. You know.
+L37127 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ So...you hang out here a lot?
+L37126 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Don.
+L37125 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Detective Kendall...uh Campbell? KIMBALL Kimball.  Call me Don.
+L37029 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Great, and thanks for your, uh, time, Mr. Bateman.
+L37028 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Absolutely, I'm 100% with you.
+L37027 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Listen, if anything occurs to you, any information at all...
+L37025 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Oh really? I didn't know that.
+L37024 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Uh, no. There's one...down here.
+L37023 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Isn't the Four Seasons a little far uptown? I mean aren't you going to be late?
+L37022 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You'll have to excuse me. I have a lunch meeting with Cliff Huxtable at Four Seasons in twenty minutes.
+L37021 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Eerie. Really eerie.
+L37020 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ The earth just opens up and swallows people. 
+L37019 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ People just...disappear.
+L37018 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nothing.
+L37017 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ It's just strange.  One day someone's walking around, going to work, alive, and then...
+L37016 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ That's so typical, isn't it?
+L37015 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No, not yet. As I said, we're not sure. But... basically no one has seen or heard anything.
+L37014 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I mean no one's dealing with the homicide squad yet or anything, right?
+L37013 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No, it actually hadn't. Toiletries were missing. A suit was gone. So was some luggage. That's it.
+L37012 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Had his apartment been burglarized?
+L37011 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No.
+L37010 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Have you consulted a psychic?
+L37009 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yeah, I know, and was into that whole Yale thing.
+L37008 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yikes! No. Paul wasn't into that. He followed a balanced diet and-
+L37007 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I know it sounds like a lame question, but in New Jersey I know this sounds like a lame question, but last month-I don't know if you've heard about this, but a young stockbroker was recently arrested and charged with murdering a young Chicano girl and performing voodoo rituals with various body parts-
+L37006 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ What?
+L37005 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Was he involved at all , do you think, in occultism or Satan worship?
+L37004 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh.
+L37003 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Well, I've had a hard time getting an actual verification. A Stephen Hughes says he saw him at a restaurant there, but I checked it out and what happened is, he mistook a Hubert Ainsworth for Paul, so...
+L37002 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hmmm.
+L37001 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Actually, yes.
+L37000 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ But...has anyone seen him in London?
+L36999 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ His girlfriend doesn't think so.
+L36998 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, maybe he did, huh?
+L36997 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Well, there's a message on his answering machine saying he went to London.
+L36996 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do you have any witnesses or fingerprints?
+L36995 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ So was I.
+L36994 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ We were both seven in 1969.
+L36993 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Anything else you can tell me about Owen?
+L36991 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I just wanted to know if you know. BATEMAN Before Yale? If I remember correctly, Saint Paul's... Listen, I just...I just want to help.
+L36990 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Don't you know this?
+L36989 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ And where did he go to school?
+L36988 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, he just hung out there.
+L36987 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ He had a yacht?
+L36986 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Let me think. The Newport. Harry's. Fluties. Endochine. Nell's. Comell Club. The New York Yacht Club. The regular places.
+L36985 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yeah. You know...hang out.
+L36984 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hang...out?
+L36983 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Where did Paul hang out?
+L36982 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No. Not really.
+L36981 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Do you feel that way?
+L36980 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I hope I'm not being cross-examined here.
+L36979 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ What kind of man was he? Besides...  the information you've just given.
+L36978 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ He led what I suppose was an orderly life. He... ate a balanced diet.
+L36977 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ So...there's nothing you can tell me about Paul Owen?
+L36975 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ What do you mean...Yale thing?
+L36974 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yeah...Yale thing.
+L36973 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Yale thing?
+L36972 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I'm...at a loss. He was part of that whole...Yale thing, you know.
+L36971 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ How well did you know him?
+L36970 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well...
+L36969 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ What can you tell me about Paul Owen?
+L36966 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No problem. 
+L36965 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ You sure?
+L36964 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, I guess it's okay.
+L36963 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Would you rather I not smoke?
+L36962 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I know. I'm sorry.
+L36961 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Bad habit.
+L36959 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ You seem...nervous.
+L36958 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Who do you ask?
+L36957 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Pardon me, but are you okay?
+L36956 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Thanks.
+L36955 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Nice. Very nice.
+L36954 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Fifty-five West Eighty-First Street. The American Gardens Building.
+L36953 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Your address?
+L36952 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Harvard. The Harvard Business School.
+L36951 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Where did you go to school?
+L36950 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Twenty-six. I'll be twenty-seven in October.
+L36949 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ How old are you?
+L36948 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Shoot.
+L36947 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Just some preliminary questions that I need for my own files, okay?
+L36946 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You sure? I can always get you a lime.
+L36945 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No, really. I'm okay.
+L36944 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Understandable.  Lime?
+L36943 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I think his family wants this kept quiet.
+L36942 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh right. Well, I haven't heard anything about the disappearance or anything...  Not on "Page Six" at least.
+L36941 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ The disappearance of Paul Owen.
+L36940 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Well, what's the topic of discussion?
+L36939 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's no problem
+L36938 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Oh no, I'm okay.
+L36937 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Mr. Kimball a bottle of San Pelle-
+L36936 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ KIMBALL.
+L36933 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No, I'm okay.
+L36932 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Perrier? San Pellegrino?
+L36931 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No. I'm okay.
+L36930 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Coffee?
+L36929 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ So it's nothing that official. I just have some basic questions. About Paul Owen. About yourself-
+L36928 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Ah, I see...Yes. Paul's disappearance...Yes.
+L36927 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Nothing like that. I'm just a private investigator.
+L36926 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You're not with the FBI or anything, are you?
+L36925 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I've been hired by Meredith Powell to investigate the disappearance of Paul Owen.
+L36924 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ So, what's the topic of discussion?
+L36923 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ I'm sorry to barge in on you like this. but I was supposed to talk to Luis Carruthers and he wasn't in and...well, you're here, so...I know how busy you guys can get.
+L36922 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hi. Pat Bateman. Nice to meet you.
+L36921 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ Hi. I'm Donald KIMBALL
+L36920 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh that? Just mulling over business problems. Examining opportunities...Exchanging rumors... Spreading gossip.
+L36919 +++$+++ u337 +++$+++ m20 +++$+++ KIMBALL +++$+++ No, I'm sorry. I should've made an appointment.  Was that anything important?
+L36918 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, John, I've got to go. T Boone Pickens just walked in...  Just joking...  No don't tip the owner of the salon. Okay, John, right, got it.  Sorry about that.
+L36845 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You reek. You reek of...shit. Do you know that?  Goddammit, Al-look at me and stop crying like some kind of faggot. Al...I'm sorry.
+L36844 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I can't...I can't find a shelter
+L36843 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Do ,you know how bad you smell? The stench, my God.
+L36842 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ Please...I don know what to do. I'm so cold.
+L36841 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Shhhh...it's okay.
+L36840 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ You re so kind, mister. You're kind. You're a kind man. I can tell.
+L36839 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Get a goddamn job, Al. You've got a negative attitude. That's what's stopping you. You've got to get your act together. I'll help you.
+L36838 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ Al.
+L36837 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Speak up. Come on.
+L36836 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ Al.
+L36835 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, what's your name?
+L36834 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ What am I gonna do?
+L36833 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, do you think it's fair to take money from people who do have jobs? From people who do work?
+L36832 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm hungry.
+L36831 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I know that, I know that. Jeez, you're like a broken record. I'm trying to help you.
+L36830 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm hungry
+L36829 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You're not what? Qualified for anything else?
+L36828 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm not...
+L36827 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why don't you get another one? Why don't , you get another job?
+L36826 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm so hungry.
+L36825 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Gee, uh, that's too bad.
+L36824 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why? Were you drinking? Is that why you lost it? Insider trading? Just joking. No, really-were you drinking on the job?
+L36823 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I lost my job...
+L36822 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Why don't you get a job? If you're so hungry, why don't you get a job?
+L36821 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm so hungry.
+L36820 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's cold out, too, isn't it?
+L36819 +++$+++ u335 +++$+++ m20 +++$+++ HOMELESS MAN +++$+++ I'm so hungry.
+L36893 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, it is.
+L36892 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Is that a raincoat?
+L36891 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ No, Owen.
+L36890 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Why are there copies of the Style section all over the place? Do you have a dog? A chow or something?
+L36889 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Yes, Owen?
+L36888 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Hey, Halberstam?
+L36885 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ They're okay. BATEMAN Their early work was a little too New Wave for my taste. But then Sports came out in 1983, I think they really came into their own, commercially and artistically.
+L36884 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ You like Huey Lewis and the News?
+L36882 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Come on, you dumb son of a bitch.  I've got a preview of the Barneys catalogue and a bottle of Absolut waiting for us.
+L36881 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ No, man. I'm gonna bail.
+L36880 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Two-hundred-and-fifty. Very reasonable. Let's leave a big tip, shall we? My place hr a nightcap?
+L36879 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Paul, give me your Amex card. Good boy. Bateman slaps the card down, looks at the check.
+L36878 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Another Martini, Paul?
+L36877 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Evelyn. Great ass. Goes out with that loser Patrick Bateman. What a dork.
+L36876 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Cecelia is, well...you know 
+L36875 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ And Cecelia, how is she? Where is she tonight?
+L36870 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ I could tell you that, Halberstam, but then I'd have to kill you.
+L36869 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ So, wasn't Rothschild originally handling the Fisher account? How did you get it?
+L36867 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Nobody goes there anymore.
+L36866 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ We should've gone to Dorsia. I could've gotten us a table.
+L36865 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Hey, I'm a child of divorce. Give me a break  Hmmm, I see they've omitted the pork loin with lime jello.
+L36864 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Yeah, well, you're late.
+L36863 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Listen, the mud soup and the charcoal arugula are outrageous here.
+L36793 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh yes. I'm very lucky.
+L36792 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ And how's Cecilia? She's a great girl.
+L36791 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ Oh well, you know.
+L36790 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Really? That's interesting.  Not great?
+L36789 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ It's...it's...all right.
+L36788 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ How's the Ransom account going, Marcus?
+L36786 +++$+++ u327 +++$+++ m20 +++$+++ BATEMAN +++$+++ I've been great. And you?
+L36785 +++$+++ u340 +++$+++ m20 +++$+++ OWEN +++$+++ Hello, Halberstam. Nice tie. How the hell are you?
+L37475 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Some guys are just born cool, I guess.
+L37474 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I just don't see how someone, anyone, can appear that way and yet be involved in such total shit. How can you be so fucking, I don't know, cool about it?
+L37473 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ I don't believe it. He looks so...normal. He seems so... out of it. So...undangerous.
+L37472 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ What shit? Now where do we have reservations at? I mean I'm not really hungry, but I would like to have reservations somewhere.
+L37471 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ How can he lie like that? How can he pull that shit?
+L36561 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ Good point. Excuse me, gentlemen.
+L36560 +++$+++ u341 +++$+++ m20 +++$+++ PRICE +++$+++ You'll look like you consciously worked for the look.
+L36559 +++$+++ u342 +++$+++ m20 +++$+++ VAN PATTEN +++$+++ You think so?
