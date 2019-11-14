@@ -1,0 +1,305 @@
+L247505 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Go in there. Talk to her.
+L247504 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Me!? You where the one...
+L247503 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ All that "you gotta be vicious" stuff you filled her head with.
+L247502 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ What?
+L247501 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ In the bedroom. Crying her eyes out because of you.
+L247500 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Where's Audrey?
+L247499 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ What? I just couldn't just let them sleep in the street.
+L247498 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Who the hell are all these people?
+L247227 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Great. See ya then.
+L247226 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Audrey's going to stay with us tonight.
+L247167 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Audrey, you're too damned nice, that's your problem. Nice gets you nothin' in this town. You gotta be a killer to get ahead, you know what I'm sayin'? I'm sorry, baby, but you just don't got what it takes.
+L247166 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Hey, hey! I'm eating here!
+L247165 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ I'm telling you he's dirt. He's a douche bag, gutter slime, dog crap, puke chunks...
+L247160 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Big bites.
+L247159 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Shut up. How can you eat like that?
+L247158 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ That's cuz I'm married to you.
+L247709 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ No.
+L247708 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Audrey, did you take the tape out of the camera?
+L247687 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ But we can get to the west side faster.
+L247686 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ What are you talking about? The east side is always faster.
+L247685 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ The JFK? In the rain!?
+L247684 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ You're crazy, go to the east side and take the park avenue to the JFK.
+L247683 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Cut uptown, take 8th to 57th then cut up Broadway.
+L247650 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Oh yes he will.
+L247649 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ He's not going to do it.
+L247616 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Only one way to find out.
+L247615 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Think we can fit up in there?
+L247587 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Yes. Definitely. Definitely enough.
+L247586 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Don't you think we have enough?
+L247529 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ It's the maintenance entrance. Runs along the side of the tunnel. When they repaired it last year I worked on a piece about it.
+L247528 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ What are you doing?
+L247524 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Lucy'd kill me if she knew.
+L247523 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ What are you doing?
+L247520 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Look, you want to make it up to your friend? Well if he's right, this is your chance.
+L247519 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Animal, I can't.
+L247518 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Perfect! You wanted a story, well, baby, you got one.
+L247517 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ My God. He's going after the nest.
+L247516 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ I just saw him. He's with a bunch of guys who want to sneak into the city tonight.
+L247515 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Yeah. Why are you asking?
+L247514 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Didn't you tell me he left for the airport?
+L247513 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Yeah, I just screwed up with the only man who ever really cared about me.
+L247512 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ You made a mistake.
+L247511 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ It's all my fault. What have I done, Animal? What have I become? Look at me. This isn't me. I don't do things like this.
+L247510 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ You okay?
+L247439 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ We know, Audrey.
+L247438 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ He stole my report! That's my report!
+L247222 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Sure I was. I thought Lucy was gonna kill me.
+L247221 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Great stuff, Animal. Weren't you scared?
+L247194 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Nearly four years...
+L247193 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ How long where you and dis guy goin' steady?
+L247191 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ No! I just couldn't see myself with some boring egg head who spends his summer picking apart cockroaches. I wanted to have some adventure, some fun...
+L247190 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ That why you dumped him?
+L247170 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Well, I can be tough if I want.
+L247169 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ Nice guys finish last. First rule of the jungle.
+L247168 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Animal, you don't think that's true, do you?
+L247164 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You know how I spent last weekend? Walking his damned dog.
+L247163 +++$+++ u1024 +++$+++ m67 +++$+++ ANIMAL +++$+++ I like that image.
+L247720 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh, just some insurance guy.
+L247719 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Who was that French guy, anyway.
+L247677 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Really? I'd like to find out.
+L247676 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ You'd be surprised.
+L247675 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Somehow I never thought your life was this exciting.
+L247674 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Are you okay?
+L247659 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Oh my God! They're coming!
+L247658 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ If the military are listening, they must immediately destroy this building before they can escape.
+L247641 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Your station won't have any easier time contacting the military than I did.
+L247640 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ The network is on an intranet. It's a direct feed into our computer system.
+L247639 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Our network covers the Ranger games.
+L247638 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ How do you know?
+L247637 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Come on, the broadcast booth is right over here.
+L247635 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I know a way. I know how you can get a message out of here.
+L247634 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Circuits are overloaded.
+L247631 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I was wrong.
+L247630 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I thought you said there'd only be a dozen eggs.
+L247629 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ What are you doing here?
+L247457 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ So you thought that made it okay to steal my tapes?
+L247456 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I didn't mean for it to turn out like this.  Look, I lied to you. I'm not a reporter. When we broke up and I came out to New York I was so sure I'd make it. But I haven't. That's why I needed this story so bad. I just couldn't tell you I'm a failure.
+L247455 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I shouldn't have to, Audrey. You're supposed to be my friend. I trusted you.
+L247454 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You never said it was off the record.
+L247453 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Well what the hell did you think was going to happen?
+L247452 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Is this cause of me? Because of the story?
+L247387 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Yes. Do you realize that a creature like this could lay as many as a dozen eggs at a time!
+L247386 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Nesting?
+L247385 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ The ultimate expression of evolution, it reproduces asexually. Think about it, all kinds of creatures have been known to travel great distances for reproduction. That's why he came to New York. Like every species of insufficient progenitors, he's nesting!
+L247384 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I don't get it. If it's the first of its kind, how can it be pregnant?
+L247383 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Well, obviously these tests weren't designed for this but fundamentally they're looking for the same hormonal patterns that would indicate pregnancy.
+L247382 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Are you sure?
+L247381 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ ...he's pregnant.
+L247379 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ What else do you know about it?
+L247378 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I got pretty close.
+L247377 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Blood sample? How close did you get to that thing?
+L247376 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Yes. The first of its kind. I found this blood sample earlier this evening...
+L247375 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ And you think this creature is one of them?
+L247374 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I have this theory that we're inadvertently creating new species as a direct result of what we've done to nature.
+L247373 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ And exactly what changes are you trying to effect?
+L247372 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ When you and I use to attend rallies in college, we helped to create awareness. But from the inside now I can actually effect change.  I never lost my idealism.
+L247371 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I still can't believe it. How does a guy go from an anti-nuke activists to working for the Nuclear Regulatory Commission?
+L247369 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Sure. I'd like that.
+L247368 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Wait. I'm sorry. You're right. Eight years is a long time. Can I offer you a cup of tea?
+L247367 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I'm sorry you feel that way.
+L247366 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Most people don't.
+L247365 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ That was eight years ago. Some people change, you know.
+L247364 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ You just left me without a phone call, a letter, nothing. All this time. Yeah, I guess I'm still a little mad.
+L247363 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You're still mad at me, aren't you?
+L247362 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ No, I'm into earthworms now. You wouldn't be interested. They're real "boring" creatures. Very reliable, dependable, no surprises...
+L247361 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ So, you still picking apart cockroaches?
+L247360 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Yeah, well...
+L247359 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ You're a reporter. That's what you always wanted to be, right? I'm happy for you. Really, I am.
+L247358 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ What?
+L247357 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ So you made it.
+L247356 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ It's good to see you, Nick.
+L247355 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Audrey?! Is that you? Hi, hello. You look, wow, uh, how've you been?
+L247354 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You must have quite some harem.
+L247353 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I'll take them all.
+L247277 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I'm tired of waiting for someone else to give me an opportunity, Luce. If there's a story here I'm going to find it.
+L247276 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Audrey, I don't think this is a very good idea. Caiman finds out and he'll have your job.
+L247275 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Wish me luck!
+L247266 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ I left my forgery kit back at the office.
+L247265 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Yeah, well he just turned up in New Jersey at the military command post. Somehow all this is related to what happened down in Panama. There's a story here. I know it. You got any tape or glue?
+L247264 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Your old sweetheart?
+L247263 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Remember my friend we saw on t.v.?
+L247262 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ What the hell are you doing?
+L247196 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ That's the problem. He did.
+L247195 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Four years. Girl, I'm surprised he didn't ask you to marry him.
+L247189 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Nick Tatopoulos.
+L247188 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Did Romeo have a name?
+L247176 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ He was my college sweetie! Look at him. He looks so handsome on t.v. What the hell is he doing in Panama.
+L247175 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Who is he?
+L247174 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ It's Nick! I know that guy. I know him!
+L247162 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ He's scum! As far as he's concerned you're just a pair of breasts that talk.
+L247161 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I can't believe he put the moves on me. After everything I've done for him.
+L247157 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Oh, please, your life doesn't suck. His life sucks.
+L247156 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ My life sucks.
+L247090 +++$+++ u1031 +++$+++ m67 +++$+++ LUCY +++$+++ Speak of the devil.
+L247089 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ And I'm supposed to remind you to call him on all of Caiman's expense p.o.'s.
+L247273 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You're kidding, right?
+L247272 +++$+++ u1029 +++$+++ m67 +++$+++ KID +++$+++ Five bucks.
+L247271 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ The warm feeling of helping your fellow man.
+L247270 +++$+++ u1029 +++$+++ m67 +++$+++ KID +++$+++ What do I get?
+L247269 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Can I use some?
+L247268 +++$+++ u1029 +++$+++ m67 +++$+++ KID +++$+++ What's it to you?
+L247267 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Hey, do you have any glue in your bag?
+L247707 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Not anymore. Mr. Caiman, I quit.
+L247706 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ I want that story, Audrey. Remember you work for me.
+L247705 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ We? I don't think so.
+L247704 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ We did it! We've got the exclusive! Way to go, Audrey!
+L247234 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ Listen, this is the time when the big boys have to go to work, okay Honey?
+L247233 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ You don't understand, I can get us information...
+L247232 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ Not now. You got my bag?
+L247231 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I've got something on this. I know a guy on the inside with the military...
+L247230 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ What?
+L247229 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Caiman, wait. Take me with you.
+L247106 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ It's your choice.
+L247105 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ I can't.
+L247104 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ So have dinner with me tonight.
+L247103 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Mr. Caiman, I've been doing extra research for you after hours and weekends for nearly a year. And I've never asked for anything but this job is really important to me. I'm too old to be an assistant anymore. I need to know this job is going someplace.
+L247102 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ Call me Charlie.
+L247101 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Mr. Caiman...
+L247100 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ And you're beautiful...
+L247099 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Mr. Caiman, you're married.
+L247097 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Are you serious? He's going to consider me for he job? What else did he say?
+L247096 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ He said he'd consider it. It's between you and Rodriguez.
+L247095 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Just tell me, did you talk with him?
+L247094 +++$+++ u1026 +++$+++ m67 +++$+++ CAIMAN +++$+++ This is not the place...
+L247093 +++$+++ u1025 +++$+++ m67 +++$+++ AUDREY +++$+++ Did you talk with Humphries?
+L247446 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ I'll try.
+L247445 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Make sure they find that nest before it's too late.
+L247444 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Me too.
+L247443 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ I'm sorry about all this.
+L247206 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I don't think so.
+L247205 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Evacuate Manhattan? That's over three million people. Has that ever been done before?
+L247153 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ More than that. I believe this is a mutated aberration, a hybrid from the fall out in that region.
+L247152 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Hence the radiation.
+L247114 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh, thank you.  Is she always like this?
+L247113 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Well, I think you're cute.
+L247112 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Not for a long time, now.
+L247111 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ You mean to tell me that there is no one who holds a special place in your heart?
+L247110 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ No. Perhaps I work too much.
+L247109 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Really? A girlfriend then?
+L247108 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh, I'm not married.
+L247107 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Three years digging up worms in Chernobyl? How did Mrs. Tatopoulos handle it?
+L247081 +++$+++ u1027 +++$+++ m67 +++$+++ ELSIE +++$+++ Ah, Elsie Chapman, paleontologist.
+L247080 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Hi. Nick Tatopoulos...
+L247613 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Nick, my men and I will hold them here. You will have to go and get help!
+L247612 +++$+++ u1028 +++$+++ m67 +++$+++ JEAN-CLAUDE +++$+++ They didn't make it.
+L247611 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Where's Luc and Pierre?
+L247610 +++$+++ u1028 +++$+++ m67 +++$+++ JEAN-CLAUDE +++$+++ We've secured the doors on both levels.
+L247493 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ That is when we will go in.
+L247492 +++$+++ u1028 +++$+++ m67 +++$+++ JEAN-CLAUDE +++$+++ They will set the trap at thirty minutes to ten.
+L247428 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Allez, allez!
+L247427 +++$+++ u1028 +++$+++ m67 +++$+++ JEAN-CLAUDE +++$+++ Merde!
+L247298 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Fill them with cement, brick them up, put land mines in them, bombs, I don't know, just make sure that goddamned thing doesn't leave the island!
+L247297 +++$+++ u1030 +++$+++ m67 +++$+++ LT. ANDERSON +++$+++ And how should we do that, Sir?
+L247296 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Have them sealed off.
+L247295 +++$+++ u1030 +++$+++ m67 +++$+++ LT. ANDERSON +++$+++ Only five, Sir. We've checked them all. He hasn't used any of them.
+L247294 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Christ. How many tunnels lead off the island?
+L247293 +++$+++ u1030 +++$+++ m67 +++$+++ LT. ANDERSON +++$+++ When we learned he could burrow his way through the tunnels we realized he could be out of the quarantined zone.
+L247124 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Get your people out of there or I will.
+L247123 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Major, what do you think could have done this?
+L247122 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Well your people are getting in the way of my job.
+L247121 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ That is our job.
+L247120 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ You're fast.
+L247119 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ CHARGEURES, property and casualty insurance. We are preparing a report.
+L247117 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ They are with me!
+L247116 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Who are they? Lieutenant, get those people away from there.
+L247436 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ No, it's still in my tent. It's...oh my God, she took it.
+L247435 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ You gave them the tape?
+L247414 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It may be too late by then. These eggs will hatch very quickly.
+L247413 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ So after we kill the creature we'll begin a search for the nest.
+L247412 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ No, it reproduces asexually. That's why we must find the nest. If we don't, dozens will be born, each one capable of laying eggs of its own. Very quickly we could be looking at an enormous population.
+L247408 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Um, excuse me, sir, but the situation's more complicated than that. The blood I recovered revealed that the creature is either about to lay eggs or already has.
+L247407 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ You see, all we need to do is get a better shot at it with weapons that don't rely on heat seeking...
+L247406 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Well, yes. I did. Clearly he was injured and bled.
+L247301 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ When I needed to catch earthworms, I knew the best way to catch them was not to chase them. I had to draw them out.
+L247300 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ What are you suggesting?
+L247299 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ You know, he's not an enemy trying to evade you. He's just an animal.
+L247151 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ What do we know? It was first sighted off the French Polynesian Pacific. An area that has been exposed to dozens of nuclear tests over the last thirty years.
+L247150 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Don't tell me why it's not, tell me what the hell it is.
+L247149 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ The radiation is not an anomaly, it's the clue. This creature is far too unique on every level to be some lost dinosaur.
+L247076 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ It happened so fast no one knew what hit them 'til is was over.
+L247075 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Somebody must have seen it.
+L247074 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We're hoping you're going to help us figure that out.
+L247073 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ But there's no animal in the world that can make prints like that? Is there?
+L247072 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ That's right.
+L247071 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ That was a footprint. I was standing inside a footprint.
+L247068 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ You're standing on it.
+L247067 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ What sample?
+L247066 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Then you're perfect.  Here's your radioactive sample. Study it.
+L247065 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ They're enormous! A new species created by man's recklessness. That's what I've been trying to tell you, I'm only a biologist. I take radioactive samples and study them.
+L247064 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Seventeen percent, huh? Sounds big.
+L247063 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It means that due to a man made accident the Chernobyl earthworms are now over seventeen percent larger than they were before. Mutated by seventeen percent?
+L247062 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ No, but I have the feeling I'm about to find out.
+L247061 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ The radioactive contamination in that area altered the earthworm's DNA! You have any idea what that means?
+L247060 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Yeah, you're the worm guy.
+L247059 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Do you know that you just interrupted a three year study of the Chernobyl earthworm?
+L247058 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We know.
+L247057 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Look, I may work for the Nuclear Regulatory Commission but accidents and spills are not my field.
+L247056 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We have a situation on our hands that requires your particular expertise.
+L247055 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ You didn't answer my question. In fact, for the last 18 hours no one has answered any of my questions.
+L247054 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Follow me.
+L247053 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Excuse me, would you mind telling me what the hell I'm doing here?
+L247052 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Right. The worm guy.  Can someone get those people off the beach?
+L247051 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It's Tatopoulos.
+L247050 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Dr. Niko Topopolosis?
+L247604 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ You don't have the authority to do that.
+L247603 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ Organize a search party. I want a complete sweep of the entire city and subway system.
+L247601 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ That thing's dead. What the hell are we waiting for?
+L247600 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We're sending divers into the river now to retrieve the body.
+L247599 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ Do you have any idea what's going on out there? The phones are ringing off the hook with people screaming to be let back into the city.
+L247405 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ That's not true. Our worm guy, er, I mean, Dr. Tatopoulos found blood.
+L247404 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ Last time you didn't even scratch it!
+L247403 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ General Anderson, the problem was the terrain. If we lure him out into a more open area such as this portion of Central Park...  We should be able to take him down.
+L247286 +++$+++ u1033 +++$+++ m67 +++$+++ MAYOR +++$+++ But you don't know for sure!
+L247285 +++$+++ u1032 +++$+++ m67 +++$+++ MAJOR HICKS +++$+++ We think there's a strong reason to believe it may be hiding inside one of the buildings within the sequestered area.
+L247718 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Wait.  Au revoir.
+L247717 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I just wanted to say, au revoir and thank you for your help, my friend.
+L247716 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I understand.
+L247714 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Where are you?
+L247713 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It's Raymond.
+L247712 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Hello?
+L247626 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ It's okay. I know her.
+L247625 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Who the hell are you?
+L247608 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ I can't get through. I don't know what's wrong.
+L247607 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ What'd they say?
+L247596 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ 555-7600. Tell them it's a code dragonfly. They should get you through.
+L247595 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ How do I do that?
+L247594 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Contact the military and get them to send a bomber to blow up this building before these things escape.
+L247584 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Good idea.
+L247583 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I think we should leave now.
+L247561 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ You were right.
+L247560 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Three eggs. I thought there would be more.
+L247541 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Let's hope we are not the hors d'oeuvres.
+L247540 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ They've turned off the ventilation system. They're calling him to dinner.
+L247526 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Makes us look more American.
+L247525 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ What's with the chewing gum?
+L247497 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Are you kidding? I always wanted to join the French Foreign Legion.
+L247496 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ So you're in?
+L247495 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Here. 23rd street subway station. Where we first found the fish. With a little luck, this will lead us right to it.
+L247491 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Yes. This testing done by my country left a terrible mess. We are here to clean it up.
+L247490 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Your talking about the nuclear testing in the Pacific.
+L247489 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It is my job to protect my country. Sometimes I must even protect it from itself. From mistakes we have made. Mistakes that we do not want the world to know about.
+L247488 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Sure.
+L247487 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I am a patriot. I love my country. Can you understand that?
+L247485 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I am not permitted to speak of such things.
+L247484 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ So why all the secrecy? Why aren't you guys working with the US military?
+L247483 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ This is America. There is nothing you can not buy.
+L247482 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ How did you get all of this stuff into the country?
+L247478 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We, have already taken care of them.
+L247477 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh, my bags. I've checked them in.
+L247476 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I need your trust if you're to help me find the nest.
+L247475 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Why do you need that?
+L247474 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ I need you to trust me.
+L247473 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Why are you telling this to me?
+L247472 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We know.
+L247471 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Are you sure? How do you know?
+L247470 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We have learned that your American friends have decided not to look for the creature's nest.
+L247469 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh.
+L247468 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ It's the French Secret Service.
+L247467 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Sounds like a big company.
+L247466 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ SDECE, Service de Documentation Exterieure et de Contre-Espionnage. Agent Phillip Raymond.
+L247465 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Oh yeah, the insurance guy.
+L247464 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ We've met before.
+L247463 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Do I know you?
+L247129 +++$+++ u1034 +++$+++ m67 +++$+++ NICK +++$+++ Thanks.
+L247128 +++$+++ u1035 +++$+++ m67 +++$+++ RAYMOND +++$+++ Are you looking for this?

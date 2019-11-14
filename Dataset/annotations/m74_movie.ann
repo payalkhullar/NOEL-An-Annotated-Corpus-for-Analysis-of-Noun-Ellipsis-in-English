@@ -1,0 +1,17 @@
+T1 Licensor 966 970
+T2 Antecedent 953 957
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 978 984
+T2 Antecedent 953 957
+R2 Resolution Arg1:T3 Arg2:T2
+
+T4 Licensor 1000 1006
+T2 Antecedent 953 957
+R3 Resolution Arg1:T4 Arg2:T2
+
+T5 Licensor 30374 30378
+
+T6 Licensor 59692 59698
+T7 Antecedent 59683 59687
+R4 Resolution Arg1:T6 Arg2:T7

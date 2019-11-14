@@ -1,0 +1,25 @@
+T1 Licensor 17195 17201
+T2 Antecedent 17144 17153
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 29558 29562
+T4 Antecedent 29526 29531
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 29570 29575
+T4 Antecedent 29526 29531
+R3 Resolution Arg1:T5 Arg2:T4
+
+T6 Licensor 32725 32730
+
+T7 Licensor 46006 46010
+T8 Antecedent 45997 46002
+R4 Resolution Arg1:T7 Arg2:T8
+
+T9 Licensor 49669 49674
+T10 Antecedent 49657 49663
+R5 Resolution Arg1:T9 Arg2:T10
+
+T11 Licensor 50486 50491
+T12 Antecedent 50434 50439
+R6 Resolution Arg1:T11 Arg2:T12

@@ -1,0 +1,45 @@
+T1 Licensor 6788 6793
+T2 Antecedent 6866 6872
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 9856 9863
+T4 Antecedent 9974 9982
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 20576 20592
+
+T6 Licensor 47359 47364
+T7 Antecedent 47836 47842
+R3 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 48227 48247
+
+T9 Licensor 49699 49719
+T10 Antecedent 49818 49823
+R4 Resolution Arg1:T9 Arg2:T10
+
+T11 Licensor 55323 55327
+T12 Antecedent 55403 55408
+R5 Resolution Arg1:T11 Arg2:T12
+
+T13 Licensor 58008 58013
+T14 Antecedent 58087 58092
+R6 Resolution Arg1:T13 Arg2:T14
+
+T15 Licensor 57906 57910
+T14 Antecedent 58087 58092
+R7 Resolution Arg1:T15 Arg2:T14
+
+T16 Licensor 58864 58875
+T17 Antecedent 58945 58950
+R8 Resolution Arg1:T16 Arg2:T17
+
+T18 Licensor 60457 60475
+
+T19 Licensor 60551 60556
+T20 Antecedent 60631 60641
+R9 Resolution Arg1:T19 Arg2:T20
+
+T21 Licensor 74034 74057
+T22 Antecedent 74266 74273
+R10 Resolution Arg1:T21 Arg2:T22

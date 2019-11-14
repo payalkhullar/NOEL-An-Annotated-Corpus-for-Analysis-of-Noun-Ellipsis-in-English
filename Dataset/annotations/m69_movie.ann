@@ -1,0 +1,11 @@
+T1 Licensor 27280 27293
+T2 Antecedent 27268 27273
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 54254 54259
+T4 Antecedent 54221 54225
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 57833 57838
+T6 Antecedent 57771 57784
+R3 Resolution Arg1:T5 Arg2:T6
