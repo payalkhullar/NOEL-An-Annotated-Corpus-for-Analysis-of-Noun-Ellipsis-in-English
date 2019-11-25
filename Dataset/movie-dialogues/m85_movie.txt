@@ -1,0 +1,116 @@
+L273833 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Time to play.
+L273832 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ No more delays, Kirsty. No more teasing. Time to play.
+L273831 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Oh. No Boxes. Such a shame.
+L273709 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ We have no more surprises.
+L273708 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ We've always been here.
+L273707 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ It's different for us.
+L273699 +++$+++ u1280 +++$+++ m85 +++$+++ FEMALE CENOBITE +++$+++ Perhaps you're teasing us. Are you teasing us?
+L273698 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Oh, Kirsty; so eager to play, so reluctant to admit it.
+L273762 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Oh, I do. I do.
+L273761 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Yes. You're a girl who remembers her promises.
+L273760 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ You knew?
+L273759 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ I knew you'd come.
+L273758 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Frank.
+L273757 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Julia.
+L273756 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Well, well. All my family together again. How very sweet.
+L273746 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ I'm your Daddy now, Kirsty.
+L273745 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Daddy! Daddy! I love you! Help me!
+L273741 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Don't waste your tears. Look at him!
+L273740 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ He... he loved me.
+L273738 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ 'Fraid not, baby. He belongs here. With me. We're the same. Brothers. Equal and opposite. Pure appetite. Pure banality. Too much feeling. None at all.
+L273737 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No! He SHOULDN'T be here! It SHOULD'VE been a trick!
+L273736 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ See? He's here. You should learn to believe your Uncle Frank.
+L273735 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Shit. Bull. Shit.
+L273734 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Yes!
+L273733 +++$+++ u1281 +++$+++ m85 +++$+++ FRANK +++$+++ Oh, right. Daddy's died and gone to heaven, eh?
+L273868 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ I'm a girl who keeps her promises.
+L273867 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ I knew you'd come back.
+L273720 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Sorry, friend. No day trips to Hell. Here you are. Here you stay. And forward the only way to go.
+L273719 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ I want to go back!
+L273675 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ It certainly is.
+L273674 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ It's coming.
+L273673 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ She certainly has.
+L273672 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ She's done it.
+L273600 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ I know.
+L273599 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ It's a beautiful dress...
+L273595 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ No. You look...
+L273594 +++$+++ u1282 +++$+++ m85 +++$+++ JULIA +++$+++ Surreal? Strange? Nightmarish?
+L273593 +++$+++ u1285 +++$+++ m85 +++$+++ MALAHIDE +++$+++ Yes... Yes. You look...
+L273641 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ I KNOW I don't have to. It's just my time of the month to be a complete fucking idiot. O.K.?
+L273640 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Kyle, you don't have...
+L273639 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ O.K. Let's go.
+L273636 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Because I'm going to get my father!
+L273635 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ WHY?
+L273634 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I don't know, Kyle. You're the fucking expert. Now get out of the way!
+L273633 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Are you crazy?
+L273632 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Get out of the way.
+L273629 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Yeah. The things you were talking about.
+L273628 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You DIDN'T tell me. Do you mean Malahide's got...
+L273627 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The boxes! I TOLD you.
+L273626 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What do you mean?
+L273625 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The Boxes. In the House. I told you.
+L273624 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What?
+L273623 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ The box? Like in your story? Like in his house?
+L273622 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The box. I need the box.
+L273620 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Hey, so for it. Don't let pity stop you. I'm down. Nail me.
+L273619 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Don't worry about it. Your attitude sucks anyway.
+L273618 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ God, I wish I could say no. This is going to do terrible things to my attitude, you know.
+L273617 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ And you're sure it was a woman?
+L273612 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Oh yeah? On your own a lot, Huh?
+L273611 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Well, the sofa isn't often used for sleeping on...
+L273609 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ So you slept O.K.?
+L273608 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No bad dreams.
+L273568 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ If anyone can help, HE can.
+L273567 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Help. No, no-one can help. I just want someone to listen or I WILL go crazy.
+L273565 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I know. No-one can. But I have to save him. Where's the other doctor? He said He'd listen. He promised.
+L273564 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Kirsty, I'm sorry... don't understand. I...
+L273563 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Oh, Jesus. I can't explain. It's... it's. I don't know how to help! I have to save him and I don't know how to help!
+L273562 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ What?
+L273561 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I... I had a visitor.
+L273551 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Yeah. Doctor Malahide's got her doing these jig-saws and things, though. Says it's helping to bring her out.
+L273550 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ God, that's terrible.
+L273549 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Almost complete withdrawal. She hasn't said a word for nearly two years.
+L273548 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What's the matter with her?
+L273547 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ Sad, huh? She's been here six months. Her name's TIFFANY.
+L273531 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You a doctor, too?
+L273530 +++$+++ u1284 +++$+++ m85 +++$+++ KYLE +++$+++ So... You're Kirsty, huh?
+L273874 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ It's been Hell.
+L273873 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Well... G'bye.
+L273860 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No. Don't let it. You've come this far.
+L273859 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I'm scared.
+L273854 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Finish what?
+L273853 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I've got to finish it.
+L273852 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What are you talking...
+L273851 +++$+++ u1288 +++$+++ m85 +++$+++ TIFFANY +++$+++ I have to go back. Or it'll never stop.
+L273845 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ You were ALL human!
+L273844 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ I... remember.
+L273841 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ It's you! You HAVEN'T always been as you are. You were HUMAN. Remember. Remember all your confusions. Think!
+L273840 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Nonsense, I...
+L273839 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No, No, this one didn't escape. You told me you'd always been in Hell. You were wrong. Look at it. LOOK. IT'S YOU.
+L273838 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ What is this? Someone else you think escaped us, like Frank?
+L273837 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Go on. But trick us again, child, and your suffering will be legendary even in Hell.
+L273836 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ No deals! Just information. Information. Free of charge. No strings. Just information.
+L273835 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ No more deals, Kirsty. It's your flesh we want to experience, not your skill at bargaining.
+L273834 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Wait!
+L273706 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ And what about you?
+L273705 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ But it's true, he is his own Hell. Just as you are in yours.
+L273702 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I've come for my father!
+L273701 +++$+++ u1286 +++$+++ m85 +++$+++ PINHEAD +++$+++ Then why are you here?
+L273700 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ But I didn't open it! I didn't!
+L273518 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The Cenobites.
+L273517 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Who?
+L273516 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I saw it... him. But I got away. And I took the box. And I solved it. And they came.
+L273515 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Easy, easy. Whatever happened, whatever you saw, it's not here now.
+L273505 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ The mattress... The mattress... JULIA.
+L273504 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ What the hell are you asking me for? Tag it. Move it.
+L273498 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Yeah.
+L273497 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ He talked about Demons, huh?
+L273496 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Oh, pardon me. I obviously didn't convey my hesitation to take his story at face-value. No, YOU talk to me. But -- do me a favor? -- none of this DEMONS crap.
+L273495 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ I thought Steve had talked to you?
+L273488 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Oh, excuse me...
+L273487 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ What are you talking about? Who are you?
+L273486 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ What was it, kid? Smack? Angel dust? Don't tell me acid's back in fashion?
+L273485 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ Don't worry. He's O.K. We sent him home hours ago. Jeez, what a story.
+L273484 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Steve...
+L273483 +++$+++ u1287 +++$+++ m85 +++$+++ RONSON +++$+++ You're in the Malahide Institute. It's a psychiatric hospital. But, hey, don't feel judged -- it was just the nearest place to bring you. Remember? You and your boyfriend...?
+L273482 +++$+++ u1283 +++$+++ m85 +++$+++ KIRSTY +++$+++ Where am I?

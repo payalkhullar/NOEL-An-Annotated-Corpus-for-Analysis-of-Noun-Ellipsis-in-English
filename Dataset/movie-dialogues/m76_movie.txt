@@ -1,0 +1,377 @@
+L243076 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ What have I got now?  It's exactly as if there were two emperors. Because of this the people have two minds.  He is their champion.
+L243075 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You would have had a full scale revolt on your hands.
+L243074 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Damn him!  I should have killed him on the front -- I let you talk me out of that.
+L243028 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Do you want posters, too?
+L243027 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Lykas, pick a man.  Someone who will look good.  Jerses I want it built up in the Daily Action...
+L242988 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Send them out!
+L242987 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Not yet, dear brother...
+L242986 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I am their hero!
+L242985 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You want control of the crowd -- you can't get it by killing their hero.
+L242984 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I want that bastard dead!
+L242983 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You can't do that... listen to the mood of the crowd.
+L242982 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Tell Lykas to send a retiarius and a Samnite to help Tiger.
+L242948 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ "... by the emperor of Rome.  This writer asks:  between a Senate that debates truth until they choke, an Emperor who has the birth sign of a woman, is it possible there is more virtue within the arena than without?"
+L242947 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Yes?  Go on!
+L242946 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ "... encased in the armor of a demigod, Narcissus The Good continues his impossible climb in the arena where he was unjustly cast..."
+L242930 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ But I get what I want, always, don't I?
+L242929 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ If I ever loved Narcissus it wasn't like you want.
+L242928 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Now that we're done with that infatuation forever.
+L242927 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ What are you talking about?
+L242926 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating.
+L242925 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ The fans of Narcissus.  They were on vigil outside the school of Proximo. They believe he's dying.
+L242924 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ What is that... wailing?
+L242923 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Why are you so surly -- you've won, brother.  The people have bread and the city is quiet.
+L242922 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ You must start clearing everything with me -- especially your lovers.
+L242921 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Taking my pleasure.  Do I need to clear my lovers with you?
+L242920 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Where have you been?
+L242844 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I have to come back.  If I don't come back the people will think I'm a coward.  Tribuus, tomorrow he dies -- I want his blood on the sand.  Do you understand?
+L242843 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You're coming back?
+L242842 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Tribuus... tomorrow.
+L242841 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You can't do that!  You came here to turn the crowd around not make them hate you.
+L242840 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Kill him!  Tribuus -- execute that bastard.
+L242790 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Why not do it in the Colosseum?
+L242789 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ For the gods, spit it out!
+L242788 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ If I may be so bold...
+L242787 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ How about in the forum.  Right in front of the Senate.
+L242768 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Commodus is heaving out every thing that belonged to our father.  Except that he can't heave out his ghost.
+L242767 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ It's disgusting!  Animals!  I had to come here under armed guard.  Slaves -- get this junk out of my sight.
+L242766 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I want every single thing that belonged to my father out of this house!  If it's worth something then sell it!
+L242765 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Those are priceless sculptures.
+L242734 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Let some time pass... then ask, quietly, without anyone knowing it comes from me.
+L242733 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ No one in Rome has ever heard of him.  Do you want to remind those few in the Senate who have?  The whole sordid thing is far beneath your position to begin with.  Forget about him.
+L242730 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ I'm sure, I don't know.
+L242729 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Did Narcissus die today?  Wasn't this his day to die?
+L242728 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ If you get me pregnant with a boy he'll be a double direct heir and will end up killing you for the throne.
+L242727 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I should at least have you, don't you think?
+L242725 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Maybe you should get married.  Pick one of your cousins, it would demonstrate a profound stability.
+L242724 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ They hate me, they really hate me don't they?
+L242699 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Why?  Then they'll notice when I'm gone.  Well.  I'm making a public appearance aren't I?
+L242698 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Don't you think you should at least wave?
+L242491 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ And Caesar!  Let's not forget to serve Caesar!
+L242490 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Quite so.  Narcissus and his courageous men; may they live long to serve Rome...
+L242468 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Oh, stay...  Don't you want to join the chorus of praises for Narcissus' glory?  Just remember, he is a married man.
+L242467 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ I was suddenly thinking about going to bed.
+L242466 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ More wine, sister?  Surely you can drink more than that.
+L242412 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ I'm tired of being stuck in that wagon.
+L242411 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Will you please get back in your wagon?  And stay there?
+L242410 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ That's what you told me two days ago!
+L242409 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ We're nearly there, Lucilla.
+L242408 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Where are we now, Commodus?  Can you see the camp?  My Gods!  The air is turning into ice!
+L243023 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ If you set me free I will find my way back to the army, march on Rome and depose you.  Then, the army and I will restore the Republic so that animals like you will never control human destinies again.
+L243022 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Endorse me in public.  Do that and I'll make you rich and set you free. I'll return your estates.  I know you would give anything to be outside again.  Endorse me and you will be free.  Think of it.  What would you do with your freedom?
+L242641 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ On what charge?
+L242640 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ The army is a problem.  They love you.  You have led them from victory to victory in the name of Rome and they love you.  And after all, you're just a hothead acting from a misguided sense of loyalty -- who could fault you for that?  Thus have I reached a compromise with the Senate over your fate: instead of executing you, I'm sending you to Rome where you will be tried...
+L242639 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ And my army would have thrown your body into the Danube.
+L242638 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Cooperate and they will be returned to your estate.  I could have executed you.
+L242637 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Where is my family?
+L242623 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Apparently my opinion wasn't needed.
+L242622 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ They won't break this one.
+L242621 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Forgive me, Caesar, but do two Senator represent the mood of the whole Senate or the will of the Roman people?  Besides, every truce we make with the Germans they break!
+L242618 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ We have to stop the Germans now!
+L242617 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I'm ordering a general stand-down in preparation for withdrawal back across the Danube.
+L242546 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ That this illness has clouded his mind.
+L242545 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Caesar?
+L242544 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Being as close, I'm certain you've noticed what we all have noticed.
+L242543 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You flatter me, Caesar.
+L242542 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ You and my father have become very close.  Perhaps one day I may say the same for us.
+L242514 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Do we really need to repair this fort?  It seems like an expensive undertaking.  I propose we burn it to the ground.  That way if the Germans cross the Danube here there will be nothing to help them build an offensive position.
+L242513 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ But they're not destroyed, not yet.
+L242508 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ The dangerous man, Caesar, is the man who doesn't care.
+L242507 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I would say there's nothing more dangerous than a man who knows what 'right' is.
+L242500 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Oh, but with the army behind you, you could become extremely political.  Not a Republican by any chance?
+L242499 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I back Rome against all her enemies -- if that answer disappoints you, I'm not a politician...
+L242488 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Or perhaps into a new one.  But here's to your God and the courage of our legions...
+L242487 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Gladly Caesar.
+L242486 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Then you'd be out of a job.
+L242471 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Perhaps, Master Galen, you may say.
+L242470 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ That's difficult to say, general.
+L242469 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Do you expect Marcus to be well enough by morning for an audience?
+L242443 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Of course, but not now.  However, if he continues to be unwell, you may report to me.
+L242442 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Respectfully Caesar, Quintus and I must report.
+L242441 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Welcome back from your great triumph Narcissus Meridas.  My father sends his heart felt praise.  Sadly, Marcus is in dark humors -- nothing to worry about, but he needs rest. Likely just the weather.
+L242825 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I wouldn't know who to bet on.
+L242824 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Caesar, let me sponsor your first wager in the arena.
+L242784 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Make a gift to the people.  It's your money anyway so it's only fair.
+L242783 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Take grain away from the army?
+L242782 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Sacks of grain, even bread.  I own the grain licenses for the military, I can arrange to divert a shipment bound for the army of the Danube.
+L242781 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Give away food?
+L242780 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ We can crush Gaius another way. What if you do throw something to the people they really want?  Make them a gift of food.
+L242779 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ So am I.
+L242778 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ I'm serious.
+L242777 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Maybe it'll crush Gaius.
+L242776 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Yes.  You know, that's not a bad idea.
+L242775 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Throw it down into the streets! Down into the Forum.  If it's my father they want then give him to them!
+L242753 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ At the opening of the month of Janus, I will ask this noble body to confirm my emperorship...
+L242752 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ And like children everywhere they scream "freedom" the most when they desire it least.  I beg you, please continue, Caesar.
+L242707 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Until your confirmation date.
+L242706 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Gods of hell!  This must cost a fortune!  How many days is this going to go on?
+L242703 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ At least stay for the running of the animals.  You are paying for it you know...
+L242702 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Ignore that?!  The sooner we leave this disgusting place the better.
+L242701 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Caesar, ignore them.
+L242656 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ How can they?  Who else is there?  I have no heir...
+L242655 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ The Senate is out to sink you.  I swear it, Caesar, your generosity is being repaid with public attacks on your honor.  Your enemies want you weak enough so by the first of Janus when you must be confirmed the Senate will be able to deny you.
+L242643 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Quintus will tell the army that you are being called to Rome to celebrate your victory.  They will hear that you are living in luxury. He will let them feel you have betrayed them for the good life. And soon the army won't even remember your name.
+L242642 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ Insubordination.  To the Emperor... and the Senate.
+L243079 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ You don't want to kill him.  If anything happens to him now you will be blamed... and he knows it. Besides, that gladiator school is a fortress.  It would take the army to break in there.  What you want is to... offer him the wooden sword. If he takes it, he's no longer the champion of the people, is he?  He's gone.  And you are a hero for awarding it.
+L243078 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Underdog!  How can he be an underdog -- he wins all the time!  I'm the emperor why can't I kill him?  He could be poisoned, or somehow killed to look like an accident.
+L243077 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ It's because he comes off as the underdog.
+L243073 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Narcissus will never support you, Caesar, he has too much of a philosophical temperament.
+L243072 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ This is the only place in Rome where I thought -- I believed -- I was wholly in power.
+L242620 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I met with Falco, and the Senators have agreed to call for a truce with the Germans.
+L242619 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ We must obey our emperor and the Senate.
+L242611 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ He left us at dawn.
+L242610 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Marcus Aurelius has died.
+L242445 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ I'm certain father will be in better humors by then.  Now, honor us with your presence at dinner.  I'll join you as soon as I see my father's physician.
+L242444 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Gladly, Caesar.  And, if you'd like we can take you for a tour of the front at first light.
+L242999 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ We need more statues -- perhaps I should open medical clinics.  For the poor.  Citizens only, though...
+L242998 +++$+++ u1168 +++$+++ m76 +++$+++ TRIBUUS +++$+++ Yes, Caesar.
+L242997 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Tribuus!  Go left here, I want to see my new statue at Via Claudia.
+L242846 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Jerses -- tomorrow...
+L242845 +++$+++ u1168 +++$+++ m76 +++$+++ TRIBUUS +++$+++ Yes, Caesar?
+L242828 +++$+++ u1168 +++$+++ m76 +++$+++ TRIBUUS +++$+++ Caesar, I did my best.  The Colosseum isn't under my control...
+L242827 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Why isn't he dead?  Damn you, you promised me he would be dead!
+L242732 +++$+++ u1168 +++$+++ m76 +++$+++ TRIBUUS +++$+++ He must have been.  He was on the list of prisoners to be executed.
+L242731 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Tribuus, what happened in the arena? Was Narcissus killed?
+L242415 +++$+++ u1168 +++$+++ m76 +++$+++ TRIBUUS +++$+++ Where is the emperor and the army, soldier?
+L242414 +++$+++ u1155 +++$+++ m76 +++$+++ COMMODUS +++$+++ Where is my father?
+L243036 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ You know there were riots last night.  Now the unrest has started again and Commodus has sent for an army division.  You understand what you are doing...
+L243035 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ I'll nose around...
+L243034 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ AGH!  Please!  He's having a secret device constructed for the circus. The brass craftsmen are working overtime.
+L243033 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ I don't know...
+L243032 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Cos, what in hades is the emperor up to?  And don't tell me you don't know!
+L242953 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Commodus... he's a gladiator... is he mad?
+L242952 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ "Caesar Commodus discovering his lineage converges with the Demigod, Hercules, has determined to display his magnificence before his beloved citizens."  The Emperor's going to fight in the arena.  I'm supposed to write this for tomorrow's edition.
+L242742 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ I'm mentioning you in tomorrow's athlete's section, legate.  So, I'd love to know your birth sign; it effects how people bet.  And perhaps you could tell me a bit about... well, who are you?
+L242741 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ This is Cos, this precocious young man.  A scribe for the Daily Action.  I've invited him to write a small piece about you...
+L242740 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ You won an impossible fight.  You got the attention of the crowd, legate...
+L243031 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ Yes, because I know they'll read it.
+L243030 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ It's time for you to tell the Citizens that Commodus stole the money allocated for defending the German border.  It's time to tell the citizens everything.  Will you write it?
+L242943 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Proximo, we need to talk about my one third... I imagine the betting booths will be doing good business. And, what was the name of that olive oil company?
+L242942 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ That makes his birth sign... Virgo! Why that's the sign of a little girl!  Can you tell my readers more about your star-crossed connection with Emperor Commodus?
+L242941 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ The Emperor and I are bound by the threads of The Fates.  He was born on August thirty-first, you know.
+L242940 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ The exact month when the Emperor must be confirmed!
+L242939 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ My birth sign is Water Bearer, twenty-fifth day in the month of Janus.
+L242938 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ I am prepared to write anything you tell me.
+L242937 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ That's their job, isn't it?  To argue.  So, I think my case will be long on talk and short on action.
+L242936 +++$+++ u1156 +++$+++ m76 +++$+++ COS +++$+++ So tell me, what happened between you and the emperor?  What really happened on the German front?  You know the Senate's arguing your case...
+L242485 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ My only visits to Rome, Senator, have been through books.  But the war's over, time to close the door of war once and for all.
+L242484 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ But have never been?
+L242483 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I've read of it.
+L242482 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ You know, general, there is a Gate of Janus in Rome which is only closed in time of peace.  Sadly, it has remained open for three hundred years.
+L242481 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I believe we are arriving in an enlightened age; an age of peace that will bring Rome her greatest glory.  Thanks to Marcus Aurelius.
+L242480 +++$+++ u1157 +++$+++ m76 +++$+++ FALCO +++$+++ God of passages and changes?
+L242479 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ The battle was won, today, and I prefer to believe it was a gift of Janus, the eldest God of Rome.  God of my ancestors.
+L242646 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I hope you live to see what I believe...
+L242645 +++$+++ u1158 +++$+++ m76 +++$+++ GAIUS +++$+++ The moment you returned from the battle your options were clear.  If you are a friend to neither side, legate, you must be an enemy to both.  We needed to know what you believed.
+L242644 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ The Senate too?
+L242506 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ We all know what right is, Senator.
+L242505 +++$+++ u1158 +++$+++ m76 +++$+++ GAIUS +++$+++ The trouble is defining exactly what 'right' is.
+L242504 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ A republican is a man who strives to create equality among all classes.  At the core he's a man who believes in doing what's right.
+L242475 +++$+++ u1158 +++$+++ m76 +++$+++ GAIUS +++$+++ Yes!  The days of Imperial Prerogative and disdain for the Senate are over -- thanks to your father!  Now report to the Senate, Master Galen:  what is Marcus' state?
+L242474 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I would venture, with all respect: the Emperor's health is the business of every soul in the empire.
+L242865 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You don't know how wrong you are.
+L242864 +++$+++ u1159 +++$+++ m76 +++$+++ GRACCHUS +++$+++ You're a citizen and a soldier.  Not a gladiator.
+L242863 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I need to give you my word when yours is worth nothing?
+L242862 +++$+++ u1159 +++$+++ m76 +++$+++ GRACCHUS +++$+++ Would you support the Senate if they would give you a trial?  You'd have to give me your word.
+L242861 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ When the Senate and the Emperor agree miracles can happen.
+L242860 +++$+++ u1159 +++$+++ m76 +++$+++ GRACCHUS +++$+++ How did you get condemned to the arena without a trial?
+L242859 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You're hearing about somebody else.
+L242858 +++$+++ u1159 +++$+++ m76 +++$+++ GRACCHUS +++$+++ Who are you?  Narcissus The Good?  I have heard of Narcissus Meridas. That's who I hear you are.
+L242660 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ They can't... if this is Rome...
+L242659 +++$+++ u1160 +++$+++ m76 +++$+++ JUBA +++$+++ Is this Rome?  Are we just going to be executed?
+L242652 +++$+++ u1160 +++$+++ m76 +++$+++ JUBA +++$+++ That's what worries me...
+L242651 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Fools to let us both live; we'll be our own best witnesses at our trial.
+L242650 +++$+++ u1160 +++$+++ m76 +++$+++ JUBA +++$+++ My loyalties... were in doubt.
+L242649 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Why you?
+L242648 +++$+++ u1160 +++$+++ m76 +++$+++ JUBA +++$+++ You on your way to trial, too, general?  Or do you think they've already had our trial?
+L242919 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Hidden.  Where my brother cannot place hands on them.  He didn't have the guts to watch them die so... I took care of it all.  The sooner he is put out of our misery, the sooner will they be safe.
+L242918 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Where are they?
+L242917 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Narcissus, I have your family. They're alive.  All of them.
+L242916 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ He killed his father and then my family...
+L242915 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Marcus would have lived but... was poisoned by his son.
+L242914 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Would that Marcus had lived.
+L242913 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You cannot die.
+L242908 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ "But what if I wish to be purple?"
+L242907 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ "If you consider yourself to be only one thread of many in the tunic, then it is fitting for you to be like the rest of men, just as the thread has no desire to be any better than the other threads. But..."
+L242906 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Do you remember your Epictetus, that little homily we recited when we were children?  The one that was supposed to remind us we were Romans?
+L242905 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ To think I brought my daughters up on all things Roman.  Read to sleep on Catullus, Lucretius... Virgil... every night.  My beautiful daughters.
+L242902 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ For the sake of the Gods, you're not leading these men?  How like my father you are.  You 'believe'... I guess that's why you're still alive.
+L242901 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Twenty years I've led men to die. For me it was the glory of Rome. But that was something.  If it wasn't that, then it was the pay or the loot of the next whore -- but that was something!  These men here are butchered for laughs!  Their lives are like jokes delivered in the back alley theaters where their death is a punch line!
+L242899 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ But you do exist.  Narcissus:  hero of the battle of the Danube.
+L242898 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You mean a symbol of someone who doesn't exist.
+L242897 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ I came here to see that you stay alive.  The people need a living breathing alternative to Commodus, a hero.
+L242891 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Yours will do!
+L242890 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ It's my brother's neck you want, not mine.
+L242555 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Of course I know -- who do you think is paying for it?  The Emperor himself, didn't you know?  Why do you think Commodus came rushing up to the front?  Burning patriotism? Filial love?  He wants to be sure when he takes over there's enough cash left in the treasury to... play Emperor.  Watch out for him, Narcissus; he's inexperienced, but... be careful.
+L242554 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I don't believe that.  He's got the best doctor in the world and a will of iron.  You know we're preparing for a full-blown invasion of Germany.
+L242553 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ How do you know I am playing?  Well, the clown is always harmless.  Isn't that right?  And how did you ever get to know me so well?  The last we spent any time together I was fourteen.  I think you know me better than my father.  He's going to die, isn't he?
+L242552 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Why do you play at being drunk?
+L242551 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Why do you keep playing at being so humble?  It's a little embarrassing.
+L242550 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I'm not fit for the job and as a matter of fact I'm not taking the job.
+L242549 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Without him.  He'd be weeping if he overheard that.  Well?  The idea of you as my adopted brother is very... exciting.
+L242548 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Sneaking around with your brother?
+L242547 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ I thought all good generals were quick to recognize opportunities.
+L242459 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Only from a distance.
+L242458 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ You know our two most senior Senators:  Gaius Cantus and Falco Verus?
+L242455 +++$+++ u1161 +++$+++ m76 +++$+++ LUCILLA +++$+++ Narcissus!  Terrified?  You?  The only thing he's scared of is me.
+L242454 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ No future-telling, please, I've been terrified enough for one day.
+L242537 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I'll do anything in my power to help you restore the Republic but I can't be that power.
+L242536 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ They fear change.  The new Caesar must be honest enough to know when the emperorship is no longer feasible.  You could be the one, the Emperor, the man who oversees the rebirth of the Republic.
+L242535 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ They fear me.
+L242534 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ The Senators admire you.
+L242533 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Marcus, you honor me, but I'm a soldier, politics scare the hell out of me.
+L242532 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ A man should be upright, not be kept upright.  History shows us that a good general is quick to recognize opportunities -- even if it means making a complete about face at the last minute.  I want you to consider becoming my heir.
+L242531 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You're too hard on him.  He is a strong young man, with you as his guide...
+L242530 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ Everyone talking about it?  I wouldn't wonder.  All I seek is a genuine balance of power between the Emperor and the Senate.  Thus I have transferred legal power -- which was theirs to begin with -- back to the Senators.  This includes a shared right to taxation too but some bite in the plan.  It's a start, only a start.  If the Emperor and the Senate can share power then the people will be ready to take their share.  This means Commodus has to bend; does he strike you as that type?
+L242529 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ So I understand.
+L242528 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ It's not because he's young, it's because he's ignorant and arrogant. His sister is a better man.  That's why I have undertaken to begin sweeping changes in the relationship between the emperor and the Senate.
+L242527 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Commodus is just a young man, he'll learn what you had to learn.
+L242526 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ If I'd ever had a sign that you wanted to rule I would have... no, again, it's my own bullheadedness. Narcissus, I should have adopted you years ago.  And now the Gods are begging me to make you my son!
+L242525 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ He's like you, sir, too tough for the Gods to swallow.
+L242524 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ Servis made it through again?
+L242523 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ There's no reason to say that. Everyone knows you're going to be well.  I had Servis groom your horse for a triumphal visit to the front at first light.
+L242522 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ I've made so many mistakes, Narcissus.  We all put off the very last duties of our lives because we're afraid of admitting when our lives are over.
+L242521 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I will, Marcus.  But you're going to be well enough to direct it yourself.
+L242520 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ I want you to start your work for the last phase of the campaign.
+L242517 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ Commodus -- listen to Narcissus, listen to the man who has never lost a battle for Rome!  You're young with years ahead of you before you gain the experience to wear the purple!
+L242516 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ The fort helps position us for a final invasion in the spring when they're most vulnerable.
+L242515 +++$+++ u1162 +++$+++ m76 +++$+++ MARCUS AURELIUS +++$+++ Commodus, it's we who are going on the offensive.
+L242606 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ On my honor as your daddy...
+L242605 +++$+++ u1167 +++$+++ m76 +++$+++ THEMIS +++$+++ On your honor as a Roman officer, daddy?
+L242604 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ As soon as I can.
+L242603 +++$+++ u1167 +++$+++ m76 +++$+++ THEMIS +++$+++ Tomorrow?
+L242602 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Don't stop to visit -- take the children straight home and I'll follow as soon as I can.
+L242566 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Much more colorful than the ones we wear.  And, of course, less dented.
+L242565 +++$+++ u1167 +++$+++ m76 +++$+++ THEMIS +++$+++ I made the plume from a quail feather.
+L243068 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Can you stop that slaughter?!  Can you free these men?
+L243067 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ What are you fighting for in here? The good of Rome?  I can end this madness now!  Take the job for the sake of the Gods, live!
+L243055 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ The 'people'?, listen to the people, they know what they want:  A government that gives them what they need and doesn't bother them with messy thoughts of issues.  You know, messy... thinking.  They want a dictator!  As far as the children, there is only one thing that every Roman child dreams of:  being you! A famous gladiator!
+L243054 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Then give the empire back to the people... the children who will grow up to become senators...
+L243053 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ You seem to be doing a great job of it single-hand!  Narcissus, the Republic is dead.  You think those Senators could govern?  For the last hundred and fifty years they've worked hard at kissing an endless succession of Imperial asses!
+L243052 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Quintus, you've got at least a division with you -- we could take Rome away from Commodus and give it back to the Senate!
+L243051 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ It's my job to keep my job.  And that, by the way, is now head of Praetorian Guard.  Good ole Tribuus has been retired.
+L243050 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ It's your job as a Roman officer to disobey such a summons.
+L243049 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ I was summoned.
+L243048 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You brought the army into Rome.
+L242633 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ I can't let you do that.
+L242632 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ On his death bed I promised Marcus I would complete our work here.  The Senate may be vacillating, but I have the army behind me.  I'm taking half a cohort and restocking that fort.
+L242629 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Well, they die for it!
+L242628 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ My troops don't make policy.
+L242627 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Rome is going to pay tribute -- like a defeated nation begging for mercy? Have you told your troops that?
+L242626 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Rome is going to pay an allotment to the German tribes on an annual basis.
+L242625 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What deal?
+L242624 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Everyone knew you would have been outspoken against this deal.
+L242616 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Centurions on both sides of the river are convinced the Germans will try one last offensive.  They've got nothing to lose and it's so very like them.
+L242615 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Serious stuff...
+L242449 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ Well, we can try...
+L242448 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Why don't we try to keep politics out of the conversation.
+L242447 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ What the hell do you think it was about?  There's nothing an unproved heir to the throne likes less than glaring competence in others.
+L242446 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What the hell was all that about?
+L242428 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Let's hope he doesn't start giving orders.
+L242427 +++$+++ u1165 +++$+++ m76 +++$+++ QUINTUS +++$+++ I see the emperor's little boy has finally caught up with the army.
+L243130 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ That's what I'm going to do.  That's what I'm going to do...
+L243129 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ You teach them!
+L243128 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ They'll have me.  Teach them.  Don't let them become like these ignorant heaps of citizens without history, without philosophy, without meaning. Teach them of the Greeks, the Babylonians, the Hebrews, the Numidians, the Egyptians and the great Romans.  Teach them, who we are!
+L243127 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Your daughters need more than some vapors; they need you!
+L243126 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I'll never die.  You tell the girls that.  You honor our ancestors and I'll be there.  Every night.  At the table of life.
+L243125 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ I don't want you to die!
+L243124 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Do you want to see Themis and Manto butchered?  If I die fighting Commodus he won't care about you. If I live I'll come and get you.
+L243123 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Narcissus!
+L243122 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ How long do you think Commodus will let us live once he's in power?  A month?  Half a year?  Paestum will be a prison where he'll hold us until it's time...
+L243121 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ You're not going!  You have to stay with us!
+L243120 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ No!
+L243119 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ When you get to Ostia, use this -- bribe passage to Africa or Spain. Save my family.  You should be able to find a merchant ship that will take you to Egypt then to Numidia.
+L242598 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What you don't want to imagine is the things I've done.
+L242597 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ I don't even want to imagine the things you've seen...
+L242596 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Me?  Well, I believe in Rome... you'd have to after what I've seen, how people outside the empire treat each other.
+L242595 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ I never knew a more idealistic man than you.
+L242594 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Quintus is overly idealistic.
+L242593 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Let him trust Quintus.
+L242592 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I want to come home, of course I do, I'd have to be mad not to want that. It's just that Marcus trusts me.
+L242591 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ We don't need your help we're doing great on our own.
+L242590 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I'm a soldier -- we're at war.  I can't stay home tending the damned olive groves?
+L242589 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Who else?  I'm the one who runs the estates while you're here risking everything we have for the glory of Rome!  Or for the glory of you!
+L242588 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Very fancy.  Did you design the bottle?
+L242586 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ I've been overseeing production myself for the past three years, you'll be surprised at how wonderful our oil has become.
+L242585 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ This is our oil from our estates?
+L242583 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ If you win, you know, you have to stay.  It's the losers who get to go home.  Besides, I'm not so sure it is over.  Centurions report enemy scouts probing our lines.
+L242582 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ The battle is over.  The war is over.  You've won!
+L242581 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I can see that...
+L242580 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ You need to come home!
+L242578 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Of course...
+L242577 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ They're studying with Cynics.
+L242576 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What about their philosophy lessons?
+L242570 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Athenians...
+L242569 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Greeks?
+L242568 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Well, you wanted the girls to have the best teachers.
+L242564 +++$+++ u1166 +++$+++ m76 +++$+++ SELENE +++$+++ Isn't the helmet magnificent?
+L242563 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ He's very realistic.
+L243117 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Are you mad?  With all this unrest the Colosseum will be open day and night!  Anyway, I'm not political, I'm in the entertainment business.
+L243116 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Commodus must hate you.  Free your gladiators and come with us.
+L243098 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Something else, then.  Do the chariot races interest you?
+L243097 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I want nothing to do with the arena.
+L243096 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Let's talk about this later.  Right now we have other things to settle. You and your family will be leaving with a supply ship returning in the morning to Ostia.  From there, Caesar has decreed you be given an estate in Paestum.  It's beautiful; an old Greek town right on the ocean.  Rich soil.  Perhaps we could keep our financial arrangements... although Caesar will give you a sort of pension it's always good to look to the future, keep your hand in the arena... so to speak.
+L243043 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Was I?
+L243042 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ You were a soldier, and then a gladiator, weren't you?
+L243041 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ So, things change.  The government has moved to the circus.  You're going to fight last.  And Commodus is going to fight first.
+L243013 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ I'll do it!  Sure as there's shit in the Tiber we're all going to die, but for you -- anything!
+L243012 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I want another interview with Cos. Tell him to bring plenty of ink.
+L243011 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Right, right, what am I thinking of?
+L243010 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Before they leave, get gold.
+L243009 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Right, right... But they'll have to bring in a lawyer.  I don't want to get sued over this.
+L243008 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Then get a large cash advance.
+L243007 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Fantastic!  Wonderful!  But posters are very expensive.
+L243006 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ No.  Tell them I'll do it.  But I want more posters all over Rome.
+L243005 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ I can really rape them on this!  Can I at least tell them you'll think about it?
+L243004 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ They want to dump Tiger and have me endorse their damned chariot, right? They don't waste time...
+L243003 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ A great deal.  They designed and build Tiger's chariot...
+L243002 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ How much money is involved?
+L242977 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Oh, shit.  Take your time!  Don't get suckered!  This man is a murderer!  In his career he's killed over a thousand gladiators.  Please, just take the fall!
+L242976 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Such nobility from such an ignoble mouth.  Take my advice and make that bet.
+L242975 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ On you!  Of course!  You are my bravest fighter -- the best fighter I have ever seen!
+L242974 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Tell me honestly, since this may be our last earthly meeting:  if this were a fair fight where would you put your money?
+L242972 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ It's absolutely not like that!  This is for your own good!  Come on get the rest of your armor on!
+L242971 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Pressures on, eh Proximo?  There's got to be a load of money in this. Why else would you toss a red hot commodity like me out the window?
+L242970 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ But -- you have to go out there! I'll give you more than your one third!  When I get paid... just take the fall!  You're too hurt to fight and the man's a killer!
+L242969 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Spend my days beheading country bumpkins?  I don't know, Proximo, who has better wine than you? Besides, I'm beginning to think of the Colosseum as my home.
+L242968 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ The point is you get to fight the easy country circuit, the small arenas, relax, live the good life!
+L242967 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ As, what, 'The Galloping Gladiator?!'
+L242966 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ You get to come alive again in the country!
+L242965 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ So I pretend I'm dead.  You get gold, what do I get?
+L242964 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ You put this inside your shirt -- when Tiger stabs your stomach -- it's full of pig's blood.  Gushes out everywhere!  It's really impressive.  Fantastic!  Better than the real thing!
+L242963 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What the hell are you talking about, Greek?
+L242962 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Tiger's challenged you and Jerses has made me an offer, made us both an offer:  you take a fall.
+L242950 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Make us rich, Proximo, make us very rich...
+L242949 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ No more bad luck now!  The people are anticipating you!  I have posters up over half the city advertising you as the great warrior -- the true Roman!  The man who fought side by side with the wolf of Rome!
+L242935 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Lucky it didn't step on his head.
+L242934 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ It will be good luck for you to wear that helmet... It belonged to Cimon of Smyrna... he was crushed by an elephant.
+L242895 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Don't be ridiculous.
+L242894 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Proximo, if this is her doctor he's an assassin.
+L242885 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Alive... I'm alive...
+L242884 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ General, hang on... drink slowly. You are blessed by the Gods to have a physician and a Divine of Janus with you tonight.  A fan sent them to you.
+L242851 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Think about it!  Just think about it!
+L242850 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ What would the poster say: "Narcissus would kill for a taste of Golden Pompeii Olive Oil?"
+L242849 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ At the end of the day I was approached by the Golden Pompeii Olive Oil company.  Small, but profitable.  They asked if you would endorse their oil.  We could get some very nice posters.  Make some very big money...
+L242739 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ That's one way to look at it.
+L242738 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I didn't get killed and everyone else did.
+L242737 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ General, do you realize what happened out there today?
+L242714 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Then, you'll die...  Just, know this:  because you asked I asked:  I'm sorry but...
+L242713 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I'm not a gladiator.  I refuse to fight.
+L242712 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Legate Narcissus Meridas, general of the Spanish Felix Legions!  I'm proud to have you in my school!  Now, show them what you can do!
+L242693 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ -- to fight?  We'll see...
+L242692 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I refuse to be your slave.  I refuse --
+L242691 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Sorry but I have to get at least one fight out of you otherwise I won't even get back the cost of the bribe I had to pay the arena slaves to get you here.  I know what you're trying to do:  kill yourself and trust in the Roman tradition of justice that the emperor will let your family survive and keep their lands.  The only thing you have accomplishes is to prove you're a very important individual.  You make me feel good about my investment!  And that puking pig Jerses -- he won't even discuss you.  Both of you have clamped mouths!  But I love all my fighters -- I'll find out about your family.  And about you.  That I promise.
+L242690 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Chain him.
+L242689 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Take your hands off me animal!
+L242682 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ Death is... everything for me.  Now you have to go to your cell, and I to dicker with Jerses... you'll be fed well.  I want you to be fit as you can be; I want you to win for me tomorrow!  I want all my gladiators to win and be happy!  Besides, I've never owned a Roman general before.
+L242681 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Death is a very light thing for you.
+L242680 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ You are to be killed, exactly. They'll give you a sporting chance, but just enough to make your murder... entertaining.  Romans like to mix their metaphors:  laughter with their executions, you know?  If you survive, though, you will become a gladiator.  A gladiator at least gets a fair fight.
+L242679 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Thank you.  What is going to happen tomorrow?  Exactly?
+L242676 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Impossible!  Every citizen has a right to trial -- this is Rome!
+L242675 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ General, all I know is you have been condemned to the Colosseum, and a trial is nowhere to be seen.
+L242674 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Condemned?  Aren't I owed a trial before being condemned?
+L242673 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ I am the man who might save your life -- give you a bit more life at any rate.  I am Proximo Palindromos head of this gladiatorial school which is named after me.  I own this school and everything that's in it.  You're in it!  But why?  What did a Roman general do to get himself condemned to the Colosseum? Understand, we usually get corn thieves and pick pockets.  Please, I separated you from the others because...  ... my nose tells me you've been condemned for important reasons.
+L242672 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ Who the hell are you?
+L242671 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ I'm a Greek, thank you.  And I was brought up believing Romans were the barbarians.  Give our new colleague some of the Cretan white.  Relax, tell me everything, I'm your friend.
+L242670 +++$+++ u1163 +++$+++ m76 +++$+++ NARCISSUS +++$+++ I killed too many barbarians.
+L242669 +++$+++ u1164 +++$+++ m76 +++$+++ PROXIMO +++$+++ You're a legate in the Roman army. Huh...?  and you act like one. What was your crime?

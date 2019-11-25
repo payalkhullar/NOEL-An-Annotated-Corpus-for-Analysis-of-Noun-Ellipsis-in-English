@@ -1,0 +1,530 @@
+L270210 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ Oh, <u>yes</u>? Well, that's all right. I've got a brother who's a real cut-up, too. I'll never forget the time we had this old TV set with no parts in it. Well, Tommy stuck his head behind it and started giving a newscast before the whole family. We were all hysterical. And here's little Tommy pretending to be Walter Cronkite.
+L270209 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ I think I should mention, Candy, that Harold does have his eccentric moments.
+L270207 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Yes, that's good planning. Tell me, are you a regular, Candy, in this computer club?
+L270206 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ He seems very nice. Is Harold interested in, eh, what's going on? I think it's such a super thing to study. And then, of course, I can always fall back on home ec.
+L270204 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ Political Science. It's all about what's going on.
+L270203 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Eh, Poli Sci?
+L270202 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ Poli. Sci. With a home ec minor.
+L270201 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ And what are you studying?
+L270200 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ Yes, I am.
+L270199 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ You are at the University, Candy?
+L270197 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ How do you do. I'm Mrs. Chasen. Come in.
+L270196 +++$+++ u1268 +++$+++ m84 +++$+++ CANDY +++$+++ Hello, I'm Candy Gulf.
+L270410 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Lady! Be quiet.
+L270409 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Because if you are...
+L270408 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Wait here.
+L270407 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I suppose they are in the truck. Are you going to take a lot of time with this?
+L270406 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Where are the papers?
+L270405 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, I don't know. Do you know, Harold?
+L270404 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Then whose name is it registered in?
+L270403 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh no! Not in <u>my</u> name.
+L270402 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ And that truck - is it registered in your name?
+L270401 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Check.
+L270400 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Lady, is it true you're driving without a license?
+L270399 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, don't get officious. You're not yourself when you're officious. That's the curse of a government job.
+L270398 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Lady, resisting arrest is a serious criminal offense. Under the state criminal code, section 545, paragraph 10-B...
+L270397 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Officer, I can explain.
+L270396 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Possession of a stolen shovel.
+L270395 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No.
+L270394 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Is this your shovel?
+L270393 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ We planted it.
+L270392 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ You too, Buster. Stand over here. Lady, you're in a heap of trouble. I have you down here for several violations; speeding, resisting arrest, driving without a license, driving a stolen vehicle, possession of a stolen tree... Where's the tree?
+L270391 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ But there is a family resemblance.
+L270390 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Out!
+L270389 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, well. Must have been your brother.
+L270388 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ None of that, lady.
+L270387 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Haven't we met before?
+L270386 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Hello.
+L270385 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Okay, lady. Out.
+L270375 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ All right, then, and we'll be off.  Nice chatting with you.
+L270374 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Lady, let me get this straight.
+L270373 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, it's not really mine. I dug it up in front of the courthouse. We're transplanting it. Letting it breathe, you know. But, of course, we would like to get it into soil, as soon as possible.
+L270372 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Your tree.
+L270371 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes. You see I have to plant my tree.
+L270370 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Took it?
+L270369 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No, no. I just took it.
+L270368 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Isn't this your vehicle?
+L270367 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I just don't think we have one, unless it's in the glove compartment. Could you look, Harold?
+L270366 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Could I see your registration?
+L270365 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ About forty-five minutes, wouldn't you say, Harold? We were hoping to start sooner but, you see, it's rather hard to find a truck.
+L270364 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ How long have you been driving?
+L270363 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I don't have one. I don't believe in them.
+L270362 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Come again.
+L270361 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, I don't have one.
+L270360 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Yes.
+L270359 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes. Those little pieces of paper with your picture on it?
+L270358 +++$+++ u1269 +++$+++ m84 +++$+++ COP +++$+++ Lady, you were going 70 miles an hour in a 45-mile zone. Could I see your license, please?
+L270473 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ Well, not all the southwest. Although we do have a large business... Barley was very big last week...  Fifteen hundred...
+L270472 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ She supplies the whole southwest with chicken feed.
+L270471 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ Harrison. Harrison Feed and Grain... At Hamilton and Fourth... I'm in charge of the invoices... And I type up the schedule for the trucking fleet...
+L270470 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Yes. Henderson Feed and Grain.
+L270469 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ I'm a file clerk.
+L270468 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Edith was just telling me about her job.
+L270465 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ I'm in charge of all the invoices for the southwest. We supply, for example, most of the egg farmers in Southern California. So you can imagine.
+L270464 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Oh. Well, what is it exactly that you do?
+L270463 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ Not very.
+L270462 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ How interesting.
+L270461 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ I'm a file clerk - Harrison Feed and Grain.
+L270460 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ And what do you do, my dear?
+L270458 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ Fern. I'm very pleased to make your acquaintance.
+L270457 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Edith, I'd like you to meet my son, Harold. Harold, this is Edith... eh?
+L270456 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ Oh. It looks like a hearse.  Very nice. Compact.
+L270454 +++$+++ u1270 +++$+++ m84 +++$+++ EDITH +++$+++ What kind of a car is it?
+L270453 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ This way, Edith. Harold is out by the garage. He has a new car and he has been tuning it up. He's very mechanical.
+L270419 +++$+++ u1271 +++$+++ m84 +++$+++ GLAUCUS +++$+++ What?... Oh yes... Shovel... Create ... Verily these issues lie in the lap of the gods... Iliad... Just sit down for a minute.
+L270418 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Here's your shovel.
+L270352 +++$+++ u1271 +++$+++ m84 +++$+++ GLAUCUS +++$+++ I see the eternal goddess of beauty and love. I see Aphrodite. The consummate woman.
+L270351 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What do you see?
+L270350 +++$+++ u1271 +++$+++ m84 +++$+++ GLAUCUS +++$+++ Exactly! Now, ask me what I see.
+L270349 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ A block of ice.
+L270348 +++$+++ u1271 +++$+++ m84 +++$+++ GLAUCUS +++$+++ A rather free translation but nonetheless correct. Greetings to you too, my little one.  Tell me, what do you see?
+L270347 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Sorry I'm late.
+L270224 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'm sorry. I was looking for Maude.
+L270223 +++$+++ u1271 +++$+++ m84 +++$+++ GLAUCUS +++$+++ What do you want?
+L270750 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, not <u>dying</u>, actually. I'm changing. You know, like from winter to spring. Of course, it is a big step to take.
+L270749 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Please, don't you realize? She is dying.
+L270738 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Please! She has got to see a doctor right away.
+L270737 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Chardin. Dame Marjorie. But you may call me Maude.
+L270728 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh! That's wonderful, Harold. Go - and love some more.
+L270727 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Never! Never! I'll never forget you. I wanted to marry you. Don't you understand! I love you. I love you!
+L270726 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ "And this too shall pass away."
+L270725 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ It's true. I can't live without you.
+L270724 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Harold, don't upset yourself so.
+L270723 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But Maude, you don't understand. I love you. Do you hear me? I've never said that to anyone in my life before. You're the first. Maude. Please don't leave me.
+L270722 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I feel giddy.
+L270721 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I thought eighty was a good round number.
+L270720 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But why now?
+L270719 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ But, Harold, we begin to die as soon as we are born. What is so strange about death? It's no surprise. It's part of life. It's change.
+L270718 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude, please. Don't die. I couldn't bear it. Please, don't die.
+L270717 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Harold! What a fuss this is.  So unnecessary.
+L270716 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh yes, dear. I took the pills an hour ago. I should be gone by midnight.
+L270715 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But you're not going anywhere, are you?
+L270714 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Why yes. It's my eightieth birthday.
+L270713 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Farewell?
+L270712 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, I am happy, Harold. Ecstatically happy. I couldn't imagine a lovelier farewell.
+L270711 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ ... which I hope will make you very happy.
+L270709 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ For you.
+L270708 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Harold. 
+L270707 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ It's all right. It's organic.
+L270706 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, you've thought of everything. And champagne.
+L270705 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Supper for two.
+L270668 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Harold. You are so young.
+L270667 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You've never cried before. I never thought you would. I thought, despite anything, you could always be happy.
+L270666 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I was remembering how much this meant to me. It was after the war... I had nothing... except my life. How different I was then - and yet how the same.
+L270663 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You haven't changed a bit. I'll put it in my wallet.
+L270662 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Harold, that picture is almost twenty-five years old.
+L270661 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ It looks like you. Thanks.
+L270656 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'll never forget you, Maude.  But I would like a photo of you.
+L270655 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ They mocked me. They were representations of people I dearly loved yet they knew these people were gradually fading from me, and that in time all I would have left would be vague feelings - but sharp photographs! So I tossed them out. My memory fades, I know. But I prefer pictures made by me with feeling, and not by Kodak with silver nitrate.
+L270654 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Why?
+L270653 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I took them out.
+L270652 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Why are there no photographs in these frames?
+L270645 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Here.
+L270644 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes.
+L270643 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude.
+L270642 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ - end where I began.
+L270641 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, no. But I should have liked to have been an astronaut. A private astronaut able to just go out and explore. Like the men who sailed with Magellan, I want to see if we really can fall off the edge of the world.  What a joke it will be if like them I -
+L270640 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You should have been a poet.
+L270639 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ We <u>are</u> alone - you and me and everybody. But we can look at those stars and maybe someone down the beach or across the sea in China is looking at them, too. Someone we don't know and most likely will never see - that someone is breathing along with us. And the star- gazers of the past - from peasant to princes - and the star-gazers of the future - all of us breathing and looking up there. We are alone - but look at the stars and never feel lonely.
+L270638 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Science thinks there isn't. That we are all alone in the universe.
+L270637 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I don't know. Perhaps.
+L270636 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Do you think there is any life up there?
+L270635 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes. They're old friends.
+L270634 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Look at the stars.
+L270633 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, they're my species.
+L270632 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You sure have a way with people.
+L270631 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Right on! It wouldn't be a celebration without it.
+L270630 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How about some candy floss?
+L270629 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Come on, you loved it. It was a new experience.
+L270628 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Scared? Swimming underwater with that oxygen device of yours. I was petrified.
+L270627 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Oh, you weren't scared.
+L270626 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No. It had nothing on this afternoon.
+L270625 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ That wasn't very scary.
+L270618 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ She took my head.
+L270617 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Give me that.  I'm going to throw it in the sewer where it belongs.
+L270616 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Just like this.
+L270613 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ ... of you. You'll all end up like this.
+L270612 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Don't you advance on me.
+L270609 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Traitor! Benedict Arnold! Remember Nathan Hale, right, sir?
+L270608 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Don't you talk to me like that, you little foul mouth degenerate!  Really, sir, I thought that you at least...
+L270554 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ What? With your skill and my experience... I think we can come up with something.
+L270553 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude, do you think you can help me?
+L270552 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ They'd put you in jail, eh? Well, historically you'd be in very good company.  That's what my husband used to say when we were in the French Underground dealing with the Gestapo. Would you like to do a little raking?  Work, I'm told, done with no selfish interest, purifies the mind. You sink your separate self and become one with the universal self. On the other hand, senseless labor is a bloody bore and should be scrupulously avoided.
+L270551 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Really. Just put it there, Harold.
+L270550 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But they'll put me in jail.
+L270548 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, don't go.
+L270547 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But they have.
+L270546 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ But they can't do that. You haven't even got the vote.
+L270545 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ They're going to draft me. In the Army. I'm going to be sent away.
+L270544 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ What is it, Harold?
+L270543 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude, I must speak to you.
+L270500 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, be kind. I've lived a long time, Harold, seen evil as well as good, and it has been my experience that kindness...
+L270499 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I've never met her. My mother set it up.
+L270498 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh.
+L270497 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Shall I drop by tomorrow?  Oh, I have a luncheon date. With this girl.
+L270496 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Harold. You make me feel like a schoolgirl.
+L270495 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Boy! It sure has been a wonderful day. And you - you are beautiful.
+L270494 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ From the guys who got the matches, of course. 
+L270493 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Where's that?
+L270492 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It's sinking, Harold. Going over the horizon - where we are all going to go. It's getting dark. "Let each man hold on to his candle and get a light where'er he can."
+L270491 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yodeling?
+L270490 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No. I feel more like - yodeling.
+L270489 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Want to join me in some cartwheels?
+L270488 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Harold, everyone has the right to make an ass out of themselves. You just can't let the world judge you too much.
+L270487 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. I'd feel stupid.
+L270486 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, why don't you?
+L270485 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ This is really nice. Makes me feel like a kid. I want to do somersaults .
+L270484 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ With Life.
+L270483 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ With God?
+L270482 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Pray? No.  I communicate. 
+L270481 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude, do you pray?
+L270480 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Spreckled with uncountable stars. The stars are shining right now. We just can't see them. Just another instance of all that's going on that is beyond human perception.
+L270479 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And beyond the blue is the blackness of the cosmos.
+L270478 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It's so blue.
+L270477 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Look at that sky.  It's so big.
+L270452 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I like you, Harold.  Come, I'll teach you to waltz.
+L270451 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I like you, Maude.
+L270450 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes. I understand. A lot of people enjoy being dead. But they are not dead really. They're just backing away from life.  They're players - but they sit on the bench. The game goes on before them. At any moment they can join in.  Reach out! Take a chance! Get hurt maybe. But play as well as you can.  Go team, go! Give me an "L." Give me an "I."  Give me a "V." Give me an "E." LIVE!!!!!  Otherwise you'll have nothing to talk about in the locker room.
+L270447 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Okay.
+L270446 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Of course.
+L270445 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, it's a question of timing, and the right equipment, and plenty of patience... You really want to hear about this?
+L270444 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ How ingenious! Tell me about them.
+L270443 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Died! Seventeen times - not counting maiming.  Shot myself in the face once with a popgun and a pellet of blood.
+L270442 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ What was that?
+L270441 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes. I haven't lived.  I've died a few times.
+L270440 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Me!  When I look around me I know I know nothing. I remember though, once long ago in Persia, we met a wise man in the bazaar. He was a professional and used to sell his wisdom to anyone willing to pay. His specialty for tourists was a maxim engraved on the head of a pin. "The wisest," he said, "the truest, the most instructive words for all men at all times." Frederick bought one for me and back at the hotel I peered through a magnifying glass to read the words - "And this too shall pass away."  Well, the wise man was right - if you remember that, you can't help but live life fully.
+L270439 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You are the wisest person I know.
+L270438 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well --  - they say he was very wise, so I'm sure he must have.
+L270437 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Did Confucius say that?
+L270436 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Vice? Virtue? It's best not to be too moral. You cheat yourself out of too much life. Aim above morality. As Confucius says, "Don't simply be good. Make good things happen."
+L270435 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'm sure picking up on vices.
+L270434 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It's all right.  It's organic.
+L270433 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, I really don't smoke.
+L270432 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes, so do I. But I think he is a little... old-fashioned. Like a puff, Harold?
+L270431 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I like Glaucus.
+L270430 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Why? There'll be a new block of ice in the morning.
+L270429 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Don't you think we should turn off the heat?
+L270428 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes.
+L270427 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ The ice is melting.
+L270422 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes. It's almost there.
+L270421 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I <u>think</u> I see it.
+L270416 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yeah. And it is cold in here. Hello, Glaucus.
+L270415 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, those motorcycles are awfully chilly.
+L270382 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I suppose I did.  Well, farewell little tree. Grow up tall, and change, and fall to replenish the earth. Isn't it wonderful, Harold? All around us. Living things.
+L270381 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't know.
+L270380 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ There. Oh, I like the feel of soil, don't you? And the smell. It's the earth. "The earth is my body. My head is in the stars."  Who said that?
+L270379 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ The old double U-turn. Gets them every time.
+L270378 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ He's stopped.
+L270377 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Is he? Ah, the police. Always wanting to play games. Well, here goes.
+L270376 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I think he's following us.
+L270338 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Superb.
+L270337 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Okay?
+L270334 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Don't play anything! Dear me. Everyone should be able to make some music. Why, it's life! - Rhythm and harmony - That's the cosmic dance. Come with me.
+L270333 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But I don't play anything.
+L270332 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, that was fun. Let's play something together.
+L270330 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh come on. I'll teach you.
+L270329 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, I don't...
+L270328 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, yes! Every day. But I don't need a defense anymore. I embrace! Still fighting for the Big Issues but now in my small, individual way. Shall we have a song?
+L270327 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No more revolts.
+L270326 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No.
+L270323 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, Big Issues. Liberty. Rights. Justice. Kings died and kingdoms fell. I don't regret the kingdoms - what sense in borders and nations and patriotism - but I do miss the kings. When I was a little girl I was taken to the palace in Vienna, to a garden party. I can still see the sunshine, the parasols, and the flashing uniforms of the young officers. I thought then I would marry a soldier.  Later, Frederick would chide me about it.  He was so serious. A doctor at the University. And in the government.
+L270322 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What were you fighting for?
+L270321 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ My umbrella?  Oh, that's just a relic. I found it when I was packing to come to America. It used to be my defense on picket lines and rallies and political meetings - being dragged off by police or attacked by thugs of the opposition.  A long time ago.
+L270320 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What's that?
+L270319 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you.
+L270318 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Some nuts? Some licorice? It has no nutritional value but then consistency is not really a human trait.
+L270317 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you.
+L270316 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, it's all right. It's organic.
+L270315 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, I really don't drink...
+L270314 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ A little after-dinner liqueur, Harold?
+L270312 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes.
+L270311 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Look, the ice is melting.
+L270310 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ He's never finished one yet. He has around him every kind of hand tool known to man, but the poor dear has difficulty staying awake.
+L270309 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ It is kind of rough.
+L270308 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ An ice sculpture. It's Venus - the Goddess of Love, the completion of which is his unfulfilled dream.
+L270307 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What is that he's working on?
+L270306 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ We'll come back in the morning.
+L270305 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ He's fallen asleep, as usual.
+L270304 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Is he all right?
+L270303 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, my. We're too late.
+L270294 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Oh, wait, Maude. Look!
+L270293 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Yes, you're right. We'll go see Glaucus. Come on.
+L270292 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Don't you think we should get some tools, maybe?
+L270291 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Exactly.
+L270290 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But this is public property.
+L270289 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Why not?
+L270288 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But we can't just dig it up!
+L270287 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ We'll transplant it. To the forest.
+L270286 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But what?
+L270285 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Look at it, Harold. It's suffocating. It's the smog. People can live with it, but it gives trees asthma. They can't breathe. See the leaves are all brown. Harold, we've got to do something about this life.
+L270284 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ That little tree. It's in trouble. Come on.
+L270283 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What is it?
+L270282 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Over there by the courthouse.
+L270281 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What?
+L270280 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Look.
+L270279 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What happened?
+L270278 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well...
+L270277 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ The universal language of mankind.  What music do you like, Harold?
+L270276 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, it's only a machine, Harold. It's not as if it were <u>alive</u>, like a horse or a camel. We may live in a machine age, but I simply can't treat them as equals.  Of course, the age has its advantages.
+L270275 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Boy, Maude. The way you handle cars. I'd never handle a car like that.
+L270270 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oooh, but they are not. Look.
+L270269 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Because they are all the same.
+L270268 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Why do you say that?
+L270267 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't know. Just one of those. 
+L270266 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I should like to change into a sunflower most of all. They are so <u>tall</u> and simple. And you, Harold, what flower would you like to be?
+L270263 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What do you mean?
+L270262 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, it's all very thrilling, of course, but I ask you, Harold... Is it enough?
+L270260 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Sterling silver. It was my dear mother-in-law's, part of a dinner set of fifty pieces. It's one of the few things that survived.  Oh, but I do rattle on so. Tell me about yourself, Harold.  What do you do when you aren't visiting funerals?
+L270259 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ That's a nice teapot.
+L270258 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ That's the influence of the right food, the right exercise, and the right breathing.  Greet the dawn with the Breath of Fire!  Of course, there's no doubt the body is giving out. I'm well into autumn. I'll have to be giving it all up after Saturday. Sweeten the tea with honey, Harold. It's delicious.
+L270257 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You don't look eighty.
+L270256 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Me. Ha! Did I tell you I'll be eighty on Saturday?
+L270255 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You look as if you could.
+L270254 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Wonderful! Try something new each day. After all, we're given life to find it out. It doesn't last forever.
+L270253 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Certainly a new experience for me.
+L270252 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Here we are, Harold. Oat straw tea and ginger pie.
+L270249 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No, you have to touch it.  You have to run your hands over it, get close to it, really reach out and feel. You try it.
+L270248 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Oh. Eh, I like it.
+L270247 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ What do you think?
+L270245 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ That's really great.
+L270244 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It goes on and on.
+L270243 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Subways... Perfume... Cigarette...  ... Cologne... Carpet... Chestnuts! ... <u>Snow!</u>
+L270242 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Now I'll pump it up...  ... and you just turn the handles.  Okay. What do you smell?
+L270240 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It was my last. I then became infatuated with these -- my "Odorifics."
+L270239 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes. Very much.
+L270238 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ A self-portrait.  But over here is my favorite. It's titled "Rainbow with Egg Underneath and an Elephant." Do you like it?
+L270237 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, I'm so happy you said that because I wanted to show you my paintings. This is the "Rape of Rome" and, of course, there in the corner is quite a graphic depiction of Leda and the Swan.
+L270236 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. 
+L270235 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Really. Do you think it's wrong?
+L270234 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Me! No. Of course not.
+L270233 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Heavens no! I don't have the time. But I like to keep in practice and poor Glaucus occasionally needs his memory refreshed as to the contours of the female form.  Do you disapprove?
+L270232 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Do you often model for Glaucus?
+L270231 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ She seemed yare to me.
+L270230 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Oh, it's fine. Fine.
+L270229 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I'll heat some up. My, it's nice to see you again, Harold. How's your hearse?
+L270228 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Eh, fine.
+L270227 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ How about some ginger pie?
+L270226 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Maude???!
+L270225 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Harold?
+L270160 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Promise?
+L270159 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ All right.
+L270158 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ My door is always open.
+L270157 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ All right.
+L270156 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, then, you must come back and visit.
+L270155 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Sort of.
+L270154 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, at the dentist's?
+L270153 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you, but it's an appointment. I really shouldn't miss it.
+L270152 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well then.
+L270151 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270150 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ But it's oat straw tea. You've never had oat straw tea, have you?
+L270149 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you, but I really have to go.
+L270148 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ She's very sweet, but so old- fashioned. Please sit down, Harold. I'll put on the kettle and we'll have a nice hot cup of tea.
+L270146 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, look! The birds.
+L270145 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ It's very interesting.
+L270144 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It's all memorabilia, but incidental and not integral, if you know what I mean.
+L270142 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, if some people are upset because they feel they have a hold on some things, then I'm merely acting as a gentle reminder - I'm sort of breaking it easy -- Here today, gone tomorrow, so don't get attached to <u>things</u>. Now, with that in mind, I'm not against collecting stuff...
+L270141 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Still, I think you'd upset people and I'm not sure that's right.
+L270140 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ What owners, Harold? We don't <u>own</u> anything. It's a transitory world. We come on the earth with nothing, and we go out with nothing, so isn't "ownership" a little absurd?
+L270139 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you. But when you take these cars don't you think you are wronging the owners?
+L270138 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Not <u>any</u> car. I like to keep a variety. I'm always looking for the new experience, like this one. I liked it.
+L270137 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And you get into any car you want and just drive off?
+L270136 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Of course, I've had to make some additions for the new models, but not as many as you might think. Once you have your basic set it's then only a question of variation.
+L270133 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh.
+L270132 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yearse!
+L270131 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Your hearse?
+L270130 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ But this is my car.
+L270129 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, it's a new experience for me.  Good on curves. Shall I take you home, Harold?
+L270128 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270127 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, so do I. They're such fun, aren't they? It's all change. All revolving. Burials and births. The end to the beginning and the beginning to the end -  - the great circle of life. My, this old thing handles well. Ever drive a hearse, Harold?
+L270126 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270103 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ No.  I thought not.
+L270102 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Eh, no.
+L270101 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Do you sing and dance?
+L270100 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What?
+L270099 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Do you dance?
+L270098 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well then, I must be off.  We shall have to meet again.
+L270097 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No, thank you. I have my car.
+L270096 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Can I drop you anywhere, Harold?
+L270095 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, thank you. I think we shall be great friends, don't you?
+L270094 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Nice to meet you.
+L270093 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ How do you do? I am Dame Marjorie Chardin, but you may call me Maude.
+L270092 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Harold Chasen.
+L270091 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, of course. What is your name?
+L270090 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Eh, could I have my pen back now, please?
+L270089 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ It's a question of emphasis, you might say. Accentuate the positive, so to speak.
+L270085 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ I mean, seventy-five is too early, but at eighty-five, well, you're just marking time and you may as well look over the horizon.
+L270084 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't know.
+L270083 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Me neither. I heard he was eighty years old. I'll be eighty next week. A good time to move on, don't you think?
+L270082 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Eh, no.
+L270081 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ You're welcome.  Did you know him?
+L270080 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Eh, no. Thank you.
+L270700 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Perhaps it is.
+L270699 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ This is insane.
+L270698 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Harold!
+L270697 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'm going to marry the woman I love.
+L270694 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ You don't care! "Miss Shroud of 1890 Weds the Boy of a Thousand Deaths!" Listen to me...
+L270693 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't care what people say.
+L270692 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Oh... That's wonderful... I get an eighty-year-old pallbearer for a daughter-in-law! Be reasonable, Harold! You're dealing with your life! What will people say?!
+L270691 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ At a funeral.
+L270690 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Love? Love? What do you <u>know</u> about her? Where does she come from? Where did you meet her?
+L270683 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ A sunflower?
+L270682 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What?
+L270681 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ I suppose you think this is very funny, Harold.
+L270680 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To a girl. Here.
+L270679 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ To whom?
+L270678 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'm getting married.
+L270677 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Fay, I'll call you back.  What did you say?
+L270676 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Mother. I'm going to get married.
+L270675 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Harold, please! I'm on the phone.
+L270674 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Mother.
+L270673 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Not now, Harold...  You can't put me down for Monday?
+L270672 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Mother.
+L270036 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Well, I want you to go to bed directly after dinner. You know how susceptible you are to colds. Harold has always been a delicate child. Even as a baby he seemed to be abnormally prone to illness - Harold, dear, eat up your beets...
+L270035 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I have a sore throat.
+L270034 +++$+++ u1274 +++$+++ m84 +++$+++ MRS. CHASEN +++$+++ Of course, Harold's father had a similar sense of the absurd. I remember once in Paris he stepped out for cigarettes and the next I hear he's arrested for floating nude down the Seine - experimenting in river currents with a pair of yellow rubber water wings. Well, that cost quite a little bit of "enfluence" and "d'argent" to hush up, I can tell you. Harold, dear, stop playing with your food. Don't you feel well?
+L270529 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. Like this.
+L270528 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Like a tea ceremony?
+L270527 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ An ancient Japanese ceremony.
+L270526 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Ohhh. What's hari-kari?
+L270525 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ This one is particularly interesting. It's a hari-kari blade.
+L270522 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Oh, he's in the Army. I do so like the military, don't you? Those uniforms make men look so virile. I did "What Price Glory?" in summer stock. I played Charmaine - with a French accent.
+L270521 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. My uncle.
+L270520 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Oh, is this your father?
+L270519 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Oh, I studied the guitar. I had to give it up. Gave me calluses on my fingers. As an actress I can't afford to have a tarnished instrument.
+L270518 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. I'm learning the banjo. Do you?
+L270517 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Do you play?
+L270516 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Well, actually, it was the name of my drama teacher - Louis Sunshine. Perhaps you've heard of him. He was such an influence on the development of my instrument. That means my body - in theatre talk. Well, when I came to Hollywood I felt the need to express the emerging me in a new form, so I took on "Sunshine." Dore is my real name... Well, Dore, actually. My, what a lovely place you have here.
+L270515 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Is Sunshine your real name?
+L270514 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ No, thank you. They stain my fingers.
+L270513 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Would you like a cigarette?
+L270509 +++$+++ u1278 +++$+++ m84 +++$+++ SUNSHINE +++$+++ Can't complain.
+L270508 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How do you do?
+L270192 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ What kind of stuff?
+L270191 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'd show him my hearse. And my room, and stuff.
+L270190 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ What would you say?
+L270189 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'd have liked to talk to him.
+L270188 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Why?
+L270187 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.  I'd have liked to.
+L270186 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I see. Tell me, Harold, do you remember your father at all?
+L270185 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Very well.  Now your mother tells me she is arranging several dates for you with some young ladies. How do you feel about that?
+L270184 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270183 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ We are not relating today, Harold. I sense a definite resistance. A lack of true and helpful communication. I find you a very interesting case, Harold, but this reluctance of yours is detrimental to the psycho-analytical process, and can only hinder the possibility of effective treatment. Do you understand?
+L270182 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I burnt down the Chemistry building.
+L270181 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Then why did you leave?
+L270180 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270179 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Your studies?
+L270178 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270177 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Your classmates?
+L270176 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270175 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ You liked your teachers?
+L270174 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes.
+L270173 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I see.  Were you happy at school, Harold?
+L270172 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270171 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Is this a friend you had when you were away at school?
+L270170 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270169 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Would you care to talk about this friend?
+L270168 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, maybe one.
+L270167 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ None at all?
+L270166 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270165 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ You don't seem to be listening. I asked do you have any friends?
+L270164 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Huh?
+L270163 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Harold?
+L270069 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I go to funerals.
+L270068 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ That's very interesting, Harold, and I think very illuminative. There seems to be a definite pattern emerging.  Your fondness for useless machines and demolitions seems indicative of your present emotional state, your self-destructive urges and your alienation from the regular social interaction. What do you think? And of course this pattern once isolated can be coped with. Recognize the problem and you are half way on the road to its solution. But tell me, what do you do for <u>fun</u>? What activity gives you a different sense of enjoyment than the others? What do you find fulfilling? What gives you that certain satisfaction?
+L270067 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ What else do you like?
+L270066 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No. It's the junk. I like to look at junk.
+L270065 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Is it the machines? The noise? The people?
+L270064 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't know.
+L270063 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I see. Junkyards. What is the fascination there?
+L270062 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Yes. What kind of things do you do?
+L270061 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You mean when I'm not working on a...
+L270060 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Oh. Well, how do you spend your day?
+L270059 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ My mother spoke to my Uncle Victor. He's in the Army and he fixed it up.
+L270058 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ What about the draft?
+L270057 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ No.
+L270056 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ I'm sure. But what else do you do with your time? Do you go to school?
+L270055 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And a lot of time.
+L270054 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Ah, yes.
+L270053 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I put a lot of effort into these things.
+L270052 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Why?
+L270051 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes. It does.
+L270050 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Does that worry you?
+L270049 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I don't think I'm getting through to Mother like I used to.
+L270048 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ No, I suppose not. How do you feel about your mother?
+L270047 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I wouldn't say "benefit."
+L270046 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ And were they all done for your mother's benefit?
+L270045 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ A rough estimate.
+L270044 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Fifteen.
+L270043 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, a rough estimate... I'd say fifteen.
+L270042 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Just give me a rough estimate.
+L270041 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Well, some worked out better than others - some had to be abandoned in the planning stages - do you include the first time? - then there's the question of maiming...
+L270040 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ And why is that?
+L270039 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ An accurate number would be difficult to gauge.
+L270038 +++$+++ u1277 +++$+++ m84 +++$+++ PSYCHIATRIST +++$+++ Tell me, Harold, how many of these, eh, suicides have you performed?
+L270620 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ She took my head.
+L270619 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Stay where you are, Harold .
+L270611 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ She's a Commie pig. We're going to nail every last one...
+L270610 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold, calm down! This is...
+L270607 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Crazy parasite! Commie bastard! Get out of here.
+L270606 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold!
+L270605 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Parasite!
+L270601 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold! That's <u>disgusting</u>!
+L270600 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Boy, to think I could maybe make my own.
+L270599 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ What's the chance of getting one of these?
+L270598 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold!
+L270597 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Of your kill - ears, nose, scalp, privates.
+L270596 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Souvenirs?
+L270595 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Sir, how about souvenirs?
+L270594 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Harold, I think you're getting carried away here.
+L270593 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I'd like that. You could see the blood squirt out.
+L270592 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Well, I don't...
+L270591 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How about to slit his throat?
+L270590 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Eh?
+L270589 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To strangle someone. Choke him. Squeeze out his life between your hands.
+L270588 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Yes.
+L270587 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ How about hand-to-hand combat?
+L270586 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Oh sure.
+L270585 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ And to use the bayonet? PACHOIE!
+L270584 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Oh, sure. A variety of weapons.
+L270583 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Will they really teach me to shoot?
+L270582 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ ZAT!
+L270581 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Yes.
+L270580 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Another man's life in your sights.
+L270579 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ The moment of truth.
+L270578 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To kill. The taste of blood in your mouth.
+L270577 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ That's right.
+L270576 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ To pit your own life against another.
+L270575 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ It's the greatest excitement in the world.
+L270574 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ I hope so, sir. Golly I never knew it could be so exciting.
+L270573 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Sure. Be able to tell your children. Something for them to look up to. Be proud of.
+L270572 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ You think so, sir?
+L270571 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Well, you'll soon have stories like that to tell of your own.
+L270570 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Jeez! That's a great story,
+L270569 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ They came at me from all sides, hundreds of 'em. We kept firing - Zat-Tat-Tat-Tat! "Throw the grenades," I shouted. "Mac, throw the grenades!" "He's dead," Joe said, and kept right on feeding me bullets.  Zat-Tat-Tat-Tat!  They kept falling, but they kept coming. Bullets whizzing all around me. Zot! Joe falls back with a neat red hole in his head. I thought I was done for. But I kept firing. Zat-Tat-Tat! Only one thought kept me going. Kill! Kill! For Mac, and Joe, and the rest of the guys. Kill! - a blinding flash. I wake up on a stretcher. "Did we hold?" I asked the medic. "Yes, sir," he said, and I slipped into unconsciousness.
+L270567 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Jeez, sir. That's pretty strong stuff.
+L270566 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ And so I ask you - why the hell did we give up on the Germans? Those damn politicians in Washington chalked them up on our side and the wars ever since have been a national disgrace. Hell, look at history. The two best wars this country has fought were against the Jerries. Now I say, get the Krauts on the other side of the fence where they belong, and let's get back to the kind of enemy worth killing and the kind of war this whole country can support.
+L270565 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ War is not all black.
+L270564 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Is that a fact? Well, that fits in right along with everything I've been saying. War is not all black.
+L270563 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ During wartime the national suicide rate goes down.
+L270562 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Let's examine the facts on it. I say this country has been too harsh in its outright condemnation of war. I say you can point to many material advantages brought about by a crisis and conflict policy. Hell, World War II gave us the ballpoint pen. That's common knowledge.
+L270560 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Perfectly lovely. You know, this is what we're defending. Everything that's good and beautiful in the American way of life. Oh, there's some nut peace petitioner over there. Let's go off this way. Those crazy Commie bastards. I don't know why we tolerate 'em. Parasites.
+L270559 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Yes, sir.
+L270558 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Call me "sir," Harold. First thing you learn in the Army - an officer deserves your respect.
+L270557 +++$+++ u1272 +++$+++ m84 +++$+++ HAROLD +++$+++ Thank you, Uncle.
+L270556 +++$+++ u1279 +++$+++ m84 +++$+++ UNCLE VICTOR +++$+++ Good idea of yours to come out here, Harold. It's a lovely spot.
+L270302 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, thank you. Eh, officer, you might turn off the radio. Saves the battery.
+L270301 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Oh yes. That's fine.
+L270300 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Tell me --  -- is that car parked all right?
+L270299 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Eh, yes, ma'm.
+L270298 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Well, it's a tricky turn.
+L270297 +++$+++ u1275 +++$+++ m84 +++$+++ OFFICER +++$+++ Yes, ma'am. Somebody had some trouble parking.
+L270296 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Good afternoon, Officer. Bit of trouble here?
+L270124 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ But wait...
+L270123 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, don't be too discouraged. For aesthetic appreciation - always a little time.
+L270122 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Well, I didn't.
+L270121 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Oh, yes. How did you like that?
+L270120 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Were you also the one who painted the statues?
+L270119 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Then I suppose it was me. Get in, Harold.
+L270118 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Yes.
+L270117 +++$+++ u1273 +++$+++ m84 +++$+++ MAUDE +++$+++ Was that the one with the St. Christopher medal on the dashboard?
+L270116 +++$+++ u1276 +++$+++ m84 +++$+++ PRIEST +++$+++ Ah! There you are, madam. Were not you the lady who drove my car off yesterday?

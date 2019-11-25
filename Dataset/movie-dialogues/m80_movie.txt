@@ -1,0 +1,261 @@
+L257693 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Toni Blake from Langley P.D.
+L257692 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Detective Carter from the Haddonfield P.D.
+L257690 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ The door was open, so we let ourselves in.
+L257689 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ We're sorry to startle you, Miss Tate.
+L257622 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ It's Blake.  How do you feel about Wisconsin?
+L257621 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Carter.
+L257602 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Sweet dreams, Blake.
+L257601 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Yes.
+L257600 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ What do you want me to do, put out an A.P.B. on a man in overalls wearing a white mask dragging a headstone?
+L257599 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Come on, Carter.  You know it's Michael.
+L257598 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Care to join me?
+L257597 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ That's it?
+L257584 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Charming.
+L257583 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ I can be real stiff.
+L257582 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Only the real stiffs.
+L257581 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ You take all your dates here. Blake?
+L257551 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Yeah, alright... I'll be there in ten.
+L257550 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ The cemetery...
+L257549 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Where?
+L257548 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ It's Blake.  Meet me at Grand View.
+L257547 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Carter.
+L257490 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Girl scouts.
+L257489 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Impressive, Blake.  Where'd you learn how to do that?
+L257488 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Explaining the low height of the blood splatter on the curtains...
+L257487 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ As which point she drops to her knees in pain...
+L257486 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Broken blood vessels on her right forearm.
+L257485 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ The killer knocks the knife out of her hand with the wrought-iron poker.
+L257484 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ No blood on the knife.
+L257483 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Unable to escape, she turns and attacks the killer, but doesn't connect.
+L257482 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Where, judging by the looks of the finger and palm prints, she struggles to open the window before banging on it like hell.
+L257479 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ That don't match either of the victim's.
+L257478 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ One set of muddy shoe prints.
+L257474 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ I like a woman who takes control.
+L257473 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Right.  So why don't we get on with this investigation?
+L257472 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Well, when you put it that way.
+L257471 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ Pamela Whittington was a long time associate of Dr. Loomis.  Her home office was ransacked.  It was chock full of Loomis' files on Meyers.  It'd say that makes Meyers a suspect, wouldn't you?
+L257470 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ With all due respect, detective, you can't go blaming every brutal murder in Illinois on Michael Meyers.
+L257469 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ They said on the phone you were assigned to the Meyers case.
+L257468 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Why am I here?
+L257467 +++$+++ u1217 +++$+++ m80 +++$+++ BLAKE +++$+++ It's for your cigarette.  I prefer not to contaminate my crime scene with micropollutants.
+L257466 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ No thanks, I'm not thirsty.
+L257703 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Well, I can assure you, it won't happen again.  Thanks for your concern.  Goodbye.
+L257702 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Funny, we just drove right in.
+L257701 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I never stop thinking about it, Detective.  The only way in or out of this school is through that gate, and it is secured at all times.
+L257700 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Might want to stop and think about the safety of your students, Miss Tate.
+L257699 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ ... I think it would be best if you both left.
+L257698 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Carter.
+L257697 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Detective...
+L257696 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Okay, then how 'bout we ask you a few questions?
+L257695 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I'd prefer you didn't.  I'm very busy.
+L257694 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ Mind if we sit down?
+L257688 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Do I know you?
+L257687 +++$+++ u1218 +++$+++ m80 +++$+++ CARTER +++$+++ I'll be damned.
+L257639 +++$+++ u1219 +++$+++ m80 +++$+++ DEPUTY CLARK +++$+++ Doesn't look good.
+L257638 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Think Eddie had something to do with it?
+L257637 +++$+++ u1219 +++$+++ m80 +++$+++ DEPUTY CLARK +++$+++ Well, Eddie Catero didn't show up for work this morning... parents say he never came home last night. Car's still missing.
+L257636 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Do you know who did this?
+L257635 +++$+++ u1219 +++$+++ m80 +++$+++ DEPUTY CLARK +++$+++ Pretty messy.  Parents have already been notified.  Our office has been trying to get a hold of you...
+L257634 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ My god...
+L257633 +++$+++ u1219 +++$+++ m80 +++$+++ DEPUTY CLARK +++$+++ It's Amy Kramer.
+L257632 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ A dead body?
+L257631 +++$+++ u1219 +++$+++ m80 +++$+++ DEPUTY CLARK +++$+++ Better take 'em to Virgil's downtown.  We got a dead body in there.
+L257630 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Bruce... what's going on?  The kids are here to pick out their costumes for the festival.
+L257564 +++$+++ u1220 +++$+++ m80 +++$+++ EDDIE +++$+++ Would somebody shut this guy up?
+L257563 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ Another historical inaccuracy.
+L257560 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ It's not historically accurate, that's all.
+L257559 +++$+++ u1220 +++$+++ m80 +++$+++ EDDIE +++$+++ Who are you, the serial killer police?  What difference does it make?
+L257558 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ Michael Meyers never used a meat cleaver.  It was a butcher knife.
+L257557 +++$+++ u1220 +++$+++ m80 +++$+++ EDDIE +++$+++ What the fuck are you talking about?
+L257556 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ Besides, it's historically inaccurate.
+L257414 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Yeah.  Oh, and they messed up your kitchen pretty good, too... Goodnight.
+L257413 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ My office?
+L257412 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Don't think so.  But they sure did a real number on your office. Crap everywhere.
+L257411 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ Nothing's missing?
+L257410 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Totally.  I checked all the rooms and closets...
+L257409 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ You sure?
+L257408 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Nothing to fear.  The coast is clear.
+L257404 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ And miss the big game?  No way.
+L257403 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ No.  Wait for the police.
+L257402 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Checking out your place.
+L257401 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ Jimmy, what are you doing?
+L257398 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ No shit.
+L257397 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ No shit?!
+L257396 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ I think someone broke into my house.
+L257395 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Oh.  Sorry.  I'm on my way to the ring and --
+L257394 +++$+++ u1226 +++$+++ m80 +++$+++ PAMELA +++$+++ My blood pleasure.  You scared the hell out of me.
+L257393 +++$+++ u1221 +++$+++ m80 +++$+++ JIMMY +++$+++ Hey, Mis Whittington, what's up?
+L257842 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ That would work.
+L257841 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Keri.... Laurie... how about if I just call you Mom?
+L257840 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Call me Laurie, will ya?
+L257839 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Yeah, me too, Keri.
+L257815 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Please, get on the bus...
+L257814 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Oh, God... no... not Molly.
+L257813 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ John...
+L257812 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ What?  Where is she?
+L257811 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ John, you can't help her now.
+L257810 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I'm not leaving without her.
+L257809 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Just get on the bus.
+L257808 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Where's Molly?  She's not in her room...
+L257807 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Get on the bus.
+L257806 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ He found you, didn't he?
+L257750 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I don't know.
+L257749 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Where are you going?
+L257748 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I was trying to protect you from this...
+L257747 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Why didn't you tell me?
+L257746 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ No.
+L257745 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Any other psychotic relatives I should know about?  Jason?  Freddy Krueger?
+L257744 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Yes.
+L257743 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Wait a minute... slow down... you're telling me Michael Meyers is my uncle?
+L257738 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Afraid not.  You can pick your friends, but you can't pick your family.
+L257737 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Now you're joking, right?
+L257732 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I was trying to get away from someone.
+L257731 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ You some kind of fugitive or something?
+L257726 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Will, sit down...
+L257725 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I'm sorry, alright?  It was just a stupid joke.
+L257612 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Just forget it...
+L257611 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Oh, so now it's my fault?
+L257610 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Well, maybe if you'd let me live in the dorms, I wouldn't have to sneak out to spend time with my friends.
+L257609 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ It's an option.
+L257608 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Or what?  You're gonna shoot me?
+L257607 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Wrong.  There are rules in this house and you're going to follow them whether you like it or not.
+L257606 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I just went for a walk.  It's no big deal.
+L257605 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ You're kidding with that answer, right?
+L257604 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Nothing.
+L257603 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Shit, John!  What the hell were you doing out there?!
+L257443 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I know.
+L257442 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ You're twisted.
+L257441 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I thought you'd never ask.
+L257440 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ To the bathroom.  Can I do that alone or do you want to watch?
+L257439 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Where are you going?
+L257437 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ My life is a living hell.
+L257436 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I took the padlock off your door. What more do you want?
+L257435 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Alright, I was wrong.  There is a big difference between rooming with your buddies and living with your mother and school headmaster.
+L257434 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ My point exactly.  See, we both agree.
+L257433 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ The dorms are only fifty feet away.  You could practically see into my window.  So, what difference does it make?
+L257432 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Forget it.
+L257431 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I promise not to run off to Cancun.
+L257430 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ You're father thinks it's okay to run off to Cancun with a blonde bimbo in a halter top.  Somehow his opinion doesn't count.
+L257429 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Well, Dad thinks it's okay.
+L257428 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ No.
+L257427 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Okay, you win.  I'll call you Mom. Now can I move into the dorms?
+L257426 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ And I should have a son who calls me "Mom".  Looks like we're both shit out of luck.
+L257425 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I'm sixteen, Keri.  I should be able to live wherever I want.
+L257424 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Betcha' didn't predict that.
+L257423 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ What the --
+L257422 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ You're so predictable.
+L257421 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Nothing's changed since yesterday, or last week, or last month... the answer's still "no."
+L257661 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Yeah.
+L257660 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Better?
+L257659 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Here, take my jacket.
+L257658 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I'm okay.
+L257657 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ You look kind of cold.
+L257656 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I guess.  It's just hard to believe.
+L257655 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ You saw that Michael Meyers display.  You've got to be pretty twisted to come up with something like that.
+L257654 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ You really think Eddie killed her?
+L257653 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Alright.  I'll come out.  Just be quiet.
+L257652 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Well, I'm not going until I talk to you.
+L257651 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Then I'll get caught.
+L257650 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Then you come out here.
+L257649 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Are you crazy?  You'll get caught.
+L257648 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Can I come in?
+L257647 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I can see that.  Why?
+L257646 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I came to see you.
+L257645 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ What are you doing here?!
+L257626 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Is that all you guys can think about?  Amy never came back last night.  Maybe she's in trouble.
+L257625 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Nah, I didn't tell her where I went.
+L257517 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I can't afford to get caught.
+L257516 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Why not?
+L257515 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Not me.
+L257512 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ I borrowed it.
+L257511 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ You stole it?
+L257510 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Swiped it from my mom's desk yesterday.
+L257509 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Where'd you get it?
+L257508 +++$+++ u1222 +++$+++ m80 +++$+++ JOHN +++$+++ Shelve the barf bag.  It's the key to the main gate.
+L257718 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Michael Meyers!
+L257717 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Who?!
+L257716 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Linda!  He killed Linda!
+L257667 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Okay... thank you.
+L257666 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Okay, tell you what... you can still be the school R.A., but no dance tomorrow night.
+L257665 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I know.  I'm really, really sorry, Miss Tate.  Please let me keep the job... it's the only way I can afford to stay here.
+L257664 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Molly, of all the people... if I can't trust my resident assistant, then what?
+L257818 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ I'll make sure there's no kids left in the dorms...
+L257817 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ We've got to get these kids out of here...
+L257816 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Keri, you all right?
+L257794 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Can't it wait till Monday?  I thought maybe we could dance...  I'm very light of my feet.
+L257793 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I'm gonna head back to the office... finish up some things.
+L257792 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Oh, right.  Sorry.
+L257791 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Not a real fan of Halloween humor, Will.
+L257756 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Do we have to invite him to the wedding?
+L257755 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Yeah.
+L257754 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ So you're really Michael Meyers' sister?
+L257753 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Never.
+L257752 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Are you going to leave, too?
+L257751 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ You just dropped a shitload on him... give him some time to digest it.
+L257742 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Shit happens.
+L257741 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ I can't believe this is happening.
+L257740 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ No, Will, this isn't the alcohol talking.  It's the truth.
+L257736 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ He's my brother.
+L257735 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ The serial killer?
+L257734 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Michael Meyers.
+L257733 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Who?
+L257730 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ You're right.  It does sound strange.
+L257729 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ My name hasn't always been Keri Tate.  It was once Laurie Strode.
+L257728 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ What?
+L257727 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ There's something I have to tell you both.  It's going to sound strange...
+L257619 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I'm fine.  I just need to lie down...
+L257618 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ What are you looking at?
+L257617 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ What?
+L257616 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Hey, you alright?
+L257544 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Bye Will.
+L257543 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ A box of fortune cookies... I'm running out of advice.
+L257542 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ I'm going into town... run a few errands before dark.  Need anything?
+L257540 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Doesn't make it bad advice.
+L257539 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Oh, please... you get that out of a fortune cookie?
+L257538 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ The tighter you squeeze, the harder he'll try to break free.
+L257537 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ It's not going to happen.
+L257536 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ This kid just wants his freedom.
+L257535 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ He's been living out of moving boxes for three months.
+L257534 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Still wants to move out?
+L257533 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ It's always John.
+L257532 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ It's John, isn't it?
+L257530 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Nothing a good stiff drink can't fix.
+L257529 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ You okay?  You seem a little off.
+L257528 +++$+++ u1223 +++$+++ m80 +++$+++ KERI +++$+++ Looks great.  It does.
+L257527 +++$+++ u1228 +++$+++ m80 +++$+++ WILL +++$+++ Aren't they doing a terrific job this year?
+L257785 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Can't you?
+L257784 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ Can't you hold it?
+L257783 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ I have to pee.
+L257782 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ What is it?
+L257781 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Wait.
+L257624 +++$+++ u1227 +++$+++ m80 +++$+++ SHANE +++$+++ You think your mom knows we snuck out last night?
+L257623 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Look, they're staring right at us.
+L257776 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Oh, don't be such a victim.
+L257775 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Have enough fun for the both of us.
+L257774 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Let the party begin.
+L257773 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Very insightful.
+L257772 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ But the dance is in the gymnasium.
+L257771 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Condom Boy is waiting for me in the cafeteria.
+L257770 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Where's Shane?
+L257769 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Thanks!
+L257768 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Linda, you are without a doubt the scariest person on campus.
+L257767 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Nope.  Hey, you think I'll win scariest costume?
+L257766 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Wasn't scaring the hell out of me once today enough?!
+L257765 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ You're so easy...
+L257764 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Shit, Linda!
+L257763 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ BLAAAAAGGGHHHHH!
+L257714 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Oh, they're so stupid... I'll just tell them he's going as a sausage casing.
+L257713 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ You think they'll let him in dressed like that?
+L257712 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ I'll pop a Benadryl.
+L257711 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I thought you were allergic to latex.
+L257710 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Shane's going as a condom.
+L257679 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ Big time.  And news travels fast. Wouldn't be surprised if the whole school knows about this one by tonight.
+L257678 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Ooooh, busted.
+L257628 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ You're unbelievable.
+L257627 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Better her than me.
+L257507 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ You say, "The key to my heart," and I'm gonna hurl.
+L257506 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ What's this?
+L257494 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ He gave me a fuckin' A?  Wow.
+L257493 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ Fuckin' A.
+L257492 +++$+++ u1225 +++$+++ m80 +++$+++ MOLLY +++$+++ I did alright.
+L257491 +++$+++ u1224 +++$+++ m80 +++$+++ LINDA +++$+++ You aced it, didn't you?

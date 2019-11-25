@@ -1,0 +1,1149 @@
+L283758 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ And to prove to the voters that the Red Menace is on the level, the Sheriff has written himself four more letters, threatening his life. I know he wrote 'em on account of the misspellings.
+L283757 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ The Sheriff has just received four more letters threatening his life, but he says nothing can interfere with his duty.
+L283756 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Ready? The Sheriff's just put two hundred more relatives on the payroll to protect the city against the Red Army -- which is leaving Moscow in a couple of minutes.  Up a dime.
+L283755 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ A double guard's been thrown around the jail, municipal buildings, railroad terminals, and elevated stations to prepare for the expected general uprising of radicals at the hour of execution.
+L283754 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ This is Murphy. More slop on the hanging.
+L283735 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Why don't you fellows get your own news?
+L283734 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Hello, Harvard! Got anything new on the hanging?
+L284536 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Open this door!
+L284535 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Bensinger -- of the Tribune.
+L284533 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's Bensinger. That's his desk.
+L284532 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ What's the idea of locking this?
+L284531 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Who is it?
+L283742 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Well, congratulations! Good luck!
+L283741 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm getting married tomorrow.
+L283740 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ What doing?
+L283739 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, just a farewell appearance, batting for Sweeney. I'm going into business for myself.
+L283738 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Are you back?
+L283737 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Hildy!
+L283736 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Can't you say 'hello' to a fellow?
+L284568 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Bon jour!
+L284567 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Au revoir, mon capitaine.
+L284566 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'll keep you in mind.
+L284564 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It doesn't have to rhyme!
+L284563 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ I got my rhyming dictionary in -- 
+L284562 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Exactly!
+L284561 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Sort of a Jack London style?
+L284560 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Let him have everything he wants.  Now hustle and write me a story from the point of view of the escaped man.  He hides, cowering... Afraid of every light, of every sound... hears footsteps... his heart going like that... And all the time they're closing in... Get the sense of an animal at bay!
+L284559 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'll give you a hundred and a by- line.
+L284558 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Seventy-five.
+L284557 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Of course!  Roy Bensinger, the poet. Of course you wouldn't know! You probably never heard of Shakespeare, either! Put Mr. Bensinger right on the staff.  How much are you getting on the Tribune, Roy?
+L284556 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ No. Roy. Roy V.
+L284555 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Duffy! I'm sending Bensinger over to see you.  Mervyn, isn't it?
+L284552 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ What?
+L284551 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Heartbreaking! How would you like to work for me?
+L284550 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Remember the ending?  " -- and all is well, outside his cell, But in his heart he hears the hangman Calling and the gallows falling And his white-haired mother's tears..."
+L284549 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ The poem?... The poem was great!
+L284548 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Oh, did you -- care for the poem, Mr. Burns?
+L284547 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I should say not! That was one swell story you had in the paper this morning.
+L284546 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Nothing -- ah -- detrimental, I hope.
+L284545 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I was having a little chat about you just this afternoon -- with our Mister Duffy.
+L284544 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ How do you mean?
+L284541 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Excuse me, I just want to --
+L284540 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hello, Bensinger.
+L284539 +++$+++ u1355 +++$+++ m90 +++$+++ BENSINGER +++$+++ Ain't you got any more sense than to -- ?  Oh, h-hello, Mr. Burns. Why, quite an honor having you come over here.
+L284495 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Fine.
+L284494 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I'm taking the nine o'clock train, Hildy. And you can meet us at the station.
+L284491 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ You got it back, eh? There's something funny going on around here.
+L284490 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Just a second, Walter. Here, Bruce, here's the check... And, oh, Bruce, here's your wallet. I got it back.
+L284487 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Thank you.
+L284486 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Here it is, Bruce. One -- two -- three -- four hundred -- and fifty dollars.
+L284485 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, yes. Here it is.
+L284484 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Then suppose you give me the money. Four hundred and fifty dollars.
+L284483 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, I was going to give it to her -- but she left hurriedly.
+L284482 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Did you give her the money?
+L284481 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh -- mother -- she -- I don't know where she went.
+L284480 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Hildy! Where's mother?
+L284479 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Out some place.
+L284478 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Where'd she go?
+L284477 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, she was here.
+L284468 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Bruce, you know I'm mad about you and stop talking like that.  Walter!
+L284467 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I know I got you into this, Hildy, but it does seem to me that you can't care much for me if you're willing to let me stay locked up for two hours.
+L284466 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ We'll explain the whole thing to them. 
+L284465 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I waited and waited and then I had an idea and wired Albany to send me a hundred dollars so I could get out on bail...  I don't know what they'll think -- they sent it to the police station!
+L284461 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Bruce, I know, but I was in the biggest jam --
+L284460 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Not through any help of yours, Hildy.
+L284459 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ BRUCE!! How'd you get out?
+L284458 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hello, Bruce...
+L284457 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Hildy!
+L283976 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, the story's practically finished. I'll just go upstairs and send it over with a messenger.
+L283975 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ But, gee, Hildy -- he gave us that insurance business -- and you promised --
+L283974 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No -- but I'm sure it'll be all right with Walter.
+L283973 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ The Criminal Courts Building.
+L283972 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Did you finish the interview?
+L283971 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes, he is... Look, Bruce, we're taking that next train -- and when I say next train, this time I mean it!
+L283970 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh, I realized right away. He's really a very nice fellow, Hildy -- I found that out.
+L283969 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, no. How could you ever think of such a thing?
+L283968 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ For a minute, I thought maybe Walter Burns was at the back of it. But then I realized he couldn't have been.
+L283967 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm sure you haven't any.
+L283966 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I can't imagine who did it. I can't think of any enemies I have.
+L283965 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes, wasn't it?
+L283964 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ That's right here. Gee, it was lucky your telling me about that old newspaper superstition.
+L283963 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ The check, Bruce!
+L283962 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I lost my wallet.
+L283961 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What's the matter?
+L283806 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Fine. And here's a kiss for you.
+L283805 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ All right. I've done it. Now, are you satisfied?
+L283799 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Certified and everything. Got it right here in my wallet... What? No, he's not here -- I'm in a phone booth.
+L283798 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hildy Johnson... Oh, hello, Bruce. Have you got it? Is it certified?
+L283693 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'll be careful, darling. You be, please.
+L283692 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ All right.  One -- two -- three -- four -- five. Five hundred. Be careful, honey.
+L283691 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I know a lot of men who didn't do anything till they met Walter Burns. Please, dear.
+L283690 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ But I don't gamble, Hilda!
+L283689 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Believe me, Bruce, I know what I'm doing. He'd get you in a crap game --
+L283688 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ But --
+L283687 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ On second thought, would you let me have it? I'll get the tickets.
+L283686 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ The five hundred? Sure.
+L283685 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute, Bruce. Have you got that money?
+L283684 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ All right, dear.
+L283679 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Better make that a certified check, Walter.
+L283678 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ About twenty-five hundred dollars.
+L283673 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I could get a company doctor in twenty minutes.
+L283672 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ According to the budget, we laid out that's more than our food bill for a whole year. Listen, Bruce, I don't want Walter Burns to use me, but I'm perfectly willing to use him. How long will it take to get him examined?
+L283671 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ But --
+L283670 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ And what's the matter with a thousand dollars?
+L283669 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, at his age, twenty payment life, a little over a thousand dollars.
+L283668 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute, Bruce. What's commission on a $100,000.00 policy?
+L283667 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I don't use my wife for business purposes, Mr. Burns!
+L283632 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He certainly -- hic -- does!
+L283631 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Say, what's happened to Burns? He looks sunk, doesn't he?
+L283630 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No. It's strong.  But I like it that way.
+L283629 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Too hot?
+L283624 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's what he did to me. Swept me right off my feet -- and left me lying on the floor.
+L283623 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ If anybody had told me I'd be sitting at lunch with him -- but he swept me right off my feet.
+L283622 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He comes by it naturally. His grandfather was a snake.
+L283621 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh, he's not the man for you. I can see that. But I sort of like him. Got a lot of charm.
+L283620 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You're so nice, Bruce, you think everybody else is.
+L283619 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ You know, Hildy, he's not a bad fellow.
+L283585 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It will be perfectly all right, Walter. Mother is coming with us on the train.
+L283584 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh, it isn't like that.
+L283367 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'll come a-running, pardner.
+L283366 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I suppose you're right -- but if it gets rough, remember I'm here.
+L283365 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ My job, Bruce. I started it -- and I'll finish it.
+L283364 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I'd like to spoil him just once. Sure you don't want me to go in with you?
+L283363 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't be embarrassed, Bruce. I heard it, but I just wanted to hear it again. I can stand being spoiled a little. The gentleman I'm going to have a chat with did very little spoiling.
+L283362 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I said -- uh -- I said even ten minutes -- is a long time -- to be away from you.
+L283360 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Even ten minutes is a long time to be away from you.
+L283359 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I won't be more than ten minutes, I promise you.
+L284510 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Say, I want to be sure, too!
+L284509 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, this is all right, Bruce. I just wanted to be sure.
+L284508 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Gee! Take a look, will you?
+L284507 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ There's a lot of counterfeit big bills going around.
+L284506 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ The money? Why?
+L284505 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, Bruce, let me see that money Hildy gave you.
+L284504 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That's the kind of stuff they want!
+L284503 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ She's -- well, she's very motherly. That's about the best description I know.
+L284502 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'll find her, Bruce, if I have to put every detective in the city on the job. Tell you what -- go over to the Missing Persons Bureau and describe your mother. What does she look like?
+L284501 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ And now I don't know where my mother is. She may be lost.
+L284500 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Ts! Ts! Ts!
+L284499 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Suppose she is -- I have feelings, too! Do you know where I've been for the last couple of hours? Locked up in a police station and she didn't move to do anything about it.
+L284498 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I know how you feel, Bruce, but you've got to forgive her. She's only a woman, after all.
+L284497 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ If she's not there, mother and I are leaving anyhow!
+L284496 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'll see she's there, Bruce, I promise you.
+L284489 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Come on, Hildy, we've got to keep going! Sorry, Bruce, but --
+L284488 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ And I'll take that certified check, too. I've decided I can handle things around here...
+L284476 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh.  I wonder what's keeping mother? She was supposed to come down and get you.
+L284475 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ No -- I was just talking to one of the guys at the office. 
+L284456 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What the devil do you want? Listen, Bruce, you can't come in here now! We're busy!  Where you been, Duffy? Stick around! What? What Chinese earthquake? The deuce with it... what's that?
+L284455 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Hildy!
+L283790 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ So long.
+L283789 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't thank me. I should thank you. So long.
+L283788 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh, sure.  Well, thanks for everything.
+L283787 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, I got to get back. You can find your way out, can't you?
+L283786 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Thanks a lot.
+L283785 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, anyway, I know Hildy's getting a good man.
+L283784 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Thanks. I'll phone Hildy right away to get that story.
+L283783 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't want to forget this, you know. Might start to rain again.
+L283782 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That's all I ask. Oh, wait a minute.
+L283781 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, she'll know some day.
+L283780 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Certified! I'm afraid Hildy'd feel ashamed to think she hadn't trusted you.
+L283779 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, Bruce, here you are -- certified and everything.
+L283776 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ No, Bruce, you didn't come between us. It was all over for her before you came on the scene. For me -- it'll never be over.
+L283775 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Gee, you almost make me feel like a heel -- coming between you.
+L283774 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ And the beauty of it is she'll never have to know 'till I've passed on. Maybe she'll think kindly of me --- after I'm gone.
+L283773 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I'm beginning to realize that.
+L283772 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ And remember this, Bruce! I love her, too.
+L283771 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, of course, if you put it that way.
+L283770 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Figure it this way: I ought to be good for twenty-five years. By that time, you'll probably have made enough so that the money won't mean anything. But suppose you haven't made good -- don't you think Hildy's entitled to a quiet old age without any worries?
+L283769 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, I'm independent, too.
+L283768 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, you'll take care of her. After all, if that doctor's right, I'm going to live for a long time yet. Look, Bruce, this is a debt of honor. I was a very bad husband: Hildy could have got a lot of alimony if she'd wanted to, but she wouldn't take any. She had it coming to her, but she was too independent.
+L283767 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I feel I ought to take care of her.
+L283766 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Why shouldn't I make Hildy my beneficiary? I've got nobody else to leave it to.
+L283765 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I don't know. This makes me feel funny.
+L283696 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You haven't seen anything yet.
+L283695 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I never knew Hildy to be so determined before.
+L283653 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ We could take the six o'clock train, Hildy. If it would save a man's life.
+L283652 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh -- an hour for the interview. Another hour to write it.
+L283651 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ How long would the interview take?
+L283648 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ How?
+L283647 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ But couldn't you show the man wasn't responsible?
+L283646 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All you've got to do is talk to him. But the Mayor would hang his own grandmother to be re-elected.
+L283645 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Are you sure Williams is not all there?
+L283640 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It's simple. A poor little dope who lost his job went berserk and shot a cop who was coming after him to quiet him down.
+L283639 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Just what is the lowdown on Williams?
+L283634 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Just Sweeney again. One of my best reporters.
+L283633 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Anything the matter?
+L283609 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I see what you mean.
+L283608 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, I honestly feel that way. I figure I'm in one line of business that really helps people. Of course, we don't help you much when you're alive -- but afterward -- that's what counts.
+L283607 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I sometimes wish I'd taken out insurance -- but, of course, now it doesn't matter. Still, I suppose it would have been the smart thing to do.
+L283604 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I don't blame them.
+L283603 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, Albany's a mighty good insurance town. Most people there take it out pretty early in life.
+L283602 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ How's business, Bruce?
+L283600 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Yes, I know...  Hildy, will you ever forget the night you brought the Governor back to your hotel room and found me taking a bath? She didn't even know I was in town...
+L283599 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Mighty nice little town, Albany. They've got the State Capitol there, you know.
+L283598 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That'll be nice. A home with mother. A real honeymoon. In Albany, too. Ow!
+L283597 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Just for the first year.
+L283596 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I know you will, Bruce. Are you going to live with your mother?
+L283595 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, I'll try to give her one.
+L283591 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I don't think she'll need you very much -- I aim to do most of the protecting myself.
+L283590 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I know I wasn't a good husband, Hildy, but you can always count on me.
+L283588 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh. Your mother -- well, of course, that relieves my mind.
+L283587 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ No. My mother.
+L283586 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Mother? But your mother --
+L283583 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Taking the train today -- and being married tomorrow?
+L283582 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Feels awful good. Yes, sir -- we're taking the four o'clock train to Albany and tomorrow we'll be married.
+L283581 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, so you're getting married tomorrow, eh? How does it feel, Bruce?
+L283560 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Just wanted to surprise you, I guess.  Down!  After you, Bruce!  Come on, Hildy, my treat!
+L283559 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ No -- she didn't.
+L283558 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Where are we going? I'm going to buy you two lunch -- didn't Hildy tell you?
+L283557 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Where are we going?
+L283556 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Attaboy!  Come on, Bruce.
+L283555 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That's right. -- Rubbers, too, I hope? A man ought to be prepared for any emergency.
+L283554 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Well, er -- it looked a little cloudy this morning.
+L283553 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ But I see, she didn't mean old in years. You always carry an umbrella, Bruce?
+L283552 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Oh.
+L283551 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You see, my wife -- I mean, your wife -- that is, I mean Hildy -- had led me to expect that she was marrying a much older man.
+L283550 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Mr. -- well -- no -- no -- not at all.
+L283549 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, I thought there was something funny... You see, Bruce, you don't mind if I call you Bruce, do you? After all, we're practically related --
+L283548 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ 
+L283547 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ This is a pleasure, Mr. Baldwin, and I'm sorry about the mistake.
+L283544 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Then who are you?
+L283543 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Yes!
+L283542 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You're Bruce Baldwin?
+L283541 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ I'm Bruce Baldwin!
+L283540 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I've just told you I was busy with Mr. Bruce Baldwin!
+L283539 +++$+++ u1356 +++$+++ m90 +++$+++ BRUCE +++$+++ Mr. Burns --
+L284836 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Get out of here, you!
+L284835 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What's this?
+L284826 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Give me the District Attorney's office.  I'll tell you what you'll be doing -- making brooms in the State penitentiary.  Hello, D'Arrasty! This is Hartwell. Come over to my office, will you? I've just arrested a couple of important birds and I want to take their confessions.
+L284825 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You're going to be in office for exactly two days more and then we're pulling your nose out of the feed bag.
+L284784 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Do you want to get us scooped?
+L284783 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ No, you don't!
+L284782 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Call Duffy!
+L284745 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, trying to frame me, eh! I never saw this woman before in my life!
+L284744 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ What about this, Burns? Kidnapping, eh?
+L284729 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ We'll take a chance on that, Burns.  Go ahead, boys. 
+L284728 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'm warning you -- it'll be a Federal offense.  And you'll be an accessory!
+L284727 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ You will, eh? Well, we'll see about that.  All right, boys. Take it.
+L284726 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hartman, if you take this desk out of this building, I'll put you behind bars.
+L284722 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ We'll just start by impounding the Post property.  Is that your desk?
+L284721 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You'll see nothing of the kind, Sheriff.
+L284720 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I'll show you what I'm doing. Burns, you're guilty of obstructing justice and so is the Morning Post. I'm going to see that the Post is fined ten thousand dollars for this.
+L284719 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Who's under arrest? You pimple-headed, square-toed spy -- do you realize what you're doing?
+L284718 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ No? Well --  Johnson, you're under arrest.  You, too, Burns.
+L284709 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I'll give you three minutes to tell me where he is.
+L284708 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You're barking up the wrong tree, Hartman.
+L284701 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Oh, you did! Well, that's very, very interesting. This happens to be the gun that Earl Williams shot his way out with!
+L284700 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I can explain that, Hartman. When Hildy told me she wanted to interview Earl Williams I thought it might be dangerous and I gave her a gun to defend herself.
+L284685 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Close that door. Don't let anybody in or out.
+L284684 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Get out!
+L284683 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ You'll ask me to what?
+L284682 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ If you've any accusations to make, Hartman, make them in the proper manner. Otherwise, I'll have to ask you to get out.
+L284668 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ You can't bluff me, Burns. I don't care who you are or what paper you're editor of.
+L284667 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Who do you think you are, breaking in here like this?
+L284874 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ What did you say your name was -- Pinkus?
+L284873 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Save that for the Tribune.
+L284861 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ He's insane or drunk or something. Why, if this unfortunate man, Williams, has really been reprieved, I personally am tickled to death. Aren't you, Pete?
+L284860 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Out of the mouths of babes.
+L284859 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ That's absurd on the face of it, Mr. Burns! He's talking like a child.
+L284830 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ The power of the press, huh!
+L284829 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ This is the Morning Post you're talking to!
+L284828 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ All the lawyers in the world aren't going to help you!
+L284827 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Duffy! Get Liebowitz!
+L284823 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Your luck's not with you now!
+L284822 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Does it? You forget the power that always watches over the Morning Post.
+L284983 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You -- you!!
+L284982 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ But, Hildy -- I can explain --
+L284978 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Sure, Heaven! You've probably thought up another coal mine to send me down in -- to get a new story for your paper!
+L284977 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It'll be Heaven!
+L284976 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes -- 'Hildy, darling'. I'm just a fool. That's what I am. I know what it's going to be like.
+L284975 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy, darling!
+L284972 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure, I can. Look at the policy I gave him!  "With this ring I thee wed and with all my worldly goods I thee endow: And thereto I plight thee my troth."
+L284971 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Walter, you can't do that!
+L284970 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ How about Bruce's?
+L284961 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You're not fooling anybody.
+L284960 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy, from this time on no tricks, no double-crossing -- everything on the level!
+L284959 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's what he said the last time. Don't believe him, Judge.
+L284950 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Now don't argue, Hildy.  How about it, Judge?
+L284949 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What!
+L284945 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I don't want to rush you. Take a couple of seconds.
+L284944 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, I'd like to be lady-like and think it over.
+L284943 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What's the good of arguing about something that probably doesn't exist? Look, Hildy, I'm proposing to you. What do you say?
+L284942 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What's the matter with my brains?
+L284941 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, if she looked like you -- Say! My brains and your looks -- that mightn't be such a bad combination.
+L284940 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What would you do if it was a daughter?
+L284939 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure, I can't last forever. I want a son I can train to take my place on this paper.
+L284938 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Walter!
+L284937 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure I do. And I'll tell you something else -- I'd like a baby.
+L284936 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Niagara Falls! Walter, you don't mean that?
+L284935 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy, if that's what you want, all right. We'll even go to -- how about Niagara Falls?
+L284934 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, maybe I'd like to know just once!
+L284933 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That's what makes it romantic. Every other married couple goes away on a honeymoon and for two weeks the bride knows just where the groom is, and vice versa. But us -- you never know where I am and I'm not sure where you are. That's Romance!
+L284932 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ A fine honeymoon, with a murderer right in the boudoir! And that other honeymoon in a coal mine!
+L284931 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure, it was good -- it was wonderful! Only you expected it to be like other marriages. It can't be like other marriages -- we're different! We're a different world. Look at what we went through today. I wouldn't trade that for any honeymoon in the world. I bet you wouldn't, either.
+L284930 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Thanks, Walter, but it's no good. We tried it.
+L284929 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Both jobs are open, Hildy. The paper -- and being Mrs. Walter Burns.
+L284928 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It's awfully clear now. Bruce needs a wife who can give him a home -- and affection -- and peace. I couldn't do that for him, Walter. I'm what you made me -- a cheap reporter who'd give up her soul for a story!... Is that job still open?
+L284927 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure.
+L284926 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ On the nine o'clock train. That's the one he took, isn't it?
+L284925 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Where'd you wire him?
+L284924 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, he won't. I wired him that I wasn't coming.
+L284923 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you mean? Bruce'll be waiting for you in Albany.
+L284922 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yeah. Only -- only I'm not leaving, Walter.
+L284921 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ And what a way to quit. While you're still champion! That's the way to leave, Hildy!
+L284920 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Thanks.
+L284919 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ The greatest yarn ever written by anybody. My hat's off to you, Hildy!
+L284918 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Because I'm a newspaper woman, Heaven help me!
+L284917 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Then why are you doing it?
+L284916 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't touch me! I'm not doing it for you!
+L284915 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy!
+L284914 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What's the difference? I'm going to write that story -- and you know it!
+L284913 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well -- what is it?
+L284911 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All right.  Heads I go -- tails I stay to write the story. Ready?
+L284910 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Flip a coin.
+L284909 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't know what to do, Walter.
+L284908 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ He's going to have you the rest of his life, Hildy. Can't you give me another hour?
+L284907 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yeah. I suppose I could. But, Walter --
+L284906 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Suit yourself, kid. This isn't for me to decide. Of course, you could make a later train and still be in Albany tomorrow morning.
+L284905 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, if it's my last story, I'd like it to be a good one. But -- I guess I can't, Walter.
+L284904 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Bruce is making the nine o'clock train. I told him you'd be on it -- unless you want to write this story yourself.
+L284903 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's all right, Walter. It's as much my fault as yours.
+L284902 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sorry, Hildy. I didn't mean to be making love to another man's fiancee.
+L284901 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't remind me. That's how we happened to --
+L284900 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ In the Shoreland Hotel. And our only chaperon was the poor old lady's stomach.
+L284899 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ We sure did, but we had to go in hiding for a week.
+L284898 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Yeah - but that time we stole Old Lady Haggerty's stomach off the Coroner's physician. We proved she was poisoned though, didn't we?
+L284897 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yeah. What about the time we hid the missing heiress in the sauerkraut factory? Six scoop interviews!
+L284896 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Remember the time we broke into the D.A.'s office, and copied Fifi Randell's diary?
+L284895 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ We've certainly been in some swell jams.
+L284894 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I mean -- working together. Just like the old days. The things we've been through, Hildy.
+L284893 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ In a way.
+L284892 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Uh-uh. As long as we were in there together pitching -- they couldn't lick us. Well, it's been a lot of fun.
+L284891 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Worried! I was petrified. Weren't you?
+L284890 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't tell me you were worried!
+L284889 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How was that for a tight squeeze?
+L284882 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ And your arrest. You'll each get about ten years, I think.
+L284881 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Just until we can get out a special edition asking for your impeachment.
+L284880 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Which ought to be about three hours more, I'd say.
+L284855 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Who did you talk to?
+L284854 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ When did you deliver this first?
+L284851 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hanging an innocent man to win an election!
+L284850 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Murder, uh?
+L284849 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute!  Let go there!
+L284724 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Yes! What are you afraid of Hildy? I dare him to move that desk out of here.
+L284723 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No!
+L284695 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What is it? Here!
+L284694 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, you don't! Walter!
+L284658 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Who says so? I'm going to the morgue -- to look --
+L284657 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't open that!
+L284656 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't care what you say. I'm going to find Bruce's mother.  Oh-h...  I'm going out and find her!
+L284655 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy, you just can't leave me out on a limb now. It -- it wouldn't be cricket!
+L284654 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes.
+L284653 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ When I'm surrounded, with my back against the wall, you're not going to lay down on me, are you --
+L284652 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, I see. I beg your pardon.
+L284651 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Will you come here?
+L284650 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hello -- hello! Is this the Lying -- In Hospital? Did you have an auto accident in the last --
+L284649 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Come here. See if we can move it.
+L284648 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Ring that number, will you?
+L284646 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That dumb immigrant'll flop on me. I know it.  Can you imagine Butch doing this to me -- at a time like this?
+L284645 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Lafayette two-one-hundred.
+L284633 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Duffy!!!!   Duffy!!!!  Well, where is Duffy?  Diabetes! I ought to know better than to hire anybody with a disease.  Louie.
+L284632 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Shut up, will you?  You sure? Nobody?
+L284631 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Butch! I'd put my arm in fire for you -- up to here!  Now, you can't double-cross me!... She does? All right -- put her on. I'll talk to her... Hello! Oh, hello, Madam... Now listen, you ten-cent glamour girl, you can't keep Butch away from his duty... What's that? You say that again and I'll come over there and knock your eye out! Hello?  I'll kill 'em! I'll kill both of 'em!  Duffy!  Mousing around with some big blonde Annie on my time! That's co-operation!  Duffy!!
+L284630 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hello, Max, Hildy Johnson. Was there an old lady --?
+L284629 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I don't care if you've been after her for six years! Butch, our whole lives are at stake! Are you going to let a woman come between us after all we've been through?
+L284628 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Is this the Community Hospital?
+L284627 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I can't hear... You got who? Speak up! A what?... You can't stop for a dame now!
+L284626 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Nobody?  Morningside three-one-two-four.
+L284625 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, for --  H. Sebastian -- Butch! Listen, it's a matter of life and death! Listen!
+L284624 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hello -- Eddie? Hildy Johnson. Was there an old lady brought in from an auto smashup?
+L284623 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What are you doing there? Haven't you even started?
+L284622 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mission Hospital? Gimme the Receiving Room.
+L284621 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Who?  Hello, Butch! Where are you?
+L284620 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Gimme Western four-five-five-seven.
+L284619 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hello -- hello...
+L284616 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Louie, where'd it happen? I'm going out!
+L284615 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ If it was my own mother, I'd carry on! You know I would. For the paper!
+L284614 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm looking at you -- you murderer!
+L284613 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Look at me, Hildy --
+L284612 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I killed her. I'm responsible. Oh- h... what can I do now? How can I ever face him? Oh, I hope he never comes back!
+L284611 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ If he really loves you, you won't have to tell him anything.  Snap out of it! Would you rather have had the old dame dragging the whole police force in here?
+L284610 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What am I going to say to Bruce? What'll I tell him?
+L284609 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It's Fate, Hildy. What will be, will be.
+L284606 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Was she? Did you notice?
+L284605 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't tell me -- was she killed?
+L284595 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Louie!
+L284594 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Where is she? Tell me!
+L284587 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You been in a fight?
+L284586 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What happened?
+L284585 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What did you do with her?
+L284584 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's Mrs. Baldwin?
+L284579 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy, you think I could? After this story?  Here! You're just nervous.
+L284578 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Bruce ought to be back by now. Walter, you're not trying anything again, are you?
+L284576 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Finished!
+L284575 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm finished.
+L284574 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Tear into it, will you? Don't sit there like a frozen robin!
+L284573 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You said it! But this'll teach him a lesson. He won't quit his paper without giving notice after this.
+L284572 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Double-crossing swine!
+L284529 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Didn't you hear him? Of course he's coming back here. Keep going, will you?
+L284528 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Is he coming back here?
+L284527 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Railroad tickets.
+L284526 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What tickets?
+L284525 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Bruce? Oh -- er -- he went out to get the tickets.
+L284524 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's Bruce?
+L284523 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, keep going! We want an extra out on the streets before it's too late!
+L284520 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's Butch?
+L284519 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Listen, did you impress it on Butch that I want him and his gang here right away? You did? Every minute counts. All right.  Duffy's getting old!
+L284493 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All right, Walter.
+L284492 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy!
+L284464 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Okay, Walter. 
+L284463 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ For Pete's sake, Hildy, they're waiting for the rest of that story!
+L284451 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Give him the works.  Hello, Duffy, get set! We've got the biggest story in the world. Earl Williams caught by the Morning Post -- exclusive!
+L284450 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How about the time he had his house painted by the Fire Department?
+L284449 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Call him a love-child, if you want to.  Duffy!
+L284448 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Can I call the Mayor a bird of prey -- or is that libelous?
+L284446 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's some paper?
+L284445 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All the words you've got.
+L284444 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How much do you want on it?
+L284443 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Get the lead out of your typewriter and start pounding out a load, will you? Snap into it!
+L284442 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Huh!
+L284441 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hildy!
+L284440 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ We'll lower it out of the window with pulleys. Quit stallin'.
+L284439 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You can't take that desk out. It's crawling with cops outside.
+L284438 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Not if he's inside the desk. We'll carry the desk over.  Give me Duffy!
+L284437 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That one -- how you gonna take him? They'll see him.
+L284436 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ We're going to take him over to my private office.  Where's our phone?
+L284435 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Whoa -- wait a minute. We can't leave Williams here. One of the other fellows'll --
+L284434 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Attagirl! Why, they'll be naming streets after you -- Hildy Johnson Street! There'll be statues of you in the parks, Hildy. The radio'll be after you -- the movies!  By tomorrow morning I'll betcha there's a Hildy Johnson cigar! I can see the billboards now. Light up with Hildy Johnson!
+L284433 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let me get at that typewriter and I'll show you how a doll-faced mugg can write!
+L284432 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You've kicked over the whole City Hall like an apple-cart. You've got the Mayor and Hartman backed against a wall. You've put one administration out and another in. This isn't a newspaper story -- it's a career! And you stand there belly-aching about whether you catch an eight o'clock train or a nine o'clock train! Still a doll-faced mugg! That's all you are.
+L284431 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I get it!
+L284430 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, think it then, because it's true! We'll crucify that mob. We're going to keep Williams under cover till morning so the Post can break the story exclusive. Then we'll let the Governor in on the capture -- share the glory with him.
+L284429 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'd like to think.
+L284428 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't get technical at a time like this! Do you realize what you've done? You've taken a city that's been graft-ridden for forty years under the same old gang and with this yarn you're kicking 'em out and giving us a chance to have the same kind of government that New York's having under La Guardia! We'll make such monkeys out of these ward-heelers next Tuesday that nobody'll vote for them -- not even their wives!
+L284427 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute -- wasn't it Stanley who discovered Livingstone?
+L284426 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You know! You've got the brain of a pancake! That wasn't just a story you covered -- it was a revolution! Hildy! This is the greatest yarn in journalism since Livingstone discovered Stanley for the New York Herald! 
+L284425 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I know, but --
+L284424 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You drooling idiot! What do you mean, you're getting out! There are three hundred and sixty-five days in the year one can get married -- but how many times have you got a murderer locked up in a desk? -- Once in a lifetime! Hildy, you've got the whole city by the seat of the pants!
+L284423 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, get off that trapeze!  There's your story! Smear it all over the front page -- Earl Williams caught by the Morning Post! And take all the credit -- I covered your story for you and I got myself in a fine mess doing it -- and now I'm getting out! I know I told you that twice before today -- but this time I mean it!
+L284422 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Get Bruce out of jail! How can you worry about a man who's resting comfortably in a quiet police station while this is going on? Hildy, this is war! You can't desert now!
+L284421 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let go o' me! I've got to get Bruce out of jail! Oh, Walter, why did you have to do this to me?
+L284420 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Where do you think you're going?
+L284410 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I know. Where is he, I said.
+L284409 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ She jumped out of the window.
+L284408 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Yes. Where is he?
+L284407 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Walter! D-did you see --  -- that?
+L284079 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hold on a minute.
+L284078 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It better be fifteen minutes, because Bruce is waiting downstairs in a taxicab and that meter's clicking away to beat the band.
+L284077 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ That's great work, Hildy... Huh? Oh, will you stop worrying about the money? I'll see you get it in fifteen minutes.
+L284076 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, this is on the level, Walter. I'm not good enough to make this one up. The Sheriff gave his gun to the Professor, the Professor gave it to Earl, and Earl gave it right back to the Professor -- right in the stomach! Who? No, Egelhoffer wasn't hurt badly. They took him to the County Hospital where they're afraid he'll recover.
+L284075 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ No kidding, Hildy.  Say, this isn't a rib?
+L284074 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, I'm coming to it. It seems the Professor had to have a gun to re- enact the crime with -- and who do you suppose supplied it? Nobody else but that great thinker, Sheriff Hartman!
+L284073 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, this expert Dr. Egelhoffer, from New York, decides to make Williams re-enact the crime --
+L284072 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I meant on my grandmother's grave. Don't be so technical, Hildy. What's the story?!
+L284071 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute. Your mother's alive.
+L284070 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You'll get it. Now what's the story?  I'll have the paper send the money right down to you. I swear it on my mother's grave.
+L284069 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Never mind it? That's not my money! That's Bruce's money!
+L284068 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Never mind that. What's the story?
+L284067 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It cost me four hundred and fifty bucks to tear it out of Cooley.
+L284066 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Exclusive? That's great.
+L283683 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No thanks, I've still got those. Well, I'll step into some working clothes and hop over to the Press Room for the background on this yarn. It'll be kind of fun to see the boys again, too. Remember, Bruce, it must be certified.
+L283682 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All right. The check will be certified. Want my fingerprints?
+L283681 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes --- and that's putting it mildly! No certified check -- no story -- Get me?
+L283680 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you think I am -- a crook?
+L283677 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, nothing! Of course, you might cancel the check. Yes! Wait a minute! What would be his first payment on that policy?
+L283676 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What tricks would I pull?
+L283675 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You keep out of this. Bruce, suppose you examine Mr. Burns in his office. I'll get my bag and go over to the Press Room in the Criminal Courts Building. You phone me as soon as Mr. Burns has given you his check. Then I'll go get the interview and you phone Mother that we're taking the six o'clock train.  And no tricks, Walter!
+L283674 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Now you're talking!
+L283666 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Maybe you'll be. You're a smart young man. You let Hildy do this story for me and you can write out a $100,000.00 insurance policy for me. What do you say?
+L283665 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ We're not interested.
+L283664 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All right, Hildy, I'm licked. But I'll make you and Bruce a business proposition.
+L283663 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I happen to know Sweeney was married only three months ago. If he's got twins this morning, I claim it was done with mirrors.
+L283662 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you mean?
+L283661 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, it's either an act on your part or a miracle on Sweeney's.
+L283660 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you mean, only an act? Haven't you got any feeling?
+L283659 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What a performance! Bravo! Don't let him fool you, Bruce -- it's only an act!
+L283658 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ How can you have any happiness after that? All through the years you'll remember that a man went to the gallows because you were too selfish to wait two hours! I tell you, Earl Williams' face will come between you on the train tonight -- and at the preacher's tomorrow -- and all the rest of your lives!
+L283657 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You see what I had to put up with? She never trusted me! You argue with her -- otherwise you're going on a honeymoon with blood on your hands!
+L283656 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Why, Walter, you're getting poetic!
+L283655 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'm an editor. I know what ought to be written, but I can't write it the way you could. It needs a woman's heart --
+L283654 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, Bruce, dear. Don't you see? This is a trick to get your sympathy. No, Walter, I've been waiting for something like this -- but I wasn't sure when you'd spring it. If you want to save Earl Williams' life, you can interview him yourself. You're still a good reporter. Bruce and I will be on that four o'clock train -- and thanks just the same.
+L283644 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Especially with an election coming up in a few days.
+L283643 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ The colored vote happens to be very important to the Mayor of this town.
+L283642 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Because it happened to be a colored policeman.
+L283641 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ If he's nuts, why doesn't the State just put him away?
+L283638 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ So -- Sweeney gets twins -- and Earl Williams gets hanged tomorrow.
+L283637 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You said it.
+L283636 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ His wife had twins and he went out to celebrate and got as drunk as a lord. They can't even find him.  I tell you, drink is the ruin of this nation.
+L283635 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What now?
+L283615 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Thank you.
+L283614 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Here's luck to the bride and bridegroom.
+L283594 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Anyway, I'm glad you two are going to be happy and have all the things I couldn't give her. You know, Hildy is about the best reporter in the country -- and that goes regardless of sex. But all she really ever wanted was a home.
+L283593 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I might have, Walter, but you were never there.
+L283592 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, I'll tell you one thing, old man, she never looked at me the way she's looking at you.
+L283562 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ How do you like that? Here I am being nice to you and your sweet-heart and that's the thanks I get!
+L283561 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I suppose I can't call this off without creating a scene -- but remember, it's your last fling.
+L283530 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Thanks.
+L283529 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Allow me.
+L283527 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, I'm sorry.
+L283526 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ And when he walks with a lady, he waits for her!
+L283525 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What for?
+L283524 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ And he takes his hat off when he's with a lady.
+L283523 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ No kidding?
+L283522 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You wouldn't believe this, Walter, but Bruce holds the door open for me.
+L283520 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Nothing personal. I was just asking.
+L283519 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Now you got me.
+L283518 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Then what does he want with you?
+L283517 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Better.
+L283516 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All right then, come on and let's see this paragon.  Is he as good as you say?
+L283515 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Afraid? I should say not!
+L283514 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You're not afraid, are you?
+L283513 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, better not, Walter. Wouldn't do any good.
+L283512 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Say, could I meet him?
+L283511 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, he's waiting in the anteroom for me now.
+L283510 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Too bad I couldn't see this guy first. I'm pretty particular about whom my wife marries.
+L283509 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Thanks...
+L283508 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I wish you everything I couldn't give you, Hildy.
+L283507 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ The quicker the better. Well -- I finally got out what I came in to tell you.  So long, Walter, and better luck next time.
+L283506 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Tomorrow? Tomorrow... as quick as that?
+L283505 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, I'll give you a hint. By tomorrow they'll be calling me Mrs. Bruce Baldwin.
+L283504 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Say, sounds more like a guy I ought to marry. What's his name?
+L283503 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't know about water buffaloes, but I know about him. He's kind and sweet and considerate. He wants a home -- and children.
+L283502 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ He does, does he? How did I treat you -- like a water buffalo?
+L283501 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, I can, and I love it! He forgets the office when he's with me. He doesn't treat me like an errand-boy -- he treats me like a woman.
+L283500 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh sure, it's honest. But somehow, I can't picture you with a guy who sells policies.
+L283499 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It's a good, honest business, isn't it?
+L283498 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ The insurance business?
+L283497 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He's in the insurance business.
+L283496 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What's his line?
+L283495 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Not what you'd call rich. Makes about five thousand a year.
+L283494 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Bermuda... Rich, eh?
+L283493 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Bermuda.
+L283492 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Where'd you meet this man?
+L283491 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ A journalist! Peeking through keyholes -- running after fire engines -- waking people up in the middle of the night to ask them if they think Hitler's going to start a war -- stealing pictures off old ladies of their daughters that got chased by apemen! I know all about reporters -- a lot of daffy buttinskies going around without a nickel in their pockets, and for what? So a million hired girls and motormen's wives will know what's going on! No, Walter, I'm through.
+L283490 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I know you, Hildy, and I know what it would mean. It would kill you.
+L283489 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's why I'm quitting. I want to go some place where I can be a woman.
+L283488 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Who says I can't? You're a newspaper man.
+L283487 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You can't sell me that, Walter.
+L283486 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Get married all you want to, Hildy, but you can't quit the newspaper business.
+L283485 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I tried to tell you right away but you started reminiscing. I'm getting married, Walter, and also getting as far away from the newspaper business as I can get! I'm through.
+L283483 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Look at this! 
+L283482 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh! In that case, the raise is off and you go back to your old salary and like it. Trying to blackjack --
+L283481 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm not working for any other paper!
+L283480 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Great grief! What's that other paper going to give you?
+L283479 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Please! Will you just --
+L283478 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ All right -- thirty-five, and not a cent more!
+L283477 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Listen, you bumble-headed baboon --
+L283476 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ If you won't do it for love, how about money? Forget the other offer and I'll raise you twenty-five bucks a week.
+L283475 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Get away, Svengali.
+L283474 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't mock, Hildy, this is bigger than anything that's happened to us. Don't do it for me! Do it for the paper.
+L283473 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's what I'm afraid of. "Any time -- any place -- anywhere!"
+L283472 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It'll bring us together again, Hildy -- just the way we used to be.
+L283471 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Keep away --
+L283470 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You've got to help me, Hildy.
+L283469 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No!
+L283468 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ There's nobody else on the paper who can write! This'll break me, unless --  Hildy!
+L283467 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, haven't you got anybody else?
+L283466 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I don't care whether he did or not. He's supposed to be covering the Earl Williams case and there he is -- waiting at the hospital! Is there no sense of honor left in this country?
+L283465 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Sweeney?  Well, after all, he didn't do it on purpose, did he?
+L283464 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Not yet. Might just as well be. The only man on the paper who can write -- and his wife picks this morning to have a baby!
+L283463 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Dead?
+L283462 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sweeney.
+L283461 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What's the matter?
+L283460 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sweeney! You can't do that to me! Not today, of all days! Jumping Jehosophat! Oh, no, Sweeney... Well, I suppose so... All right. If you have to, you have to.  How do you like that? Everything happens to me -- with 365 days in the year -- this has to be the day.
+L283457 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You -- you --
+L283456 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, you practically did! Making goo-goo eyes at me for two years till I broke down. And I still claim I was tight the night I proposed. If you'd been a gentleman you'd have forgotten all about it. But not you!
+L283455 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I wasn't satisfied! I suppose I proposed to you!
+L283454 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ It would have worked if you'd been satisfied with just being editor and reporter. But no! You had to marry me and spoil everything.
+L283453 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, the paper'll have to learn to do without me. And so will you. It just didn't work out, Walter.
+L283452 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I made a great reporter out of you, Hildy, but you won't be half as good on any other paper, and you know it. You need me and I need you -- and the paper needs both of us.
+L283451 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Listen, Walter --
+L283450 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Why should I? I thought it would be a novelty to have a face around here a man could look at without shuddering.
+L283449 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You wouldn't have taken me if I hadn't been doll-faced!
+L283448 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What were you when you came here five years ago? A little college girl from a School of Journalism! I took a little doll-faced mugg --
+L283447 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I know, Walter, but I --
+L283446 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, go on and take it. Work for somebody else! That's the gratitude I get for --
+L283445 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You bet I've got a better offer.
+L283444 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You've had a better offer, eh?
+L283443 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's the first time you've been right today. That's what I --
+L283442 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You mean you're not coming back to work here?
+L283441 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Just what I said. That's what I --
+L283440 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you mean by that?
+L283439 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't tell me what to do! We're divorced -- I'm a free woman. You're not my husband and you're not my boss! And what's more, you're not going to be my boss.
+L283438 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure you can. Come on.
+L283437 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, I can't.
+L283436 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You can break it, can't you?
+L283435 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I have a lunch date. I just want --
+L283434 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Sure, come on. We'll have some lunch and you can tell me everything.
+L283433 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Walter, you're wonderful in a loathesome sort of way. Now, would you mind keeping quiet long enough for me to tell you what I came up here for?
+L283432 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I haven't any hard feelings.
+L283431 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What?!!
+L283430 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Let's not fight, Hildy. Tell you what. You come back to work on the paper and if we find we can't get along in a friendly way, we'll get married again.
+L283429 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, suppose we did? That isn't what I got married for. What's the good of -- Look, Walter, I came up here to tell you that you'll have to stop phoning me a dozen times a day -- sending twenty telegrams -- all the rest of it, because I'm --
+L283428 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Deny it! I'm proud of it! We beat the whole country on that story.
+L283427 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All I know is that instead of two weeks in Atlantic City with my bridegroom, I spent two weeks in a coal mine with John Kruptzky -- age sixty-three -- getting food and air out of a tube! You don't deny that. Do you?
+L283426 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Was it my fault? Did I know that coal mine was going to have another cave-in? I meant to be with you on our honeymoon, Hildy -- honest I did.
+L283423 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What home?
+L283422 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, I don't want to brag, but I've still got the dimple -- and in the same place -- I just acted like any husband who doesn't want to see his home broken up.
+L283421 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ A fellow your age, hiring an airplane to write:  'Hildy: Don't be hasty -- remember my dimple. Walter.! It held things up twenty minutes while the Judge ran out to watch it.
+L283420 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Well, I meant to let you go -- but, you know, you never miss the water till the well runs dry.
+L283419 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, why did you promise me you wouldn't fight the divorce and then try and gum up the whole works?
+L283418 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Now, that's a nice thing to say.
+L283417 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I suppose that's true in a way. I am fond of you, Walter. I often wish you weren't such a stinker.
+L283416 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Nonsense. You've got the old-fashioned idea that divorces are something that last forever -- till 'death us do part'. Why, a divorce doesn't mean anything today. It's only a few words mumbled over you by a judge. We've got something between us nothing can change.
+L283415 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Holy mackerel! Look, Walter, that's what divorces are for.
+L283414 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Divorced me. It sort of makes a fellow lose faith in himself. It almost gives him a feeling he wasn't wanted.
+L283413 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Done what?
+L283412 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You know, Hildy, I sort of wish you hadn't done it.
+L283411 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'll always remember it. If I hadn't remembered it, I wouldn't have divorced you.
+L283410 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I notice you still remember it.
+L283409 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You're repeating yourself! That's the speech you made the night you proposed.  "-- any time -- any place -- anywhere!"
+L283407 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Oh, yes I would. I'd know you any time --
+L283406 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No -- Mama doesn't dream about you any more, Walter. You wouldn't know the old girl now.
+L283405 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Maybe it was yesterday. Been seeing me in your dreams?
+L283404 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let's see. I was in Reno six weeks -- then Bermuda... Oh, about four months, I guess. Seems like yesterday to me.
+L283403 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You know what. How long since we've seen each other?
+L283402 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How long is what?
+L283377 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Hello, Walter.  Hi, Louie -- how's the slotmachine king?
+L283376 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Hello, Hildy!
+L283375 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Why, I'm surprised, Mr. Burns. That's no way to talk to your wife -- even if she's no longer your wife.
+L283374 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What do you want?
+L284771 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ Let me out! Let me out of here!
+L284770 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You grey-haired old Judas!
+L284769 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ Oh, dear! Oh, dear!
+L284754 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ I was in here -- and they had some kind of murderer in with them. They were hiding him!
+L284753 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Come on, Sheriff. We've got to get bail.
+L284743 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ You know you did!
+L284742 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Are you referring to me, Madam?
+L284415 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ What's that -- what's that?
+L284414 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Louie, take this lady over to Polack Mike's and lock her up. See that she doesn't take to anyone on the way.
+L284643 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ I always have both.
+L284642 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I mean real money -- not counterfeit!
+L284641 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Sure, boss.
+L284640 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You got plenty of money?
+L284639 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ You know me. The shirt off my back.
+L284638 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Anybody with hair on his chest. Get 'em off the street -- anywhere. Offer them anything -- only get them.  We've got to get this desk out of here.
+L284637 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Who do you want?
+L284636 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Beat it out and get hold of some guys.
+L284635 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Anything you want, Boss.
+L284618 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Western an' Thirty-fourth.
+L284617 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You stay here. I'll find out everything.
+L284604 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ I don't think she's talking much... You know what I mean?
+L284603 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Now everything's fine. She's probably squawking her head off in some police station.
+L284602 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ What do you mean, I handed her? The patrol wagon was on the wrong side of the street.
+L284601 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Butter-fingers! I give you an old lady to take somewhere, and you hand her over to the cops!
+L284589 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Take that mush out of your mouth!
+L284588 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Down Western Avenue. We were going sixty-five miles an hour. You know what I mean?
+L283778 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Don't worry, Duffy, you'll have it back by five.  Thanks, Duffy. Stick around. 
+L283777 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ Here's that certified check, Walter.  I drew out my wife's savings, and if this isn't back by 5:30 I'm a ruined man!
+L283392 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ Yeah! Well, I do the firing, too. Remember that, Duffy, and Keep a civil tongue in your head.
+L283391 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ Don't blame me. I'm City Editor in name only. You do all the hiring around here.
+L283388 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ They can't do that to me!
+L283387 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ He's on my phone. He just called me.
+L283386 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ You're crazy. Where's Mac?
+L283385 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ And that means Earl Williams dies tomorrow morning and makes a sucker out of us!
+L283384 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ What?
+L283383 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ Well, you're not too busy to know that the Governor hasn't signed that reprieve!
+L283382 +++$+++ u1357 +++$+++ m90 +++$+++ BURNS +++$+++ I'm busy, Duffy.
+L283381 +++$+++ u1359 +++$+++ m90 +++$+++ DUFFY +++$+++ Walter!
+L284036 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ First we talk. How did Earl Williams get that gun?
+L284035 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ Let's see the money.
+L284034 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ It's a deal. Let me up.
+L284033 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Four hundred and fifty dollars. Is it a deal?
+L284032 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ How much?
+L284031 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ A lot of money.  Four hundred and fifty dollars --
+L284030 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ I can't Hildy. It means my job! It means --
+L284029 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ There's money in it, Cooley.
+L284028 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ Hildy -- I can't. I'm busy -- I -- Let me up, Hildy. Earl Williams has escaped --
+L284027 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Cooley, I want to talk to you.
+L283813 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I thought so. Come on, I'm in a hurry.
+L283812 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ I think it is.
+L283811 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Say, isn't this your twenty dollars?
+L283810 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ No more interviews. Besides, a doctor's coming over.
+L283809 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I want to interview Earl Williams, Warden. How about a little service?
+L283808 +++$+++ u1358 +++$+++ m90 +++$+++ COOLEY +++$+++ Hello, Hildy! What are you doing around here?
+L283998 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Come, come, Sheriff, lightning doesn't strike in the same place twice. Nothing's going to happen.
+L283997 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I don't know --
+L283939 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Yes, I suppose so. It all helps.
+L283938 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ It doesn't matter. The publicity's the main thing.
+L283937 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Yes, shaking hands. I don't take a very good picture, though.
+L283936 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ A joint interview, eh? That might be all right. We could have our pictures taken together, Doctor.
+L283935 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ We'll have to satisfy them. What would you say to giving them a joint interview? I could give them some of the psychological aspects of the case and you could give them the legal aspects.
+L283934 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Well, I don't know if that's ethical. You see, all statements are supposed to come from me.
+L283933 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Of course, I sort of promised them I would give out a statement when I got through here. You don't mind?
+L283932 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Me, too.
+L283931 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ They're always after me for interviews.
+L283930 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ You said it!
+L283929 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ The newspapers! Sheriff, they're the scum of modern civilization.
+L284003 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Point the gun at me!
+L284002 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Well, it wasn't exactly that way --
+L284001 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ So -- now I say to you: 'Earl Williams, you are under arrest!' and you point your gun at me.
+L284000 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Yes, sir.
+L283999 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Now, the Sheriff will be Mollie Malloy, in whose room you were. You will be Earl Williams. And I will be the policeman. Follow me, Mr. Williams?
+L283945 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ In a legal sense, yes. But not actually. Actually, I'm innocent. I didn't do anything.
+L283944 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ I see. You realize, however, that you committed a crime?
+L283943 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ The system. But I'm not afraid to die, Doctor. I'm dying for what I believe.
+L283942 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ You know you are to be executed, Mr. Williams. Who do you feel is responsible for that?
+L283941 +++$+++ u1360 +++$+++ m90 +++$+++ EGELHOFFER +++$+++ Oh, I'm sorry. I forgot you were here. No, Mr. Williams, we still have some questions for you. Sheriff, will you kindly extinguish the lights?
+L283940 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Are you gentlemen all through with me?
+L284358 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Aw, why don't you let her alone? She's ill!
+L284357 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Better let us in on it, Mollie.
+L284350 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ It's easy for you to talk. You're retired. We're still working.
+L284349 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ A fine bunch of reporters. Biggest story in two years and they're too lazy to go after it.
+L284328 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Okay.  Up you go, Mollie.
+L284327 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Give me a hand with her, will you?
+L284326 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ She looks as though she's going to come to.
+L284325 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Came up here -- had hysterics and passed out. I've been trying to get her to come to.
+L284324 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Mollie Malloy -- what happened to her?
+L284322 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Run down and get some smelling salts, will you?
+L284321 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Kind of exclusive, ain't you? We got calls to make, you know.
+L284316 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mollie, drop down here! You've fainted!
+L284315 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Hey!
+L284310 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All right -- all right!
+L284309 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Open up there, will you!
+L284304 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Just a second, Mike ---  Mollie, I got it!
+L284303 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Who locked the door?
+L283730 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Beats king up.
+L283729 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Three bullets! Any good?
+L283728 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ I call. What you got?
+L283714 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I know, I just want to give him a thrill.
+L283713 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Say, that's old Prissy Bensinger's desk.
+L283707 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Good. Now I want to ask you fellows a couple of questions. Did Earl Williams know what he was doing when he fired that gun?
+L283706 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Well, that about covers everything.
+L284793 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ I'll have it in a minute.
+L284792 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Hold the phone!
+L284687 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Make them talk and you got Williams, Pinky!
+L284686 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Come on, Pinky! Give 'em a little third degree.
+L284394 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Where is he, before we beat it out of you?
+L284393 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Do you want us to call the cops and have them give you the boots?
+L284392 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Come on, you! Before we slap you down.
+L284360 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ I tell you, it's a screwy set-up. We better hold onto 'em both.
+L284359 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Oh, you two are pals now -- I think you're right, Endicott. Mollie did give her some kind of story.
+L284354 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Something smells around here. If you ask me Mollie gave her the story on how Williams got that gun.  Did you smuggle that gun into Williams, Mollie?
+L284353 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Say, Hildy, if I know you, you sound pretty anxious to get rid of us. Are you trying to scoop us or something?
+L284107 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Who engineered this getaway?
+L284106 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ What's the dope, Sheriff?
+L284105 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ So have we!
+L284043 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Call you back.
+L284042 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ The Crime Commission has offered a reward of ten thousand dollars for Williams' capture.
+L284041 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ No, I tell you! Nobody knows where he got it.
+L283923 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Lioness Rushes to Defense of Cub.
+L283922 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Boy, did you see her go?
+L283911 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ What's the use? I can't win a pot.
+L283910 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ You guys wanna play some more poker?
+L283875 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Well, if she's gonna write fiction, there's nothing like being a reporter.
+L283874 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ She says she's gonna write fiction.
+L283869 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Who's this guy she's gonna marry?
+L283868 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Well, a guy can win when Hildy ain't around.
+L283760 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ What have you got, Hildy?
+L283759 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Trouble is, when the Red Menace shows up the Sheriff will still be crying 'Wolf!'
+L283752 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Don't you remember? He's the guy went to Washington to interview the Brain Trust, and gave out a statement that they were all sane. It created a sensation!
+L283751 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Yeah? What did he ever do for his country?
+L283750 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ This Egelhoffer's pretty good.
+L283749 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ That must be the tenth alienist they've had on Williams. Even if he wasn't crazy before, he would be after ten of those babies got through psychoanalyzing him.  Gimme the desk.
+L284672 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Probably goin' out to get Williams.
+L284671 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ We know what you're up to.
+L284389 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Now, where is he?
+L284388 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ You ain't gettin' out o' here!
+L284336 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ No luck on Williams, yet -- call you back.
+L284335 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ What a chase!
+L284008 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ So long, Hildy.
+L284007 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Goodbye, Yonson.
+L283702 +++$+++ u1361 +++$+++ m90 +++$+++ ENDICOTT +++$+++ Three sixes. Is that any good?
+L283701 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ I'll call.
+L283611 +++$+++ u1362 +++$+++ m90 +++$+++ GUS +++$+++ Good coffee, isn't it?
+L283610 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Gus, this --
+L283606 +++$+++ u1362 +++$+++ m90 +++$+++ GUS +++$+++ That's all right.
+L283605 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, I'm sorry, Gus! My foot must have slipped.
+L283575 +++$+++ u1362 +++$+++ m90 +++$+++ GUS +++$+++ Just coffee.  And you, sir?
+L283574 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No -- just coffee, Gus.
+L283573 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I guess so.
+L283572 +++$+++ u1362 +++$+++ m90 +++$+++ GUS +++$+++ Little rum in yours, too?
+L283571 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh -- I'll take the same, I guess. And coffee.
+L283567 +++$+++ u1362 +++$+++ m90 +++$+++ GUS +++$+++ I can't complain.
+L283566 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How's everything, Gus?
+L284788 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ All right! Carl! Frank! One of you get on each side of the desk. Take hold of the cover.
+L284787 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's murder!
+L284768 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He can't hurt anybody. You've got his gun.
+L284767 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Don't take any chances. Shoot through the desk.
+L284766 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He's harmless.
+L284712 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ With a bag of marshmallows.
+L284711 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ What?
+L284710 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ He went over to the hospital to call on Professor Egelhoffer.
+L284699 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Not this gun!
+L284698 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I've got a right to carry a gun if I want to.
+L284697 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Where'd you get this?
+L284690 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ All right, boys. Take her along. I got ways of making her talk.
+L284689 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What do I know about Williams?
+L284688 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Johnson, I'm going to the bottom of this. What do you know about Williams? Are you going to talk or aren't you?
+L284679 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Nobody's trying to put anything over on you. I'm getting out of here and you can't stop me!
+L284678 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I wasn't born yesterday. Now the boys tell me you and this Mollie Malloy --
+L284677 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You can send somebody with me if you don't believe me!
+L284676 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Johnson, there's something very peculiar going on.
+L284675 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't know anything, I tell you. There's been an accident.
+L284670 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Hang onto her! Keep her in here!
+L284669 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let me go!  Fellows, something's happened to my mother-in-law.
+L284666 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Hold her, boys!
+L284665 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Take your paws off me!
+L284662 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let go o' me. What's the idea?
+L284661 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Just a minute, Johnson!
+L283865 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ That's awful kind of you, Sheriff. I've got to get started on my interview. See you later.
+L283864 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ You ought to stay over. You always wrote a good hanging story, Hildy.
+L283863 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, thanks Sheriff. I'm leaving town tonight.
+L283858 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Oh, that'll be all right, Hildy. Go ahead, run it. And you can say I treated him well, too.  'Lo, Earl. How are you feeling?
+L283857 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh, nothing much. Just that the state had proved he was sane -- and he admits it himself. If you don't want me to run it --
+L283856 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Now, wait a minute! I'm not afraid of anything. What were you going to write about Williams?
+L283855 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All right, then, I'll just run the story that Sheriff Hartman is afraid to let reporters interview his prisoner. Of course, with election coming, that might do you a lot of harm, but just as you say.
+L283854 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I gave strict orders that nobody was to interview Williams without my permission.
+L283853 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Same way you did.  Through that gate.
+L284111 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Where he used to live. You can catch the Riot Squad -- it's just going out.
+L284110 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Where is he?
+L284054 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Howard Shenken, the Sheriff's uncle on his mother's side --
+L284053 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ After all I've done for you --
+L284052 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ The names are Merwyn D. Mayor, who is the Mayor's brother-in-law --
+L284051 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ A fine fair-weather friend you are!
+L284050 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Four of Mr. Hartman's Deputy Sheriffs were rushed to the hospital --
+L284049 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ What went off?
+L284048 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ This tear bomb went off unexpectedly in the hands of Sheriff Hartman's Bombing Squad.
+L284047 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ If the Mayor wants me, he knows where I am.
+L284220 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ That's good, because my health ain't what it used to be.
+L284219 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Just one second --
+L284197 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ No, I couldn't do that.
+L284196 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Well, wait a minute, will you? I'm in conference.
+L284167 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Yeah. But I --
+L284166 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Read it! Insane, he says.  He knows very well that Williams ain't insane!
+L284158 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Earl Williams. The reprieve.
+L284157 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ For who?
+L284152 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ You're certainly a hard fellow to find, Sheriff.
+L284151 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I'm Sheriff Hartman. You want me?
+L284887 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ So do you what, you hoodoo!  And now, Mr. Pinkus, if you'll come with us, we'll take you over to the Warden's office and deliver this reprieve.
+L284886 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ And so do I!
+L284870 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I was only doing my duty. Nothing personal in it.
+L284869 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Walter, I can't tell you how badly I feel about this. There was no excuse for Hartwell to fly off the handle.
+L284868 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I was just going to!
+L284867 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Take those handcuffs off our friends, Pete. That wasn't at all necessary.
+L284853 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I never saw him before!
+L284852 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ That's a lie!!
+L284848 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ It's a frame-up! Some imposter!
+L284847 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ You drunken idiot! Arrest him! The idea of coming here with a cock-and- bull story like that!
+L284841 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Throw him out, Frank.
+L284840 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Who is this man?
+L284821 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Well! Looks like about ten years apiece for you birds!
+L284820 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Aiding an escaped criminal! And a little charge of kidnapping I'm looking into.  But that's the jail! There must be somebody there!
+L284819 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ A sight for sore eyes!
+L284818 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Look kind o' natural, don't they, Fred?
+L284817 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Fine work, Pete! You certainly delivered the goods. I'm proud of you.
+L284230 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ If we didn't have election Tuesday I'd have this on my conscience.
+L284229 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Now take that guilty look off your face, Pete -- and stop trembling like a horse.
+L284228 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Hello, Olsen... Listen...  Shoot to kill... That's the orders pass the word along... No! We dont want him! And listen, Olsen, five- hundred bucks for the guy that does the job... Yes, I'll be right out there.  Well, I hope that's the right thing to do.
+L284227 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Nobody reprieved that policeman he murdered. Now, do as I tell you.
+L284226 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I don't know, Fred. There's that reprieve if they ever find out.
+L284225 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Shoot to kill, I said.
+L284224 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ What?
+L284223 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ All right. Tell 'em to shoot to kill.
+L284222 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Just -- one -- second!
+L284221 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ We'll fix that, too. 
+L284207 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Now what do you say?
+L284206 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Hold your horses -- will you, Olsen? Hurry up, Fred!
+L284188 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ How would you like to have a job for three hundred and fifty dollars a month. That's almost a hundred dollars a week!
+L284187 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ No -- don't out me off.
+L284180 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Cover up that transmitter!
+L284179 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I did.  Hold the wire.
+L284178 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Tell 'em to hold the wire.
+L284177 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ They got him!  Wait a minute -- hold the wire.  They got Earl Williams surrounded -- the Riot Squad has -- in his house.
+L284176 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ What is it?
+L284175 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Sssh. Wait, Fred.  What?... Where?... Where? Holy Moses!
+L284174 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ And you can tell 'em as an afterthought that I want your resignation now!
+L284173 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Ah, Fred --  Hello... this is Hartman --
+L284172 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Tell 'em the party is through in this State on account of you.
+L284171 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ We got to think fast before those lying reporters get hold of this. What'll we tell 'em?
+L284170 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Dementia praecox Oh-h-h!
+L284169 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ An attempt to ruin us!
+L284168 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Pure politics!
+L284161 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ And you fell for it, Pete. It frightens me what I'd like to do to you.  Who else knows about this?
+L284160 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ The Governor gave me his word of honor he wouldn't interfere. Two days ago!
+L284146 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ But we're going to hang him, Fred. He can't get away.
+L284145 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I know it! But they've got nothing to do with this case! Do you realize there are two hundred thousand votes at stake and unless we hang Earl Williams we're going to lose 'em?
+L284144 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Well, there's a lot of Communistic sympathizers around --
+L284143 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Williams ain't a Red, and you know it!
+L284142 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ We're up against a lot more than that with that nutty slogan you invented: 'Reform the Reds With a Rope'.
+L284141 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ That gives you an idea of what I'm up against!
+L284139 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ If there was any way out...
+L284138 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Our families, Fred. I've always looked on Bessie as my own sister.
+L284137 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I wish you wouldn't talk like that, Pete.
+L284136 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Fred, I don't know what to say. A thing like this almost destroys a man's faith in human nature.
+L284135 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Now, Pete! Please don't appeal to my Sentimental side.
+L284134 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Fred!
+L284133 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I mean I'm scratching your name off the ticket Tuesday and running Czernecki in your place. It's nothing personal. And, Pete -- it's the only way out. It's a sacrifice we all ought to be glad to make.
+L284132 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ What do you mean -- through?
+L284131 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Pete, you're through!
+L284130 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ If you're talking about my brother- in-law, he's worked for the city fifteen years.
+L284129 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Twelve dollars! -- For those rheumatic uncles of yours?  Out shooting everybody they see for the fun of it?
+L284128 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I'm getting them for twelve dollars a night.
+L284127 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Four hundred! Do you want to bankrupt this administration?
+L284126 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Now, listen, Fred. Just give me a few hours before you make any decisions. I'll get results. I'm doing everything humanly possible. I've just sworn in four hundred deputies.
+L284116 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Pete, I've got a mighty unpleasant task to perf --
+L284115 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ The professor asked me for it -- I thought it was for something scientific!
+L284114 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Did you actually give Williams that gun?
+L284113 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ I ain't got time, Fred, honest. I'll see you after.
+L284112 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Pete, I want to talk to you!
+L284798 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Go on -- shoot me!
+L284797 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Got you, Williams!
+L283995 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Yeah, you don't want to tire him out, Doctor.
+L283994 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ I hope you're pretty nearly through with me, Doctor, I'm getting a little fatigued.
+L283862 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ Hildy, how'd you like a couple of tickets for the hanging?
+L283861 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ I won't.
+L283860 +++$+++ u1363 +++$+++ m90 +++$+++ HARTMAN +++$+++ That's good, Earl. Oh, they've got another alienist to see you. He ought to be here any minute. Don't go to sleep, will you?
+L283859 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Fine, thanks, Sheriff.
+L283959 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ Well, all right. But I'm liable to get into a jam.
+L283958 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You'll take fifty and like it!
+L283957 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ Five hundred dollars.
+L283956 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You can let him out on bail, can't you?
+L283955 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ Now, Hildy, don't be hasty! I can't let him out.
+L283954 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ All right. You can't. But tomorrow the Post will run the story of that roulette game on 43rd Street that your brother-in-law runs. And we'll print that you get five hundred a month for forgetting about it!
+L283953 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ I can't.
+L283952 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't Hildy me! Are you going to let him out?
+L283951 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ Now, Hildy --
+L283950 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ And who accused him? Diamond Louis! One of the worst crooks in town! Why don't you arrest Louis instead of innocent people that he frames?
+L283949 +++$+++ u1365 +++$+++ m90 +++$+++ LIEUTENANT +++$+++ But, Hildy, I can't. He's accused of stealing a watch. And they found the watch on him.
+L283948 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Let him out of here, Lieutenant.
+L284954 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ All right, Judge.
+L284953 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Nobody's going to rush me into anything!  You keep away from me! 
+L284600 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Was I? The driver got knocked cold.
+L284599 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ -- You were with her. You were in the cab, weren't you?
+L284598 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Search me! When I come to I was running down Thirty-fifth Street.
+L284597 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What did you do with her?
+L284596 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ I'm telling you. Can you imagine bumping into a load of cops?! They come rollin' out like oranges!
+L284593 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Oh-h-h... was she hurt?
+L284592 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ We run smack into a police patrol. You know what I mean? We broke it in half!
+L284591 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ I'm telling you!
+L284590 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's the old lady?
+L284417 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ My name is Louis Peluso.
+L284416 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute, Walter. You can't do that!
+L283379 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Editorials?
+L283378 +++$+++ u1366 +++$+++ m90 +++$+++ LOUIE +++$+++ Oh, I ain't doing that any more. I'm retired. I'm one of you fellas now -- a newspaper man.
+L284059 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ I'll go right after it.
+L284058 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ There goes another scrub lady.
+L283920 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Give me that!
+L283919 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Oh, some insurance man. Are you in?
+L283918 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Who is it?
+L283917 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Phone for you, Hildy.
+L283916 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Gentlemen of the Press! Always picking on somebody who can't defend himself -- the littler the better.
+L284340 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ Yeah. I was never so tired in my life.
+L284339 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Any news?
+L283992 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'll take it.  What's the matter, Mr. Burns -- don't you understand English? -- Why, your language is shocking, Mr. Burns -- positively shocking! I don't mind because I was married to you and know what to expect, but suppose Central is listening in... Oh, did you hear that, Central? We ought to report him, don't you think?... Oh, fooey on you!
+L283991 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ Hello, Mr. Burns. Yes, she's still here.
+L283985 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ This is Hildy Johnson...  Oh, I can give it up all right. Without a single quiver. I'm going to live like a human being -- not like you rats.  Oh, is that you, Walter dear? Oh, I didn't mean "dear." That was just habit, I guess. Oh, be yourself, Walter. I've got some news for you... Yes, I got the interview, but I've got some news that's more important.
+L283984 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ Well, Hildy, we were only saying that a swell reporter like you wouldn't give this up so easily.
+L283983 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ It's getting so a girl can't step out of the room without being discussed by a bunch of old ladies.  Hello, Post... Mr. Walter Burns, please.
+L283796 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ What's the matter? Getting yellow?
+L283795 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, anyhow, I won't be covering stuff like this any more.
+L284692 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ What's the use of fighting, Hildy?
+L284691 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Look out, you --
+L284352 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What's the matter with you boys? Afraid it might rain? If you want to go, I'll cover this end.
+L284351 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Okay.  Forget it. 
+L284095 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Okay, Hildy.  Well, we can't get any official statement --
+L284094 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ If Walter Burns calls, hold the wire for me, will you? I'll be right back. 
+L284092 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No -- what?
+L284091 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Did you get that, Hildy?
+L284089 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I thought so, too.
+L284088 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Hello, Hildy. I thought you were gone.
+L283803 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I made it up just now, and who's asking you?  I know it's silly, honey, but do it for me, won't you?... Yes, right now.
+L283802 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Say, I've been a reporter twenty years and never heard any hooey like that. Where'd you get it?
+L283801 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ But, Bruce, don't keep it in your wallet!... Well, you see --  -- there's an old newspaper superstition that the first big check you get you -- you put in the lining of your hat. That brings you good luck for ten years.
+L283800 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Certified, eh? Who is it -- your milkman?
+L283793 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Nothing doing. I'm playing for keeps.
+L283792 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Your poker's improved a lot, Hildy. Lend me two bucks, will you?
+L283791 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't know why you boys are so good to me.
+L283727 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ And up a dime.
+L283726 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ You fight it cut.
+L284251 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ What -- already? Why, the dame left only a minute before I did!
+L284250 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No -- and you don't know that your cheap boss has had Mr. Baldwin arrested again -- do you?
+L284249 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ I didn't frisk him. He must have dropped it in Burns' office. I didn't know whose it was.
+L284248 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You know it is!
+L284247 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ Now don't get excited, Hildy! I don't know what you're talking about -- but is this Mr. Baldwin's wallet?
+L284246 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ None of that innocent stuff, you double-crossing hyena! You stuck Bruce Baldwin in jail this afternoon on a phony charge that he swiped your watch, and you frisked his wallet! Now, give me that wallet or I'll stick you in jail and it won't be on any phony charge either! It'll be for life!
+L284245 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ Huh?
+L284244 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ So long, nothing! Where's Bruce Baldwin's wallet?
+L284243 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ Thanks. So long, Hildy!
+L284242 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Here!
+L284241 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ Keep your shirt on. I got it -- right here.  One hundred -- two hundred -- three hundred -- four hundred -- and fifty. Now sign.
+L284240 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Where's the money?
+L284239 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ First you got to sign a receipt. 
+L284238 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Come on with that money!
+L284237 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ All right, all right. You can't blame a guy for tryin', can you?
+L284236 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Four hundred and fifty and I'll cut your throat if you try any tricks!
+L284235 +++$+++ u1367 +++$+++ m90 +++$+++ LOUIS +++$+++ Oh, sure. The boss sent me over with it. Four hundred dollars, wasn't it?
+L284234 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Have you got my dough?
+L284757 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mother!
+L284756 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Hiding him where?
+L284334 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Some Hallowe'en goin' on outside. The whole police force standing on it's ear.
+L284333 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well -- I was going, but Mollie fainted away and I thought I ought to do what I could.
+L284332 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Hildy, I thought you were gone --
+L284061 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ From all I can get the Sheriff let him out so's he could vote for him.
+L284060 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Any dope yet on how he got out?
+L283763 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ 'Kings and sixes The pot affixes'... Poetry. I learned that at my grandma's knee.
+L283762 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ That's good.
+L283761 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Kings and sixes.
+L284735 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mother! Oh, I'm so glad to see you! Are you all right? Tell me.
+L284734 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ That man there!
+L284733 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mother!
+L284371 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ I'm quoting my son, and he has never lied to me.
+L284370 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't know what she's talking about. I never said any such thing.
+L284365 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ You don't have to go with me at all! Just give me my son's money and you can stay here forever as far as I'm concerned. Stay with that murderer you caught!
+L284364 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mother, I can explain everything. I'll go with you in five minutes and --
+L284363 +++$+++ u1371 +++$+++ m90 +++$+++ MRS. BALDWIN +++$+++ Don't you mother me! Playing cat-and- mouse with my poor boy! Keeping him looked up -- making us miss two trains -- and supposed to be married tomorrow!
+L284362 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mother!
+L284308 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ We'll get you out in ten minutes.
+L284307 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ What good'll it do?
+L284299 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Let 'em take me. It's better that way.
+L284298 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Stop screaming, Mollie or we're sunk. I'm trying to think of something before those reporters get back.
+L284294 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Down the drainpipe. I didn't mean to shoot him. You believe me, don't you, Mollie?
+L284293 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How'd you get here, Earl?
+L284292 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Don't cry, Mollie, there's nothing to cry about.
+L284291 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Quiet, Mollie, quiet!
+L284274 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Sure I do, Earl.
+L284273 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Wakin' me up in the middle of the night -- talkin' to me about things they don't understand. Callin' me a Bolshevik. I'm an anarchist. It's got nothin' to do with bombs. It's the philosophy that guarantees every man freedom. You see that, don't you?
+L284272 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Don't talk too loud.
+L284270 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Well, maybe you think I could!
+L284269 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Oh, I'm awful tired. I couldn't go through another day like this.
+L284268 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Earl, you must never do that again.
+L284266 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Keep away!
+L284265 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I don't blame you, Earl.  If I were in your place I wouldn't trust anybody, either.
+L284264 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ What's that? Only -- you're getting too near. I don't trust anybody.
+L284263 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Earl, there's just one thing I ought to clear up for the interview.
+L284262 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ No, no, you're right. I don't want to kill anybody. All I want to do is be let alone.
+L284261 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Sure you could, Earl -- but you wouldn't want to do that, would you? You wouldn't want to kill anybody.
+L284260 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Maybe you're my friend and maybe you're not -- but don't come any nearer. You can't trust anybody in this crazy world. Say, I'll bet I could shoot you from here.
+L284259 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Don't move!
+L284258 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Earl, you don't want to hurt your friends, do you?
+L284257 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Yes -- that's right. Production for use.
+L284256 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You're not going to shoot me, Earl. I'm your friend, remember? I've got to write that story about your "Production for Use".
+L284255 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Put down that gun, Earl.
+L284254 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ You're not going to phone anybody where I am.
+L283867 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I won't, Earl. 
+L283866 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Don't forget about production for use.
+L283849 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Yes. Isn't she beautiful?
+L283848 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Isn't that her picture?
+L283847 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Miss Mollie Malloy. She's a wonderful person.
+L283846 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ No, Earl, not at all.  Who sent you the flowers, Earl?
+L283845 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ There's nothing crazy about that, is there?
+L283844 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Very simple, Earl.
+L283843 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Sure. You see, I'd never had a gun in my hand before and I didn't know what to do with it. Well, when I get stuck, I know that there's an answer for everything in production for use. So it came to me in a flash: what's a gun for? To shoot! So I shot. Simple isn't it?
+L283842 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Is that how you came to shoot the policeman?
+L283841 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ A gun?  Why -- to shoot, of course.
+L283838 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Yes, that makes a lot of sense, Earl.
+L283837 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ It's the only answer. Everything has a use and if we let it be used for its purpose, we could solve all our problems. Food was meant to be eaten, not stored away in restaurants while poor people starved; clothing was meant to be worn, not piled up in stores while people went naked. Doesn't that make sense?
+L283836 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ "Production for use only." Well, maybe that's the answer.
+L283835 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ I'd do away with the profit system and have production for use only. There's enough food and clothing and shelter for everybody if we'd use some sense.
+L283834 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ How would you go about applying the Golden Rule, Earl?
+L283833 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ They're very simple. I believe in the Golden Rule. I'm not the first man to die for preaching it. But if they would only listen to it -- we could have a fine, decent world instead of this mass of hate that makes man do such cruel things.
+L283832 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ What are your beliefs, Earl?
+L283831 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ Of course not. I couldn't kill anybody -- it's against everything I've ever stood for. They know it was an accident. They're not hanging me for that -- they're hanging me for my beliefs.
+L283830 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ You didn't mean to kill that policeman?
+L283829 +++$+++ u1375 +++$+++ m90 +++$+++ WILLIAMS +++$+++ I couldn't plead insanity, because you see I'm just as sane as anybody else.
+L284344 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ Yeah, I'm feelin' fine.
+L284343 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Are you all right, now?
+L284320 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Shut up, you!
+L284319 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ Hey --
+L284318 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Never mind! Just play dead.
+L284317 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ What's the idea?
+L284314 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ I'll be right here. I won't leave you.
+L284313 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ I'm coming!  Keep dead quiet. Don't even breathe.
+L284302 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Ssh!
+L284301 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ They'll get him! They'll get him!
+L284289 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ There's somethin' funny going on around here.
+L284288 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Quiet, Mollie!
+L284287 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ What's that?
+L284286 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ What do you mean?
+L284285 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Mollie, they haven't got him. You gotta help me, Mollie! We've got to do something!
+L284284 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ They got him surrounded some place -- gonna shoot him like a dog!
+L284283 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Wait a minute, Mollie.
+L284282 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ Where are they gone? You know where they are?
+L283909 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ It wasn't the Lord! It was the devil!
+L283908 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ They're newspaper men, Mollie. They can't help themselves. The Lord made them that way.
+L283907 +++$+++ u1370 +++$+++ m90 +++$+++ MOLLIE +++$+++ They're not human!
+L283906 +++$+++ u1364 +++$+++ m90 +++$+++ HILDY +++$+++ Come on, Mollie. This is no place for you. 
+L284879 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I understand perfectly, Mr. Pinkus, and as long as I am Mayor --
+L284878 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ She's good enough for me! And if I was to go home and tell my wife --
+L284877 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ A very fine-looking women.
+L284876 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Here's the picture of my wife.
+L284844 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ You're insane!
+L284843 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ They wouldn't take it.
+L284834 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ You can't bribe me!
+L284833 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Get out of here!
+L284218 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ No! It's easy -- it's very easy!
+L284217 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Is it hard?
+L284216 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ I'll explain it tomorrow!
+L284215 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ You forgot to tell me what a City Sealer has to do.
+L284213 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ All right, Mr. Pinkus, all you've got to do is lay low and keep your mouth shut. Here!  Go to this address. It's a nice, homey little place, and they'll take care of you for the night. Just tell 'em Fred sent you. And here's fifty dollars on account.
+L284212 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Pinkus.
+L284211 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Come in and see me in my office tomorrow. What's your name?
+L284210 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ But how do I know...?
+L284209 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ No, it doesn't.  Now, remember: you never delivered this.  You got caught in the traffic, or something.  Now, get out of here and don't let anybody see you.
+L284208 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ This puts me in a peculiar hole.
+L284205 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Yeah?
+L284204 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ No, they wouldn't -- they'd gain one! And I guarantee that they'll graduate with highest honors!
+L284203 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ I got two kids going to school there, and if I changed them from one town to another, they'd lose a grade.
+L284202 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ For heaven's sake, why not?
+L284201 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ No, I don't think so.
+L284200 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ But you could bring 'em in here! We'll pay all your expenses.
+L284199 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ I couldn't work in the city. You see, I've got my family in the country.
+L284198 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Why not?
+L284195 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Yes, yes!
+L284194 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ You mean here in the city?
+L284193 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ The City Sealer's office!
+L284192 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ The what?
+L284191 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Now, listen. There's a fine opening for a fellow like you in the City Sealer's office.
+L284190 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Who do you think!
+L284189 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Who? Me?
+L284186 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Forty dollars.
+L284185 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ How much do you make a week? What's your salary?
+L284184 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Huh?
+L284183 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ How much do you make a week?
+L284182 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ Yes, I did, just now. Don't you remember?
+L284181 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Now, listen! You never arrived here with this -- reprieve. Get it?
+L284165 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Fishing! Duckshooting! How do you like that. A guy does nothing more strenuous for forty years than play pinochle -- he gets elected Governor and right away he thinks he's Tarzan!
+L284164 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ You can't get him on the phone. He's out duckshooting now.
+L284163 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ Get the Governor on the phone!
+L284162 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ They were all standing around when he wrote it. It was after they got back from fishing.
+L284156 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ The reprieve for Earl Williams.
+L284155 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ What's from the Governor?
+L284154 +++$+++ u1373 +++$+++ m90 +++$+++ PINKUS +++$+++ I'm a messenger at the State House. This is from the Governor.
+L284153 +++$+++ u1368 +++$+++ m90 +++$+++ MAYOR +++$+++ What do you want?
+L284806 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ -- tried to shoot it out with the cops but his gun wouldn't work, so --
+L284805 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Williams put up a desperate struggle but the police overpowered --
+L284664 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ We want to see you.
+L284663 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ What's your hurry?
+L284660 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Say, Hildy...
+L284659 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ There she is!
+L284404 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Come on, fellas.
+L284403 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Get the cops, somebody.
+L284346 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Yeah, hold the line. Hey, this looks good. An old lady just called the detective bureau and claims Williams is hiding in her cellar. Well - we've looked every other place. Want to go out on it?
+L284345 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Sure, Mollie, you never looked better in your life.
+L284023 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Look out where you're aiming, will you?
+L284022 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Look out!
+L283878 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ Hello, Mollie.
+L283877 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ Well, well -- Miss Mollie Malloy.
+L283709 +++$+++ u1369 +++$+++ m90 +++$+++ MCCUE +++$+++ It's a simple story. Earl Williams works for the E.J. McClosky Manufacturing Company as a bookkeeper for fourteen years. He starts in at twenty dollars a week and gradually works his way up to twenty-two fifty. A year ago the McClosky Company goes out of business and Williams loses his job.  Take it away, Fred Wilson!
+L283708 +++$+++ u1372 +++$+++ m90 +++$+++ MURPHY +++$+++ If you ask us, no. If you ask the state alienists, the answer is yes.
+L284674 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ She and Mollie were talking.
+L284673 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ The door was locked.
+L283915 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Wants Hildy -- and sounds very excited.
+L283914 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ What's he want?
+L283913 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Baldwin. The blushing bridegroom -- himself.
+L283912 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Who? Hildy Johnson? She just stepped out. She'll be back in a second. Who? Oh, Mr. Baldwin. Well, if you'll hang on a minute, she ought to be right in. All right. 
+L283871 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ I give that marriage six months.
+L283870 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Baldwin -- his name is.
+L283711 +++$+++ u1374 +++$+++ m90 +++$+++ SCHWARTZ +++$+++ His Honor, the Mayor, now comes out with a statement that Earl Williams is a dangerous character in the employ of two or three foreign governments and the police are going to get him dead or alive. Somebody sends out a tip that this guy is hiding in Molly Malloy's joint. And this colored policeman, Daniels, goes over to pick Williams up. Williams has read the papers, thinks the cop is going to kill him and shoots first. That is all.
+L283710 +++$+++ u1376 +++$+++ m90 +++$+++ WILSON +++$+++ Well -- Williams goes a little balmy and begins making speeches on a plan he's got to save the world. Only he makes his speeches, usually, on a very busy street and neglects to get a license for it. Well, the cops let him alone as much as they can because he's harmless and they're kinda sorry for him. But one day he decides to hold a meeting right in the middle of a Veteran's Parade and the cops chase him. He gets scared and goes into hiding.  Come in, Dave Schwartz.

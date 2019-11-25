@@ -1,0 +1,303 @@
+L285660 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Apparently so.
+L285659 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Grandpa, if you think of something hard enough, can you make it happen?
+L285658 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ You're much more convincing when you're making it up.
+L285657 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's true.
+L285652 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ You'll be at home for the weekends. Now shut up, or walk.
+L285651 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ With Mrs. Evans. I hate her.
+L285650 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Only till they get you into the local school.
+L285649 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I have to live in Rosehill Avenue as well.
+L285648 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ You miserable little tripe-hound. I'm the one who should be fed up, sacrificing my last sup of black market petrol to take you to school.
+L285627 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Very well, Grandpa.
+L285626 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Give him the you-know-what.
+L285586 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ I concede I was insistent, but how the Devil...
+L285585 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ But Grandpa, you said...
+L285584 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ This is going too far, young man.
+L285579 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Your grandmother. She named them after virtues I lack. That's marriage for you.
+L285578 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Why?
+L285577 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Want to know why they're called Faith, Hope, Grace and Charity?
+L285576 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ No, you're out, Grandpa. It's my turn.
+L285575 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ You're a dark horse, bowling googlies at your age. Toss me up another.
+L285574 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I know.
+L285573 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ That was a googly!
+L285552 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I think you hit him, Grandpa. He was limping when he ran off.
+L285551 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Never let a rat creep up on you.
+L285538 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ Put your hand on mine, get the knack of it.
+L285537 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Can I try?
+L285454 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ So it was. Sheila. This boy will go far.
+L285453 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Henry Chapman's daughter. It was Sheila. I remember her from last year.
+L285452 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ What's that?
+L285299 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ They'll have to go to a shop to buy a map, stupid. Then they'll give zemselves avay viz ze vay zay tork.
+L285298 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Won't they have maps?
+L285297 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ They pulled them up from all the crossroads, so when the Germans land they'll lose their way.
+L285294 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ OK. You're in.
+L285293 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Bugger off, you bloody sod.
+L285292 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Now put them together. Bugger off, you bloody sod.
+L285291 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Bloody.
+L285290 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Bloody.
+L285289 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Sod.
+L285288 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Sod.
+L285287 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Bugger off.
+L285286 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ That word is special. That word is only for something really important. Now, repeat after me... Bugger off.
+L285283 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I only know one.
+L285282 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Well go on then. You can't join if you can't answer.
+L285281 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Say them.
+L285280 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Yes.
+L285279 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Do you know any swear words?
+L285278 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I don't mind.
+L285277 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ You want to join our gang?
+L285274 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ They're not.
+L285273 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ My uncle's in the War Office. He said, Don't go on the bomb sites. "Boys are going missing all the time."
+L285272 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Who told you that?
+L285271 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ The Germans are dropping men on bomb sites.
+L285270 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ What's that?
+L285269 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I know a secret.
+L285268 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Yes, you was. Make him talk.
+L285267 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I never was.
+L285262 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Looking for shrapnel.
+L285261 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ What are you doing here? This is our territory
+L285226 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Yes, she did, didn't she?
+L285225 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ No, she didn't.
+L285224 +++$+++ u1386 +++$+++ m91 +++$+++ ROGER +++$+++ Pauline's mum got killed.
+L285430 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ Liar. Mummy keep still and Daddy moves on top of her. That's what they do when they know how.
+L285429 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Pauline.
+L285428 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ Who with?
+L285427 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's easy. I've done it.
+L285426 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ I suppose they're still learning, that's why they keep moving about.
+L285377 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ We thought it was poison.
+L285376 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Bruce, look! Dad got some German jam.
+L285260 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Not now. They wouldn't believe me.
+L285259 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ Tell them about Pauline's mum.
+L285234 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ You do it. You're a girl.
+L285233 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ Ask her yourself.
+L285232 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Go and ask her if she wants to play.
+L285093 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Could.
+L285092 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ You couldn't.
+L285091 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Would.
+L285090 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ You wouldn't.
+L285089 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It doesn't matter, I can drive the car home.
+L285088 +++$+++ u1387 +++$+++ m91 +++$+++ SUE +++$+++ He's never going to come back. He's gone off to be a soldier and Mummy doesn't even know.
+L285647 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Thank you Billy, from the baby and me.
+L285646 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Well, for the baby, really.
+L285645 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ You did that for me, and on the last day of your holidays?
+L285361 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ That's not the point.
+L285360 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ You don't like jam. You hate jam. You never eat jam.
+L285359 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Well, I'm not having any. Even if it's not poisoned. I don't think it's right. It's not patriotic.
+L285214 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's Canadian. Where'd you get it?
+L285213 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ I'm starting my own collection.
+L285212 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Mind that shrapnel DAWN thrusts a brass regimental hat badge in BILL'S face.
+L285198 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's not the same.
+L285197 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ They've got the real thing outside.
+L285196 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Can't we just see the end?
+L285161 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ ...and six...
+L285160 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Please God. Not on us. Drop it on Mrs. Evans. She's a cow.
+L285159 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ ...and four and five...
+L285158 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ The next one is ours. Either it hits us or it goes past us.
+L285027 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's dinner time. It really is. Cross my heart.
+L285026 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ You're the biggest fibber.
+L284999 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ He's the worst liar.
+L284998 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ I did see them. I did.
+L285441 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ The land and the King are one, my son. If he stutters we falter. He's getting batter, and so are we.
+L285440 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ You said that last year, Dad.
+L285113 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ That's it. When you tell a lie, you hope to get away with it. When someone else does, you want to find them out. A good batsman will spot a googly. A good bowler will hide it. Always remember that, son.
+L285112 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ It's like telling fibs.
+L285111 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Now, the googly looks like a leg break, but it's really an off break. Got it? Like this.
+L285068 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Thanks, son. I can hear it. I'm not sleeping, just closing my eyes.
+L285067 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ But Dad, It's the News.
+L285012 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ The sodding water table.
+L285011 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Crocodiles! Aah!
+L285484 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ We will, you will, for the rest of our lives?
+L285483 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Who pays for them?
+L285482 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ They send over a few every day, to let them know we're still here. Each shell costs as much as a Ford 8.
+L285481 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ Wow!
+L285480 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Big Berthas, shelling France. Twenty-five-mile range, they have.
+L285479 +++$+++ u1377 +++$+++ m91 +++$+++ BILL +++$+++ What's that?
+L285464 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ Please yourself.
+L285463 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ You expect me to spend the rest of the war sitting at home staring at a ring? And you'll meet some French girl who can speak your own language. No thank you!
+L285462 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ I swear I don't know.  Here's your Christmas present.
+L285461 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ You do, you do. You're just not saying.
+L285460 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ I don't know?
+L285459 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Where?
+L285458 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ We're not supposed to say, but we're being shipped out tomorrow.
+L285457 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ What is it?
+L285433 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ Didn't you feel the house rock? You must have seen all those shell bursts.
+L285432 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Air-raid?
+L285431 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ Boy, that was some air-raid.
+L285332 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Don't be so cheeky, Bruce.
+L285331 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ Take it away. I know your husband's been away a long time, but....
+L285210 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ I mean, no suspenders. They just kinda' disappear up your ass.
+L285209 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ They might be.
+L285208 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ Well. Now we can do it slow. Are those some kind of stockings you're wearing?
+L285207 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ A bit too quick.
+L285206 +++$+++ u1378 +++$+++ m91 +++$+++ BRUCE +++$+++ It was great for me, how was it for you.
+L285611 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ And the bride.
+L285610 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ And absent bridegrooms!
+L285609 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Here's to music. And absent friends.
+L285606 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Don't bother to grow up. It's no fun at all.
+L285605 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ And I'm still just a lad myself.
+L285604 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ So you're going to be a grandfather.
+L285410 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ I will if you will!
+L285409 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Don't panic!  Keep your head!
+L285405 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Bugger the Buffs.
+L285404 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ You always were, Clive. Steady the Buffs.
+L285402 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ There is all right. This Hitter fellow. We've got to winkle him out. And get shot of some of our lot at the same time.
+L285401 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ I don't understand. Is there any point to it?
+L285400 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Naturally.
+L285399 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Except the servicemen.
+L285398 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Never done better. On the fiddle. Like everyone else.
+L285397 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ How's your war, Mac?
+L285396 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Propaganda. We've been had.
+L285395 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ There was talk of planting some when we first came.
+L285394 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ You need trees for an avenue.
+L285393 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Why not?
+L285392 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Rosehill Avenue. No roses. No hill. And it's certainly not an avenue.
+L285391 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ What about it?
+L285390 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Did you? You thought you did. We've been gypsed, all our lives. Look at your street.
+L285389 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ What kind of war is this Mac?  Up there in Cumberland, we never see an air-raid. The worst problem I have is getting a new typewriter ribbon. When I rode in against the Turks, I knew what it was about.
+L285084 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ I heard the drum and fife yesterday, Mac, marching past.  Made my hair stand on end.  I thought, I've been asleep for twenty years.
+L285083 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ What did we know? We were seventeen.
+L285082 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ If King and Country call, Mac, you go as soon as I will.
+L285081 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ You're a mug, Clive. We did our bit in the Last Lot.
+L285078 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Kiss me Hardy.
+L285077 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Consider Grace, the kids. I love them like my own. And you.
+L285076 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Weeds will grow, Mac.
+L285075 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Root it out Clive... the thought of it, before it takes hold.
+L285044 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ What's left of him. He'll never see outside of the Star and Garter.
+L285043 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ And Jim.
+L285040 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ ....buried In a shell-hole for thee days, while he's out there playing polo and sticking pigs.
+L285039 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ ...two Indians to fan me all night. The heat.
+L285038 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ ...It was a toss-up. His company went to India, mine went to France. Flip of a coin.
+L285014 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Thanks. I hope you can come for the launching.
+L285013 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Could you seal it over with hot pitch, Clive? Caulk it like the hull of a ship.
+L285615 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Fair enough.  The river.
+L285614 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I've found a bungalow to rent up the towpath, Clive. I never want to leave the river again. The children have had such a wonderful summer.
+L285383 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Where to?
+L285382 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I've had a letter from her. They've moved house.
+L285381 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ I'm glad you didn't send them to your aunt.
+L285380 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Not till Christmas, I don't suppose.
+L285379 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ When do you think you'll get leave again?
+L285370 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ A clerk. I'm doing a typing course. I'll be typing for England.
+L285369 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ What are you going to be then?
+L285368 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ I wasn't too old when I started the course. I was too old when it finished.
+L285367 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Why didn't they say that before you started?
+L285366 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ That's it.
+L285365 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You mean they let you go through the officer training course and then said you were too old for a commission?
+L285363 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You taste it.
+L285362 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Taste it. Why don't you taste it?
+L285358 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Jam is jam! It's just jam!
+L285357 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ It looks....foreign.
+L285356 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Well?
+L285354 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ How do we know they didn't plant it there? They know we're mad on jam.  They could poison half the country.
+L285353 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Well, it's off ration. We know that.
+L285352 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ We don't know anything about it
+L285347 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Jam.
+L285346 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ And what's that?
+L285107 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I wish you could have told me yourself.  Oh, Grace, it's not for long. They say it'll be over by Christmas.
+L285106 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ Oh, that.
+L285105 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You joined up.
+L285104 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ What's that?
+L285103 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Has Sue got it right?
+L285054 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ And it was the last. Hasn't written a letter since. Not even a birthday card.
+L285053 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ We all had to write a last letter home.
+L285051 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ They'd gone.
+L285050 +++$+++ u1379 +++$+++ m91 +++$+++ CLIVE +++$+++ We didn't know that. It was a suicide mission. Machetes against artillery. Volunteers only.
+L285049 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ No Turks.
+L285641 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Why? It's coming on its own. It doesn't hurt.
+L285640 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Now take deep breaths, and push.
+L285588 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Could we salt them, or smoke them, do you think?
+L285587 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ It looks a bit fishy to me.
+L285525 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ It's not. It's happening to me.
+L285524 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I don't believe this is happening to me.
+L285478 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Now he's gone and made me fall in love with him, which I never wanted to do. I told him that.
+L285477 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I think it's very sensible in the circumstances.
+L285476 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ He said I was right. I shouldn't wait for him. I was better to make a clean break.
+L285475 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ What did he say?
+L285467 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Don't leave it like that. Go after him. Swallow your pride.
+L285466 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ He's being posted. I was terrible to him.
+L285465 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ What is it, pet?
+L285312 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Who said anything about love?
+L285311 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You better bring him home, if you really love him. Don't kill love. You'll regret it for the rest of your life.
+L285308 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ There, there, my baby.
+L285307 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ I want him. I want him so much. I'll kill myself if I can't have him.
+L285304 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ No, I won't.
+L285303 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You go to bed this minute and take off that lipstick.
+L285302 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Out.
+L285301 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ And where do you think you're going?
+L285257 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ It's only a joke, Mummy. I'm fifteen. I'm still at school. I want to be a nun when I grow up.
+L285256 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I won't have this vulgar talk in my house.
+L285223 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ That's why you never liked me. I'm different from you. Well, everything's different now, so it doesn't matter. So there.
+L285222 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ The ideas you get in your head.
+L285221 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Tell me the truth. You had to get married, didn't you? Because of me.
+L285151 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ Well, why do you always bring the carving knife in here?
+L285150 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Don't be silly, Dawn.
+L285149 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ What would we do if a German came into the house?
+L285145 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Half the time he's bluffing.
+L285144 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ He always knows.
+L285137 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ After this dance.
+L285136 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Ancient. Have you finished your homework?
+L285135 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ You know it? It must be an old one.
+L285033 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Just ignore her, Mac.
+L285032 +++$+++ u1380 +++$+++ m91 +++$+++ DAWN +++$+++ This phoney war get's on my nerves. If we're going to have a war, I wish they'd get it started.
+L285031 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I doubt if a few bombs would wake up Dawn on a Sunday morning.
+L285558 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Wasn't it lovely?
+L285557 +++$+++ u1383 +++$+++ m91 +++$+++ GRANDMA +++$+++ ...such nice boys with straw boaters and blazers. All the punts lit up with Chinese lanterns. Like fireflies. And the gramophone going on one of the boats. Always the Charleston, the Charleston, the Charleston. Oh, you girls.
+L285545 +++$+++ u1383 +++$+++ m91 +++$+++ GRANDMA +++$+++ How are we going to cope?
+L285544 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Up to six weeks, I think.
+L285543 +++$+++ u1383 +++$+++ m91 +++$+++ GRANDMA +++$+++ Did they say how long it would take to get new ration books, Grace?
+L285003 +++$+++ u1383 +++$+++ m91 +++$+++ GRANDMA +++$+++ Or what?
+L285002 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ No, Mother! It's War! War!
+L285001 +++$+++ u1383 +++$+++ m91 +++$+++ GRANDMA +++$+++ Is it peace in out time?
+L285535 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Look after yourself, Grace.
+L285534 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I wish it could all have been different.
+L285533 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ You might still have a house.
+L285532 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Bless you, Mac. What would I have done without you?
+L285503 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ We did all the proper things, and we lost love. That's sad, Mac.
+L285502 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ We can't change what's past. Not even the war can do that.
+L285501 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ This war's put an end to decent things. I want to close my eyes and jump and give myself for once, hold nothing back.
+L285500 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ We did the decent thing.
+L285499 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ He could always make me laugh.
+L285498 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Clive had a job. I didn't. I couldn't.
+L285497 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You were never apart, you and Clive. He kept asking and asking.  And I waited and waited for you to say something. And you never did.
+L285496 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ It's all better left unsaid, Grace.
+L285495 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Not loving enough. That is a terrible thing to do to someone. I suppose I did it to Clive. Always held something back.
+L285494 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ She said, 'I know you love me, Mac, but you've never loved me enough.'
+L285492 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ A Polish pilot. It's like one of those jokes on the wireless.
+L285491 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Mac, did you ever find out who Molly went off with?
+L285486 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Happy days.  When you're bigger, Bill, I'll teach you the googly.
+L285485 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Remember this beach, Mac? All those summers. Out two families, together.
+L285438 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ That's right. Not since then Not since I got married.
+L285437 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ ...since I used to take you to the Proms?
+L285436 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Mac, that was wonderful. I haven't been to a concert since...
+L285250 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Play something, Grace.
+L285249 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ It seems to have survived.
+L285130 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ Grace!
+L285129 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Please yourself.  Let them go, if they want.
+L285122 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ It's just the wrench, Grace. It's for their sake.
+L285121 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I can't do it. What's the point?
+L285042 +++$+++ u1384 +++$+++ m91 +++$+++ MAC +++$+++ How many of our class left? You and me out of twenty-eight.
+L285041 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ It was the best time of his life.
+L285608 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ And now we're glad you did.
+L285607 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ What can you do with four daughters, I asked myself, A string quartet was all I could come up with. They hated me for making them learn.
+L285529 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ How long?
+L285528 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ You married that fool, Clive, that's what. Never mind, you can stay with us.
+L285527 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ What did I do to deserve this?
+L285448 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ And...and...Henry Chapman's girl, was it Thelma? No, I can see those cornflower eyes...I've lost your name, my sweetness.
+L285447 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Father, that's enough now
+L285446 +++$+++ u1382 +++$+++ m91 +++$+++ GRANDFATHER GEORGE +++$+++ To Mary McDonald, Thelma Richardson, Bobo Hinds, Lily Sanderson...  ...Little Sarah Whats-it, now there was a spirit. And Marjorie Anderson.
+L285603 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ Happy as can be. In the old groove.
+L285602 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I'm so glad you could come. Here we are, all together again.
+L285425 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ Tipsy, topsy, turvy.
+L285424 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You've been drinking. Your tipsy.
+L285423 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ Am I? Maybe I am.
+L285422 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You're having me on, Molly.
+L285421 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ Well! I'm not talking about Mac. He hasn't toughed me for ages. And not often ever. My life started when Mac went on nights.
+L285420 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ Molly!
+L285418 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ You know something, Molly? I like it on my own. I never got used to sharing a bed, not really.
+L285417 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ I don't know how you cope, Grace. Three kids, army pay. On your own.
+L285416 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I don't mind it. It was harder before the war. Trying to keep up appearances. Now it's patriotic to be poor.
+L285415 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ God, how I hate all this scrimping and squalor.
+L285021 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ I know you mean well.
+L285020 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ I didn't mean it like that, Grace. Why does it always come out wrong?
+L285019 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ Kids don't care. You're thinking of yourself.
+L285018 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ It's so far way. I couldn't bear it.
+L285016 +++$+++ u1381 +++$+++ m91 +++$+++ GRACE +++$+++ My aunt in Australia has offered..
+L285015 +++$+++ u1385 +++$+++ m91 +++$+++ MOLLY +++$+++ It's not fair on them. It's selfish to keep them with you.
