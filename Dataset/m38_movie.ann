@@ -1,0 +1,20 @@
+T1	Licensor 68782 68786	Five
+A1	five_CRD Endophoric T1
+T3	Antecedent 68753 68759	plants
+A3	many_DT0 T3
+R1	Resolution Arg1:T1 Arg2:T3	
+
+T2	Licensor 68788 68791	Ten
+A2	ten_CRD Endophoric T2
+T3	Antecedent 68753 68759	plants
+A3	many_DT0 T3
+R2	Resolution Arg1:T2 Arg2:T3
+
+T4	Licensor 70295 70300	forty
+A4	forty_CRD Exophoric T4
+
+T5	Licensor 76766 76771	those
+A5	those_DT0 Exophoric T5
+
+T6	Licensor 76866 76871	those
+A6	those_DT0 Exophoric T6

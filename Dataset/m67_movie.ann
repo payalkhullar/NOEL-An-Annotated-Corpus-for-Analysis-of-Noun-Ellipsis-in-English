@@ -1,0 +1,5 @@
+T1 Licensor 15035 15039 some
+A1 some_DT0 Endophoric T1
+T2 Antecedent 15191 15195 glue
+A2 glue_NN1
+R1 Resolution Arg1:T1 Arg2:T2

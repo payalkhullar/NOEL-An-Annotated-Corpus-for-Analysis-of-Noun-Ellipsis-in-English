@@ -1,0 +1,68 @@
+T1 Licensor 6788 6793 sixty
+A1 sixty_CRD Endophoric T1
+T2 Antecedent 6866 6872 movies
+A2 movies_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 9856 9863 zillion
+A3 zillion_CRD Endophoric T3
+T4 Antecedent 9974 9982 DEA guys
+A4 guys_NN2
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 20576 20592 the five hundred
+A5 hundred_CRD Exophoric T5
+
+T6 Licensor 47359 47364 yours
+A6 yours_PNP Endophoric T6
+T7 Antecedent 47836 47842 marker
+A7 marker_NN1
+R3 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 48227 48247 a hundred and a half
+A8 half_NN1 Exophoric T8
+
+T9 Licensor 49699 49719 Twenty seven hundred
+A9 hundred_CRD Endophoric T9
+T10 Antecedent 49818 49823 grand
+A10 grand_NN0
+R4 Resolution Arg1:T9 Arg2:T10
+
+T11 Licensor 55323 55327 mine
+A11 mine_NN1 Endophoric T11
+T12 Antecedent 55403 55408 movie
+A12 movie_NN1
+R5 Resolution Arg1:T11 Arg2:T12
+
+T13 Licensor 58008 58013 yours
+A13 yours_PNP Endophoric T13
+T14 Antecedent 58087 58092 money
+A14 money_NN1
+R6 Resolution Arg1:T13 Arg2:T14
+
+T15 Licensor 57906 57910 mine
+A15 mine_NN1 Endophoric T15
+T14 Antecedent 58087 58092 money
+A14 money_NN1
+R7 Resolution Arg1:T15 Arg2:T14
+
+T16 Licensor 58864 58875 four- fifty
+A16 fifty_CRD Endophoric T16
+T17 Antecedent 58945 58950 grand
+A17 grand_AJ0
+R8 Resolution Arg1:T16 Arg2:T17
+
+T18 Licensor 60457 60475 three seventy-nine
+A18 seventy-nine_CRD Exophoric T18
+
+T19 Licensor 60551 60556 these
+A19 these_DT0 Endophoric T19
+T20 Antecedent 60631 60641 toothbrush
+A20 toothbrush_NN1
+R9 Resolution Arg1:T19 Arg2:T20
+
+T21 Licensor 74034 74057 A hundred and fifty-six
+A21 fifty-six_CRD Endophoric T21
+T22 Antecedent 74266 74273 percent
+A22 percent_NN0
+R10 Resolution Arg1:T21 Arg2:T22

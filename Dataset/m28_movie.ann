@@ -1,0 +1,77 @@
+T1	Licensor 4417 4422	those
+A1	those_DT0 Endophoric T1
+T2	Antecedent 4395 4402	letters
+A2	his_DPS private_AJ0 T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 9885 9900	fifteen hundred
+A3	fifteen hundred_CRD Exophoric T3
+
+T4	Licensor 15539 15543	mine
+A4	my_DPS Endophoric T4
+T5	Antecedent 15515 15520	blood
+A5	his_DPS T5
+R2	Resolution Arg1:T4 Arg2:T5	
+
+T6	Licensor 18219 18223	mine
+A6	my_DPS Exophoric T6
+
+T7	Licensor 20642 20654	Ten thousand
+A7	ten thousand_CRD Endophoric T7
+T9	Antecedent 20865 20874	frederics
+A9	ten thousand_CRD T9
+R3	Resolution Arg1:T7 Arg2:T9	
+
+T8	Licensor 20683 20699	seventy thousand
+A8	seventy thousand_CRD Endophoric T8
+T9	Antecedent 20865 20874	frederics
+A9	ten thousand_CRD T9
+R4	Resolution Arg1:T8 Arg2:T9	
+
+T10	Licensor 22066 22086	two hundred thousand
+A10	two hundred thousand_CRD Endophoric T10
+T12	Antecedent 22046 22053	florins
+A12	eighty thousand_CRD T12
+R5	Resolution Arg1:T10 Arg2:T12	
+
+T11	Licensor 22152 22166	eight thousand
+A11	eight thousand_CRD Endophoric T11
+T12	Antecedent 22046 22053	florins
+A12	eighty thousand_CRDT12
+R6	Resolution Arg1:T11 Arg2:T12	
+
+T13	Licensor 23864 23867	two
+A13	two_CRD Endophoric T13
+T14	Antecedent 23855 23860	thing
+A14	a_AT0 T14
+R7	Resolution Arg1:T13 Arg2:T14	
+
+T15	Licensor 29683 29688	yours
+A16	your_DPS Endophoric T15
+T16	Antecedent 29628 29632	soul
+A17	my_DPS very_AJ0 T16
+R8	Resolution Arg1:T15 Arg2:T16	
+
+T18	Licensor 43799 43811	five hundred
+A19	five hundred_CRD Exophoric T18
+
+T20	Licensor 55143 55148	fifty
+A21	fifty_CRD Exophoric T20
+
+T21	Licensor 55356 55361	these
+A22	these_DT0 Exophoric T21
+
+T22	Licensor 56811 56815	mine
+A23	my_DPS Endophoric T22
+T23	Antecedent 56796 56800	love
+A24	his_DPS T23
+R9	Resolution Arg1:T22 Arg2:T23	
+
+T17	Licensor 37592 37599	the two
+A15	the_AT0 two_CRD Endophoric T17
+T24	Antecedent 37585 37588	man
+A18	the_AT0 best_AJ0 T24
+R10	Resolution Arg1:T17 Arg2:T24	
+
+T19	Licensor 39231 39240	The first
+A20	the_AT0 first_ORD Exophoric T19

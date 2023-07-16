@@ -1,0 +1,101 @@
+T1	Licensor 2657 2662	first
+A1	first_ORD Exophoric T1
+
+T2	Licensor 3293 3297	mine
+A2	my_DPS Endophoric T2
+T3	Antecedent 3263 3267	ways
+A3	your_DPS T3
+R1	Resolution Arg1:T2 Arg2:T3
+
+T4	Licensor 4350 4359	Mau-Mau's
+A4	Mau-Mau_NP0 's_POS Exophoric T4
+
+T5	Licensor 5342 5351	Mau-Mau's
+A5	Mau-Mau_NP0 's_POS Exophoric T5
+
+T6	Licensor 6483 6487	some
+A6	QMau-Mau_NP0 's_POS Exophoric T6
+
+T7	Licensor 7148 7158	Mau- Mau's
+A7	Mau-Mau_NP0 's_POS Exophoric T7
+
+T8	Licensor 7271 7280	Mau-Mau's
+A8	Mau-Mau_NP0 's_POS Exophoric T8
+
+T9	Licensor 7535 7544	Mau-Mau's
+A9	Mau-Mau_NP0 's_POS Exophoric T9
+
+T10	Licensor 7584 7593	Mau-Mau's
+A10	Mau-Mau_NP0 's_POS Exophoric T10
+
+T11	Licensor 11068 11077	some MORE
+A11	some_DT0 more_DT0 Endophoric T11
+T12	Antecedent 11035 11053	taste of dat booty
+A12	a_AT0 little_AJ0 T12
+R2	Resolution Arg1:T11 Arg2:T12
+
+T13	Licensor 20075 20079	some
+A13	some_DT0 Exophoric T13
+
+T14	Licensor 28641 28646	these
+A14	these_DT0 Exophoric T14
+
+T15	Licensor 34501 34511	Huxtable's
+A15	Huxtable_NP0 's_POS Exophoric T15
+
+T16	Licensor 38210 38218	same old
+A16	same_DT0 old_AJ0 Exophoric T16
+
+T17	Licensor 38220 38228	same old
+A17	same_DT0 old_AJ0 Exophoric T17
+
+T20	Licensor 46882 46885	his
+A20	his_DPS Endophoric T20
+T21	Antecedent 46868 46872	shot
+A21	a_AT0 T21
+R4	Resolution Arg1:T20 Arg2:T21
+
+T22	Licensor 46986 46995	Mau-Mau's
+A22	Mau-Mau_NP0 's_POS Exophoric T22
+
+T23	Licensor 47107 47111	mine
+A23	my_DPS Endophoric T23
+T24	Antecedent 47095 47103	pleasure
+A24	the_AT0 T24
+R5	Resolution Arg1:T23 Arg2:T24
+
+T25	Licensor 47605 47613	the same
+A25	the_AT0 same_AJ0 Endophoric T25
+T26	Antecedent 47586 47590	life
+A26	your_DPS T26
+R6	Resolution Arg1:T25 Arg2:T26	
+
+T27	Licensor 50684 50688	ours
+A27	our_DPS Exophoric T27
+
+T28	Licensor 62020 62025	those
+A29	those_DT0 Endophoric T28
+T29	Antecedent 61993 62000	buffoon
+A29	a_AT0 T29
+R7	Resolution Arg1:T28 Arg2:T29	
+
+T30	Licensor 66025 66031	twenty
+A31	twenty_CRD Exophoric T30
+
+T37	Licensor 67600 67603	one
+A37	one_CRD Endophoric T37
+T39	Antecedent 67616 67621	steps
+A39	three_CRD T30
+R13	Resolution Arg1:T37 Arg2:T39	
+
+T38	Licensor 67605 67608	two
+A38	two_CRD Endophoric T38
+T39	Antecedent 67616 67621	steps
+A39	three_CRD T30
+R14	Resolution Arg1:T38 Arg2:T39	
+
+T40	Licensor 70178 70183	125th
+A41	125th_ORD Exophoric T40
+
+T41	Licensor 79802 79808	Bama's
+A41	Bama_NP0 's_POS Exophoric T41

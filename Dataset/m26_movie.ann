@@ -1,0 +1,17 @@
+T1	Licensor 168 170	50
+A1	50_CRD Endophoric T1
+T2	Antecedent 340 341	G
+A2	50_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 9953 9957	33rd
+A3	33rd_ORD Exophoric T4
+
+T4	Licensor 9960 9963	8th
+A4	8th_ORD Exophoric T4
+
+T5	Licensor 15549 15554	7 1/2
+A5	7 1/2_CRD Exophoric T5
+
+T6	Licensor 15614 15616	15
+A6	15_CRD Exophoric T6

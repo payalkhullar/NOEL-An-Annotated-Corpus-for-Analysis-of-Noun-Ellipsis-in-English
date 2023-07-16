@@ -1,0 +1,11 @@
+T1	Licensor 12972 12977	Seven
+A1	seven_CRD Endophoric T1
+T2	Antecedent 13175 13178	men
+A2	six_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 20285 20296	the longest
+A3	the_AT0 longest_AJS Endophoric T3
+T4	Antecedent 20266 20272	Runway
+A4	T4	
+R2	Resolution Arg1:T3 Arg2:T4	

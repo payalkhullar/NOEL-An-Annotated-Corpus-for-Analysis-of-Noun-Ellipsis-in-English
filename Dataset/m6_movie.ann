@@ -1,0 +1,17 @@
+T1	Licensor 49375 49378	One
+A1	one_CRD Endophoric T1
+T3	Antecedent 49600 49606	checks
+A3	the_AT0 T3
+R2	Resolution Arg1:T1 Arg2:T3
+
+T2	Licensor 49440 49447	Another
+A2	another_DT0 Endophoric T2
+T3	Antecedent 49600 49606	checks
+A3	the_DT0 T3
+R3	Resolution Arg1:T2 Arg2:T3	
+
+T4	Licensor 56071 56080	husband's
+A5	husband_NN0 's_POS Endophoric T4
+T5	Antecedent 56048 56055	friends
+A5	of_PRF mine_PNP T5
+R1	Resolution Arg1:T4 Arg2:T5

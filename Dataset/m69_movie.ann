@@ -1,0 +1,17 @@
+mT1 Licensor 27280 27293 more and more
+A1 more_DT0 Endophoric T1
+T2 Antecedent 27268 27273 power
+A2 power_NN1
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 54254 54259 yours
+A3 yours_PNP Endophoric T3
+T4 Antecedent 54221 54225 duty
+A4 duty_NN1
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 57833 57838 forth
+A5 forth_AV0 Endophoric T5
+T6 Antecedent 57771 57784 primary crops
+A6 crops_NN2
+R3 Resolution Arg1:T5 Arg2:T6

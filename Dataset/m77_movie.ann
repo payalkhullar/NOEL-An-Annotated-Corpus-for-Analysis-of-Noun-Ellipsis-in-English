@@ -1,0 +1,23 @@
+T1 Licensor 2413 2417 mine
+A1 mine_NN1 Endophoric T1
+T2 Antecedent 2376 2394 Birth Certificates
+A2 Certificates_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 5600 5603 two
+A3 two_CRD Endophoric T3
+T4 Antecedent 5824 5828 belt
+A4 belt_NN1
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 22751 22757 twenty
+A5 twenty_CRD Endophoric T5
+T6 Antecedent 22715 22722 dollars
+A6 dollars_NN2
+R3 Resolution Arg1:T5 Arg2:T6
+
+T7 Licensor 92009 92015 Twenty
+A7 Twenty_CRD Exophoric T7
+
+T8 Licensor 92025 92035 twenty-one
+A8 twenty-one_CRD Exophoric T8

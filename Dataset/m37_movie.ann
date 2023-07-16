@@ -1,0 +1,67 @@
+T1	Licensor 1290 1296	twelve
+A1	twelve_CRD Exophoric T1
+
+T2	Licensor 1300 1308	thirteen
+A2	thirteen_CRD Exophoric T2
+
+T3	Licensor 4461 4470	the other
+A3	the_AT0 other_AJ0 Endophoric T3
+T4	Antecedent 4454 4457	way
+A4	one_CRD T4
+R1	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 4724 4729	these
+A5	these_DT0 Exophoric T5
+
+T6	Licensor 10263 10266	one
+A6	one_CRD Exophoric T6
+
+T7	Licensor 10270 10278	two more
+A7	two_CRD more_DT0 Endophoric T7
+T8	Antecedent 10252 10255 guy
+A8	the_AT0 fat_AJ0 T8
+
+T9	Licensor 13102 13105	two
+A9	two_CRD Exophoric T9
+
+T10	Licensor 19694 19699	those
+A10	those_DT0 Exophoric T10
+
+T11	Licensor 19841 19846	These
+A11	these_DT0 Exophoric T11
+
+T12	Licensor 21881 21885	many
+A12	many_DT0 Exophoric T12
+
+T13	Licensor 28631 28634	Two
+A13	two_CRD Exophoric T13
+T14	Antecedent 28811 28820	feminists
+A14	many_DT0 T14
+R3	Resolution Arg1:T13 Arg2:T14
+
+T14	Licensor 28740 28744	many
+A14	many_DT0 Endophoric T14
+T15	Antecedent 28811 28820	feminists
+A15	many_DT0 T15
+R2	Resolution Arg1:T14 Arg2:T15	
+
+T16	Licensor 31560 31565	Three
+A16	three_CRD Exophoric T16
+
+T18	Licensor 37335 37347	at least two
+A18	at least two_CRD Endophoric T18
+T19	Antecedent 37218 37221	guy
+A19	one_CRD T18
+R4	Resolution Arg1:T18 Arg2:T19
+
+T20	Licensor 39043 39046	Two
+A20	two_CRD Exophoric T20
+
+T21	Licensor 41631 41636	Eight
+A21	eight_CRD Endophoric T21
+T22	Antecedent 41704 41710	bodies
+A22	many_DT0 T22
+R5	Resolution Arg1:T21 Arg2:T22
+	
+T23	Licensor 42872 42877	those
+A23	those_DT0 Exophoric T23

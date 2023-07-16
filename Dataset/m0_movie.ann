@@ -1,0 +1,80 @@
+T1	Licensor 6767 6770	two
+A1	two_CRD Exophoric T1
+
+T2	Licensor 12396 12399	9th
+A2	9th_ORD Exophoric T2
+
+T3	Licensor 12848 12864	someone else ' s
+A3	someone_PNI else_AV0 's_POS Endophoric T3 
+T4	Antecedent 12835 12842	reasons
+A4	own_DT0 T4
+R1	Resolution Arg1:T3 Arg2:T4
+	
+T5	Licensor 20258 20267	forty-one
+A5	forty-one_CRD Exophoric T5
+
+T6	Licensor 25081 25096	Couple thousand
+A6	couple_NN1 thousand_CRD Endophoric T6
+T10	Antecedent 25175 25181	people
+A10	many_DT0 T8
+R2	Resolution Arg1:T6 Arg2:T10	
+
+T7	Licensor 25300 25310	Thirty-two
+A7	Thirty-two_CRD Endophoric T7
+T8	Antecedent 25371 25377	people
+A8	many_DT0 T8
+R3	Resolution Arg1:T7 Arg2:T8
+	
+T9	Licensor 25460 25468	A couple
+A9	A_AT0 couple_CRD Endophoric T9
+T25	Antecedent 25575 25581	People
+A25	T25
+R4	Resolution Arg1:T9 Arg2:T25
+
+T11	Licensor 29220 29235	Another hundred
+A11	another_DT0 hundred_CRD Endophoric T11
+T12	Antecedent 29781 29786	bucks
+A12	a_AT0 hundred_CRD T12
+R5	Resolution Arg1:T11 Arg2:T12	
+
+T13	Licensor 30282 30287	fifty
+A13	fifty_CRD Endophoric T13
+T16	Antecedent 30643 30648	bucks
+A16	twenty_CRD T16
+R6	Resolution Arg1:T13 Arg2:T16
+
+T14	Licensor 30358 30363	Fifty
+A14	Fifty_CRD Endophoric T14
+T16	Antecedent 30643 30648	bucks
+A16	twenty_CRD T16
+R7	Resolution Arg1:T14 Arg2:T16	
+
+T15	Licensor 30540 30546	thirty
+A15	thirty_CRD Endophoric T15
+T16	Antecedent 30643 30648	bucks
+A16	twenty_CRD T16
+R8	Resolution Arg1:T15 Arg2:T16
+	
+T18	Licensor 39630 39638	Scurvy's
+A18	Scurvy_NP0 's_POS Endophoric T18
+T19	Antecedent 39755 39758	tux
+A19	a_AT0 T19
+R9	Resolution Arg1:T18 Arg2:T19	
+
+T20	Licensor 50371 50383	Seven-thirty
+A20	Seven-thirty_CRD Exophoric T20
+
+T21	Licensor 53483 53491	eighteen
+A21	eighteen_CRD Exophoric T21
+
+T22	Licensor 53553 53563	forty-five
+A22	forty-five_CRD Exophoric T22
+
+T23	Licensor 58276 58289	Joey Dorsey's
+A23	Joey_NP0 Dorsey_NP0 's_POS Endophoric T23
+T24	Antecedent 58243 58247	love
+A24	Cameron_NP0 's_POS T24
+R10	Resolution Arg1:T23 Arg2:T24	
+
+T17	Licensor 39297 39313	My grandmother's
+A17	My_DPS grandmother_NN1 's_POS Exophoric T17

@@ -1,0 +1,29 @@
+T1 Licensor 1565 1568 two
+A1 two_CRD Endophoric T1
+T2 Antecedent 1637 1642 sugar
+A2 sugar_NN1
+R1 Resolution Arg1:T4 Arg2:T5
+
+T3 Licensor 1484 1487 One
+A3 One_CRD Endophoric T3
+T2 Antecedent 1637 1642 sugar
+A2 sugar_NN1
+R2 Resolution Arg1:T2 Arg2:T5
+
+T4 Licensor 1491 1494 two
+A4 two_CRD Endophoric T4
+T2 Antecedent 1637 1642 sugar
+A2 sugar_NN1
+R3 Resolution Arg1:T3 Arg2:T5
+
+T5 Licensor 1417 1420 Two
+A5 Two_CRD Endophoric T5
+T2 Antecedent 1637 1642 sugar
+A2 sugar_NN1
+R4 Resolution Arg1:T1 Arg2:T5
+
+T6 Licensor 50858 50867 some more
+A6 more_DT0 Exophoric T6
+
+T7 Licensor 32803 32812	some more
+A7 more_DT0 Exophoric T7

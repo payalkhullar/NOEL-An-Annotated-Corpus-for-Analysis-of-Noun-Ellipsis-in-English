@@ -1,0 +1,98 @@
+T1 Licensor 8093 8097 some
+A1 some_DT0 Exophoric T1
+
+T2 Licensor 15364 15374 daughter's
+A2  daughter_NN1 's_POS Endophoric T2
+T3 Antecedent 15337 15351 terrible taste
+A3 taste_NN1
+R1 Resolution Arg1:T2 Arg2:T3
+
+T4 Licensor 22873 22876 six
+A4 six_CRD Exophoric T4
+
+T5 Licensor 27333 27337 five
+A5 five_CRD Exophoric T5
+
+T6 Licensor 28683 28691 Any five
+A6 five_CRD Endophoric T6
+T7 Antecedent 29391 29398 records
+A7 records_NN2
+R2 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 28697 28706 four more
+A8 four_CRD more_DT0 Endophoric T8
+T7 Antecedent 29391 29398 records
+A7 records_NN2
+R3 Resolution Arg1:T8 Arg2:T7
+
+T9 Licensor 28601 28610 four more
+A9 four_CRD more_DT0 Endophoric T9
+T7 Antecedent 29391 29398 records
+A7 records_NN2
+R4 Resolution Arg1:T9 Arg2:T7
+
+T10 Licensor 30107 30114 sixteen
+A10 sixteen_CRD Exophoric T10
+
+T11 Licensor 33579 33588 A billion
+A11 billion_CRD Endophoric T11
+T12 Antecedent 33738 33743 years
+A12 years_NN2
+R5 Resolution Arg1:T11 Arg2:T12
+
+T13 Licensor 36408 36412 mine
+A13 mine_NN1 Endophoric T13
+T14 Antecedent 36385 36389 news
+A14 news_NN1
+R6 Resolution Arg1:T13 Arg2:T14
+
+T15 Licensor 48327 48345 Paul and Miranda's
+A15 Miranda_NP0 's_POS Exophoric T15
+
+T16 Licensor 62480 62484 mine
+A16 mine_NN1 Endophoric T16
+T17 Antecedent 62558 62561 CDs
+A17 CDs_NN2
+R7 Resolution Arg1:T16 Arg2:T17
+
+T18 Licensor 62089 62093 mine
+A18 mine_NN1 Endophoric T18
+T17 Antecedent 62558 62561 CDs
+A17 CDs_NN2
+R8 Resolution Arg1:T18 Arg2:T17
+
+T19 Licensor 63955 63960 Sixty
+A19 Sixty_CRD Exophoric T19
+
+T20 Licensor 63962 63969 Seventy
+A20 Seventy_CRD Exophoric T20
+
+T21 Licensor 94037 94043 ninety
+A21 ninety_CRD Exophoric T21
+
+T22 Licensor 94099 94113 Eleven-hundred
+A22 Eleven-hundred_CRD Exophoric T22
+
+T23 Licensor 94196 94208 Seventy-five
+A23 Seventy-five_CRD Exophoric T23
+
+T24 Licensor 94264 94280 Thirteen hundred
+A24 Thirteen_CRD hundred_CRD Exophoric T24
+
+T25 Licensor 94338 94343 Sixty
+A25 Sixty_CRD Exophoric T25
+
+T26 Licensor 94447 94462 fifteen-hundred
+A26 fifteen-hundred_CRD Exophoric T26
+
+T27 Licensor 95683 95689 a five
+A27 a_AT0 five_CRD Exophoric T27
+
+T28 Licensor 95932 95944 my husband's
+A28 my_DPS husband_NN1 's_POS Exophoric T28
+
+T29 Licensor 96113 96118 fifty
+A29 fifty_CRD Endophoric T29
+T30 Antecedent 96303 96308 bucks
+A30 bucks_NN2
+R9 Resolution Arg1:T29 Arg2:T30

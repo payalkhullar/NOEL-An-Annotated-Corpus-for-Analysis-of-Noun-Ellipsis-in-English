@@ -1,0 +1,23 @@
+T1	Licensor 8365 8373	six more
+A1	six_CRD more_DT0 Endophoric T1
+T2	Antecedent 8341 8345	MiGs
+A2	three_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 8779 8782	Two
+A3	two_CRD Exophoric  T3
+
+T4	Licensor 8787 8792	three
+A4	three_CRD Exophoric T4
+
+T5	Licensor 12452 12457	which
+A5	which_DTQ Endophoric T5
+T6	Antecedent 12434 12439	cards
+A6	which_DTQ T6
+R2	Resolution Arg1:T5 Arg2:T6
+	
+T7	Licensor 16756 16760	Nine
+A7	nine_CRD Endophoric T10
+T8	Antecedent 16829 16835	others
+A8	many_DT0 T11
+R3	Resolution Arg1:T7 Arg2:T8	

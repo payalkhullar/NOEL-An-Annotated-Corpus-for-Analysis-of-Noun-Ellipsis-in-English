@@ -1,0 +1,104 @@
+T1 Licensor 2917 2924 another
+A1 another_DT0 Exophoric T1
+
+T2 Licensor 6809 6824 Twelve thousand
+A2 Twelve_CRD thousand_CRD Exophoric T2
+
+T3 Licensor 8010 8022 five hundred
+A3 five_CRD hundred_CRD Exophoric T3
+
+T4 Licensor 9107 9111 mine
+A4 mine_NN1 Endophoric T4
+T5 Antecedent 9021 9027 throat
+A5 throat_NN1
+R1 Resolution Arg1:T4 Arg2:T5
+
+T6 Licensor 9999 10004 fifty
+A6 fifty_CRD Endophoric T6
+T7 Antecedent 10101 10109 per cent
+A7 cent_NN0
+R2 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 10016 10022 thirty
+A8 thirty_CRD Endophoric T8
+T7 Antecedent 10101 10109 per cent
+A7 cent_NN0
+R3 Resolution Arg1:T8 Arg2:T7
+
+T9 Licensor 10026 10037 twenty-five
+A9 twenty-five_CRD Endophoric T9
+T7 Antecedent 10101 10109 per cent
+A7 cent_NN0
+R4 Resolution Arg1:T9 Arg2:T7
+
+T10 Licensor 10674 10679 three
+A10 three_CRD Endophoric T10
+T11 Antecedent 10688 10694 places
+A11 places_NN2
+R5 Resolution Arg1:T10 Arg2:T11
+
+T12 Licensor 22624 22631 fifteen
+A12 fifteen_CRD Endophoric T12
+T13 Antecedent 22609 22616 reasons
+A13 reasons_NN2
+R6 Resolution Arg1:T12 Arg2:T13
+
+T14 Licensor 24328 24332 mine
+A14 mine_NN1 Endophoric T14
+T15 Antecedent 24269 24272 car
+A15 car_NN1
+R7 Resolution Arg1:T14 Arg2:T15
+
+T16 Licensor 25165 25175 A thousand
+A16 thousand_CRD Exophoric T16
+
+T17 Licensor 24705 24719 three thousand
+A17 three_CRD thousand_CRD Exophoric T17
+
+T18 Licensor 24753 24765 five hundred
+A18 five_CRD hundred_CRD Exophoric T18
+
+T19 Licensor 28226 28232 twenty
+A19 twenty_CRD Exophoric T19
+
+T20 Licensor 27954 27957 Two
+A20 Two_CRD Exophoric T20
+
+T21 Licensor 32356 32371 fifteen hundred
+A21 hundred_CRD Exophoric T21
+
+T22 Licensor 36517 36521 mine
+A22 mine_NN1 Endophoric T22
+T23 Antecedent 36479 36484 money
+A23 money_NN1
+R8 Resolution Arg1:T22 Arg2:T23
+
+T24 Licensor 37929 37941 ten thousand
+A24 ten_CRD thousand_CRD Exophoric T24
+
+T25 Licensor 37951 37963 ten thousand
+A25 ten_CRD thousand_CRD Exophoric T25
+
+T26 Licensor 38609 38637 Eleven thousand four hundred
+A26 Eleven_CRD thousand_CRD four_CRD hundred_CRD Exophoric T26
+
+T27 Licensor 51729 51733 five
+A27 five_CRD Exophoric T27
+
+T28 Licensor 51526 51537 Fifty-seven
+A28 Fifty-seven_CRD Exophoric T28
+
+T29 Licensor 55208 55211 Two
+A29 Two_CRD Exophoric T29
+
+T30 Licensor 70788 70793 Yours
+A30 Yours_PNP Endophoric T30
+T31 Antecedent 70856 70859 bus
+A31 bus_NN1
+R9 Resolution Arg1:T30 Arg2:T31
+
+T32 Licensor 71235 71239 four
+A32 four_CRD Exophoric T32
+
+T33 Licensor 73325 73333 Johnny's
+A33 Johnny_NP0 's_POS Exophoric T33

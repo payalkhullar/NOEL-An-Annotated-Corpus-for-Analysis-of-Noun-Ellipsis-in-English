@@ -1,0 +1,20 @@
+T1	Licensor 4869 4871	12
+A1	12_CRD Exophoric T1
+
+T2	Licensor 22196 22201	yours
+A2	your_DPS Exophoric T2
+
+T3	Licensor 39113 39115	16
+A3	16_CRD Exophoric T3
+
+T4	Licensor 41344 41347	One
+A4	one_CRD Endophoric T4
+T5	Antecedent 41337 41342	girls
+A5	two_CRD T5
+R1	Resolution Arg1:T4 Arg2:T5	
+
+T6	Licensor 42201 42206	three
+A6	three_CRD Exophoric T6
+
+T7	Licensor 42257 42262	these
+A7	these_DT0 Exophoric T7

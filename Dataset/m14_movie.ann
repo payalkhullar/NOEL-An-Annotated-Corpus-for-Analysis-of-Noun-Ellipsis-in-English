@@ -1,0 +1,40 @@
+T1	Licensor 4358 4363	seven
+A1	seven_CRD Endophoric T1
+T2	Antecedent 4373 4379	others
+A2	eight_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+
+T3	Licensor 5605 5612	the two
+A3	the_DT0 two_CRD Endophoric T3
+T4	Antecedent 5597 5601	cops
+A4	those_DT0 two_CRD T4
+R2	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 19356 19359	two
+A5	two_CRD Endophoric T5
+T6	Antecedent 19346 19352	minute
+A6	a_AT0 T6
+R3	Resolution Arg1:T5 Arg2:T6	
+
+T7	Licensor 20262 20266	four
+A7	four_CRD Exophoric T7
+
+T8	Licensor 29969 29972	six
+A8	six_CRD Exophoric T8
+
+T9	Licensor 30091 30095	five
+A9	five_CRD Exophoric T9
+
+T10	Licensor 29876 29879	two
+A10	two_CRD Exophoric T10
+
+T13	Licensor 35877 35889	twenty-seven
+A13	twenty-seven_CRD Exophoric T13
+
+T14	Licensor 36403 36408	yours
+A14	your_DPS Endophoric T14
+T15	Antecedent 36394 36397	job
+A15	cushy-county_AJ0 T15
+R5	Resolution Arg1:T14 Arg2:T15
+
+	

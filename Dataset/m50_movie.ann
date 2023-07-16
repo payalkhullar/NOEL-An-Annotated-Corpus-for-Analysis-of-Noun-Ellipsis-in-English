@@ -1,0 +1,17 @@
+T1 Licensor 21107 21112 those
+A1 those_DT0 Endophoric T1
+T2 Antecedent 21323 21331 problems
+A2 problems_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 42097 42101 mine
+A3 mine_NN1 Endophoric T3
+T4 Antecedent 42065 42072 station
+A4 station_NN1
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 42113 42119 else's
+A5 else_AV0 Endophoric T5
+T4 Antecedent 42065 42072 station
+A4 station_NN1
+R3 Resolution Arg1:T5 Arg2:T4

@@ -1,0 +1,17 @@
+T1	Licensor 15727 15730	two
+A2	two_CRD Exophoric T1
+
+T2	Licensor 18159 18163	some
+A2	some_DT0 Exophoric T2
+
+T3	Licensor 18582 18592	Trubshaw's
+A3	Trubshaw_NP0 's_POS Exophoric T3
+
+T4	Licensor 18745 18750	these
+A4	these_DT0 Exophoric T4
+
+T5	Licensor 24711 24721	Trubshaw's
+A5	Trubshaw_NP0 's_POS Exophoric T5
+
+T6	Licensor 35076 35086	Trubshaw's
+A6	Trubshaw NP0 's_POS Exophoric T6

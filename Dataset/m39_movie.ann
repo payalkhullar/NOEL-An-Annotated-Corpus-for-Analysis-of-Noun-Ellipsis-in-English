@@ -1,0 +1,11 @@
+T1	Licensor 769 772	One
+A1	one_CRD Endophoric T1
+T2	Antecedent 758 767	last push
+A2	one_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 34703 34705	30
+A3	30_CRD Exophoric T3
+
+T4	Licensor 35124 35128	five
+A4	five_CRD Exophoric T4

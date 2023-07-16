@@ -1,0 +1,56 @@
+T1	Licensor 5843 5847	mine
+A1	my_DPS Exophoric T1
+
+T2	Licensor 6197 6201	mine
+A2	my_DPS Exophoric T2
+
+T3	Licensor 6790 6795	yours
+A3	your_DPS Exophoric T3
+
+T4	Licensor 8568 8580	ten thousand
+A4	ten thousand_CRD Endophoric T4
+T6	Antecedent 8910 8917	dollars
+A6	five thousand_CRD T6
+R1	Resolution Arg1:T4 Arg2:T6	
+
+T5	Licensor 8764 8784	Seventy-five hundred
+A5	Seventy-five hundred_CRD Endophoric T5
+T6	Antecedent 8910 8917	dollars
+A6	five thousand_CRD T6
+R2	Resolution Arg1:T5 Arg2:T6
+
+T8	Licensor 20334 20339	those
+A8	those_DT0 Endophoric T8
+T9	Antecedent 20458 20465	hookers
+A9	T9
+R3	Resolution Arg1:T8 Arg2:T9
+	
+T7	Licensor 10325 10329	1002
+A7	1002_CRD Endophoric T7
+T10	Antecedent 10421 10425	room
+A10	what_DTQ T10
+R4	Resolution Arg1:T7 Arg2:T10	
+
+T11	Licensor 29660 29664	1500
+A11	1500_CRD Endophoric T11
+T13	Antecedent 29628 29633	seats
+A13	1500_CRD T13
+R6	Resolution Arg1:T11 Arg2:T13	
+
+T12	Licensor 29670 29677	fifteen
+A12	fifteen_CRD Endophoric T12
+T13	Antecedent 29628 29633	seats
+A13	1500_CRD T13
+R5	Resolution Arg1:T12 Arg2:T13	
+
+T14	Licensor 34617 34622	first
+A14	first_ORD Exophoric T14	
+
+T17	Licensor 35630 35635	those
+A17	those_DT0 Exophoric T17
+
+T18	Licensor 40774 40777	one
+A18	one_CRD Endophoric T18
+T19	Antecedent 40764 40768	ways
+A19	more_DT0 T19
+R8	Resolution Arg1:T18 Arg2:T19	

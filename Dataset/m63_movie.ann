@@ -1,0 +1,62 @@
+T1 Licensor 448 452 mine
+A1 mine_NN1 Endophoric T1
+T2 Antecedent 436 439 God
+A2 God_NP0
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 610 614 mine
+A3 mine_NN1 Endophoric T3
+T4 Antecedent 693 700 torment
+A4 torment_NN1s
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 2842 2847 YOURS
+A5 YOURS_PNP Exophoric T5
+
+T6 Licensor 2965 2969 MINE
+A6 MINE_PNP Exophoric T6
+
+T7 Licensor 5090 5095 yours
+A7 yours_PNP Endophoric T7
+T8 Antecedent 5080 5086 choice
+A8 choice_AJ0
+R3 Resolution Arg1:T7 Arg2:T8
+
+T9 Licensor 7542 7546 mine
+A9 mine_NN1 Endophoric T9
+T10 Antecedent 7522 7527 crime
+A10 crime_NN1
+R4 Resolution Arg1:T9 Arg2:T10
+
+T11 Licensor 18946 18950 ours
+A11 ours_PNP Endophoric T11
+T12 Antecedent 18958 18961 job
+A12 job_NN1
+R5 Resolution Arg1:T11 Arg2:T12
+
+T13 Licensor 19258 19262 ours
+A13 ours_PNP Exophoric T13
+
+T14 Licensor 23668 23676 Krempe's
+A14 Krempe_NP0 's_POS Endophoric T14
+T15 Antecedent 23892 23901 diagnosis
+A15 diagnosis_NN1
+R6 Resolution Arg1:T15 Arg2:T16
+
+T16 Licensor 23649 23653 Mine
+A16 Mine_NN1 Endophoric T16
+T15 Antecedent 23892 23901 diagnosis
+A15 diagnosis_NN1
+R7 Resolution Arg1:T14 Arg2:T16
+
+T17 Licensor 33455 33460 yours
+A17 yours_PNP Endophoric T17
+T18 Antecedent 33443 33449 talent
+A18 talent_NN1
+R8 Resolution Arg1:T17 Arg2:T18
+
+T19 Licensor 33970 33974 mine
+A19 mine_NN1 Endophoric T19
+T20 Antecedent 33952 33960 decision
+A20 decision_NN1
+R9 Resolution Arg1:T19 Arg2:T20

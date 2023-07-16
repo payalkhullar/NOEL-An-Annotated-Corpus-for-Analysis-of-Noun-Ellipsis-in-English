@@ -1,0 +1,8 @@
+T1 Licensor 8112 8121 seventeen
+A1 seventeen_CRD Exophoric T1
+
+T2 Licensor 13042 13047 Those
+A2 Those_DT0 Endophoric T2
+T3 Antecedent 13063 13068 times
+A3 times_NN2
+R1 Resolution Arg1:T2 Arg2:T3

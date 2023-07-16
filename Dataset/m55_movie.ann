@@ -1,0 +1,50 @@
+T1 Licensor 21181 21186 yours
+A1 yours_PNP Endophoric T1
+T2 Antecedent 21150 21163 peace of mind
+A2 mind_NN1
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 34378 34383 three
+A3 three_CRD Exophoric T3
+
+T4 Licensor 43007 43014 another
+A4 another_DT0 Exophoric T4
+
+T5 Licensor 43271 43276 yours
+A5 yours_PNP Exophoric T5
+
+T6 Licensor 71654 71658 both
+A6 both_AV0 Exophoric T8
+T7 Antecedent 71635 71641 person
+A7 person_NN1 Endophoric T7
+R2 Resolution Arg1:T8 Arg2:T13	
+
+
+T9 Licensor 72551 72556 Yours
+A9 Yours_PNP Exophoric T9
+
+T10 Licensor 74950 74954 some
+A10 some_DT0 Exophoric T10
+
+T11 Licensor 75286 75289 red
+A11 red_NN1 Exophoric T11
+T17 Antecedent 75300 75307 sweater
+A17 sweater_NN1 Endophoric T7
+R3 Resolution Arg1:T11 Arg2:T17
+
+
+T12 Licensor 84342 84346 some
+A12 some_DT0 Exophoric T12
+T15 Antecedent 84422 84428 quotes
+A15 quotes_NN1 Endophoric T15
+R4 Resolution Arg1:T12 Arg2:T15	
+
+
+T14 Licensor 84506 84510 some
+A14 some_DT0 Exophoric T14
+T16 Antecedent 84422 84428 quotes
+A16 quotes_NN1 Endophoric T16
+R5 Resolution Arg1:T14 Arg2:T16	
+
+
+

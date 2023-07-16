@@ -1,0 +1,62 @@
+T1	Licensor 836 851	Tad and Maura's
+A1	Tad and Maura_NP0 's_POS Exophoric T1
+
+T5	Licensor 22457 22463	Nell's
+A5	Nell_NP0 's_POS Exophoric T5
+
+T6	Licensor 28254 28257	Two
+A6	two_CRD Exophoric T6
+
+T8	Licensor 28600 28603	two
+A8	two_CRD Exophoric T8
+
+T9	Licensor 29066 29069	two
+A9	two_CRD Exophoric T9
+
+T12	Licensor 30148 30155	Harry's
+A12	Harry_NP0 's_POS Exophoric T12
+
+T13	Licensor 34684 34688	some
+A13	some_DT0 Endophoric T13
+T14	Antecedent 34752 34758	Sorbet
+A14	T14
+R2	Resolution Arg1:T13 Arg2:T14
+
+T18	Licensor 41868 41876	Hubert's
+A17	Hubert_NP0's_POS Exophoric T18
+
+T19	Licensor 42081 42089	Hubert's
+A18	Hubert_NP0's_POS Exophoric T19
+
+T20	Licensor 44980 44993	Paul Norman's
+A19	Paul_NP0 Norman_NP0 's_POS Exophoric T20
+
+T22	Licensor 38590 38595	three
+A21	three_CRD Exophoric T22
+
+T23	Licensor 50732 50738	Orso's
+A22	Orso_NP0 's_POS Exophoric T23
+
+T24	Licensor 50758 50764	Orso's
+A23	Orso_NP0 's_POS Exophoric Exophoric T24
+
+T25	Licensor 50886 50892	Nell's
+A24	Nell_NP0 's_POS Exophoric T25
+
+T26	Licensor 57255 57260	seven
+A25	seven_CRD Exophoric T26
+
+T29	Licensor 57962 57969	Harry's
+A28	Harry_NP0 's_POS Exophoric T29
+
+T30	Licensor 57991 57997	Nell's
+A29	Nell_NP0 's_POS Exophoric T30
+
+T31	Licensor 60735 60745	Twenty-six
+A30	twenty-six_CRD Exophoric T31
+
+T32	Licensor 60755 60767	twenty-seven
+A31	twenty-seven_CRD Exophoric T32
+
+T34	Licensor 67839 67860	Two-hundred-and-fifty
+A33	Two-hundred-and-fifty_CRD Exophoric T34

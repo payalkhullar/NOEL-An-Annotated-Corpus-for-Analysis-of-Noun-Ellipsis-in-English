@@ -1,0 +1,59 @@
+T1 Licensor 318 321 any
+A1 any_DT0 Endophoric T1
+T2 Antecedent 292 304 fingerprints
+A2 fingerprints_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 8435 8439 five
+A3 five_CRD Endophoric T3
+T4 Antecedent 8408 8415 escapes
+A4 escapes_NN2
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 18211 18214 One
+A5 One_CRD Endophoric T5
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R3 Resolution Arg1:T5 Arg2:T6
+
+T7 Licensor 18222 18225 two
+A7 two_CRD Endophoric T7
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R4 Resolution Arg1:T7 Arg2:T6
+
+T8 Licensor 18252 18255 one
+A8 one_CRD Exophoric T8
+R5 Resolution Arg1:T8 Arg2:T6
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+
+T9 Licensor 18257 18260 two
+A9 two_CRD Endophoric T9
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R6 Resolution Arg1:T9 Arg2:T6
+
+T10 Licensor 18280 18283 two
+A10 two_CRD Endophoric T10
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R7 Resolution Arg1:T10 Arg2:T6
+
+T11 Licensor 18293 18297 four
+A11 four_CRD Endophoric T11
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R8 Resolution Arg1:T11 Arg2:T6
+
+T12 Licensor 18308 18312 four
+A12 four_CRD Endophoric T12
+T6 Antecedent 18586 18591 freak
+A6 freak_AJ0
+R9 Resolution Arg1:T12 Arg2:T6
+
+T13 Licensor 23728 23733 these
+A13 these_DT0 Endophoric T13
+T14 Antecedent 23808 23814 comics
+A14 comics_NN2
+R10 Resolution Arg1:T13 Arg2:T14

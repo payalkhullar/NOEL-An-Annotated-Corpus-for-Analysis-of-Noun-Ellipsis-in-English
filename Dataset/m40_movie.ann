@@ -1,0 +1,50 @@
+T1	Licensor 3549 3559	A thousand
+A1	a_AT0 thousand_CRD Exophoric T1
+
+T2	Licensor 7170 7180	a thousand
+A3	a_AT0 thousand_CRD Exophoric T2
+
+T3	Licensor 8890 8899	Wallace's
+A3	Wallace_NP0 's_POS Endophoric T3
+T4	Antecedent 9048 9053	trial
+A4	his_DPS T4
+R1	Resolution Arg1:T3 Arg2:T4	
+
+T5	Licensor 11720 11725	these
+A5	these_DT0 Exophoric T5
+
+T6	Licensor 13722 13730	Fourteen
+A7	fourteen_CRD Endophoric T6
+T7	Antecedent 13835 13839	feet
+A7	fourteen_CRD T7
+R2	Resolution Arg1:T6 Arg2:T7
+
+T8	Licensor 15942 15947	Three
+A8	three_CRD Endophoric T8
+T9	Antecedent 15800 15808	soldiers
+A9	english_AJ0 T9
+R3	Resolution Arg1:T8 Arg2:T9
+
+T10	Licensor 15955 15959	more
+A10	more_DT0 Endophoric T10
+T9	Antecedent 15800 15808	soldiers
+A9	english_AJ0 T9
+R4	Resolution Arg1:T10 Arg2:T9
+
+T11	Licensor 18149 18153	mine
+A11	my_DPS Endophoric T11
+T12	Antecedent 18126 18130	face
+A12	your_DPS T12
+R5	Resolution Arg1:T11 Arg2:T12
+	
+T13	Licensor 22351 22356	yours
+A13	your_DPS Exophoric T13
+
+T14	Licensor 22366 22370	mine
+A14	my_DPS Exophoric T13
+
+T15	Licensor 27798 27801	one
+A15	one_CRD Endophoric T15
+T16	Antecedent 27782 27786	vows
+A16	T16
+R4	Resolution Arg1:T15 Arg2:T16	

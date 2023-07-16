@@ -1,0 +1,23 @@
+T1	Licensor 1229 1240	the biggest
+A1	the_AT0 biggest_AJS Endophoric T1
+T3	Antecedent 1209 1212	man
+A3	the_AT0 T3
+R1	Resolution Arg1:T1 Arg2:T3	
+
+T2	Licensor 1245 1253	the best
+A2	the_AT best_AJS Endophoric T2
+T3	Antecedent 1209 1212	man
+A3	the_AT0 T3
+R2	Resolution Arg1:T2 Arg2:T3
+
+T4	Licensor 11612 11621	Bernard's
+A4	Bernard_NP0 's_POS Exophoric T4
+
+T5	Licensor 14844 14855	twenty-five
+A5	twenty-five_CRD Exophoric T5
+
+T6	Licensor 31741 31748	another
+A6	another_DT0 Endophoric T6
+T7	Antecedent 31727 31732	thing
+A7	one_CRD T7
+R3	Resolution Arg1:T6 Arg2:T7

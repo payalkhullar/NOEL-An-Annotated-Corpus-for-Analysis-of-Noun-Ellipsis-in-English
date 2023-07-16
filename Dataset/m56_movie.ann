@@ -1,0 +1,35 @@
+T1 Licensor 309 313 five
+A1 five_CRD Endophoric T1
+T2 Antecedent 321 329 children
+A2 children_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 9536 9539 two
+A3 two_CRD Endophoric T3
+T4 Antecedent 9527 9532 thing
+A4 thing_NN1
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 12037 12040 Two
+A5 Two_CRD Exophoric T5
+T6 Antecedent 12027 12035 cowgirls
+A6 cowgirls_NN2 Exophoric T6
+R3 Resolution Arg1:T5 Arg2:T6
+
+T7 Licensor 15451 15455 mine
+A7 mine_NN1 Endophoric T7
+T8 Antecedent 15558 15563 fault
+A8 fault_NN1
+R4 Resolution Arg1:T7 Arg2:T9
+
+T9 Licensor 19631 19635 best
+A9 best_AJS Exophoric T9
+
+T10 Licensor 19562 19566 best
+A10 best_AV0 Exophoric T10
+
+T11 Licensor 22390 22395 yours
+A11 yours_PNP Endophoric T11
+T12 Antecedent 22303 22312 virginity
+A12 virginity_NN1
+R5 Resolution Arg1:T11 Arg2:T12

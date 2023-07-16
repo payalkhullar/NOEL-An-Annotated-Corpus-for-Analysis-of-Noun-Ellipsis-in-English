@@ -1,0 +1,56 @@
+T1	Licensor 875 879	mine
+A1	my_DPS Endophoric T1
+T2	Antecedent 848 859	credentials
+A2	his_DPS T2
+R1	Resolution Arg1:T1 Arg2:T2
+
+T3	Licensor 5440 5444	mine
+A3	my_DPS Endophoric T3
+T4	Antecedent 5563 5570	parents
+A4	T4
+R2	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 13232 13239	Cloud's
+A5	cloud_NP0 's_POS Exophoric T5
+
+T6	Licensor 13563 13570	Cloud's
+A6	cloud_NP0 's_POS Exophoric T6
+
+T7	Licensor 19179 19182	one
+A7	one_CRD Endophoric T7
+T8	Antecedent 19285 19291	movies
+A8	T8
+R3	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 22059 22062	Two
+A9	two_CRD Endophoric T9
+T10	Antecedent 22128 22134	months
+A10	many_DT0 T10
+R4	Resolution Arg1:T9 Arg2:T10
+
+T11	Licensor 28589 28597	Thirteen
+A11	thirteen_CRD Exophoric T11
+
+T12	Licensor 28672 28690	a hundred and four
+A12	a hundred and four_CRD Exophoric T12
+
+T13	Licensor 30523 30527	mine
+A13	my_DPS Endophoric T13
+T14	Antecedent 30461 30465	eyes
+A14	father_NN1 's_POS T14
+R5	Resolution Arg1:T13 Arg2:T14	
+
+T15	Licensor 54741 54745	nine
+A15	nine_CRD Endophoric T15
+T16	Antecedent 54753 54760	gallons
+A16	ten_CRD T16
+R6	Resolution Arg1:T15 Arg2:T16
+
+T17	Licensor 58886 58891	these
+A17	these_DT0 Exophoric T22
+
+T18	Licensor 64841 64851	the nicest
+A18	the_AT0 nicest_AJS Endophoric T18
+T19	Antecedent 64801 64805	girl
+A19	the_AT0 most beautiful_AJS T19
+R7	Resolution Arg1:T18 Arg2:T19

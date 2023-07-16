@@ -1,0 +1,35 @@
+T1	Licensor 13297 13301	Five
+A1	five_CRD Exophoric T1
+
+T2	Licensor 13544 13547	Six
+A2	six_CRD Exophoric T2
+
+T3	Licensor 16778 16782	five
+A3	five_CRD Exophoric T3
+
+T4	Licensor 26729 26733	mine
+A4	my_DPS Endophoric T4
+T5	Antecedent 26709 26712	job
+A5	your_DPS T5
+R1	Resolution Arg1:T4 Arg2:T5
+	
+T6	Licensor 39934 39938	Five
+A6	five_CRD Endophoric T6
+T8	Antecedent 40015 40024	questions
+A8	many_DT0 T8
+R2	Resolution Arg1:T6 Arg2:T8	
+
+T7	Licensor 39946 39949	six
+A7	six_CRD Endophoric T7
+T8	Antecedent 40015 40024	questions
+A8	many_DT0 T8
+R3	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 40370 40378	Thirteen
+A9	thirteen_CRD Endophoric T9
+T10	Antecedent 40444 40453	questions
+A10	many_DT0 T10
+R4	Resolution Arg1:T9 Arg2:T10
+
+T11	Licensor 45984 45990	Twenty
+A11	twenty_CRD Exophoric T11

@@ -1,0 +1,26 @@
+T1 Licensor 8727 8732 those
+A1 those_DT0 Endophoric T1
+T2 Antecedent 8558 8564 things
+A2 things_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 8460 8465 These
+A3 These_DT0 Endophoric T3
+T2 Antecedent 8558 8564 things
+A2 things_NN2
+R2 Resolution Arg1:T3 Arg2:T2
+
+T4 Licensor 8476 8481 THESE
+A4 THESE_DT0 Endophoric T4
+T2 Antecedent 8558 8564 things
+A2 things_NN2
+R3 Resolution Arg1:T4 Arg2:T2
+
+T5 Licensor 35314 35317 two
+A5 two_CRD Exophoric T5
+
+T6 Licensor 44581 44586 son's
+A6 son_NN1 's_POS Endophoric T6
+T7 Antecedent 44545 44555 livelihood
+A7 livelihood_NN1
+R4 Resolution Arg1:T6 Arg2:T7

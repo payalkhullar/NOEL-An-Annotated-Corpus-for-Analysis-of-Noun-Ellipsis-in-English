@@ -1,0 +1,29 @@
+T1	Licensor 12047 12050	one
+A1	one_CRD Endophoric T1
+T3	Antecedent 12036 12041	drill
+A3	one_CRD T3
+R1	Resolution Arg1:T1 Arg2:T3	
+
+T2	Licensor 12071 12074	one
+A2	one_CRD Endophoric T2
+T3	Antecedent 12036 12041	drill
+A3	one_CRD T3
+R2	Resolution Arg1:T2 Arg2:T3
+
+T6	Licensor 48105 48109	mine
+A6	my_DPS Endophoric T6
+T7	Antecedent 48192 48196	boat
+A7	nice_AJ0 T7
+R4	Resolution Arg1:T6 Arg2:T7
+
+T8	Licensor 51505 51509	17th
+A8	17th_ORD Exophoric T8
+
+T9	Licensor 51984 51986	17
+A9	17_CRD Exophoric T9
+
+T10	Licensor 52332 52335	115
+A10	115_CRD Exophoric T10
+
+T11	Licensor 53881 53886	these
+A11	these_DT0 Exophoric T11

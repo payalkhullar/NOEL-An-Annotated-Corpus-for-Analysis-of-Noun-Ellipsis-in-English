@@ -1,0 +1,11 @@
+T1 Licensor 55525 55532 sixteen
+A1 sixteen_CRD Exophoric T1
+
+T2 Licensor 55859 55863 ours
+A2 ours_PNP Endophoric T2
+T3 Antecedent 55831 55836 ideas
+A3 ideas_NN2
+R1 Resolution Arg1:T2 Arg2:T3
+
+T4 Licensor 57495 57502 sixteen
+A4 sixteen_CRD Exophoric T4

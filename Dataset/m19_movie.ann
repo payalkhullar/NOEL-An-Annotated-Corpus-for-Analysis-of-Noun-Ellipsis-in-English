@@ -1,0 +1,56 @@
+T1	Licensor 8667 8677	the bank's
+A1	the_DT0 bank_NP1 's_POS Endophoric T1
+T3	Antecedent 8850 8855	money
+A3	this_DT0 T3
+R1	Resolution Arg1:T1 Arg2:T3
+
+T2	Licensor 8862 8866	ours
+A2	our_POS Endophoric T2
+T3	Antecedent 8850 8855	money
+A3	this_DT0 T3
+R2	Resolution Arg1:T2 Arg2:T3	
+
+T4	Licensor 9228 9231	Two
+A4	two_CRD Exophoric T4
+
+T5	Licensor 14422 14428	Twenty
+A5	twenty_CRD Endophoric T5
+T6	Antecedent 14570 14573	men
+A6	twenty_CRD heavily_AV0 armed_AJ0 T6
+R3	Resolution Arg1:T5 Arg2:T6
+
+T7	Licensor 15145 15150	three
+A8	three_CRD Endophoric T7
+T8	Antecedent 15218 15226	thousand
+A9	seven_CRD T8
+R4	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 21265 21272	Bunty's
+A9	Bunty_NP0 's_POS Exophoric T9
+
+T10	Licensor 29236 29243	fifteen
+A10	fifteen_CRD Exophoric T10
+
+T11	Licensor 35614 35619	Doc's
+A11	Doc'_NP0 s_POS Exophoric T11
+
+T12	Licensor 44453 44458	Yours
+A12	your_DPS Endophoric T12
+T14	Antecedent 44444 44451	justice
+A14	whose_DTQ T14
+R5	Resolution Arg1:T12 Arg2:T14	
+
+T13	Licensor 44462 44467	God's
+A13	God_NP0 's_POS Endophoric T13
+T14	Antecedent 44444 44451	justice
+A14	whose_DTQ T14
+R6	Resolution Arg1:T13 Arg2:T14	
+
+T15	Licensor 60725 60745	Thirty-five thousand
+A15	Thirty-five_CRD thousand_CRD Exophoric T15
+
+T16	Licensor 64005 64013	all four
+A17	all_DT0 four_CRD Endophoric T16
+T17	Antecedent 64093 64098	banks
+A18	only_AV0 four_CRD T17
+R7	Resolution Arg1:T16 Arg2:T17	

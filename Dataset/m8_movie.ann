@@ -1,0 +1,23 @@
+T1	Licensor 512 516	ours
+A1	our_DPS Endophoric T1
+T2	Antecedent 651 665	responsibility
+A2	my_DPS T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 16436 16440	some
+A3	some_DT0 Exophoric T3
+
+T4	Licensor 17238 17245	Alice's
+A4	Alice_NP0 's_POS Endophoric T4
+T5	Antecedent 17361 17366	place
+A5	your_DPS T5
+R2	Resolution Arg1:T4 Arg2:T5	
+
+T6	Licensor 17671 17675	some
+A6	some_DT0 Endophoric T6
+T7	Antecedent 17648 17663	My undying love
+A7	my_DPS undying_AJ0 love_NN1 T7
+R3	Resolution Arg1:T6 Arg2:T7	
+
+T8	Licensor 19331 19341	six-thirty
+A9	six-thirty_CRD Exophoric T8

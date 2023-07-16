@@ -1,0 +1,136 @@
+T1	Licensor 2559 2563	half
+A1	half_DT0 Endophoric T1
+T3	Antecedent 2642 2645	cut
+A3	your_DPS T3
+R1	Resolution Arg1:T1 Arg2:T3
+
+T2	Licensor 2566 2570	Half
+A2	half_DT0 Endophoric T2
+T3	Antecedent 2642 2645	cut
+A3	your_DPS T3
+R2	Resolution Arg1:T2 Arg2:T3
+	
+T4	Licensor 3432 3437	these
+A4	these_DT0 Exophoric T4
+
+T6	Licensor 3775 3778	One
+A5	one_CRD Endophoric T6
+T9	Antecedent 3760 3765	Women
+A9	T9
+R4	Resolution Arg1:T6 Arg2:T9	
+
+T7	Licensor 3805 3812	another
+A7	another_DT0 Endophoric T7
+T9	Antecedent 3760 3765	Women
+A9	T9
+R5	Resolution Arg1:T7 Arg2:T9	
+
+T8	Licensor 3827 3834	Another
+A8	Another_DT0 Endophoric T8
+T9	Antecedent 3760 3765	Women
+A9	T9
+R6	Resolution Arg1:T8 Arg2:T9
+	
+T10	Licensor 5474 5478	some
+A9	some_DT0 Endophoric T10
+T11	Antecedent 5618 5624	coffee
+A11	T11
+R7	Resolution Arg1:T10 Arg2:T11
+	
+T13	Licensor 11086 11092	theirs
+A11	their_DPS Endophoric T13
+T14	Antecedent 11052 11058	shower
+A12	my_DPS T14
+R8	Resolution Arg1:T13 Arg2:T14
+
+T15	Licensor 11734 11739	yours
+A13	your_DPS Endophoric T15
+T16	Antecedent 11722 11726	case
+A17	the_AT0 T16
+R9	Resolution Arg1:T15 Arg2:T16
+
+T17	Licensor 11969 11972	his
+A15	his_DPS Endophoric T17
+T18	Antecedent 11955 11963	decision
+A16	my_DPS T18
+R10	Resolution Arg1:T17 Arg2:T18
+
+T19	Licensor 12783 12787	mine
+A17	my_DPS Endophoric T19
+T20	Antecedent 12763 12769	career
+A18	your_DPS T20
+R11	Resolution Arg1:T19 Arg2:T20
+
+T22	Licensor 24255 24260	yours
+A20	your_DPS Endophoric T22
+T23	Antecedent 24230 24235	leads
+A23	any_DT0 T23
+R12	Resolution Arg1:T22 Arg2:T23
+
+T26	Licensor 26043 26046	one
+A24	one_CRD Endophoric T26
+T27	Antecedent 26103 26108	heads
+A25	two_CRD T27
+R13	Resolution Arg1:T26 Arg2:T27
+
+T28	Licensor 35152 35158	Leon's
+A26	Leon_NP0 's_POS Endophoric T28
+T29	Antecedent 35239 35244	blood
+A29	T29
+R15	Resolution Arg1:T28 Arg2:T29
+
+T30	Licensor 35261 35266	Whose
+A30	whose_DTQ Endophoric T30
+T29	Antecedent 35239 35244	blood
+A29	T29
+R14	Resolution Arg1:T30 Arg2:T29
+	
+T31	Licensor 40650 40652	15
+A28	15_CRD Exophoric T31
+
+T32	Licensor 40664 40665	9
+A29	9_CRD Exophoric T32
+
+T33	Licensor 41421 41424	two
+A30	two_CRD Endophoric T33
+T34	Antecedent 41412 41417	medal
+A34	a_AT0 T34
+R16	Resolution Arg1:T33 Arg2:T34
+	
+T35	Licensor 44690 44698	my first
+A35	my_DPS first_ORD Exophoric T35
+
+T36	Licensor 48578 48582	Both
+A36	both_DT0 Endophoric T36
+T37	Antecedent 48503 48512	documents
+A37	your_DPS T37
+R17	Resolution Arg1:T36 Arg2:T37	
+
+T38	Licensor 48948 48955	Million
+A35	million_CRD Endophoric T38
+T39	Antecedent 48987 48994	dollars
+A39	one_CRD million_CRD T39
+R18	Resolution Arg1:T38 Arg2:T39
+
+T40	Licensor 49100 49107	million
+A37	million_CRD Endophoric T40
+T39	Antecedent 48987 48994	dollars
+A39	one_CRD million_CRD T39
+R19	Resolution Arg1:T40 Arg2:T39
+	
+T41	Licensor 60036 60039	his
+A38	his_DPS Endophoric T41
+T42	Antecedent 60022 60027	shoes
+A39	little_AJ0 T42
+R20	Resolution Arg1:T41 Arg2:T42
+	
+T46	Licensor 62221 62226	yours
+A43	your_DPS Endophoric T46
+T47	Antecedent 62457 62463	collar
+A44	my_DPS T47
+R23	Resolution Arg1:T46 Arg2:T47
+
+T48	Licensor 64566 64572	twenty
+A45	twenty_CRD Exophoric T48
+
+

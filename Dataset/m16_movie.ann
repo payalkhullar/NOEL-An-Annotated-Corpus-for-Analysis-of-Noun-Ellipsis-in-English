@@ -1,0 +1,152 @@
+T1	Licensor 1185 1189	mine
+A1	my_DPS Endophoric T1
+T2	Antecedent 1162 1168	wisdom
+A2	the_AT0 T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 1292 1296	mine
+A3	my_DPS Endophoric T3
+T4	Antecedent 1269 1275	wisdom
+A4	the_AT0 T4
+R2	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 7689 7693	mine
+A5	my_DPS Endophoric T5
+T6	Antecedent 7680 7685	fault
+A6	the_AT0 T6
+R3	Resolution Arg1:T5 Arg2:T6
+	
+T7	Licensor 41080 41086	Twenty
+A7	twenty_CRD Endophoric T7
+T8	Antecedent 41119 41126	minutes of continuous music
+A8	twenty_CRD T8
+R4	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 41104 41110	twenty
+A9	twenty_CRD Endophoric T9
+T10	Antecedent 41119 41146	minutes of continuous music
+A10	twenty_CRD T10
+R5	Resolution Arg1:T9 Arg2:T10
+	
+T11	Licensor 41225 41228	six
+A11	six_CRD Endophoric T11
+T12	Antecedent 41238 41245	minutes
+A12	seven_CRD T12
+R6	Resolution Arg1:T11 Arg2:T12
+	
+T13	Licensor 41253 41258	eight
+A13	eight_CRD Endophoric T13
+T14	Antecedent 41238 41245	minutes
+A14	seven_CRD T14
+R7	Resolution Arg1:T13 Arg2:T14
+
+T15	Licensor 44656 44666	Twenty-six
+A15	twenty-six_CRD Exophoric T15
+
+T16	Licensor 45872 45876	more
+A16	more_DT0 Endophoric T16
+T17	Antecedent 45831 45836	notes
+A17	many_DT0 T17
+R8	Resolution Arg1:T16 Arg2:T17	
+
+T18	Licensor 45881 45885	less
+A18	less_DT0 Endophoric T18
+T19	Antecedent 45831 45836	notes
+A19	many_DT0 T19
+R9	Resolution Arg1:T18 Arg2:T19
+
+T20	Licensor 48187 48191	mine
+A20	my_DPS Endophoric T20
+T21	Antecedent 48177 48183	honour
+A21	the_AT0 T21
+R10	Resolution Arg1:T20 Arg2:T21
+
+T22	Licensor 56080 56085	yours
+A22	your_DPS Endophoric T22
+T23	Antecedent 56072 56076	life
+A23	his_DPS entire_AJ0 T23
+R11	Resolution Arg1:T22 Arg2:T23
+
+T25	Licensor 65141 65145	mine
+A25	my_DPS Endophoric T25
+T26	Antecedent 65102 65108	talent
+A26	T26
+R12	Resolution Arg1:T25 Arg2:T26
+
+T27	Licensor 65164 65169	yours
+A27	your_DPS Endophoric T27
+T28	Antecedent 65123 65128	money
+A28	T28
+R13	Resolution Arg1:T27 Arg2:T28
+
+T29	Licensor 79218 79222	mine
+A29	my_DPS Endophoric T29
+T30	Antecedent 79198 79204	honour
+A30	the_AT0 T30
+R14	Resolution Arg1:T29 Arg2:T30
+
+T31	Licensor 80607 80611	Nine
+A31	nine_CRD Endophoric T31
+T32	Antecedent 80593 80605	performances
+A32	nine_CRD T32
+R15	Resolution Arg1:T31 Arg2:T32	
+
+T33	Licensor 82736 82741	Fifty
+A33	fifty_CRD Exophoric T33
+T35	Antecedent 82703 82710	florins
+A35	two_CRD hundred_CRD T35
+R16	Resolution Arg1:T33 Arg2:T35
+
+T34	Licensor 82725 82734	a hundred
+A34	hundred_CRD Endophoric T34
+T35	Antecedent 82703 82710	florins
+A35	two_CRD hundred_CRD T35
+R17	Resolution Arg1:T34 Arg2:T35
+	
+T36	Licensor 83783 83788	eight
+A34	eight_CRD Endophoric T36
+T37	Antecedent 83775 83781	months
+A35	six_CRD T37
+R18	Resolution Arg1:T36 Arg2:T37
+	
+T38	Licensor 87193 87198	first
+A38	first_ORD Exophoric T38
+
+T39	Licensor 87516 87521	these
+A39	these_DT0 Exophoric T39
+
+T40	Licensor 96688 96691	his
+A40	his_DPS Endophoric T40
+T42	Antecedent 96644 96649	names
+A42	our_DPS T42
+R19	Resolution Arg1:T40 Arg2:T42
+
+T41	Licensor 96704 96708	mine
+A41	my_DPS Endophoric T41
+T42	Antecedent 96644 96649	names
+A42	our_DPS T42
+R20	Resolution Arg1:T41 Arg2:T42
+
+T43	Licensor 99374 99379	yours
+A43	your_DPS Endophoric T43
+T44	Antecedent 99361 99365	ways
+A44	God_NP0 's_POS T44
+R21	Resolution Arg1:T43 Arg2:T44	
+
+T45	Licensor 63352 63357	those
+A45	those_DT0 Endophoric T24
+T46	Antecedent 63315 63332	few trick animals
+A46	a_AT0 T22
+R22	Resolution Arg1:T45 Arg2:T46
+	
+T47	Licensor 74594 74603	a hundred
+A47	a_AT0 hundred_CRD Exophoric T27
+
+T48	Licensor 80275 80279	four
+A48	four_CRD Endophoric T30
+T49 	Antecedent 80253 80257	hour
+A49	an_AT0 T49 T49
+R23	Resolution Arg1:T45 Arg2:T46
+
+
+

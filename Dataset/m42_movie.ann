@@ -1,0 +1,98 @@
+T1	Licensor 259 264	Yours
+A1	your_DPS Endophoric T1
+T2	Antecedent 249 257	problems
+A2	T2
+R1	Resolution Arg1:T1 Arg2:T2
+
+T3	Licensor 7741 7746	three
+A3	three_CRD Endophoric T3
+T4	Antecedent 7728 7733	weeks
+A4	two_CRD T4
+R2	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 10211 10223	twenty- five
+A5	twenty- five_CRD Endophoric T5
+T6	Antecedent 10187 10194	percent
+A6	ten_CRD T6
+R3	Resolution Arg1:T5 Arg2:T6
+
+T7	Licensor 13544 13548	mine
+A6	my_DPS Endophoric T7
+T8	Antecedent 13520 13528	business
+A7	your_DPS T8
+R4	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 19925 19928	ten
+A9	ten_CRD Endophoric T9
+T10	Antecedent 19910 19917	chances
+A10	nine_CRD T10
+R5	Resolution Arg1:T9 Arg2:T10	
+
+T13	Licensor 44874 44880	Rick's
+A13	Rick_NP0 's_POS Exophoric T13
+
+T14	Licensor 49563 49568	three
+A14	three_CRD Endophoric T14
+T15	Antecedent 49544 49558	million francs
+A15	a_AT0 T15
+R6	Resolution Arg1:T14 Arg2:T15	
+
+T16	Licensor 49678 49698	two hundred thousand
+A16	two hundred thousand_CRD Endophoric T16
+T17	Antecedent 49927 49933	francs
+A17	a hundred thousand_CRD T17
+R7	Resolution Arg1:T16 Arg2:T17	
+
+T20	Licensor 66650 66656	Rick's
+A20	Rick_NP0 's_POS Exophoric T20
+
+T21	Licensor 66677 66683	Rick's
+A21	Rick_NP0 's_POS Exophoric T21
+
+T22	Licensor 80516 80519	two
+A22	two_CRD Endophoric T22
+T25	Antecedent 80630 80639	exit visa
+A25	an_AT0 T25
+R8	Resolution Arg1:T22 Arg2:T25	
+
+T23	Licensor 80658 80661	two
+A23	two_CRD Endophoric T23
+T25	Antecedent 80630 80639	exit visa
+A25	an_AT0 T25
+R9	Resolution Arg1:T23 Arg2:T25	
+
+T24	Licensor 80367 80370	one
+A24	one_CRD Endophoric T24
+T25	Antecedent 80630 80639	exit visa
+A25	an_AT0 T25
+R10	Resolution Arg1:T24 Arg2:T25	
+
+T26	Licensor 80788 80791	ten
+A26	ten_CRD Endophoric T26
+T27	Antecedent 81074 81089	thousand francs
+A27	twenty_CRD T27
+R11	Resolution Arg1:T26 Arg2:T27	
+
+T28	Licensor 80898 80904	twenty
+A28	twenty_CRD Endophoric T28
+T27	Antecedent 81074 81089	thousand francs
+A27	twenty_CRD T27
+R12	Resolution Arg1:T28 Arg2:T27
+
+T29	Licensor 84790 84799	all three
+A29	all_DT0 three_CRD Exophoric T29
+
+T30	Licensor 87161 87165	Mine
+A30	my_DPS Endophoric T30
+T31	Antecedent 87139 87147	business
+A31	your_DPS T31
+R13	Resolution Arg1:T30 Arg2:T31	
+
+T32	Licensor 90110 90115	these
+A32	these_DT0 Exophoric T32
+
+T33	Licensor 89892 89897	those
+A33	those_DT0 Exophoric T33
+
+T34	Licensor 93054 93069	the other three
+A34	the_AT0 other_AJ0 three_CRD Exophoric T34

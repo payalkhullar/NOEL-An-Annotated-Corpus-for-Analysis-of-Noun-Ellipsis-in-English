@@ -1,0 +1,44 @@
+T2	Licensor 8022 8025	one
+A2	one_CRD Endophoric T2
+T3	Antecedent 8000 8006	things
+A4	two_CRD T3
+R1	Resolution Arg1:T2 Arg2:T3
+	
+T5	Licensor 17864 17868	mine
+A6	my_DPS Endophoric T5
+T6	Antecedent 17850 17854	head
+A7	a_AT0 full_AJ0 T6
+R3	Resolution Arg1:T5 Arg2:T6	
+
+T7	Licensor 32273 32277	mine
+A8	my_DPS Endophoric T7
+T8	Antecedent 32373 32386	x-ray glasses
+A9	x-ray_AJ0 glasses_NN2 T8
+R4	Resolution Arg1:T7 Arg2:T8
+
+T9	Licensor 32690 32694	mine
+A10	my_DPS Exophoric T9
+
+T11	Licensor 38636 38640	mine
+A12	my_DPS Endophoric T11
+T12	Antecedent 38700 38757	credit card receipt for Swedish- made penis enlarger pump
+A13	one_CRD T12
+R5	Resolution Arg1:T11 Arg2:T12
+	
+T13	Licensor 38847 38851	mine
+A14	my_DPS Endophoric T13
+T14	Antecedent 39149 39181	Swedish-made penis enlarger pump
+A15	one_CRD T14
+R6	Resolution Arg1:T13 Arg2:T14
+
+T15	Licensor 41972 41976	ours
+A16	our_DPS Endophoric T15
+T16	Antecedent 42108 42113	bogey
+A17	a_AT0 potential_AJ0 T16
+R7	Resolution Arg1:T15 Arg2:T16
+
+T1	Licensor 7902 7911	the other
+A1	the_AT0 other_DT0 Endophoric T1
+T3	Antecedent 8000 8006	things
+A4	two_CRD T3
+R7	Resolution Arg1:T1 Arg2:T3

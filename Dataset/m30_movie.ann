@@ -1,0 +1,105 @@
+T1	Licensor 3192 3196	mine
+A1	my_DPS Endophoric T1
+T2	Antecedent 3173 3180	destiny
+A2	his_DPS T2
+R1	Resolution Arg1:T1 Arg2:T2	
+
+T3	Licensor 5431 5435	Mine
+A3	my_DPS Endophoric T3
+T4	Antecedent 5425 5429	girl
+A4	my_DPS T4
+R2	Resolution Arg1:T3 Arg2:T4	
+
+T5	Licensor 6328 6333	three
+A5	three_CRD Exophoric T5
+
+T6	Licensor 7207 7218	Five-eleven
+A6	five-eleven_CRD Exophoric T6
+
+T7	Licensor 7220 7230	One-eighty
+A7	one-eighty_CRD Exophoric T7
+
+T8	Licensor 7450 7454	more
+A8	more_DTO Endophoric T8
+T9	Antecedent 7437 7442	years
+A9	thirty_CRD T9
+R3	Resolution Arg1:T8 Arg2:T9	
+
+T10	Licensor 7819 7824	those
+A10	those_DT0 Exophoric T10
+
+T11	Licensor 9439 9441	18
+A11	18_CRD Exophoric T11
+
+T12	Licensor 9450 9452	28
+A12	28_CRD Exophoric T12
+
+T13	Licensor 11614 11616	38
+A13	38_CRD Exophoric T13
+
+T14	Licensor 11628 11630	48
+A14	48_CRD Exophoric T14
+
+T15	Licensor 11818 11823	eight
+A15	eight_CRD Exophoric T15
+
+T16	Licensor 11845 11853	eighteen
+A16	eighteen_CRD Exophoric T16
+
+T17	Licensor 11865 11867	28
+A17	28_CRD Exophoric T17
+
+T18	Licensor 11882 11884	28
+A18	28_CRD Exophoric T18
+
+T19	Licensor 11901 11903	38
+A19	38_CRD Exophoric T19
+
+T20	Licensor 11960 11968	Eighteen
+A20	eighteen_CRD Exophoric T20
+
+T21	Licensor 13067 13073	eleven
+A21	eleven_CRD Exophoric T21
+
+T22	Licensor 17658 17662	Mine
+A22	my_DPS Endophoric T22
+T23	Antecedent 18004 18008	name
+A23	your_DPS T23
+R4	Resolution Arg1:T22 Arg2:T23	
+
+T24	Licensor 20273 20277	mine
+A24	my_DPS Endophoric T24
+T25	Antecedent 20260 20267	failing
+A25	your_DPS T25
+R5	Resolution Arg1:T24 Arg2:T25	
+
+T26	Licensor 21151 21154	ten
+A26	ten_CRD Exophoric T26
+
+T27	Licensor 21159 21166	fifteen
+A27	fifteen_CRD Exophoric T27
+
+T28	Licensor 21171 21177	twenty
+A28	twenty_CRD Exophoric T28
+
+T29	Licensor 21182 21188	thirty
+A29	thirty_CRD Exophoric T29
+
+T30	Licensor 25245 25256	three-fifty
+A30	three-fifty_CRD Exophoric T30
+
+T32	Licensor 32416 32421	those
+A32	those_DT0 Exophoric T32
+
+T33	Licensor 33181 33184	two
+A33	two_CRD Exophoric T33
+
+T36	Licensor 42707 42710	two
+A36	two_CRD Exophoric T36
+
+T37	Licensor 358 361	one
+A37	one_CRD Endophoric T37
+T38	Antecedent 527 531	any
+A38	any_DT0	T38
+R6	Resolution Arg1:T37 Arg2:T38
+

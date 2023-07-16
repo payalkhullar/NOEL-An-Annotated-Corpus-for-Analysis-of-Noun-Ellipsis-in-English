@@ -1,0 +1,32 @@
+T1	Licensor 3615 3618	six
+A1	six_CRD Endophoric T1
+T2	Antecedent 3628 3633	weeks
+A2	seven_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+	
+T3	Licensor 3849 3853	mine
+A3	my_DPS Endophoric T3
+T4	Antecedent 3840 3844	name
+A4	your_DPS T4
+R2	Resolution Arg1:T3 Arg2:T4
+
+T5	Licensor 3904 3907	his
+A5	his_DPS Endophoric T5
+T4	Antecedent 3840 3844	name
+A4	your_DPS T4
+R3	Resolution Arg1:T5 Arg2:T4	
+
+T6	Licensor 4954 4958	ours
+A6	our_DPS Endophoric T6
+T7	Antecedent 4942 4950	Judgment
+A7	the_AT0 T7
+R4	Resolution Arg1:T6 Arg2:T7
+
+T8	Licensor 21187 21199	Thirty seven
+A8	thirty_CRD five_CRD Exophoric T8
+
+T9	Licensor 23918 23928	a thousand
+A9	a_AT0 thousand_CRD Exophoric T9
+
+T10	Licensor 23952 23955	ten
+A10	ten_CRD Exophoric T10

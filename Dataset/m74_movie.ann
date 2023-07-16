@@ -1,0 +1,26 @@
+T1 Licensor 966 970 mine
+A1 mine_NN1 Endophoric T1
+T2 Antecedent 953 957 city
+A2 city_NN1
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 978 984 Vigo's
+A3 Vigo_NP0 's_POS Endophoric T3
+T2 Antecedent 953 957 city
+A2 city_NN1
+R2 Resolution Arg1:T3 Arg2:T2
+
+T4 Licensor 1000 1006 Vigo's
+A4 Vigo_NP0 's_POS Endophoric T4
+T2 Antecedent 953 957 city
+A2 city_NN1
+R3 Resolution Arg1:T4 Arg2:T2
+
+T5 Licensor 30374 30378 ours
+A5 ours_PNP Exophoric T5
+
+T6 Licensor 59692 59698 a half
+A6 half_NN1 Endophoric T6
+T7 Antecedent 59683 59687 flux
+A7 flux_NN1
+R4 Resolution Arg1:T6 Arg2:T7

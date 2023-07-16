@@ -1,0 +1,5 @@
+T1 Licensor 9182 9187 yours
+A1 yours_PNP Endophoric T1
+T2 Antecedent 9157 9161 Hell
+A2 Hell_NN1
+R1 Resolution Arg1:T1 Arg2:T2

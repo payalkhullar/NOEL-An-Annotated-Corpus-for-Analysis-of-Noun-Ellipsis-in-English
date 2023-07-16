@@ -1,0 +1,59 @@
+T1	Licensor 2904 2920	The standard ten
+A1	the_AT0 standard_AJ0 ten_CRD Endophoric T1
+T2	Antecedent 2828 2835 percent
+A2	ten_CRD T2
+R1	Resolution Arg1:T1 Arg2:T2
+
+T3	Licensor 11290 11295	three
+A3	three_CRD Endophoric T3
+T4	Antecedent 11421 11431	cigarettes
+A4	three_CRD T4
+R2	Resolution Arg1:T3 Arg2:T4	
+
+T6	Licensor 21487 21492	Three
+A6	three_CRD Endophoric T6
+T7	Antecedent 21501 21506	times
+A7	four_CRD T7
+R3	Resolution Arg1:T6 Arg2:T7	
+
+T8	Licensor 23597 23616	a hundred and fifty
+A8	a_AT0 hundred and fifty_CRD Exophoric T8	
+
+T11	Licensor 40391 40396	Three
+A11	three_CRD Endophoric  T11
+T12	Antecedent 40405 40410	times
+A12	four_CRD T12
+R4	Resolution Arg1:T11 Arg2:T12	
+
+T13	Licensor 42164 42170	thirty
+A13	thirty_CRD Exophoric T13
+
+T14	Licensor 42183 42190	fifteen
+A14	fifteen_CRD Exophoric T14
+
+T15	Licensor 43363 43369	baby's
+A15	baby_NN1 's_POS Endophoric T15
+T16	Antecedent 43349 43354	hands
+A16	soft_AJ0  T16
+R5	Resolution Arg1:T15 Arg2:T16	
+
+T18	Licensor 57076 57080	Al's
+A18	AL_NP0 's_POS Exophoric T18
+
+T19	Licensor 64150 64155	these
+A19	these_DT0 Endophoric T19
+T20	Antecedent 64138 64144	Papers
+A20	T20
+R6	Resolution Arg1:T19 Arg2:T20	
+
+T21	Licensor 66736 66741	these
+A21	these_DT0 Endophoric T21
+T22	Antecedent 66724 66730	Papers
+A22	T22
+R7	Resolution Arg1:T21 Arg2:T22	
+
+T25	Licensor 75395 75404	a hundred
+A25	a_AT0 hundred_CRD Endophoric T25
+T26	Antecedent 75428 75433	grand
+A26	a_AT0 hundred fifty_CRD T26
+R8	Resolution Arg1:T25 Arg2:T26	

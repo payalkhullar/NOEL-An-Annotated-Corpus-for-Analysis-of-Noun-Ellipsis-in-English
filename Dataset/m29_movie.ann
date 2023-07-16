@@ -1,0 +1,146 @@
+T2	Licensor 889 899	ten thirty
+A2	ten thirty_CRD Exophoric T2
+
+T3	Licensor 7327 7333	Pike's
+A3	Pike_NP0 's_POS Endophoric T3
+T4	Antecedent 7409 7413	life
+A4	Kendall_NP0 's_POS T4
+R1	Resolution Arg1:T3 Arg2:T4	
+
+T5	Licensor 8574 8579	yours
+A5	your_DPS Endophoric T5
+T6	Antecedent 8549 8553	word
+A6	of_PRF a_AT0 crackhead_NN1 T6
+R2	Resolution Arg1:T5 Arg2:T6	
+
+T7	Licensor 9268 9272	mine
+A7	my_DPS Endophoric T7
+T9	Antecedent 9441 9450	cigarette
+A9	a_AT0 T9
+R3	Resolution Arg1:T7 Arg2:T9	
+
+T8	Licensor 9307 9311	some
+A8	some_DT0 Endophoric T8
+T9	Antecedent 9441 9450	cigarette
+A9	a_AT0 T9
+R4	Resolution Arg1:T8 Arg2:T9	
+
+T10	Licensor 9689 9694	those
+A10	those_DT0 Exophoric T10
+
+T11	Licensor 16963 16968	three
+A11	three_CRD Endophoric T11
+T13	Antecedent 17155 17163	grenades
+A13	your_DPS T13
+R5	Resolution Arg1:T11 Arg2:T13	
+
+T12	Licensor 17008 17011	one
+A13	one_CRD Endophoric T12
+T13	Antecedent 17155 17163	grenades
+A13	your_DPS T13
+R6	Resolution Arg1:T12 Arg2:T13
+
+T14	Licensor 22813 22819	West's
+A14	West_NP0 's_POS Endophoric T14
+T16	Antecedent 22967 22972	blood
+A16	whose_DTQ T16
+R8	Resolution Arg1:T14 Arg2:T16	
+
+T15	Licensor 22874 22880	West's
+A15	West_NP0 's_POS Endophoric T15
+T16	Antecedent 22967 22972	blood
+A16	whose_DTQ T16
+R7	Resolution Arg1:T15 Arg2:T16
+
+T17	Licensor 24674 24678	mine
+A19	my_DPS Endophoric T17
+T18	Antecedent 24661 24665	word
+A20	his_DPS T18
+R9	Resolution Arg1:T17 Arg2:T18	
+
+T19	Licensor 26948 26951	One
+A19	one_CRD Endophoric T19
+T22	Antecedent 26922 26929	murders
+A22	many_DT0 T22
+R10	Resolution Arg1:T19 Arg2:T22	
+
+T20	Licensor 26953 26957	Five
+A20	five_CRD Endophoric T20
+T22	Antecedent 26922 26929	murders
+A22	many_DT0 T22
+R11	Resolution Arg1:T20 Arg2:T22	
+
+T21	Licensor 26973 26976	ten
+A21	ten_CRD Endophoric T21
+T22	Antecedent 26922 26929	murders
+A22	many_DT0 T22
+R12	Resolution Arg1:T21 Arg2:T22
+
+T23	Licensor 32992 32997	these
+A23	these_DT0 Exophoric T23
+
+T25	Licensor 39519 39524	three
+A25	three_CRD Exophoric T25
+
+T28	Licensor 39280 39283	one
+A28	one_CRD Exophoric T28
+
+T29	Licensor 39292 39295	one
+A29	one_CRD Exophoric T29
+
+T30	Licensor 39327 39330	one
+A30	one_CRD Exophoric T30
+
+T31	Licensor 43797 43801	mine
+A31	my_DPS Endophoric T31
+T32	Antecedent 43726 43737	confessions
+A32	T32
+R13	Resolution Arg1:T31 Arg2:T32	
+
+T33	Licensor 44152 44157	Seven
+A33	seven_CRD Exophoric T33
+
+T34	Licensor 45149 45153	Four
+A34	four_CRD Exophoric  T34
+
+T35	Licensor 60654 60659	First
+A35	first_ORD Endophoric  T35
+T38	Antecedent 60646 60652	things
+A38	three_CRD T38
+R15	Resolution Arg1:T35 Arg2:T38	
+
+T36	Licensor 60688 60694	Second
+A36	second_ORD Endophoric T36
+T38	Antecedent 60646 60652	things
+A38	three_CRD T38
+R15	Resolution Arg1:T36 Arg2:T38	
+
+T37	Antecedent 60739 60744	Third
+A37	third_ORD Endophoric T37
+T38	Antecedent 60646 60652	things
+A38	three_CRD T38
+R16	Resolution Arg1:T37 Arg2:T38	
+
+T40	Licensor 72115 72119	mine
+A40	my_DPS Endophoric T40
+T42	Antecedent 72366 72371	shirt
+A42	your_DPS T42
+R17	Resolution Arg1:T40 Arg2:T42	
+
+T41	Licensor 72206 72211	yours
+A41	your_DPS Endophoric T41
+T42	Antecedent 72366 72371	shirt
+A42	your_DPS T42
+R18	Resolution Arg1:T41 Arg2:T42	
+
+T44	Licensor 76972 76975	two
+A47	two_CRD Exophoric T44
+
+T45	Licensor 77118 77124	twenty
+A45	twenty_CRD Endophoric T45
+T46	Antecedent 77086 77093	targets
+A46	twenty_CRD T46
+R19	Resolution Arg1:T45 Arg2:T46	
+
+T47	Licensor 78552 78557	Those
+A50	those_DT0 Exophoric T47

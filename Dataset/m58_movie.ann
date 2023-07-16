@@ -1,0 +1,41 @@
+T1 Licensor 234 247 My step-dad's
+A1 step-dad_NN1 's_POS Exophoric T1
+
+T2 Licensor 363 368 Those
+A2 Those_DT0 Exophoric T2
+
+T3 Licensor 369 374 yours
+A3 yours_PNP Exophoric T3
+
+T4 Licensor 12096 12100 four
+A4 four_CRD Endophoric T4
+T5 Antecedent 12160 12165 times
+A5 times_NN2
+R1 Resolution Arg1:T4 Arg2:T5
+
+T6 Licensor 12024 12028 five
+A6 five_CRD Endophoric T6
+T5 Antecedent 12160 12165 times
+A5 times_NN2
+R2 Resolution Arg1:T6 Arg2:T5
+
+T7 Licensor 22635 22641 Twenty
+A7 Twenty_CRD Exophoric T7
+
+T8 Licensor 31679 31682 Ten
+A8 Ten_CRD Endophoric T8
+T9 Antecedent 31652 31659 minutes
+A9 minutes_NN2
+R3 Resolution Arg1:T8 Arg2:T9
+
+T10 Licensor 32089 32095 twenty
+A10 twenty_CRD Endophoric T10
+T11 Antecedent 32192 32197 bucks
+A11 bucks_NN2
+R4 Resolution Arg1:T10 Arg2:T11
+
+T12 Licensor 34269 34273 ours
+A12 ours_PNP Endophoric T12
+T13 Antecedent 34250 34258 diseases
+A13 diseases_NN2
+R5 Resolution Arg1:T12 Arg2:T13

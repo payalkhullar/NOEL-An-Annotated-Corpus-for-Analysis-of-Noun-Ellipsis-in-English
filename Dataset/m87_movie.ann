@@ -1,0 +1,17 @@
+T1 Licensor 12768 12772 some
+A1 some_DT0 Endophoric T1
+T2 Antecedent 12738 12748 cigarettes
+A2 cigarettes_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 13794 13802 One more
+A3 more_DT0 Endophoric T3
+T4 Antecedent 13938 13944 nerves
+A4 nerves_NN2
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 13810 13813 two
+A5 two_CRD Endophoric T5
+T4 Antecedent 13938 13944 nerves
+A4 nerves_NN2
+R3 Resolution Arg1:T5 Arg2:T4

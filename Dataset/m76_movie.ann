@@ -1,0 +1,23 @@
+T1 Licensor 6815 6819 more
+A1 more_DT0 Endophoric T1
+T2 Antecedent 6779 6783 wine
+A2 wine_NN1
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 20150 20162 my one third
+A3 third_ORD Exophoric T3
+
+T4 Licensor 23833 23838 yours
+A4 yours_PNP Endophoric T4
+T5 Antecedent 23823 23827 word
+A5 word_NN1
+R2 Resolution Arg1:T4 Arg2:T5
+
+T6 Licensor 27957 27961 mine
+A6 mine_NN1 Endophoric T6
+T7 Antecedent 27938 27942 neck
+A7 neck_NN1
+R3 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 47105 47119 your one third
+A8 third_ORD Exophoric T8

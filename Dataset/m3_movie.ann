@@ -1,0 +1,31 @@
+T1	Licensor 2077 2082	those
+A1	those_DT0 Exophoric T1
+
+T2	Licensor 2170 2178	Two more
+A2	two_CRD more_DT0 Endophoric T2
+T3	Antecedent 2236 2241	units
+A3	two_CRD T3
+R1	Resolution Arg1:T2 Arg2:T3
+
+T4	Licensor 6513 6528	the other three
+A4	the_AT0 other_AJ0 three_CRD Exophoric T4	
+
+T5	Licensor 6537 6541	mine
+A5	my_DPS Exophoric T5
+
+T6	Licensor 6562 6567	yours
+A6	your_DPS Exophoric T6
+
+T7	Licensor 14918 14922	mine
+A7	my_DPS Exophoric T7
+
+T8	Licensor 15570 15575	Three
+A8	three_CRD Endophoric T8
+T12	Antecedent 15700 15704	days
+A12	many_DT0 T12
+R2	Resolution Arg1:T8 Arg2:T12	
+
+T17	Licensor 19135 19138	six
+A17	six_CRD Exophoric T17
+
+

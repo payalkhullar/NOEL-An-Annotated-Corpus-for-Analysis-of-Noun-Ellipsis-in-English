@@ -1,0 +1,128 @@
+T1	Licensor 4649 4651	21
+A1	21_CRD Exophoric T1
+
+T2	Licensor 5496 5500	nine
+A2	nine_CRD Exophoric T2
+
+T3	Licensor 5861 5864	two
+A3	two_CRD Exophoric T3
+
+T4	Licensor 5875 5880	three
+A4	three_CRD Exophoric T4
+
+T5	Licensor 6000 6003	six
+A5	six_CRD Exophoric T5
+
+T6	Licensor 6007 6012	seven
+A6	seven_CRD Exophoric T6
+
+T7	Licensor 6048 6051	two
+A7	two_CRD Exophoric T7
+
+T8	Licensor 6055 6060	three
+A8	three_CRD Exophoric T8
+
+T9	Licensor 6121 6125	five
+A9	five_CRD Exophoric T9
+
+T10	Licensor 11497 11499	20
+A10	20_CRD Exophoric T10
+	
+T13	Licensor 13633 13640	Teddy's
+A13	Teddy_NP0 's_POS Endophoric T13
+T14	Antecedent 13619 13623	code
+A14	Gary_NP0 's_POS T14
+R2	Resolution Arg1:T13 Arg2:T14
+
+T15	Licensor 14024 14029	yours
+A15	your_DPS Endophoric T15
+T16	Antecedent 14002 14006	eyes
+A16	our_DPS T16
+R3	Resolution Arg1:T15 Arg2:T16
+
+T17	Licensor 16884 16890	theirs
+A17	their_DPS Endophoric T17
+T18	Antecedent 16857 16864	experts
+A18	our_DPS T18
+R4	Resolution Arg1:T17 Arg2:T18
+
+T19	Licensor 17074 17080	32,000
+A19	32,000_CRD Exophoric T19
+
+T20	Licensor 23685 23690	yours
+A20	your_DPS Endophoric T20
+T21	Antecedent 23674 23679	brain
+A21	a_AT0 T21
+R5	Resolution Arg1:T20 Arg2:T21
+
+T22	Licensor 25811 25817	34,000
+A22	34,000_CRD Exophoric T22
+T23	Antecedent 25842 25855	lines of code
+A23	lines_NN2 of_PRF code_NN1 T23
+R6	Resolution Arg1:T22 Arg2:T23
+
+T24	Licensor 29860 29862	42
+A24	42_CRD Exophoric T24
+
+T25	Licensor 29871 29874	100
+A25	100_CRD Exophoric T25
+
+T26	Licensor 30511 30517	second
+A26	second_ORD Exophoric T26
+
+T27	Licensor 30537 30543	second
+A27	second_ORD Exophoric T27
+
+T28	Licensor 31429 31432	200
+A28	200_CRD Exophoric T28
+
+T29	Licensor 31449 31451	12
+A29	12_CRD Exophoric T29
+
+T30	Licensor 34516 34520	mine
+A30	my_DPS Endophoric T30
+T31	Antecedent 34499 34502	app
+A31	your_DPS T31
+R7	Resolution Arg1:T30 Arg2:T31	
+
+T32	Licensor 42938 42940	21
+A32	21_CRD Exophoric T32
+
+T33	Licensor 44517 44519	21
+A33	21_CRD Exophoric T33
+T34	Antecedent 44476 44486	satellites
+A34	12_CRD T34
+R8	Resolution Arg1:T33 Arg2:T34
+
+T35	Licensor 45850 45854	2001
+A35	2001_CRD Exophoric T35
+
+T36	Licensor 50326 50330	Mine
+A36	my_DPS Endophoric T36
+T37	Antecedent 50550 50559	counselor
+A37	your_DPS T37
+R9	Resolution Arg1:T36 Arg2:T37
+
+T38	Licensor 52566 52570	mine
+A38	my_DPS Endophoric T38
+T39	Antecedent 52637 52641	name
+A39	my_DPS T39
+R10	Resolution Arg1:T38 Arg2:T39
+	
+T40	Licensor 52885 52888	one
+A40	one_CRD Endophoric T40
+T41	Antecedent 52856 52867	girlfriends
+A41	two_CRD T41
+R11	Resolution Arg1:T40 Arg2:T41
+
+T42	Licensor 52869 52873	Most
+A43	most_DT0 Endophoric T42
+T43	Antecedent 52835 52840	geeks
+A43 	T43
+R12	Resolution Arg1:T42 Arg2:T43
+
+T44	Licensor 54345 54350	these
+A44	these_DT0 Exophoric T44
+
+T45	Licensor 54889 54901	million-five
+A45	million-five_CRD Exophoric T45

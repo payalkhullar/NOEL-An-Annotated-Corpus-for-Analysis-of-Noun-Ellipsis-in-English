@@ -1,0 +1,56 @@
+T1	Licensor 176 179	two
+A1	two_CRD Endophoric T1
+T2	Antecedent 168 172	year
+A2	a_AT0 T2
+R1	Resolution Arg1:T1 Arg2:T2
+
+T3	Licensor 3687 3703	A couple hundred
+A3	a_AT0 couple_NN1 hundred_CRD Exophoric T3
+
+T4	Licensor 4611 4623	five hundred
+A4	five_CRD hundred_CRD Endophoric T4
+T5	Antecedent 4979 4986	dollars
+A5	twelve_CRD thousand_CRD T5
+R2	Resolution Arg1:T4 Arg2:T5	
+
+T6	Licensor 5129 5148	twenty-five hundred
+A6	twenty-five_CRD hundred_CRD Endophoric T5
+T7	Antecedent 4979 4986	dollars
+A7	twelve_CRD thousand_CRD T6
+R1	Resolution Arg1:T6 Arg2:T7
+	
+T9	Licensor 27906 27911	yours
+A9	your_DPS Endophoric T9
+T10	Antecedent 27877 27882	fault
+A10	T10
+R3	Resolution Arg1:T9 Arg2:T10
+
+T11	Licensor 28129 28136	Penny's
+A11	Penny_NP0 's_POS Exophoric T11
+
+T13	Licensor 35881 35889	scariest
+A14	scariest_AJS Endophoric T13
+T14	Antecedent 35864 35871	costume
+A14	funniest_AJS T14
+R4	Resolution Arg1:T13 Arg2:T14
+	
+T15	Licensor 35899 35915	most imaginative
+A15	most-imaginative_AJS Endophoric T15
+T16	Antecedent 35930 35937	costume
+A16	funniest_AJS T16
+R5	Resolution Arg1:T15 Arg2:T16
+
+T17	Licensor 36652 36656	lots
+A17	lots_PNI Endophoric T17
+T18	Antecedent 36757 36761	snow
+A18	T18
+R6	Resolution Arg1:T17 Arg2:T18
+	
+T19	Licensor 46200 46206	Toby's
+A19	Toby_NP0 's_POS Exophoric T19
+
+T20	Licensor 69722 69728	Toby's
+A20	Toby_NP0 's_POS Exophoric T20
+
+T21	Licensor 34428 34434	Toby's
+A21	Toby_NP0 's_POS Exophoric T21

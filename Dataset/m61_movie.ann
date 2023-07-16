@@ -1,0 +1,20 @@
+T1 Licensor 7603 7608 Seven
+A1 Seven_CRD Exophoric T1
+
+T2 Licensor 18163 18166 Two
+A2 Two_CRD Endophoric T2
+T3 Antecedent 18230 18234 door
+A3 door_NN1
+R1 Resolution Arg1:T2 Arg2:T3
+
+T4 Licensor 17902 17906 four
+A4 four_CRD Exophoric T4
+
+T5 Licensor 17769 17774 Seven
+A5 Seven_CRD Exophoric T5
+
+T6 Licensor 17641 17646 Seven
+A6 Seven_CRD Exophoric T6
+
+T7 Licensor 17705 17709 Nine
+A7 Nine_CRD Exophoric T7

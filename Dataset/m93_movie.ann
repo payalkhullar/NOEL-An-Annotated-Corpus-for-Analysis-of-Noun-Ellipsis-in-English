@@ -1,0 +1,17 @@
+T1 Licensor 13033 13038 seven
+A1 seven_CRD Exophoric T1
+
+T2 Licensor 19648 19655 fifteen
+A2 fifteen_CRD Endophoric T2
+T3 Antecedent 19626 19632 shocks
+A3 shocks_NN2
+R1 Resolution Arg1:T2 Arg2:T3
+
+T4 Licensor 20809 20817 Nathan's
+A4 Nathan_NP0 's_POS Endophoric T4
+T5 Antecedent 20800 20805 fault
+A5 fault_NN1
+R2 Resolution Arg1:T4 Arg2:T5
+
+T6 Licensor 32331 32339 the best
+A6 best_AJS Exophoric T6

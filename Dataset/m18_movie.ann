@@ -1,0 +1,67 @@
+T1	Licensor 3530 3535	yours
+A1	your_DPS Exophoric T1
+
+T2	Licensor 4471 4491	twenty-five thousand
+A2	twenty-five_CRD thousand_CRD Exophoric T2
+
+T3	Licensor 4703 4723	twenty-four thousand
+A3	twenty-four_CRD thousand_CRD Exophoric T3
+
+T4	Licensor 8982 8986	mine
+A4	my_DPS Endophoric T4
+T5	Antecedent 8966 8970	bank
+A5	your_DPS T5
+R1	Resolution Arg1:T4 Arg2:T5
+
+T6	Licensor 13228 13236	Finlay's
+A6	Finlay_NP0 's_POS Exophoric T6
+
+T7	Licensor 28304 28308	Mine
+A7	my_DPS Endophoric T7
+T8	Antecedent 28413 28417	wife
+A8	my_DPS T8
+R2	Resolution Arg1:T7 Arg2:T8
+
+T8	Licensor 36696 36703	fifteen
+A8	fifteen_CRD Exophoric T9
+
+T10	Licensor 36712 36718	twenty
+A10	twenty_CRD Exophoric T10
+
+T11	Licensor 36872 36884	ten thousand
+A11	ten_CRD thousand_CRD Exophoric T11
+
+T12	Licensor 36908 36913	sixty
+A12	sixty_CRD Exophoric T12
+
+T13	Licensor 38592 38595	any
+A13	any_DT0 Endophoric T13
+T14	Antecedent 38681 38688	uniform
+A14	your_DPS T14
+R3	Resolution Arg1:T13 Arg2:T14
+
+T15	Licensor 45631 45637	twelve
+A15	twelve_CRD Exophoric T15
+
+T16	Licensor 45642 45655	twelve-thirty
+A16	twelve-thirty_CRD Exophoric T16
+
+T17	Licensor 58965 58969	four
+A17	four_CRD Exophoric T17
+
+T18	Licensor 58991 58995	four
+A18	four_CRD Exophoric T18
+
+T19	Licensor 59002 59005	one
+A19	one_CRD Exophoric T19
+
+T20	Licensor 62093 62099	twelve
+A20	twelve_CRD Exophoric T20
+
+T21	Licensor 63485 63489	much
+A21	some_DT0 Endophoric T21
+T22	Antecedent 63449 63454	money
+A22	some_DT0 T22
+R4	Resolution Arg1:T21 Arg2:T22
+	
+

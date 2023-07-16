@@ -1,0 +1,32 @@
+T1 Licensor 22342 22346 Mine
+A1 Mine_NN1 Endophoric T1
+T2 Antecedent 22333 22340 reasons
+A2 reasons_NN2
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 24665 24674 a hundred
+A3 hundred_CRD Endophoric T3
+T4 Antecedent 24656 24661 lions
+A4 lions_NN2
+R2 Resolution Arg1:T3 Arg2:T4
+
+T5 Licensor 24689 24693 more
+A5 more_DT0 Endophoric T5
+T4 Antecedent 24656 24661 lions
+A4 lions_NN2
+R3 Resolution Arg1:T5 Arg2:T4
+
+T6 Licensor 25422 25426 mine
+A6 mine_NN1 Endophoric T6
+T7 Antecedent 25716 25720 fear
+A7 fear_NN1
+R4 Resolution Arg1:T6 Arg2:T7
+
+T8 Licensor 30178 30181 two
+A8 two_CRD Endophoric T8
+T9 Antecedent 30191 30195 days
+A9 days_NN2
+R5 Resolution Arg1:T8 Arg2:T9
+
+T10 Licensor 33862 33871 these two
+A10 two_CRD Exophoric T10

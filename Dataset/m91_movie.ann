@@ -1,0 +1,8 @@
+T1 Licensor 2535 2539 mine
+A1 mine_NN1 Endophoric T1
+T2 Antecedent 2527 2531 hand
+A2 hand_NN1
+R1 Resolution Arg1:T1 Arg2:T2
+
+T3 Licensor 8827 8831 ours
+A3 ours_PNP Exophoric T3

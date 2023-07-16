@@ -1,0 +1,5 @@
+T1 Licensor 208 215 another
+A1 another_DT0 Endophoric T1
+T2 Antecedent 195 200 place
+A2 place_NN1
+R1 Resolution Arg1:T1 Arg2:T2

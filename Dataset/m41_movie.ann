@@ -1,0 +1,17 @@
+T1	Licensor 2774 2779	seven
+A1	seven_CRD Exophoric T1
+
+T2	Licensor 6372 6377	these
+A2	these_DT0 Exophoric T2
+
+T3	Licensor 14476 14481	these
+A3	these_DT0 Endophoric T3
+T4	Antecedent 14455 14462	results
+A4	T4
+R1	Resolution Arg1:T3 Arg2:T4
+	
+T5	Licensor 19700 19705	mom's
+A5	mom_NN1 's_POS Exophoric T5
+
+T6	Licensor 42586 42591	seven
+A6	seven_CRD Exophoric T6

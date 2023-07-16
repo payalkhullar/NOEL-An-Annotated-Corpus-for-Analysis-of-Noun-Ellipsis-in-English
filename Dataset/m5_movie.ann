@@ -1,0 +1,86 @@
+T1	Licensor 15530 15535	fifty
+A1	fifty_CRD Endophoric T1
+T2	Antecedent 15598 15604	points
+A2	many_DT0 T2
+R1	Resolution Arg1:T1 Arg2:T2	
+
+T3	Licensor 16292 16301	a million
+A3	a_AT0 million_CRD Endophoric T3
+T5	Antecedent 16465 16470	women
+A5	a_AT0 million_CRD T5
+R2	Resolution Arg1:T3 Arg2:T5	
+
+T4	Licensor 16316 16319	one
+A4	one_CRD Endophoric T4
+T5	Antecedent 16465 16470	women
+A5	a_AT0 million_CRD T5
+R3	Resolution Arg1:T4 Arg2:T5
+	
+T6	Licensor 19931 19934	two
+A7	two_CRD Exophoric T6
+
+T7	Licensor 23852 23855	Six
+A8	six_CRD Exophoric T7
+
+T8	Licensor 23869 23872	One
+A9	one_CRD Exophoric T8
+
+A13	7_CRD Exophoric T12
+
+T13	Licensor 27240 27243	two
+A14	two_CRD Exophoric T13
+
+T14	Licensor 28011 28014	one
+A15	one_CRD Endophoric T14
+T15	Antecedent 28240 28249	questions
+A15	any_DT0 T15
+R4	Resolution Arg1:T14 Arg2:T15
+
+T16	Licensor 29215 29219	mine
+A18	my_DPS Endophoric T16
+T17	Antecedent 29185 29193	memories
+A17	thousands_CRD of_PRF T17
+R5	Resolution Arg1:T16 Arg2:T17
+
+T18	Licensor 29458 29464	my own
+A20	my_DPS own_DT0 Endophoric T18
+T19	Antecedent 29427 29432	lives
+A21	other_AJ0 people_NN0 's_POS T19
+R6	Resolution Arg1:T18 Arg2:T19
+	
+T20	Licensor 33141 33145	mine
+A22	my_DPS Endophoric T20
+T21	Antecedent 33113 33121	language
+A23	your_DPS T21
+R7	Resolution Arg1:T20 Arg2:T21
+
+T22	Licensor 33299 33302	900
+A24	900_CRD Endophoric T22
+T23	Antecedent 33215 33224	languages
+A25	900_CRD T23
+R8	Resolution Arg1:T23 Arg2:T22
+	
+T24	Licensor 35415 35421	second
+A26	second_ORD Endophoric T24
+T25	Antecedent 35331 35339	messages
+A27	the_AT0 last_ORD two_CRD T25
+R9	Resolution Arg1:T25 Arg2:T24
+
+T26	Licensor 37706 37710	ours
+A28	our_DPS Endophoric T26
+T27	Antecedent 37680 37683	DNA
+A29	his_DPS T27
+R10	Resolution Arg1:T26 Arg2:T27
+
+T28	Licensor 38472 38479	200,000
+A30	200,000_CRD Endophoric T28
+T29	Antecedent 38378 38393	DNA memo groums
+A31	40_CRD T29
+R11	Resolution Arg1:T28 Arg2:T29
+	
+T30	Licensor 42204 42208	mine
+A32	my_DPS Endophoric T30
+T31	Antecedent 42170 42176	ZFX200
+A31	another_DT0 T31
+R12	Resolution Arg1:T30 Arg2:T31	
+
