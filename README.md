@@ -33,22 +33,22 @@ The first line begins with the string ”T” that implies it is an entity. The 
 
 Any publication reporting the work done using this data should cite the following paper:
 
-@inproceedings{khullar-etal-2020-noel,
-    title = "{N}o{E}l: An Annotated Corpus for Noun Ellipsis in {E}nglish",
-    author = "Khullar, Payal  and
-      Majmundar, Kushal  and
-      Shrivastava, Manish",
-    booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
-    month = may,
-    year = "2020",
-    address = "Marseille, France",
-    publisher = "European Language Resources Association",
-    url = "https://aclanthology.org/2020.lrec-1.5",
-    pages = "34--43",
-    abstract = "Ellipsis resolution has been identified as an important step to improve the accuracy of mainstream Natural Language Processing (NLP) tasks such as information retrieval, event extraction, dialog systems, etc. Previous computational work on ellipsis resolution has focused on one type of ellipsis, namely Verb Phrase Ellipsis (VPE) and a few other related phenomenon. We extend the study of ellipsis by presenting the No(oun)El(lipsis) corpus - an annotated corpus for noun ellipsis and closely related phenomenon using the first hundred movies of Cornell Movie Dialogs Dataset. The annotations are carried out in a standoff annotation scheme that encodes the position of the licensor, the antecedent boundary, and Part-of-Speech (POS) tags of the licensor and antecedent modifier. Our corpus has 946 instances of exophoric and endophoric noun ellipsis, making it the biggest resource of noun ellipsis in English, to the best of our knowledge. We present a statistical study of our corpus with novel insights on the distribution of noun ellipsis, its licensors and antecedents. Finally, we perform the tasks of detection and resolution of noun ellipsis with different classifiers trained on our corpus and report baseline results.",
-    language = "English",
-    ISBN = "979-10-95546-34-4",
-}
+        @inproceedings{khullar-etal-2020-noel,
+            title = "{N}o{E}l: An Annotated Corpus for Noun Ellipsis in {E}nglish",
+            author = "Khullar, Payal  and
+              Majmundar, Kushal  and
+              Shrivastava, Manish",
+            booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
+            month = may,
+            year = "2020",
+            address = "Marseille, France",
+            publisher = "European Language Resources Association",
+            url = "https://aclanthology.org/2020.lrec-1.5",
+            pages = "34--43",
+            abstract = "Ellipsis resolution has been identified as an important step to improve the accuracy of mainstream Natural Language Processing (NLP) tasks such as information retrieval, event extraction, dialog systems, etc. Previous computational work on ellipsis resolution has focused on one type of ellipsis, namely Verb Phrase Ellipsis (VPE) and a few other related phenomenon. We extend the study of ellipsis by presenting the No(oun)El(lipsis) corpus - an annotated corpus for noun ellipsis and closely related phenomenon using the first hundred movies of Cornell Movie Dialogs Dataset. The annotations are carried out in a standoff annotation scheme that encodes the position of the licensor, the antecedent boundary, and Part-of-Speech (POS) tags of the licensor and antecedent modifier. Our corpus has 946 instances of exophoric and endophoric noun ellipsis, making it the biggest resource of noun ellipsis in English, to the best of our knowledge. We present a statistical study of our corpus with novel insights on the distribution of noun ellipsis, its licensors and antecedents. Finally, we perform the tasks of detection and resolution of noun ellipsis with different classifiers trained on our corpus and report baseline results.",
+            language = "English",
+            ISBN = "979-10-95546-34-4",
+        }
 
 # CONTACT
 
