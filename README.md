@@ -53,8 +53,9 @@ Any publication reporting the work done using this data should cite the followin
 # CONTACT
 
 For any queries related to the corpus, contact:
-Payal Khullar
-khullar.payal@gmail.com
-payal.khullar@research.iiit.ac.in
-MT and NLP, IIIT Hyderabad
+
+        Payal Khullar
+        khullar.payal@gmail.com
+        payal.khullar@research.iiit.ac.in
+        MT and NLP, IIIT Hyderabad
 
