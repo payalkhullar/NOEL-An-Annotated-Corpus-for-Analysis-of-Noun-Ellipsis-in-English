@@ -1,0 +1,498 @@
+L242251 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What'd you find, Kathy?
+L242250 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Wow...
+L242249 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Uh... don't see it.  There's no signature.  But hang on -- there's a note to "See Addendum."  Checking...
+L242248 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Who signed as his "sponsoring officer"?
+L242247 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Got it.
+L242246 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ "Wickwire, Thomas Dane."  See what you can find.
+L242245 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Okay, but... You didn't have to do what you did.  Not for me.
+L242244 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Or rank.  But can you do me a favor and pull a transfer order?
+L242243 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Who's...  Lieuten --
+L242242 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Don't say my name.
+L242241 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Administration, Ensign Blondell.
+L241984 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ More than you'd guess.  It's just that we don't hold coffee klatches. If more then three of us get together at any one time, the guys think it's some kind of uprising.
+L241983 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ But are there... I mean, how many...
+L241982 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Just a friend.  We have friends, too, you know.
+L241981 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ The woman I saw you with...
+L241980 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ I've been accused of that wish.
+L241979 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I don't know if there's any single reason.  But my father was Navy. And he had this old-time recruiting poster in his den.  It showed a girl trying on a sailor's uniform while saying, "Gee, I wish I were a man! I'd join the Navy!"  Was maybe 10 years old when I first saw it, and even then it felt wrong.  Made me mad.  And I don't think a month has gone by that I haven't thought about that poster.  "Gee, I wish I were a man."
+L241978 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Just some of the women.
+L241977 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Who's "we"?
+L241976 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ Can I ask you somethin', lieutenant? How come you're doing this?  I mean, we're kinda curious.
+L241975 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ That's what I hear.
+L241974 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ They take you away to San Clemente Island.  Half the guys quit when they come back.  Supposed to be just hell-and-a-half.
+L241669 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ No problem, lieutenant.
+L241668 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, ensign.
+L241667 +++$+++ u1007 +++$+++ m66 +++$+++ BLONDELL +++$+++ B.O.Q., south side.  Take a starboard tack out the door.
+L241889 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Then set out the good plates, we'll all have lunch.  My office will follow up with details.  Jumping off, now...
+L241888 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Of course, but there's more --
+L241887 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ "Security"?  What the hell you talkin' about?  Your base isn't secure?
+L241886 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Uh, V.I.P. security arrangements generally take some time, Senator.
+L241881 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Jordan, dear.  How are they treating you?
+L241880 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Standing right here in my office.
+L241879 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Awright.  How's our girl doin', anyway?
+L241878 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Your prerogative, Senator.
+L241877 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Well, seein's how this thing is out, you let me handle the r.p.m.  From this point forward, I want all press matters coordinated via my office. I'll be god-damned if I'm gonna watch Hayes pull flowers out of his ass and take credit for this one. Him or the President.  This my shade?  "Midnight Mahogany"? 'Cuz I'm comin' dangerously close to lookin' like Ronald Reagan here.
+L241874 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Are you truly mouthin' off to a senior member of the Senate Arms Committee?  I mean, I'll give you points for style -- just nothin' for smarts.
+L241873 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ -- nothing I can do about it unless you're suggesting I infringe on their civil liberties -- which I'd happily do if you'll just trim a little fat off the Constitution.
+L241872 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ -- and now I got reporters from Toadsquat, Iowa, calling my office and askin' what I know about this "G.I. Jane" thing.
+L241871 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Senator, they stand out on the public highway with telephoto lenses --
+L241870 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Commander, are you of the habit of letting photographers traipse around your base snappin' their fill? These were supposed to have been discreet test cases --
+L242310 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Basically -- he asked me if I could unring a bell.
+L242309 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir?  What did he say?
+L242308 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Well, if you had to go over my head, lieutenant, that's the way to do it.  Christ, nothin' like a 0-200 call from the Commander and Chief to get the bowels movin'.
+L242207 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Would you have the discretion to end it right then and there?
+L242206 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ I'm not sure what --
+L242205 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir.  If tomorrow... I was not under your command... would the inquiry still go forward?
+L242204 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ I don't see how, O'Neil.  Dismissed.
+L242203 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir, please... if there's any way to do this without dragging everyone through the mud...
+L242202 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ I find this as distasteful as you, lieutenant.  But if it's on my desk, it's on my shoulders.  There's going to be an inquiry -- it will not be quick and it will definitely not be pretty.  You should prepare yourself.
+L242201 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'm saying, we're just friends.
+L242188 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir, if someone is suggesting that I'm a lesbian, they're wrong.
+L242187 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ I don't know of any delicate way to say this, lieutenant, so I won't try.  Claims have been made that you have engaged in fraternization -- of the same-sex variety.  Specifically, that you were...  "... seen leaving the apartment of another female officer at such a time and in such a manner as to suggest conduct unbecoming."
+L241894 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Permission to evaporate, O'Neil.
+L241893 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Permission to leave, sir?
+L241891 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ "We'll all have lunch."  Good idea. Oh, and let's be sure to invite this sociologist, too -- just in case we want to have a FUCKING BRIDGE GAME AFTERWARDS!
+L241890 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir, I want you to know that I had nothing to do with any of this.  Not this article, not --
+L241876 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ You makin' friends with the press, lieutenant?
+L241875 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ See me, sir?
+L241800 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ You'll get everything you want, O'Neil.  Let's see if you want what you're gonna get.
+L241799 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So I'll get a fair shot?
+L241798 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Then good night.
+L241797 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Wouldn't dream of it, sir.
+L241796 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ And if you just happen to wash out, I won't have to contend with you bitchin' to some hairy-chested female Senator?  And please note I did not identify any one in particular.
+L241795 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Across the board, sir.
+L241794 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Straight up?
+L241793 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Same rules for everyone, sir.
+L241792 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Well.  'Least now we're talking the same language.  So one standard.  Is that what you're after?
+L241791 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ The shape doesn't bother me.  It's just that goddamn rotten stench.
+L241790 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ No, sir, WHAT?
+L241789 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ No, sir.
+L241788 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ What I resent, lieutenant, is some politician using my base as a test tube for her grand social experiment.  What I resent is the sensitivity training that is now mandatory for my men... the day-care center I have to build where an officer's lounge used to be... and the OB/GYN I have to keep on staff just so someone can keep track of your personal pap smears.  But most of all, lieutenant, I resent your perfume, however subtle it may be, competing with the aroma of my fine three-dollar-and-fifty- nine cent cigar, which I will happily put out this very instant if the phallic nature of it happens to offend your goddamn fragile sensibilities.  DOES IT?
+L241787 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I think you've resented me from the start, sir.
+L241786 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Did you just barge in here and curse at your base commander?  If so, I regard that as a bonafide brain- fart, and I resent it when people fart inside my home.
+L241785 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Pardon?
+L241784 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Did you just have a brain-fart?
+L241783 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I can't afford civility, sir.  How am I supposed to fit in with these guys when you've got me set up as an outsider?  Even if I make it under these rules, I still lose, because there'll always be a flag in my file -- "Yeah, she made it, but..."  I mean, really -- why didn't you just issue me a goddamn petticoat to wear around the base?
+L241782 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Because I was civil, now you're complaining.
+L241781 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It's this double-standard, the separate quarters, the deferential treatment.  It's how you pulled out my chair and nearly served high tea the first time we met.
+L241780 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Oh, really.
+L241779 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It's you, sir.  And it started the day I came here.
+L241778 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ All right, lieutenant, give me a name and specifics, I'll have the X.O. file an action first thing in the morning.  A name?
+L241777 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Didn't take long.
+L241776 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Pardon the hour, sir.  But you told me to come to you immediately if I felt I was being mistreated in any way.
+L241685 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ If you were like everyone else, lieutenant, I suspect we wouldn't be making statements about not making statements, would we?  Take your leave.
+L241684 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir, I just want you to know... I'm not here to make a statement.  I don't want to make men look foolish. All I care about is completing the training and getting operational experience -- just like everyone else, I suspect.
+L241683 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Then that's all I have to say. Dismissed.
+L241682 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ None at this time, sir.
+L241681 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ I'm not out to change your sex, lieutenant.  You'll have separate beds, separate heads.  If you have specific medical needs, inform the infirmary.  If a classmate or superior acts in an harassing or otherwise unbecoming manner, please inform me immediately so I can deal with it immediately.  Questions?
+L241680 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Really, I have no problem with --
+L241679 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Don't worry about it.  If it's off your collar and out of your eyes, that's all I'm going to ask.
+L241678 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Barber was my next stop, sir. Would've had it regulation sooner, only --
+L241677 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, sir.  But I expect a certain amount of pain.
+L241676 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ So.  We're still coming to terms with the exact protocol for this -- for integrating the Spec-Recon training.  It may not always be smooth, but we're trying to make it as painless as possible for you.
+L241675 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'm fine, sir.
+L241674 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Would you care for a beverage?  Tea?
+L241673 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, sir.
+L241672 +++$+++ u1008 +++$+++ m66 +++$+++ C.O. +++$+++ Yes, of course.  Please, have a seat, lieutenant...
+L242017 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ West?
+L242016 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Entering my scan now...
+L242015 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Newberry, get a photo.  South?
+L241905 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ No problem, sir!
+L241904 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Fine by me, sir!
+L241901 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Motherachrist...
+L241900 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Ah, c'mon...
+L241757 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir...
+L241756 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Aw, what is this...
+L242370 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ O'Neil.  Our air's gonna crap out as soon as we get down there.  You know that, don't you?
+L242369 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ What, we're gonna pry 'em out with paddles?
+L242042 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Fuck me.
+L242041 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Banditos on the east perimeter!  150 yards!  Shit, she was part of it!
+L242035 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Hey.  Ain't your call, man.
+L242034 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Only blanks.  Lemme do it.
+L242033 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ I ain't gonna shoot her.
+L242032 +++$+++ u1009 +++$+++ m66 +++$+++ CORTEZ +++$+++ Smoke her.
+L242031 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Shit.  Think we're had.
+L242160 +++$+++ u1011 +++$+++ m66 +++$+++ DEHAVEN'S AIDE +++$+++ Not that.  The White House just announced that it was sponsoring legislation that would, in one stroke, void all remaining elements of the 1948 Combat Exclusion Laws.
+L242159 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ She made it through S.E.R.E. training.  Got a call this morning from --
+L242158 +++$+++ u1011 +++$+++ m66 +++$+++ DEHAVEN'S AIDE +++$+++ Did you hear?
+L242157 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Yes?
+L241896 +++$+++ u1011 +++$+++ m66 +++$+++ DEHAVEN'S AIDE +++$+++ Congress and the Pentagon share a lot of plumbing.  They'll never know whose leak it is.
+L241895 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Think I overplayed it?
+L241578 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ I'll act surprised.
+L241577 +++$+++ u1011 +++$+++ m66 +++$+++ DEHAVEN'S AIDE +++$+++ White House boys want a private meeting.
+L241573 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ That aside for the moment, I'm struck by the tenor, the ill-spirit of your report... the degrading remarks by other aviators... innuendo about her performance in unrelated situations... even a reference to her sexual activity the weekend prior.  In my seven years on this committee, I've never seen a downed aviator treated like this.  Never.  I'm deeply disturbed by this report, Mr. Hayes.  Not just what it bodes for women in the military -- but for your own confirmation as well.
+L241572 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ The commission concluded that the aviator in question failed to execute a proper approach to the carrier.
+L241571 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ I'd like to think our next Secretary of the Navy would be prepared for anything, Mr. Hayes.
+L241570 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ I'm really not prepared for any kind of in-depth review of --
+L241569 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Yes, I see your signature right here -- twice the size of everyone else's.  And your conclusion was "pilot error," hmm?
+L241568 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ I was one member of the investigating commission.
+L241567 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ The Navy's conclusion regarding the crash of an F-14 aboard an aircraft carrier.  Female aviator, it just so happens.  You're familiar with this report and its conclusion, am I right?
+L241566 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ Madam Senator... this is an internal document of the U.S. Navy.  I must seriously question whether --
+L241565 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ "The Lark Report."
+L241564 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Well, I'm just an old dame without much time left, so you'll pardon me if I jump right in here before they discontinue my blood-type.  I am deeply concerned over the Navy's seemingly incontrovertible attitude toward women in the military.  Case in point...
+L241563 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ Hardly the case, Senator.
+L241561 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Whoa, whoa, whoa.  "Land-based maritime specialties." Gimme a second here to de-euphemize that...
+L241560 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ ... last few years have brought many advances in the interests of women in naval service, particularly in the land-based maritime specialties. What's more, the Navy has instituted special sensitivity courses with an eye on --
+L242303 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Well, I spoke with Mr. Hayes this morning myself -- and told him the deal was off.  No more test cases. He was only too happy to oblige.  Don't play politics with me, little darlin'.  You'd be up way past your bedtime.
+L242302 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You know, I wonder what the SecNav would think about it.  If I spoke with him.
+L242301 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ You'll think about my offer?
+L242300 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'm sure it is.
+L242299 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ I've had no direct communication with him since this whole thing began.  And that's quite verifiable.
+L242298 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You promise Wickwire a fast ticket, too?
+L242297 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ I once promised you a fast ticket, Jordan, and I always meant to make good on that.  Come work for me.  I can always use a hard-charger on my team.
+L242294 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I wanted the choice.  The chance to prove myself, my skills, my work, me.  That's how it should've been.
+L242293 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ The reality is this:  We send far too many men off to war.  I don't need to compound the problem with women.  Can you honestly tell me you wanted that life?  Squat-pissing in some third-world jungle with --
+L242292 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So the rhetoric gets you headlines. But the reality gets you in trouble.
+L242291 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Jordan.  I don't expect you to fully understand this -- but sometimes there's more to be gained from the fight than the victory.
+L242290 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You were never going to let women serve in combat.  You always had a safety net.  Or thought you did.
+L242289 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ I'm saying it's not going to happen. Not when the President is set to turn this into a third-rail issue should I choose to ever campaign against him.  He will fry me six ways to Sunday for sending daughters and young mothers off to war -- and, quite possibly, for bringing them back in body bags.
+L242288 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What are you saying?  That a women's life is more valuable than a man's? That a women's death hurts a family more?
+L242287 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ In face, I do:  Roper, Harris, Gallop -- they all come back the same.
+L242286 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You don't know that.
+L242285 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ What he did was light the bandwagon on fire.  Because he knows what I know -- that American families are not prepared to put their daughters in harm's way.
+L242284 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So?  Isn't the President jumping on your bandwagon?
+L242281 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ If I have to ask again, Senator, I'll be asking in front of cameras.
+L242280 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Should probably ask him that.
+L242279 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What changed?
+L242278 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Wickwire was there to help.  To be my eyes on the inside, to make sure you were getting a fair shot.  At least that was the intent.
+L242277 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Absolutely not.
+L242276 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Did you set me up?  Did you set me up just to see me fail?
+L242275 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Jordan.  Might we do this over lunch tomorrow?  I do very much want to talk, but now is scarcely --
+L242274 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It should.  You nominated him for Spec-Recon just three days after you nominated me.
+L242273 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Sounds familiar.
+L242272 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You know him.
+L242271 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Lieutenant Thomas Wickwire.
+L242270 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Jordan.  I always hoped we'd get together -- though just now I'm gearing up for a child-care vote that --
+L241885 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Gonna be visiting that all-woman's America's cup team in a few weeks -- If I were a gambler, I'd say Dennis O'Conner's days are numbered.  But they're in San Diego, so I thought I'd take a quick promenade of the base.
+L241884 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Uh, ma'am.
+L241883 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Hmmm.  Maybe I'll ask when I see you in person.
+L241882 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Can't complain, ma'am.
+L241636 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ There'll be more to follow -- but yes, dear, right now you're the pick of a very large litter.  And your success would mean a lot.  Jumping, now...
+L241635 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Would I be the only one?  The only woman?
+L241634 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ Yes, dear.
+L241633 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Uh, question, ma'am.
+L241632 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ My office will fill him in and help expedite.  Look forward to meeting you at the proper time.  Jumping off now...
+L241631 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Captain Dwyer.  Technically.
+L241630 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ This is just a test case, O'Neil. But if it works out -- if you work out -- it could well change the Navy's official policy on women in combat.  Or, actually, its official non-policy.  Now who's your immediate superior there?
+L241629 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I know that, sir.  Ma'am.  It's just that... Beggin' your pardon, Senator, but... do you understand that this involves combat training?
+L241628 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ California.
+L241627 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ "Coronado."
+L241625 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ High-school pentathlete... ROTC scholarship, graduated with honors... top marks in Basic Training... and, as it just so happens, a constituent of my home state of Virginia.  Oh, the things I'll do for one extra vote.
+L241624 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, ma'am.  Um, may I ask what this is regarding?
+L241623 +++$+++ u1010 +++$+++ m66 +++$+++ DEHAVEN +++$+++ So everyone I talk to says you're top drawer with silk stockings inside.
+L242167 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ "G.I. Jane."  And which one of you told me she wouldn't last a week? Huh?
+L242166 +++$+++ u1012 +++$+++ m66 +++$+++ FLAG OFFICER #1 +++$+++ I think it's more important, sir, to decide what we're going to do -- since it's apparent this issue is not going away quietly.
+L242165 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ What the hell is the President trying to do?  Steal DeHaven's thunder?
+L241593 +++$+++ u1012 +++$+++ m66 +++$+++ FLAG OFFICER #1 +++$+++ Doesn't matter who she picks.  No woman is going to last one week in a commando training course.  And I don't care who it is.
+L241592 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ Then I suggest we start there.
+L241591 +++$+++ u1012 +++$+++ m66 +++$+++ FLAG OFFICER #1 +++$+++ I'd go Special Reconnaissance. Every bit as tough -- and we have a 60 percent drop-out rate among the men.
+L241590 +++$+++ u1014 +++$+++ m66 +++$+++ HAYES +++$+++ So she picks the women, we pick the programs.  Seals?
+L242360 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Spotted you, Chief.  Pri One is to slip you some air, so we're coming down with a tank -- just something until the A-team shows.  Over.
+L242359 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ Six o'clock!  Marking, marking!
+L242337 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Flea, 'Cool, Cortez, Newman -- take your minis, hit the water.  Go, GO!
+L242336 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ Close as I can get, el-tee!
+L242051 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Fuck.  Basher-Basher, this is Ground Crew Six requesting emergency extraction. Stand by for a PRC fix...
+L242050 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ Really don't wanna be captured, el- tee.  Heard some bad things.
+L241832 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ 'Snot me.  It's him.
+L241831 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Hey.  You okay, Flea?
+L241828 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Do that.
+L241827 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ I'll work on it, ma'am.
+L241826 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Well, Flea, I appreciate the respect you just showed me.  But I don't need it and don't want it -- not that kind of respect, anyway.  It's just gonna hurt us both, okay?
+L241825 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ No, ma'am.
+L241824 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So it really has nothing to do with actual brain size?
+L241823 +++$+++ u1013 +++$+++ m66 +++$+++ FLEA +++$+++ It's really "F. Lee Montgomery" -- but that gets whittled down to just "Flea."  For short, ma'am.
+L241822 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Montgomery, why do they call you "Flea"?
+L242184 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ You're wanted at the C.O.'s.
+L242183 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir?
+L242182 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ O'Neil?
+L241821 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ Flea!  O'Neil!  Why is there a break in that line?
+L241820 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Come on, Montgomery...
+L241819 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ If you can't feel the other guy's pecker, you ain't in tight enough! I want nuts to butts!
+L241818 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Just do it, okay?
+L241760 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ ... two... one... MARK!
+L241759 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I can make this wall without --
+L241758 +++$+++ u1015 +++$+++ m66 +++$+++ INSTRUCTOR JOHNS +++$+++ Don't have to use it, O'Neil, but it's gotta go out.  Five... four... three...
+L242156 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ I think you probably would -- if you didn't know I was right.
+L242155 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ I oughtta report you.
+L242154 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Of course it is.  And I'm gonna stay on her until everyone realizes this is not some bullshit equal-rights thing, that real lives are gonna be lost.  Maybe mine, maybe yours.
+L242153 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ She's a women, and that's why you're ridin' her bareback.
+L242152 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ She's an officer.  There's a higher standard.
+L242151 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ She's a trainee, just like the others.  Why are you coming down so hard?
+L242150 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ I've had it.  Just because they pay me like a baby-sitter doesn't mean I'm gonna be one.
+L242149 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ You broke a dozen training rules back there -- before I lost count.
+L242148 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ You don't think she'd be raped if she were captured?  You don't think the threat of rape would be used to leverage the men?
+L241898 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Get it up!
+L241897 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Boat Five -- Wickwire, Cozad, Vinyl, Intagliata, Ayers, and Wise. Lieutenant Wickwire is your senior officer.  Follow his orders to your death.
+L241858 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Every class has its surprises, Pyro. This one'll be no different.
+L241857 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Miller.  Thought the guy was made of depleted uranium.  Really didn't expect to lose him.
+L241830 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Check your watch, Pyro.  Seems fast.
+L241829 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Time.
+L242394 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Maybe it's not my place to speculate on his private thoughts.  But I think the Chief knew that his way -- his world -- had come and gone.
+L242393 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Just a coincidence?
+L242392 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ The Chief was granted early retirement as of 17-hundred yesterday.  By 18-hundred he was gone.  Out of the Navy.
+L242391 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I was looking for him earlier, but...
+L242390 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ I believe he earned it for saving a man's life in Saudi Arabia.  He wanted you to have it.  He was very clear on that point.
+L242389 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ The Navy Cross...
+L241771 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What "all females"?  If I'm the only --
+L241770 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Automatic five-second deduction, which slips you under the wire. It's called "gender-norming," O'Neil -- standard procedure for all females in physical training courses.  Where you been the last few years?
+L241724 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ You'll try what we tell you to try, O'Neil.  Go regulation.
+L241723 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'll try anyway, sir.
+L241722 +++$+++ u1016 +++$+++ m66 +++$+++ INSTRUCTOR PYRO +++$+++ Not doin' them very fine, O'Neil.
+L241721 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, sir.  But I like these just fine.
+L242401 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ "Yes, Jordan -- I'll wait for you no matter how long."
+L242400 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Which is guy-speak for...
+L242399 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Look.  It's not like you'd be completely out of reach.  And maybe we could call in a few favors, get you stationed at Norfolk instead of Coronado.  There are ways of dealing with these things -- I mean, if people are so inclined.
+L242398 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So here we are again.  Staring three years of operational duty in the face.
+L242240 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Yeah.  Me too.
+L242239 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I'd sure like to know who.
+L242238 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You don't crap out of Spec-Recon and get another shot without dispensation from someone up in flag country.  He's got a Sea Daddy somewhere.
+L242237 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ "Wickwire, Thomas Dane"... Second run at Coronado... and correct, they had him stashed in the "Appropriation Liaison Office," whatever that is.
+L242236 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Wickwire said he was dry-docked in Washington between stints at Coronado...
+L242235 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ What?
+L242234 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ "In Washington..."
+L242232 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Well, pardon me if I do.  Now who else?  Who could've leveraged a class officer like that?  C'mon, Jordan, keep your head in the game.
+L242231 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I don't know, I don't care.
+L242230 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Or like maybe he was baby sitting a problem child for the Navy.
+L242229 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sounds like an amazing coincidence.
+L242228 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Instructors typically pull three year assignments.  This guy's in and out in one year -- your year.  That sound right?
+L242227 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What about him.
+L242226 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ "John James Urgayle."  The Chief.
+L242225 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Well, before you crawl off to die, Jordan, give me five minutes of good headwork.
+L242224 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'm tired of fighting back.  I just wanted to come home and be safe and have you here and the river there and just forget the rest of the world, okay?
+L242223 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Someone screwed you over like this, left unanswered charges hanging over your head, and you're not gonna fight back?
+L242222 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It's done with, Royce.  Let it go.
+L242221 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ C'mon, Jordan.  Do the headwork with me.
+L242218 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ The Chief?  Or maybe even Turrentine?  Your C.O.?
+L242217 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ No shortage of suspects.
+L242216 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Almost like someone put him up to it.  Okay, who?
+L242215 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Maybe.  Though it didn't seem like he was getting any satisfaction out of it.  Almost like...  Did I say he was class officer?
+L242214 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ And this class officer... "Wickwire."  You think he was just trying to get even?  Striking back for...
+L242213 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ All I wanted was an honest chance. And If I couldn't get it, I couldn't stay.
+L242005 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sure.  I'll join the crowd.
+L242004 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Jordan.  You watch your ass.
+L242003 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Still can't make up your mind, huh? Gotta go, Royce.
+L242002 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ That's not what I want, Jordan.  I mean... it is and it isn't...
+L242001 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Well, let me warm you:  I'm going though with this.  The more everybody fucks with me, fucks with my head, the more it just makes me want to finish.  So don't expect me back crying in your arms any time soon, okay?
+L242000 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I'm only trying to warn you in case --
+L241999 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You know, Royce, I got enough heat on me without you turning up the jets, too.
+L241998 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Big symbols make big targets, Jordan.  I think someone's gunning for you.
+L241997 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So why are you telling me this?
+L241996 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I can't walk two blocks in Washington without hearing about "G.I. Jane."  You're all over the place, and whether you wanted it or not, the feminists are sizing you up for that poster.
+L241995 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I saw an article...
+L241994 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Don't you know?  How they're talking about you?
+L241993 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Me?  Why me?
+L241992 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Well, not this.  I was doing the Pentagon scene few nights ago.  Got some fresh stuff -- about you.  You may be in a hostile camp.  I think someone may be taking steps to ensure that you crash and burn.
+L241991 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I feel like there's men here, there's women here -- then there's men.  But hey, what'd I expect?
+L241990 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ That bad?
+L241989 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ How hard they making it on you?
+L241988 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It's hard to find time to sleep, Royce.  Much less keep up with my phone life.
+L241987 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I've been trying you for five days. Don't they give you messages?
+L241660 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, Royce.  It was shaping up like such a tough call -- and then you go and make it so goddamn easy. Really, thank you so much.
+L241659 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Jordan...
+L241658 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You know, right up until you said that -- I thought I did know.
+L241657 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Sounded lame as soon as it came out of my mouth.  But I'm trying to be honest, okay?  Three years is a long time.  Don't ask me to predict how I'll feel then, Jordan, because I don't know.  And either do you.
+L241656 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Which is guy-speak for...
+L241655 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I don't feel like doing an option paper on the rest of my life, Jordan.  Maybe we should just let it happen.
+L241654 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Wai', wait.  What happens if it works?  Four months of training, three years of operational duty. What then?
+L241653 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I'll try to keep the door open.  If you wash out, I make it so that --
+L241652 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sorry.  But after our days...  So if I try this thing... if I ship out to Coronado... what happens here?
+L241651 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ You're such a ball-breaker sometimes.  Especially at night.
+L241650 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Get your dick back here.  It has everything to do with you.
+L241649 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Well, guess I don't even need to be here...
+L241648 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ This has nothing to do with you.
+L241647 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ So dump on me.
+L241646 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You need operational duty to really advance... you need combat training to go operational... yet combat training is off-limits to people with tits.  I'm topped out at Intel. Forget the glass ceiling -- I'm beating my head on a big brass ceiling.
+L241645 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ She's haze grey and underway...
+L241644 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Royce.  We're the same age, we started the same time -- and now you're sitting in the upperdecks while I'm still down in the bullpen. What does that tell you about the Navy?
+L241643 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Well, you're doin' shit-hot at Intel.
+L241642 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I take it you don't either.  Feet.
+L241641 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Spec-Recon.  Those guys are world- class warriors.  And they will not want you there, Jordan.
+L241640 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Just like you would be.
+L241639 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ So why're you even considering it? Are you?
+L241619 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Is this my glory, sir?
+L241618 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ By the way, I'll need that option paper by 11-hundred today so I can review it with Admiral Hanover.  And do we have any of that breakfast tea around here?
+L241617 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Intel has its own glory, lieutenant -- no matter how subtle.
+L241616 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Hate this part.  Just sweating it out on the sidelines.
+L241615 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Probably hear back from CNN first.
+L241614 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thank you, sir.  We hear back from the Pentagon?
+L241613 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ That was good headwork, lieutenant.
+L241610 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Only four minutes to neutral waters, sir.  Why not?
+L241609 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ You expect the extraction team to ride the sub bare-back?  Is that correct, O'Neil?
+L241608 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Quick-hit technique used by Capone. Rigged a getaway car with running boards and handles.  All his guys had to do was jump on and take a ride.  Check the files -- DPRK-57 -- I doped it out as a contingency plan:  Seal Team infiltrates, picks up the package, links up with recovery sub.  But don't waste time opening and closing hatches.  They just grab the periscope and hang on for neutral waters.
+L241607 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Blank faces here, O'Neil.
+L241606 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Unless you Whiskey Run.
+L241605 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Halfway 'round the world.  So that's the problem -- we can get the team in, just not out.
+L241604 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ North Korean beaches are the best protected, most heavily monitored in the world.  The civilian population is so propagandized that it acts as an Early Warning system.  Extraction team has to be small and silent -- I'd go with Seals over Delta Force. Problem is, don't want to hold a conventional sub off-shore for target practice.  Where's The Polk?
+L241603 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ You're the analyst for East China, O'Neil.  Analyze.
+L241602 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Chances of recovery?
+L241601 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Signals received only sparingly, in such a pattern that leads us to conclude it is a downed aviator trying to conserve his batteries.
+L241600 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Do we know it's him using the beacon?  Not a decoy?
+L241596 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Not due in for 22 minutes, sir. Watcha got?
+L241595 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Gotta situation here.  Where are you?  Stuck in traffic?
+L241594 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Lieutenant O'Neil.
+L242191 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ This is insane.  You've got no proof.
+L242190 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ I'm sorry, O'Neil.  But as class officer, it's my obligation to report all violations.
+L242180 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Okay.  Well... thought I'd ask.
+L242179 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ We're going over to her place to make salad and pasta.  Just, you know, nothing special.
+L242178 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Sure, sure.
+L242177 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Do you, uh, know...
+L242175 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thanks for lying.  But you're the class officer, Wick, and it'd just be weird if we hook up.  Besides...
+L242174 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ I think you look beautiful.
+L242173 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I can't go out.  Not like this.
+L242172 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Maybe I'll just head over to McP's with the others, have a drink or four.  Don't wanna come, do you?
+L242171 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ First big night of liberty and no date?  You're pathetic, Wickwire.
+L242170 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ That's okay.  Just an ex-girlfriend. And know I remember why.
+L242169 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sorry, didn't mean to --
+L242078 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Let's keep talkin', Wick.  Just keep talkin' to me...
+L242077 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Last time I didn't.
+L242076 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ How'd you make it last time, Wick? How'd you get through this part?
+L242075 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ O'Neil?
+L242074 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Not me.  You?
+L242073 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You got anybody, Wick?
+L242072 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ At first.
+L242071 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ He was married?
+L242070 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ So the shit you gotta go through? To get from here to there?  Brother said it was worth it.  Worth the training... worth the divorce... worth anything.
+L242069 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ That's a good story.
+L242068 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Nah, they were dead-ass asleep.  But on every guard's chest,they left one Marlboro cigarette.  Just a little calling card to say they'd been there -- and could come back any time they wanted.
+L242067 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ They had to kill 'em?
+L242066 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ One time he was doing a rekkie of the Libyan coastline.  This is, like, right before we bombed Khadaffi into the past tense.  So his crew does a nighttime infil, maps all the big artillery placements and stuff, then turns around to get the hell gone.  But between them and the water are five Libyan guards, all armed to the nuts.
+L242065 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ If you got a good one, Wick...
+L242064 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ When I was sittin' behind a desk in Washington, it made sense, somehow. Blame it on my big brother.  He was Spec-Recon.  And the stories he used to tell...
+L242063 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ You really came back for more?  Of this?
+L242062 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Intagliata was out chasing breakfast.  They found his tracks. Well, shit.
+L242061 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Wick.  They got your crew, too?
+L242060 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ You know, I had an apartment about this size once.
+L242059 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Who is it?
+L241856 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Thanks, Wick.
+L241855 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Hey.  Way to gut it out.
+L241751 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ You're kind of a surprise yourself.
+L241750 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I didn't know they let you try again.  Especially at your age.
+L241749 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ Made it to Week 10 last time.
+L241748 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ And how do you know that?
+L241747 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ It was made clear.  Anyway, stay ballsy.  First week's hell, then it levels out.  Until S.E.R.E. training, anyway.  That's hell-and-a-half.
+L241746 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Whose orders were those?
+L241745 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ It was made clear before you came -- harassment equals career suicide. Can't say anything good, so they don't say much at all.  To your face, anyway.
+L241744 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Well, now I feel so much better.
+L241743 +++$+++ u1023 +++$+++ m66 +++$+++ WICKWIRE +++$+++ They're more afraid of you.
+L242368 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Grab an oar, find a way to weight it down, we're gonna need it.  Cortez, help him.  Flea?  You take one of the two full minis -- and just follow my lead.
+L242367 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Maybe half.  Not even.
+L242366 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ So we got two full mini-tanks, three minutes each.  'Cool?  How much air in yours?
+L242055 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Smoke it!
+L242054 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ 'Cool?
+L242053 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I'm lookin', I'm lookin'!
+L242052 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ 32 feet, six inches!
+L242039 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Mighta been civilian.
+L242038 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ If not, firing will only give away our position to hostiles in the area.  Now how smart is that?
+L242029 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I don't know...
+L242028 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ She part of the training?
+L241848 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What, you gonna give it all up for a maple twist?  How dumb you gotta be? That's exactly what they --
+L241847 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Just askin'
+L241846 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ What're you guys doing?  Huh?
+L242378 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Shut up, sir.  I'm concentrating.
+L242377 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ O'Neil...
+L242358 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Show us where you are, Chief.
+L242357 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Got it.
+L242352 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ 15, sir.
+L242351 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Say again?  How many micks?
+L242350 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Chief, sir -- rescue team won't be here for 15 minutes.  What's your air situation?  Over.
+L242349 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Managed to activate the ELB.  If you just radio base and let them know, they'll fix on that.  Oh, and make sure they send a helo with a winch -- door's blocked by a reef.  Over.
+L242319 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Okay, O'Neil.  So you've impressed all the others.  Now try me.
+L242318 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Good to see you again, too, sir.
+L242317 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Well, I'm trying to figure out if you're stupid, unlucky, gluttonous -- or some new alloy of all three.
+L242134 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ I think we oughtta practice it, just so you know what to expect.
+L242133 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sure.  Just like your men do.
+L242132 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Didn't you know you'd be raped if you were captured?  Didn't you even think about that?
+L242131 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ I'm so glad we agree.
+L242130 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ No.
+L242129 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Do you?
+L242128 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ You think we should go easy on women, O'Neil?
+L242127 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ We didn't know we were compromised. Firing would only've given away our position.
+L242126 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ I'm not the one who got five good men thrown in a bamboo cage.  You wear the bars, you made the call, and you got your whole crew --
+L242125 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I think you're the liar.
+L242124 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ That's what your crew said.  Are they lying?  Or are you?
+L242123 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ That's not right.
+L242122 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ The others already told me, O'Neil. They wanted to shoot, but you wouldn't let them.  Because you went soft on another women --
+L242121 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ No.  Yes.  I mean, depends on --
+L242120 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Would you have shot if it was a man?
+L242119 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ She led us right to you.  That's no threat?
+L242118 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Wasn't deemed a threat.
+L242117 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Why didn't you shoot the woman, O'Neil?
+L242116 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Right down to your worthless womb, and I'll tell you why.  This is my island.  My world.  And here I can get away with shit that would get me arrested anywhere else in the world. Take another scan of my little joy- boy outside.  If I can do that to a Navy Seal, what's gonna happen to you?  Huh?
+L242115 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Should I be afraid?
+L242114 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ You are in the cage, O'Neil.  Right here, right now.
+L242113 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Green Eggs and Ham.  You're not going to get anywhere.  You might as well put me in the cage.
+L242112 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Are you hungry?  What's your favorite food?  We'll try to get it for you.
+L242111 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Dick, Jane, and Spot.
+L242110 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Any brothers?  Sisters?
+L242109 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ "Dad."
+L242108 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Simple question, lieutenant.  No reason not to answer.  What is your father's name?
+L241968 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ You were commissioned one month earlier, which makes you the senior officer.  Remember.  There are no bad crews -- only bad leaders.
+L241967 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ McCool's that same rank.  We're both j.g.'s.
+L241966 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ England went out with a stress fracture.  That puts you in charge, lieutenant.
+L241965 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ It also seems like a problem with the men's attitude, sir.  So maybe you should be sniffing around their shower room instead.
+L241964 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Females in combat situations impact unit cohesion.  Men fight better without women around.  And that is an historical fact.
+L241963 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Could you have pulled that 210-pound man clear, lieutenant?
+L241962 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ I see.  So when a man tries to rescue another man, he's a hero. But when he tries to rescue a woman, he's gone soft.
+L241961 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ For pulling a 210-pound man out of a burning barrack in Saudi Arabia.
+L241960 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Sir, someone mentioned you received the Navy Cross.  May I ask what you got it for?
+L241959 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ It seems the men couldn't get used to the sight of women blown open and their viscera hanging from tree limbs.  Israeli men would linger over wounded females -- often to the detriment of the mission, often endangering their own lives.  They don't use women anymore.
+L241958 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Permission to get dressed, sir?
+L241769 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ Educate her, Pyro.
+L241768 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Chief, sir, I don't understand why --
+L241766 +++$+++ u1021 +++$+++ m66 +++$+++ THE CHIEF +++$+++ You heard me.  Move on.
+L241765 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Say again, sir?
+L242343 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Shut your hole, Slutnik.
+L242342 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Maybe we should call the Coast Guard.
+L242333 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ FLEA!  KEEP YOUR EYES ON THAT SPOT! Mark it, mark it!  Cortez?  What the hell you waiting for?
+L242332 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ You don't suppose this is just part of...
+L242327 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Cortez, see if you can dig out the tools without losing the rest of out gear.  Try a wrench on that thing.
+L242326 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ I just wonder how that happened.
+L242046 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ MOVE!
+L242045 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Sure.  Now she wants to shoot.
+L242044 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ All right, fire-and-evade maneuvers. Drop everything but weapons and the PRC radio -- we're gonna be high speed, low drag all the way to the link-up site.  Ready?
+L242019 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ North?
+L242018 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Clear.
+L241810 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Listen, Sex Ape.  I'm here to stay. And if you don't want me for a roommate or classmate, you got two options -- move out or ring out. End of file.
+L241809 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ WOULD YOU JUST GET OUTTA HERE?
+L241808 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ That your desk?  I'll take this one.
+L241807 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Aw, lookit this, lookit this -- she's bringin' Tampax in here. C'mon, you got nothin' but rooms over there.
+L241806 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Funny, the C.O. says I can.
+L241805 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Hey, hey, HEY.  No possibility.  You can't stay in here.  You can't sleep right next to me.
+L241804 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Anybody usin' these drawers here?
+L241803 +++$+++ u1017 +++$+++ m66 +++$+++ JORDAN +++$+++ Your new roommate.
+L241802 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Well, who the shit you think you are?  Comin' in here like that?
+L242049 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ This ain't even workin' wrong!
+L242048 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ What's our go-to-shit plan, O'Neil?
+L242047 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ This ain't workin' right!
+L242023 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ So am I.
+L242022 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ You mind?  I'm trying to eat here.
+L241774 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ Somebody throw a tent over this circus.
+L241773 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Can't live with them, can't kill them.  What's the point?
+L241695 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ We are so fucked.
+L241694 +++$+++ u1020 +++$+++ m66 +++$+++ SLUTNIK +++$+++ Darth Vader reads poetry...
+L241693 +++$+++ u1018 +++$+++ m66 +++$+++ MCCOOL +++$+++ We're fucked.
+L242106 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ This is what you get for brain- picking an old CIA spook.  but if I needed to control the outcome of this test case, that's how I'd do it.  A man-in-place.  Makes everything very controllable.
+L242105 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I don't...  What, someone on base?  A "mole"?
+L242104 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Okay, so now work it from the other end.  Think about California -- and how things might be handled there.
+L242103 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Even tough I don't talk to her every day -- I still talk to her every day.  Know what I mean?
+L242102 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ I take it this file is still open.
+L242101 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Christ, I don't want to see her take a fall.  She thinks I do, but...
+L242100 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ This ain't about some little soldier girl sloggin' her way through commando school.  The implications go way beyond.
+L242099 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ I don't know.  Seems...
+L242098 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ If you were the President, wouldn't that put a little piss in your shoes?
+L242097 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Women.
+L242096 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Don't for a second think she didn't leak this story.  "G.I. Jane" gives DeHaven a symbol that taps into the biggest constituency of them all.
+L242095 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ The first female President?
+L242094 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ The White House.  If Jordan wins, DeHaven wins in spades.  Why?  Well, it's been said that the only man the President fears -- ain't no man.
+L242093 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Hmm.  Let's aim higher.
+L242092 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ Possibly.  Just to spite DeHaven.
+L242091 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Sabotage born of economics? Wouldn't be a first.  But is Hayes really going to start his watch with such a public failure?
+L242090 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ The Navy?  They've made it clear they don't want to pull missiles out of subs to make room for women's heads.  What's it gonna cost to make a fleet of Trident's co-ed?
+L242089 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Congress cuts, military bleeds.  But Pentagon's a big place.  Let's narrow the sights.
+L242088 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ The E-Ringers?  Full integration is gonna cost the services billions at the worst possible time -- when Congress is already swinging the axe.
+L242087 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ All right.  So who stands to gain if Jordan flames out in a big way?
+L242085 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Sorry.  Thought you knew I knew.
+L242084 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ You knew about us?
+L242083 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Thought you two were file-closed.
+L242082 +++$+++ u1019 +++$+++ m66 +++$+++ ROYCE +++$+++ O'Neil, Jordan.
+L242081 +++$+++ u1022 +++$+++ m66 +++$+++ THE SPOOK +++$+++ Subject?

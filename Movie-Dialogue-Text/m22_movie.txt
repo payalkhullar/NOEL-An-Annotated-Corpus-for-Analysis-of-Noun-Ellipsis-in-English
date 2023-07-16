@@ -1,0 +1,483 @@
+L56281 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Oh, you're very clever. Let's make love, you silly, hairy little man.
+L56280 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I think it was Wordsworth who penned this little gem: 'Press the button, pull the chain, out comes a chocolate choo-choo train.'
+L56279 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ I'll tell you all in due time, after we make love. But first, tell me another poem.
+L56278 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Damn. What exactly do you do at Virtucon?
+L56277 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Yes.
+L56276 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Is it about my teeth?
+L56275 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Do you mind if I ask you a personal question?
+L56274 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Kiss me.
+L56273 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ To my health.
+L56272 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Thank you, that's beautiful. To your health.
+L56271 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ 'Milk, milk, lemonade.  Round the corner fudge is made.  Stick your finger in the hole, And out comes a tootsie roll!'
+L56270 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ That's very clever. Do you know any other poems?
+L56269 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ 'Pardon me for being rude, It was not me, it was my food.  It just popped up to say hello, and now it's gone back down below.'
+L56268 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Mmmm... I feel extreme relaxation.
+L56267 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ How do you feel, Mr. Cunningham?
+L56266 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Sak-i it to me!
+L56265 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Care for some saki?
+L56264 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Or sometimes not at all.
+L56263 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ In Japan, men come first and women come second.
+L56262 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Groovy.
+L56261 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ May I wash you?
+L56260 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Don't you like girls, Mr. Cunningham? Come in, and I'll show you everything you need to know.
+L56259 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'd rather talk about Number Two.
+L56258 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Come in.
+L56257 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Behave!
+L56256 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ It's for the mining industry, Mr. Cunningham. We can talk about business later. But first, let me slip into something more comfortable.
+L56255 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I didn't, baby, you just told me.
+L56254 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ Virtucon's main interest is in cable television, but they do have a subterranean construction division, yes. How did you know?
+L56253 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Your boss, Number Two, I understand that cat's involved in big underground drills.
+L56252 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ You may.
+L56251 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Call me Ritchie, Miss Fagina. May I call you Alotta...  Please?
+L56250 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ What do you want, Mr... Cunningham, was it?
+L56249 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ What, and watch all my earnings go...  Down the toilet?
+L56248 +++$+++ u360 +++$+++ m22 +++$+++ ALOTTA +++$+++ I thought you'd quit while you were ahead.
+L56247 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You seem surprised to see me.
+L55905 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Smashing!
+L55904 +++$+++ u361 +++$+++ m22 +++$+++ ANDY WARHOL +++$+++ "Fifteen minutes of fame?" I'm going to use that quote and not give you any credit for that, either.
+L55903 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ If you can become famous, everyone will have their fifteen minutes of fame, man.
+L55902 +++$+++ u361 +++$+++ m22 +++$+++ ANDY WARHOL +++$+++ I'm going to paint this can of soup and become famous and not give you any credit for it.
+L55901 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Here, have this can of Campbell's Tomato Soup.
+L55900 +++$+++ u361 +++$+++ m22 +++$+++ ANDY WARHOL +++$+++ Hungry.
+L55899 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hey, how are you?
+L55898 +++$+++ u361 +++$+++ m22 +++$+++ ANDY WARHOL +++$+++ Austin Powers? Hi, I'm Andy Warhol.
+L56636 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful!
+L56635 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes Basil?
+L56634 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ But, wait, I-- you got me again. Oh, and Austin--
+L56631 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thanks, Basil. Maybe the Nineties aren't so bad after all.
+L56630 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Here's the number of my dentist, he's first rate. Ring him up, he'll look after you.
+L56629 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Austin, I have something for you as well.
+L56628 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Congratulations, Field Agent Kensington!
+L56625 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Not quite, actually. Vanessa, I have something for you.
+L56624 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'd say that about sums it up, Exposition.
+L56623 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Well, Austin, you've stopped Dr. Evil from destroying the world with his subterranean nuclear probe, and somehow you and Agent Kensington managed to escape unscathed from his evil lair.
+L56341 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thanks.
+L56340 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful.
+L56339 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes, Basil?
+L56338 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ I'm leaving!  Oh, and Austin?
+L56337 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I think if everyone were honest, they'd confess that the lady looks exactly like a man in drag.
+L56336 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ All right, Austin, I think you should go.
+L56333 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You must admit, she is rather mannish. No offense, but if that's a woman, it looks like she's been beaten with an ugly stick.
+L56332 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Damn it, man! You're talking about my mother!
+L56331 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm sorry, Basil, I thought she was a man.
+L56325 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's not your mother, that's a man!
+L56324 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ My God, Austin, what have you done?
+L56316 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Good God, and underground missile. We've long feared such a development.
+L56315 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Maybe these photographs are the last piece of that puzzle.  I've uncovered the details on Project Vulcan. It's a new subterranean warhead delivery system.
+L56314 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Indeed... If we could get back to the business at hand. It's one thing to have a warhead, it's quite another thing to have the missiles to launch it.
+L56313 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Circus folk.  Nomads, you know. They smell like cabbage.
+L56312 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ What?
+L56311 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Carnies.
+L56310 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ What's the other thing you're scared of?
+L56309 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Excuse me?
+L56308 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ What's the other?
+L56307 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you, Exposition. Only two things, scare me, and one is nuclear war.
+L56306 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Austin, Vanessa, let me bring you up to speed. Dr. Evil has high- jacked a nuclear warhead from Kreplachistan and is holding the world ransom for one-hundred billion dollars. If the world doesn't pay up in four days, he's threatening to destroy the world.
+L56305 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hello, Exposition.
+L56242 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you.
+L56241 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful.
+L56240 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes?
+L56239 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ There's one more thing, Austin.
+L56238 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Oh, yes. Thank you.
+L56237 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Let me remind you that because of the unfreezing process you might experience flatulence at moments of extreme relaxation.
+L56236 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes?
+L56235 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Oh, and Austin...
+L56234 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you, Basil.
+L56233 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Then you'll have to go it alone. Good luck.
+L56232 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ She's working on another lead right now.
+L56231 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Where is Vanessa, by the way?
+L56230 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Right away, Exposition.
+L56229 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Hello, Austin, this is Basil Exposition from British Intelligence. Thank you for confirming the link between Dr. Evil and Virtucon. Find out what part Virtucon plays in something called Project Vulcan. I'll need you and Vanessa to get on that immediately.
+L56036 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful.
+L56035 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes?
+L56034 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Oh, and Austin...
+L56033 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you, Exposition.
+L56032 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Hello Austin. Hello Vanessa. This is Basil Exposition, from British Intelligence.  There's a company in Las Vegas called Virtucon that we think may be linked to Dr. Evil. Many of the Virtucon executives gamble at the hotel/casino where you'll be staying. That's the first place you should look.  Well, I'm off to the chat rooms.
+L55984 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thanks.
+L55983 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful.
+L55982 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes?
+L55981 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Oh, and Austin...
+L55980 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you, Exposition.
+L55979 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Yes, well...Agent Kensington will get you set up. She's very dedicated. Perhaps, a little too dedicated.  She's got a bit of a bug up her ass. Good luck, Austin, the world's depending on you.
+L55973 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ My God, Vanessa's got a smashing body. I bet she shags like a minx. How do I tell them that because of the unfreezing process, I have no inner monologue?  I hope I didn't say that out loud just now.
+L55972 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Vanessa's one of our top agents.
+L55971 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ No, Austin, Mrs. Kensington has long- since retired. Ms.  Kensington is her daughter.
+L55970 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You mean Mrs. Kensington?
+L55969 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Immediately. You'll be working with Ms. Kensington.
+L55968 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ When do I begin?
+L55965 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Groovy. Smashing! Good on ya!  Nice tie. Yea capitalism!
+L55964 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ We won, Austin.
+L55963 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank God. Those capitalist dogs will finally pay for their crimes against the people, hey Comrades?
+L55962 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ A lot's happened since you were frozen, Austin. The cold war's over.
+L55961 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Russian Intelligence? Are you mad?
+L55960 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ You might also experience a slight fever, dry mouth, and flatulence at moments of extreme relaxation. Austin, this is Commander Gilmour, Strategic Command, and General Borschevsky, Russian Intelligence.
+L55959 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes, I'm having trouble controlling...  THE VOLUME OF MY VOICE!
+L55958 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ The shouting is a temporary side- effect of the unfreezing process.
+L55957 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ WHO ARE THESE PEOPLE?
+L55956 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ You're in the Ministry of Defense. It's 1997. You've been cryogenically frozen for thirty years.
+L55955 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Where am I?
+L55890 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you.  Let's go, baby!
+L55889 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Be careful.
+L55888 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes?
+L55887 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Oh, and Austin...
+L55886 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Thank you.
+L55885 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Good luck, Austin.
+L55884 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Just where you'd never think to look for him. We'll be there.
+L55883 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ I'm afraid not. Earlier this week, Dr. Evil escaped from Zedel Edel Prison in Baaden Baaden and now he's planning a trap for you tonight at the Electric Psychedelic Pussycat Swinger's Club in Picadilly Circus here in swinging London.
+L55882 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Dr. Evil? I thought I put him in jail for good.
+L55881 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ I just wanted to be extremely clear so that everyone knows what's going on at any given time. We've just received word that Dr. Evil, the ultimate square, is planning to take over the world.
+L55880 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ We know all that, Exposition.
+L55879 +++$+++ u363 +++$+++ m22 +++$+++ BASIL EXPOSITION +++$+++ Hello, Austin. This is Basil Exposition, Chief of British Intelligence.  You're Austin Powers, International Man of Mystery, and you're with Agent Mrs. Kensington. The year is 1967, and you're talking on a picture phone.
+L55897 +++$+++ u370 +++$+++ m22 +++$+++ MICK JAGGER +++$+++ Groovy!
+L55896 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Good on ya, man.
+L55895 +++$+++ u370 +++$+++ m22 +++$+++ MICK JAGGER +++$+++ "You can't always get what you want!" That's a great title for a song! I'm gonna write that, and it'll be a big hit.
+L55894 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Well, you can't always get what you want.
+L55893 +++$+++ u370 +++$+++ m22 +++$+++ MICK JAGGER +++$+++ Are you more satisfied now sexually, Austin?
+L55892 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hey, Mick!
+L55891 +++$+++ u370 +++$+++ m22 +++$+++ MICK JAGGER +++$+++ Hey Austin Powers, it's me, Mick Jagger.
+L56580 +++$+++ u366 +++$+++ m22 +++$+++ DESTRUCTACON +++$+++ Love is... love is... love is...
+L56579 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Why not? It's a question.
+L56578 +++$+++ u366 +++$+++ m22 +++$+++ DESTRUCTACON +++$+++ That does not compute.
+L56577 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Really? Let me ask you this. What is love?
+L56576 +++$+++ u366 +++$+++ m22 +++$+++ DESTRUCTACON +++$+++ Yes, I am programmed to answer any question.
+L56575 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Well, Destructacon 5000, you have quite a head on your shoulders, I dare to coin.
+L56574 +++$+++ u366 +++$+++ m22 +++$+++ DESTRUCTACON +++$+++ Good afternoon, Mr. Powers, I'm the Destructacon 5000. I'm programmed to prevent you from progressing beyond this point. You might as well surrender. Resistance is futile. Your odds of survival are 23,763,273 to...
+L56603 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Man, you are one chilly square!
+L56602 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Not really. Kill the little bastard. See what I care.
+L56601 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ It seems the tables have turned again, Dr. Evil.
+L56597 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Really, there's nothing more pathetic than an aging hipster.
+L56596 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's why right now is a very groovy time, man. We still have freedom, but we also have responsibility.
+L56595 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Your freedom has cause more pain and suffering in the world than any plan I ever dreamed of. Face it, freedom failed.
+L56594 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ No, man, what we swingers were rebelling against were uptight squares like you, whose bag was money and world domination. We were innocent, man. If we'd known the consequences of our sexual liberation, we would have done things differently, but the spirit would have remained the same.  It's freedom, man.
+L56593 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Well done, Mr. Powers. We're not so different, you and I. It's true, you're British, and I'm Belgian. You have a full head of hair, mine is slightly receding. You're thin, I'm about forty pounds overweight. OK, we are different, I'm not making a very good point. However, isn't it ironic, Mr. Powers, that the very things you stand for-- swinging, free love, parties, distrust of authority- are all now, in the Nineties, considered to be... evil? Maybe we have more in common than you care to admit.
+L56592 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I've got you, Dr. Evil!
+L56483 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ No, Mr. Powers, I expect them to die. Even after they pay me the money, I'm still going to melt all the cities of the world with hot magma.  All right, guard, begin the unnecessarily Slow-Moving Dipping Mechanism.
+L56482 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Dr. Evil, do you really expect them to pay?
+L56453 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Oh forget it. As a fellow player on the international stage, Mr.  Powers, I'm sure you'll enjoy watching the curtain fall on the third and final act.
+L56452 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm sorry, baby, I'm just not grocking your head space.
+L56451 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Don't try to suck up to me! It's a little late for that. I'm a freak! Look at it, it's been rendered useless.
+L56450 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ What's wrong with your hand?
+L56621 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Behave!
+L56620 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Kiss me.
+L56619 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's fab, because I love you, too, Vanessa.
+L56618 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I love you, Austin.
+L56617 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Lay it on me.
+L56616 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I have something to tell you.
+L56572 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'll secure the perimeter.
+L56571 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm going it alone this time, Vanessa. I have a follow-up visit with the Evil Doctor.
+L56570 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Austin, I'm coming with you.
+L56568 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Don't worry!
+L56567 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Are you crazy?
+L56566 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Follow me! We're going to have to jump over the rail!
+L56562 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hold on a tick, let me put on my togs.
+L56561 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I believe you, Austin. Let's go.
+L56560 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I can explain. They attacked me. Gas came out of her...well, and then they... and I...
+L56559 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Likewise.
+L56558 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ It's not what it looks like, Vanessa.  At ease, boys.
+L56539 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Oh, behave!
+L56538 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Anyways, what I'm trying to say is that if you want me to be a one-woman man, well, that's just groovy, because... I love you.
+L56537 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Austin, what's your point?
+L56536 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Listen, Vanessa, whatever happens, I just want you to know that I feel bad about shagging that Italian girl. I had a sip of sake and all of the sudden, I don't know what happened. The whole time I was shagging her-- I mean really shagging her, I mean it was crazy, I was like a huge mechanical piston, in and out, IN and OUT!--
+L56535 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'll hurry back.
+L56534 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Too right, youth. That's why I need you to lead the troops.
+L56533 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm not going anywhere. We're a team.
+L56532 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ We've got a freaked out square and world annihilation is his bag.  You go get help. I'm gonna stay here and keep an eye on the bad Doctor.
+L56531 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ What do we do now?
+L56518 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Fair enough.
+L56517 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Shut up.
+L56516 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ It's a shame he wasn't more headstrong.
+L56515 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Yes.
+L56514 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's not the way to get ahead in life.
+L56513 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Indeed.
+L56512 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Not a good time to lose one's head.
+L56507 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Smashing idea! Give it to me.
+L56506 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ No, no, no. We'll use the floss to get to the ledge.
+L56505 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ All right, I get it. I have bad teeth. You have to understand, in Britain in the Sixties you could be a sex symbol and still have bad teeth. It didn't matter.
+L56504 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Sadly, no. Hold on! I always keep this on me just in case.
+L56503 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ First, I plan to soil myself. Then, I plan to regroup and think about the next move. Any thoughts?
+L56456 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Not now, Austin.
+L56455 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Does that make you horny?
+L56438 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yes, act naturally and we'll split this scene the way we came in, Vanessa.
+L56437 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Thank God, Austin, we made it.
+L56405 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Don't worry, baby. I picked up a mind control technique during my travels to India. I learned it from my guru, the late Guru Shastri, a chaste man who mysteriously died of a disease that had all the hallmarks of syphilis.  Just watch me. Watch me, now.
+L56404 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Austin, we don't look anything like our photo badges.
+L56399 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm looking at you, and the whole time I can't help thinking you had your willie inside her hootchie-kooch.
+L56398 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ No! Don't lay your hang-ups on me, Vanessa. You're being very trippy.
+L56397 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ You know who.
+L56396 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Who?
+L56395 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Do you think she's prettier than I?
+L56394 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Since I've been unfrozen, I've had a rancid taste in my mouth. Do you have a piece of gum?
+L56360 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'll tell him. By the way, I've decided we should keep our relationship strictly professional.
+L56359 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Out and about, doing odds and sods.
+L56358 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Basil was very concerned to know where you were last night.
+L56357 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Yeah, I can't believe Liberace was gay. Women loved him, man. I didn't see that one coming.
+L56356 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Thirty years of political and social upheaval. The fall of the Berlin wall, a female Prime Minister of England, the abolishment of Apartheid, a fascinating tapestry of human strum und drang.
+L56355 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hello, luv.
+L56354 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ You just don't get it, do you, Austin? Good night. Welcome to the Nineties, you're going to be very lonely.
+L56353 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ It was just a shag, Vanessa. You're everything to me.
+L56352 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Well, it means something to me. If you want us to have a relationship, you've got to be a one-woman man.
+L56351 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Well they should, filthy beggars, they go from port to port.  Alotta meant nothing to me.
+L56350 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Not in the Nineties.
+L56349 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Only sailors use condoms, man.
+L56348 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ No, did you use a condom?
+L56347 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Of course, I had my nine-millimeter automatic.
+L56346 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I can't believe you made love to her just like that. Did you use protection?
+L56345 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Don't be sorry. You're right to be suspicious. I shagged her. I shagged her rotten.
+L56344 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Listen, I know I'm just being neurotic, but I can't shake this suspicious feeling about that Italian secretary, Ms. Fagina. I mean, I don't want to sound paranoid, but I've had some bad relationships in the past, and I have some jealousy issues. You went to her penthouse. It makes me feel so small to give into these insecurities, but I can't help but feel this weird, irrational, unfocused... well, jealousy. I'm sorry.
+L56343 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Of course, luv.
+L56342 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Austin, may I have a word with you?
+L56335 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Look at her hands, baby! Those are carpenter's hands.
+L56334 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Really, Austin!
+L56228 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ She was very groovy. She was so in love with your Dad. If there was one other cat in this world that could have loved your Mum and treated her as well as you Dad did, it was me. But, unfortunately for yours truly, that train has sailed.
+L56227 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ It's not that I'm drunk, I'm just beginning to see what my Mum was talking about.  What was my mother like back in the Sixties? I'm dying to know.
+L56226 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I can't. You're drunk.
+L56225 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm not. I'm the sensible one. I'm always the designated driver.
+L56224 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Oh, yes you are.
+L56223 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I am not.
+L56222 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You're smashed, Vanessa.
+L56220 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ No, this is me in a nutshell.
+L56219 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Always wanting to have fun, that's you in a nutshell.
+L56218 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm sorry that bug up your ass had to die.
+L56217 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Why?
+L56216 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm sorry.
+L56215 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I haven't had fun like that since college.
+L56210 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Go! Just go!
+L56209 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Sorry. Move your hand to the left. There you go. Gorgeous.
+L56208 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Watch out, you're on my hair!
+L56207 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I couldn't have another bite.
+L56206 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Fancy a nibble?
+L56198 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You're crazy. The camera loves you, Vanessa.
+L56197 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I hate having my picture taken.
+L56195 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ No worries, luv. We'll just give Basil a tinkle on the telling bone...
+L56194 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Unfortunately, while you told that stupid story, Dr. Evil has escaped.
+L56193 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Well, you know... cows, and shagging.
+L56192 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I don't get it.
+L56191 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Let me tell you a story. There's these two bulls on top of a hill checking out some foxy cows in the meadow below. The young bull says, 'hey, why don't we run down the hill and shag us a cow?', and the wise old bull replies, 'no, why don't we walk down the hill and shag all the cows?'
+L56190 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ We can't just sit here, Austin.
+L56189 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ He's too well-protected right now.
+L56188 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Let's go get him!
+L56187 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I never forget a pussy... cat.
+L56186 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ How do you know?
+L56185 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hello, hello. That's Dr. Evil's cat.
+L56184 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Let me see.
+L56183 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ A limousine has just pulled up.
+L56182 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ We've got a doctor's appointment-- an evil doctor's appointment.
+L56181 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Why?
+L56180 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Good morning, Vanessa! I hope you have on clean underwear.
+L56176 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Do you want to talk to him?
+L56175 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Good morning, luv, who are you on the phone with?
+L56142 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That cat Number Two has an X-ray eyepatch. I get bad vibes from him, man. Listen, we should go back to the room, but first I have to go to the naughty chair and see a man about a dog.
+L56141 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Why did you leave so soon?
+L56126 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Oh, I forgot to tell you, they're prescription X-ray glasses. I have very bad astigmatism.
+L56125 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I can't see a bloody thing.
+L56112 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm going to use a cover name. It's important that it be a generic name so that we don't draw attention to ourselves.
+L56111 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Here, use mine.
+L56110 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I love Las Vegas, man. Oh, I forgot my x-ray glasses.
+L56107 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I think I'll give that stew a ding-a- ling.
+L56106 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm sure.
+L56105 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Hey, who put this in here? Someone's playing a prank on me!  Honestly, this isn't mine.
+L56098 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Why? What's wrong with my teeth?
+L56097 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ No, actually. I don't know how to put this really. Well, there have been fabulous advances in the field of dentistry.
+L56096 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Let me guess. The floss is garotte wire, the toothpaste contains plastic explosives, and the toothbrush is the detonation device.
+L56095 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Yes, we've had it retrofitted with a secure cellular phone, an on-board computer, and a Global Geosynchronous Positioning Device. Oh, and finally, this.
+L56094 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You've preserved my Jag! Smashing!
+L56029 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I understand that, Mr. Powers, but let me be perfectly clear with you, perhaps to the point of being insulting. I will never have sex with you, ever.  If you were the last man on Earth and I was the last woman on Earth, and the future of the human race depended on our having sex simply for procreation, I still would not have sex with you.
+L56028 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Listen, Vanessa, I'm a swinger... That's what I do, I swing.
+L56027 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I hope this is part of the unfreezing process.
+L56026 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Do I make you horny? Randy, you know. To you, am I eros manifest?
+L56025 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ What?
+L56024 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Do I make you horny?
+L56023 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Sure.
+L56022 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Brrrr! She must be frigid. There's two things I know about life: one, Americans will never take to soccer. Two, Swedish girls and stewardesses love to shag!  They're shag-mad, man! Let me ask you a question, Vanessa, and be honest.
+L56014 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's right. You're supposed to say 'colored' now, right?  Here's the stewardesses! Bring on the sexy stews!
+L56013 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ We don't use the term 'Negro' anymore. It's considered offensive.
+L56012 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ You know, a Chigro... part Chinese, part Negro...  Chigro.
+L56011 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ A Chigro?
+L56010 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Have you ever made love to a Chigro?
+L56009 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Mr. Powers, please. I know that you must be a little confused, but we have a very serious situation at hand. I would appreciate it if you'd concentrate on our mission and give your libido a rest.
+L56008 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ My meat and two veg.
+L56007 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm sorry?
+L56006 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ My wedding tackle.
+L56005 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Excuse me?
+L56004 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I've been frozen for thirty years, man, I want to see if my bits and pieces are still working.
+L56003 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I beg your pardon?
+L56002 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's fascinating, Vanessa. Listen, why don't we go into the back and shag?
+L56001 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I went to Oxford and excelled in several subjects, but I ended up specializing in foreign languages. I wanted to travel -- see the world. In my last year I was accepted into the M.O.D. in the Cultural Studies sector. I thought I was off on an exciting career, but my job was to read everything printed in every country. It's very boring. My whole day is spent reading wedding announcements in Farsi. If I do well with this case, I finally get promoted to field operative...
+L56000 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Pretty groovy Jumbo Jet, eh? How does a hot chick like you end up working at the Ministry of Defense?
+L55999 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ My jumbo jet? Smashing baby.
+L55998 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Listen, Mr. Powers, I look forward to working with you, but do me a favor and stop calling me baby. You can address me as Agent Kensington. We have to leave immediately. We've preserved your private jet just as you left it. It's waiting at Heathrow Airport.
+L55997 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ OK, OK, man, don't get heavy, I'll sign. Just to get things moving, baby.
+L55978 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ My mother's doing quite well, thank you very much.
+L55977 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ If it's a lie, goddamn her. It it's the truth, goddamn me.  God, I hope that's witty. How's your mum?
+L55976 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ My mother's told me all about you.
+L55975 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Well, as long as people are still having promiscuous sex with many anonymous partners without protection, while at the same time experimenting with mind-expanding drugs in a consequence-free environment, I'll be sound as a pound.
+L55974 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Mr. Powers, my job is to acclimate you to the Nineties. You know, a lot's changed since 1967.
+L55996 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ One book: Swedish-Made Penis Enlarger Pumps and Me: This Sort of Thing Is My Bag, Baby, by Austin Powers.
+L55995 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I don't even know what this is. This sort of thing ain't my bag, baby.
+L55994 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ One warranty card for Swedish-made penis enlarger pump, filled out by Austin Powers.
+L55993 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm telling you, baby, that's not mine.
+L55992 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ One credit card receipt for Swedish- made penis enlarger pump, signed Austin Powers.
+L55991 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ That's not mine.
+L55990 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ OK, Austin Danger Powers: One blue crushed-velvet suit. One frilly lace cravat. One gold medallion with peace symbol. One pair of Italian shoes. One pair of tie-dyed socks, purple. One vinyl recording album: Tom Jones, Live at Las Vegas. One Swedish-made penis enlarger pump.
+L55989 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Danger's my middle name.
+L55988 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ It says here, name Danger Powers.
+L55987 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Actually, my name's Austin Powers.
+L55986 +++$+++ u364 +++$+++ m22 +++$+++ CLERK +++$+++ Danger Powers, personal effects.
+L56431 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Where did you learn to shoot?
+L56430 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ Noooooooooooooo!
+L56420 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ I'm going to go across the street and get you some sherbert.
+L56419 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ No, no, I want you to have it, even if it's my last piece.
+L56418 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ No, no, I want you to have it, even if it's my last piece.
+L56417 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ Hey! Wait a minute, that's my last piece of gum.
+L56416 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Don't mind if I do.
+L56415 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ Here, have a piece of gum.
+L56414 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Here, have a piece of gum.
+L56410 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ Hey, wait a minute--
+L56409 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Everything seems to be in order.
+L56407 +++$+++ u362 +++$+++ m22 +++$+++ AUSTIN +++$+++ Sure.
+L56406 +++$+++ u369 +++$+++ m22 +++$+++ GUARD +++$+++ Hi, folks. You're entering a restricted zone. Can I see your security badges?
+L55936 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ That's a direct order. You didn't see a thing!
+L55935 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ Commander, I have to log it...
+L55932 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ What's its current position?
+L55931 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ Should we scramble TacHQ for an intercept?
+L55930 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ Shut up.
+L55929 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ In many ways, Bob's Big Boy never left, sir. He's always offered the same high quality meals at competitive prices.
+L55928 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ Oh my God, he's back.
+L55927 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ It appears to be in the shape of Bob's Big Boy, sir.
+L55926 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ What are you saying, son?
+L55925 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ No. Log Com Bird Twelve says its metalurg recon analysis is a standard alloy, not stealthy, not carbon- composite.  It does have an odd shape, sir.
+L55924 +++$+++ u365 +++$+++ m22 +++$+++ COMMANDER GILMOUR +++$+++ Is it one of ours?
+L55923 +++$+++ u374 +++$+++ m22 +++$+++ RADAR OPERATOR +++$+++ Commander, this is Slater in SoWest Com Three. We have a potential bogey with erratic vectoring and an unorthodox entry angle.
+L56058 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ You shot me right in the arm!  Why did--
+L56057 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Right. Okay. Moving on.
+L56056 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ Ow! You shot me!
+L56054 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ You've all been gathered here to form my Evil Cabinet. Excuse me.
+L56053 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ Hello up there! Anyone! Can someone call an ambulance? I'm in quite a lot of pain.
+L56052 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Some of you I know, some of you I'm meeting for the first time.
+L56051 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ Someone help me! I'm still alive, only I'm very badly burned.
+L56050 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ We've got a lot of work to do.
+L56047 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Let this be a reminder to you all that this organization will not tolerate failure.
+L56046 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ Ahhhhhhhhh!
+L56045 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Silence!
+L56044 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ We could not anticipate feline complications due to the reanimation process&emdash;
+L56043 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ And look what you've done to Mr. Bigglesworth!
+L56042 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ But Dr. Evil, all you need to do is--  --work with this tennis ball. Squeeze it for twenty minutes a day. A few months of that and it'll be just as strong as the other arm...
+L56041 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Can't you see I'm only half a man? Look at me, I'm a freak!
+L56040 +++$+++ u372 +++$+++ m22 +++$+++ MUSTAFA +++$+++ But my design was perfect!  Your autonomic functions were shut down, and even though your arm wasn't frozen, the aging was retarded, therefore your right arm is only slightly older than the left.
+L56496 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Please allow me to demonstrate.
+L56495 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Really? Are they ill-tempered?
+L56494 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ They're mutated sea bass.
+L56493 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Right.
+L56492 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Sea bass.
+L56491 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ I have one simple request-- sharks with friggin' laser beams attached to their heads, and it can't be done? Remind me again why I pay you people? What do we have?
+L56490 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Well, we experimented with lasers, but you would be surprised at how heavy they are. They actually outweighed the piranha themselves, and the fish, well, they sank to the bottom and died.
+L56489 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ What is it now?
+L56488 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Right.  Mr. Powers, we're going to lower you in a tank of piranhas with laser beams attached to their heads.
+L56487 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ It's about the sharks. Since you were frozen, they've been placed on the Endangered Species List. We tried to get some, but it will take months to clear up the red tape.
+L56486 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Yes, what is it? You're interrupting my moment of triumph.
+L56485 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Dr. Evil?
+L56484 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Release the sharks!  All the sharks have had laser beams attached to their heads. I figure every creature deserves a warm meal.
+L56288 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ I like to see girls of that caliber. By caliber, I mean both the barrel size of their guns and the high quality of their character... Forget it.
+L56287 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Thank you, Herr Doctor.
+L56286 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Quite impressive.
+L56285 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ These are the latest word in android replicant technology.  Lethal, efficient, brutal. And no man can resist their charms. Send in the soldiers!
+L56284 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Breathtaking, Frau. These automated strumpets are the perfect bait for the degenerate Powers.
+L56283 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Ya wohl-- I mean, yes wohl, Herr Doctor. I have created the ultimate weapon to defeat Austin Powers. Bring on the Fembots!
+L56282 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Austin Powers is getting too close. He must be neutralized. Any suggestions?
+L56090 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Yes.  Scott!
+L56089 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ My son?
+L56088 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Well, after a few years, we got sort of impatient. Dr. Evil, I want you to meet your son.
+L56087 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Yes.
+L56086 +++$+++ u368 +++$+++ m22 +++$+++ FRAU FARBISSINA +++$+++ Remember when we froze your semen, you said that if it looked like you weren't coming back to try and make you a son so that a part of you would live forever?
+L56391 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ That's not true, Doctor. Please, tell us about your childhood.
+L56390 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ The details of my life are quite inconsequential.
+L56389 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ We've heard from Scott, now let's hear from you.
+L56388 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Actually, the boy's quite astute. I am trying to kill him. My Evil Associates have cautioned against it, so here he is, unfortunately, alive.
+L56385 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ Don't be so hard on yourself. You're here, that's what's important. A journey of a thousand miles begins with one step.
+L56384 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ No, the boy's right. I really am evil.
+L56364 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Evil, actually, Doctor Evil.
+L56363 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ That was great, Mr. Keon, Dave. Thank you. OK, group, we have two new member. Say hello to Scott and his father, Mr.... Ehville?
+L56607 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Scott, don't say that...
+L56606 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I hate you! I hate you! I wish I was never artificially created in a lab.
+L56605 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ I had the group liquidated, you little shit. They were insolent.
+L56604 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Dad, we just made a breakthrough in group!
+L56545 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Show me.
+L56544 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ What did you say?
+L56543 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Blow me.
+L56542 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Don't you want to see what Daddy does for a living?
+L56541 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I don't want to.
+L56540 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Come, everyone, let us repair to the main chamber. Project Vulcan is about to begin. Scott, are you coming?
+L56501 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ No, Scott. You just don't get it, do you?
+L56500 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I have a gun in my room. Give me five seconds, I'll come back and blow their brains out.
+L56499 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ No, we'll leave them alone and not actually witness them dying, and we'll just assume it all went to plan.
+L56498 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Aren't you going to watch them? They'll get away!
+L56497 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Fine. Whatever. Mutated, ill-tempered sea bass it is.  Come, let's return to dinner. Close the tank.
+L56480 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ One more peep out of you and you're grounded. Let's begin.
+L56479 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Why don't you just shoot him now? Here, I'll get a gun. We'll just shoot him. Bang! Dead. Done.
+L56478 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ I have a better idea. I'm going to put him in an easily-escapable situation involving an overly- elaborate and exotic death.
+L56477 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ But what if he escapes? Why don't you just shoot him? What are you waiting for?
+L56476 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ In due time.
+L56475 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Why are you feeding him? Why don't you just kill him?
+L56474 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Scott, I want you to meet Daddy's nemesis, Austin Powers.
+L56473 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Yeah. What?
+L56472 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ And that's how you want to live your life, is it?
+L56471 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Thought I'd stay in. There's a good tittie movie on Skinemax.
+L56470 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Fascinating. What are your plans for this evening?
+L56469 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Well, me and a buddy went to the video arcade in town and, like, they don't speak English right, and so my buddy gets into a fight, and he goes 'hey, quit hassling me cause I don't speak French or whatever', and the other guy goes something in Paris talk, and I go 'um, just back off' and he goes 'get out' and I go 'make me'.
+L56468 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Scott my boy, come here. How was your day?
+L56380 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ You always do that!  Anyways, this is really hard, because, you know, my Dad is really evil.
+L56379 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ An evil petting zoo?
+L56378 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ No. Maybe, like, work in a petting zoo or something.
+L56377 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ An evil vet?
+L56374 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Not me.
+L56373 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ But Scott, who's going to take over the world when I die?
+L56093 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I haven't seen you my whole life and now you show up and want a relationship? I hate you!
+L56092 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Hello, Scott. I'm your father, Dr. Evil.  I have a son! I have a son! Everyone, I have a son!  Someday, Scott, this will all be yours.
+L56091 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Hi.
+L56085 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Oh, really?  One-hundred billion dollars.  OK, make it happen. Anything else?
+L56084 +++$+++ u373 +++$+++ m22 +++$+++ NUMBER TWO +++$+++ Virtucon alone makes over nine billion dollars a year.
+L56083 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ All right then...  ...FIVE MILLION DOLLARS!
+L56082 +++$+++ u373 +++$+++ m22 +++$+++ NUMBER TWO +++$+++ Don't you think we should ask for more than a million dollars? A million dollars isn't that much money these days.
+L56081 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Right.  Oh, hell, let's just do what we always do. Let's hijack some nuclear weapons and hold the world hostage.  Gentlemen, it's come to my attention that a breakaway Russian Republic called Kreplachistan will be transferring a nuclear warhead to the United Nations in a few days. Here's the plan. We get the warhead, and we hold the world ransom...  ...FOR ONE MILLION DOLLARS!
+L56080 +++$+++ u373 +++$+++ m22 +++$+++ NUMBER TWO +++$+++ Umm, that also has already happened.
+L56079 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ People have to tell me these things. I've been frozen for thirty years, throw me a bone here.  OK, no problem. Here's my second plan. Back in the Sixties I had a weather changing machine that was in essence a sophisticated heat beam which we called a "laser."  Using this laser, we punch a hole in the protective layer around the Earth, which we scientists call the "Ozone Layer." Slowly but surely, ultraviolet rays would pour in, increasing the risk of skin cancer. That is, unless the world pays us a hefty ransom.
+L56078 +++$+++ u373 +++$+++ m22 +++$+++ NUMBER TWO +++$+++ Um, Dr. Evil, Prince Charles did have an affair. He admitted it, and they are now divorced, actually.
+L56077 +++$+++ u367 +++$+++ m22 +++$+++ DR. EVIL +++$+++ Gentlemen, I have a plan. It's called blackmail. The Royal Family of Britain are the wealthiest landowners in the world. Either the Royal Family pays us an exorbitant amount of money, or we make it look like Prince Charles, the heir to the throne, has had an affair outside of marriage and, therefore, they would have to divorce.
+L56076 +++$+++ u373 +++$+++ m22 +++$+++ NUMBER TWO +++$+++ We also own the Franklin mint, which makes decorative hand-painted theme plates for collectors.  Some plates, like the Gone With The Wind series, have gone up in value as much as two-hundred and forty percent, but, as with any investment, there is some risk involved.
+L56179 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ I love you, Vanessa.
+L56178 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I'm on with a friend!  Look, I'd better go. I love you.
+L56177 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ No, it's been too long. Best to leave things alone.
+L56174 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ I know. Let me just say this: Austin was the most loyal and caring friend I ever had.
+L56173 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ You didn't answer my question, Mum.
+L56172 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ Austin is very charming, very debonair. He's handsome, witty, has a knowledge of fine wines, sophisticated, a world-renowned photographer. Women want him, men want to be him. He's a lover of love-- every bit an International Man of Mystery.
+L56171 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Did you ever want to?
+L56170 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ Of course not. I was married to your father.
+L56169 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Did you ever...
+L56168 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ Just wait. Once Austin gets you in his charms, it's impossible to get out.
+L56167 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ I just don't see it.
+L56166 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ You have to understand, in Britain in the Sixties you could be a sex symbol and still have bad teeth. It didn't matter.
+L56165 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ What about his teeth?
+L56164 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ You can't judge him by modern standards. He's very much a product of his times. In my day he could have any woman he wanted.
+L56163 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Well, God knows he tried, but I've been rather firm with him, Mummy. You didn't tell me he was so obsessed with sex. It's bizarre.
+L56162 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ Because you managed to resist Austin Power's charms.
+L56161 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Why?
+L56160 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ I'm proud of you.
+L56159 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Oh, God no, I made him sleep on the couch.
+L56158 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ You didn't...
+L56157 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ He's asleep.
+L56156 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ How's Austin?
+L56155 +++$+++ u377 +++$+++ m22 +++$+++ VANESSA +++$+++ Great.
+L56154 +++$+++ u371 +++$+++ m22 +++$+++ MRS. KENSINGTON +++$+++ Oh, hello Vanessa. How was the flight?
+L56387 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ OK, Scott, no one really wants to "kill" anyone here. They say it, but they don't mean it.
+L56386 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I just think, like, he hates me. I really think he wants to kill me.
+L56383 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ Scott.
+L56382 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ No, he's really evil.
+L56381 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ We don't label people here, Scott.
+L56376 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I don't know. I was thinking, maybe I'd be a vet or something, cause I like animals and stuff.
+L56375 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ What do you want to do, Scott?
+L56372 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ I don't wanna take over the family business.
+L56371 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ And how do you feel about that?
+L56370 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ OK. Well, I just really met my Dad for the first time three days ago. He was partially frozen for thirty years. I never knew him growing up. He comes back and now he wants me to take over the family business.
+L56369 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ We don't judge here.
+L56368 +++$+++ u375 +++$+++ m22 +++$+++ SCOTT EVIL +++$+++ Well, it's kind of weird.
+L56367 +++$+++ u376 +++$+++ m22 +++$+++ THERAPIST +++$+++ So, Scott, why don't we start with you. Why are you here?

@@ -1,0 +1,578 @@
+L5048 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Great, just great.
+L5047 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ That we do. And we put air in the tires. I'll even sell you some gas if you need it.
+L5046 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ How about chargin' the battery?
+L5045 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ We don't wash 'em, ya know.
+L5044 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Yeah, I've been busy.
+L5043 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ This is three years old.
+L5042 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Hammond.
+L5041 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ Name?
+L5040 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I want to pick up my car.
+L5039 +++$+++ u62 +++$+++ m4 +++$+++ ATTENDANT +++$+++ Yeah?
+L4925 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Try obeyin' the law once in awhile, and I won't have to hassle you...
+L4924 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ I'm tellin' ya, I'm giving you all I know.
+L4923 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Look, give me a break, you're going to have to settle for her place.  It's the only thing I know.
+L4922 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I don't give a damn about his girl...
+L4906 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ I don't give a shit who you ask.
+L4905 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Maybe I better ask around, see what your pals think.
+L4904 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Fuck off.  I don't know what the hell you're talkin' about.
+L4903 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Now how's your memory doin'?
+L4900 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, man, I think I'll have a vodka.
+L4899 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Maybe you better have a Black Russian.
+L4898 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Vodka.
+L4897 +++$+++ u63 +++$+++ m4 +++$+++ BARTENDER +++$+++ Yeah.
+L4568 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ And I need one more for my pal. Yeah. Make her an Indian. No, not a turban, you know, a squaw.
+L4567 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Hey, what about me?
+L4563 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ He's just kiddin', you just keep doin' what I tell ya, you'll be okay.
+L4562 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe that's where I'm gonna cut your throat.
+L4511 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Just do what I say, okay? We'll pay for the girls and have a good time... Don't you trust me?
+L4510 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ They always let me do anything. I don't want to pay for it.  I never paid for it in my life.
+L4509 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ It's better when you pay... they let you do anything.
+L4508 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ I never paid for it in my life.
+L4507 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Yeah, dummy.  Money.
+L4506 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Pay money?
+L4505 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Pros.
+L4504 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ Whaddya mean, buy?
+L4503 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe after we get done with him I'm gonna buy us some girls.
+L4502 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ I ain't tired yet.
+L4501 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I want to drive awhile.
+L4454 +++$+++ u64 +++$+++ m4 +++$+++ BILLY +++$+++ You got a real big mouth, convict.
+L4453 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Maybe you shoulda stole a better truck, Tonto.
+L5371 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Now you're talkin'. See ya...
+L5370 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?
+L5368 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, no, I'm tryin' to be nice. Buy yourself something pretty. I'd do it, but I got to go.  I got this cop waitin' for me...
+L5367 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, don't do that.  I said I wasn't a pro, remember?
+L5366 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here you go, baby.
+L5216 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I just struck it rich... I think we can do a little business.  As a matter of fact, I think we can have a party.
+L5215 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hello, again.
+L5194 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here's hoping, baby...
+L5193 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Well, maybe I'll see you later ...
+L5188 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, it's gotta be here and now. Believe me. Only I don't have the damn money for a room...
+L5187 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ What's the matter with my place?
+L5186 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No, baby, nothin' like that. Look, there's a place across the street. We can go right over there...
+L5185 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ You just quit bein' a priest or somethin'?
+L5184 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, i been waiting three years.
+L5183 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ You're in a hurry.
+L5182 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Here you go sweetheart, throw it my way.
+L5181 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, don't you think a hair stylists got any interest in gettin' it on?
+L5180 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Goodbye.
+L5179 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ No, I go to a school to learn how to do hair. It's a government program. But really I want to be a model - and I am definitely not sellin'.
+L5178 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Oh ... You're a schoolteacher...
+L5177 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ Hey, what kind of talk is that?
+L5176 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Excuse me, baby, but if i don't get some action tonight, I'm gonna bust.  You interested?
+L5175 +++$+++ u65 +++$+++ m4 +++$+++ CANDY +++$+++ I'm candy...
+L5329 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ In the back.  Down the other corridor.
+L5328 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Where's ganz?
+L5325 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He can live or die ... You let us in and he's got a chance to make it.  Otherwise, he gets ventilated.
+L5324 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ No chance.
+L5323 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You're gonna help us take him.
+L5322 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Yeah.  Sure, i'm crazy in love with him, who wouldn't be...
+L5321 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You and the other one, you're still Billy's girls. You always were his girls...
+L5318 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ No time for any of that crap any more, lady... I'll rip your lungs out if you don't answer fast.
+L5317 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Would you guys...
+L5316 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I hear you've got visitors.
+L4960 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ I used to go with him...I don't know where the hell he is.  I haven't seen him for two weeks. And I don't think I will.  He owes me money...
+L4959 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ How about it?
+L4945 +++$+++ u66 +++$+++ m4 +++$+++ CASEY +++$+++ Don't give me that police shit. You drop it.
+L4944 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I said police.  Now drop the goddamn gun.
+L5348 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I ain't gonna beg for my life. It ain't cool.
+L5347 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You're done.  End of story.
+L5346 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I got hit.  I can't believe it. I got shot.
+L5340 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Whaddya mean...I got your gun ... I got his money... I got everything...
+L5339 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't think you're gonna make it.
+L5338 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ After I get outta this, cop...I'm gonna live forever...
+L4629 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ What are you talking about? We didn't kill her ...
+L4628 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You lying son of a bitch...
+L5384 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No trouble, Jack. But, listen, suppose I stay a crook?  Where'd you get the idea that you could catch me?
+L5383 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Thanks.
+L5382 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Spare met Jack. I'm into legit investments from here on in.
+L5381 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ No, you don't. If I ever get word of you steppin' over the line again, I'm gonna ventilate that suit of yours.
+L5380 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You are an awesomely weird cop. Sure wish there were more like you runnin' around out here.
+L5379 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's right. Not my style, Reggie..
+L5378 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ And you're tellin' me you don't want any of this cash?
+L5377 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ It's your money.  It'll be here in six months when you get out.
+L5376 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ There's nothin' to talk about.
+L5375 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Wait a minute, Cates.  I've been waitin' three years for that.  I don't think it's fair, man. What about the merit system.? You were gonnna give me a few thousand.
+L5373 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, Jack, real men don't have to go in for that macho bullshit ... but I was fantastic.
+L5372 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Okay, reggie, start bustin' my chops... Tell me how great you were with that chick.
+L5353 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You did pick a real strange time to go and be brave all on your own...
+L5352 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah.  But I wasn't there for a second.
+L5351 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You okay?
+L5314 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Well, you got to admit we come a long way.
+L5313 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Partnership?
+L5312 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, and I know Ganz sure ain't no sweetheart... I wouldn't like it if this partnership ended before it gets started.
+L5311 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Sure, I'll give you a shot at it, but Ganz is mine.  You know, that big Indian plays it for keeps...
+L5310 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ If we run into Billy first, let me try and talk him in.
+L5309 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Whatever play I maker just back me up.
+L5308 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, there she is...
+L5307 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I've got to play it rough with them. If they know anything, I'm gonna know it.
+L5306 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What if your girl's theory turns out to be bullshit?  I mean, they could be in Rio de Janeiro.
+L5305 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ If she's right, and if you don't screw up.
+L5304 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Do I get to kiss her too?
+L5291 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, too bad.  They were real nice lookin' too...In bed together, hardly any clothes one watching TV...
+L5290 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, well the only woman of the Indian's we ran into was shacked up with her dyke girlfriend.  I guess she went with him before she came outta the Closet ... They both looked mad enough to kill him...
+L5257 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Don't worry about it.
+L5256 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ It's late, they're closing...
+L5255 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, but we didn't get 'em.
+L5254 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Naw, you didn't let me down.  It was a long shot all the way.  We gave 'em a good run at it.
+L5253 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Sorry we didn't do better, Jack. I feel like I let you down.
+L5252 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't know about you, but I could use a drink... I'll buy you one.  It'll be my good-bye present.
+L5251 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Back to jail in my own car.  Ganz got away. Got all my money. It just don't seem right.
+L5250 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I had it impounded.  Come on, we'll use it for haulin' you back to the slam.
+L5249 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, how'd my car get here?
+L5237 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah. It missed the last four stops.
+L5236 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Notice something funny about that bus?
+L5227 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Luther's on the move...
+L5226 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Why?
+L5225 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ When you been in prison three years, it don't take long. Let's go.
+L5224 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That was quick.
+L5213 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I can just take her right across the street to Luther's hotel.  All I need is some money for the room.
+L5212 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, I see her.
+L5210 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah. Guess not.
+L5209 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Bein' good at your job don't explain everything, Jack ...
+L5208 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Thanks for callin' in... and I guess Maybe... Look, I'm sorry I called you Watermellon nigger... those kinds of things. I was just leanin' on ya, doin' my job.
+L5207 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You sure that's the reason?
+L5206 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't know why, but I'm going to let you keep it. Maybe because you told me you had it, or maybe just because I'm too tired to argue...
+L5205 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Forget it. I want Ganz as bad as you do and I got some other news for you...
+L5204 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Tell me something.  Why didn't you just take the money off Luther and split?
+L5202 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ So you took the rest of the night off...
+L5201 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ They must have set up a meeting for the morning; Luther left an 8 am wake-up and put up the "Don't Disturb" sign.  He's trading his girl for the money.  All we have to do to grab Ganz is not go blind.
+L5200 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Let him get some sleep.  He's going to need it.
+L5199 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Maybe we should pay Luther a visit.
+L5198 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You missed ... Luther took a taxi to the hotel across the street. Made a phone call.
+L5197 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ We missed.
+L5196 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What about Ganz?
+L5195 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What about Luther?
+L5192 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hello. And goodbye.
+L5191 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Be polite. Say hello.  This is Candy.
+L5190 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Where's luther?
+L5172 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'll be there in a minute. You don't move your ass, right?
+L5171 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, Jack, how ya doin'? What took you so long to call, man? I been waitin' ... I'm at Vroman's up in the Fillmore. Yeah, Vroman's... 'Course you don't hang out here; it's for the brothers.
+L5085 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No way...
+L5084 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You stay with me...
+L5083 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Bullshit. Then i'm staying with the money.
+L5077 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Right. if you ever switch from armed robbery to pimping, then you're all set.
+L5076 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ That was in style a couple years back, man.
+L5074 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, most cops are pretty dumb... But since you're the one that landed in jail what's that make you?
+L5073 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ We're getting too close ... Cates, what's the matter, you been takin' dumb pills?
+L5072 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Class isn't somethin' you buy, punk. Look at you, five hundred dollar suit and you're still a lowlife.
+L5071 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No class...
+L5070 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What you don't understand is, I don't give a damn about how this thing looks.
+L5069 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You know, I'd be embarrassed if I let my wheels go the way you've done with this job.
+L5068 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, it doesn't look like he's gonna make it as a dangerous tough guy...
+L5067 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ A long time agb Luther must of got the shit beat out of him so bad it just rattled his brain ... that would account for him making so many wrong moves in a row...
+L5066 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ If he's hoping that then he's dumber than I think he is, which would be amazin', cause I already think he's real dumb.
+L5065 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Maybe Luther hopes Ganz'll give him a piece of your money...
+L5064 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You got a very depressing view of life, man... you gotta smile once in awhile...
+L5063 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'm not in this 'cause it's fun. I'm not into hitting guys 'cause it makes me feel good either... I do it 'cause it works-...
+L5062 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Doesn't it get... Tiring?
+L5061 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ If they don't tell me what I need to know...
+L5060 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Say, do you always work people over like you did Luther?
+L5059 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That ain't philosophy.  That's common sense.
+L5058 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I let women get to me.  The quest for pussy is the meaning of life ... I got my own personal philosophy about 'em.  Keep women separate from guns, money and business ... women are for spending money.  They got nothing to do with helping you make it.
+L5057 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I suppose you'd never be like Luther and let a woman get to you...
+L5056 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Oh, yeah, does bein' in love make you stupid?
+L5055 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'm tellin' you the man's in love... he wants to be a hero for his girl.
+L5054 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ If I was his size and had Ganz on my ass, I'd  just leave town.
+L5053 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Tryin' to save his girl, man. He's in another world.
+L5052 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You'd think the guy'd be smart enough to know he was being tailed.
+L5051 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I had no choice. Some white asshole bought the last piece of shit skyblue Cadillac.
+L5050 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Didn't know you darker people went in for foreign jobs.
+L5049 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Jesus Christ, look at all the dust on my car...why in the hell don't he take it to a car wash?
+L5038 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Jesus Christ.  That's a disgrace The guy pulls a gun on a cop and he's out in 24 hours.  I tell you some of the courts these days are just a fucking revolving door.
+L5037 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Musta got some primo bondsman.
+L5036 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What?
+L5035 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Guess what?  Luther just got in line.
+L5034 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Not really.  I figured Ganz was put down for a long time.  And I knew Luther would never job me on his own.  He's too chickenshit.
+L5033 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You took a big chance, leaving this here all this time.
+L5030 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Shit.
+L5029 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I wasn't sure the money was still there until we saw Luther. You almost got your ass shot off for nothing once, not twice, Jack.
+L5028 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You son of a bitch. You knew where the money was all along and all we had to do was come here and wait. I almost got my ass blown off twice tonight for nothing.
+L5025 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You just drove by it.
+L5024 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ ...For three years?  Let's hope it wasn't a tow-away zone.
+L5023 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ This'll show you how smart I am. I got it parked.
+L5022 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You're a real case, you know that, Jack?
+L5021 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Where's the goddamn car?
+L5020 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah.  Right.
+L5019 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Get this. We ain't partners. We ain't brothers. We ain't friends. If Ganz gets away with my money, you're gonna be sorry we ever met.
+L5018 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Right, partner.
+L5017 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ In the trunk of a car.  A lot better than under a mattress, right?
+L5016 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Where's the money?
+L5014 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Depends on how things work out. I believe in the merit system. So far you haven't built up any points.
+L5013 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You gonna let me keep any of it?
+L5012 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Not likely, convict.
+L5011 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ We split 50-50?
+L5010 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You catch on real fast...Okay, Jack, let's talk deal. How much of my money you gonna let me keep?
+L5009 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He's after your money.
+L5008 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Me and my bunch hit a dealer in the middle of a sale. It's the kind of money nobody ever reports stolen. I was sittin' pretty, livin' in the high cotton, then somebody fingered me for another job. ... Some psycho who's out there capping people with some cop's gun.
+L5007 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Just tell me about the money.
+L5005 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Jesus.
+L5004 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Half a million.
+L5003 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ How much?
+L5002 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I been waiting a long time for some money.
+L4997 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ One thing's for sure, Jack. That's how you'll tell the story.
+L4996 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ They saved your ass, convict.
+L4995 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Naw, you'd just call your pals back to bail you out one more time.
+L4994 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, right.  You want to try again?
+L4975 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Who gives a Goddamn what you think? You're just a crook that's got a weekendpass ... You're not even a name anymore. Just a spear- chucker with a Goddamn number stenciled on the back of his prison fatigues...
+L4974 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Maybe I don't like the way you ask.
+L4973 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Luther knew more than he told me and so do you...Now you better tell we what the fuck this is all about.  I gave you 48 hours to come up with something and the clock's runnin' ...
+L4972 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'm impressed with you too, Jack you did a real good job of busting up a couple of dykes bedded down for the night.
+L4971 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You?  Don't make me laugh.  You can't take care of shit.  You've been dicking me around since we started on this turd-hunt.  All you're good for is games... So far, what I got outta you is nothin'...
+L4970 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You wanna leave, man?  Let me take care of Ganz all by myself.
+L4969 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ This sucks.  A maniac gets hold of my gun and goes all over the streets killing people with it. So, instead of me being where I oughta be, which is in bed giving my girl the high, hard one, I'm out here doing this shit, roaming around with some overdressed, charcoal-colored loser like you.
+L4965 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Wait a minute.  Maybe these ladies would like to go a few laps with us.  How about it? I been nearly three years in prison and...
+L4964 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Let's go.
+L4939 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Come on.
+L4938 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Must be billy's girl.
+L4937 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ There.
+L4930 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ While you're at it, You can give me the switchblade, too.
+L4929 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You made that move, huh?
+L4912 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Some of us citizens are with you all the way, Officer.
+L4911 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ That wasn't necessary, buddy. I got this under control.
+L4896 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ My kind of place. I always liked country boys.
+L4895 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ This place don't seem real popular with the brothers.
+L4894 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I thought you said bullshit and experience are all it takes.
+L4893 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'm gonna enjoy this ... here, I'll even loan you my badge.
+L4891 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ The bet's off.
+L4890 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I don't know what you're talking about. I just wanna see Ganz nailed.
+L4889 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You tell me what Ganz busted out for, he's after a lot more than just gettin' out of jail.  And whatever it is, you're part of it.
+L4888 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What are you talkin' about?
+L4887 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'll tell you what happens if you lose... you tell the truth for once.
+L4886 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ That's never been one of my problems.
+L4885 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Why?  Anybody that talks about women as much as you do probably can't get it up anyway.
+L4884 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ If we come outta this joint with Ganz' phone number, or a dead Indian, or anything else useful, then you could turn the other way for half an hour while I get laid...
+L4883 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I got two problems.  Number one, I'm not playin' games.  Number two, you got nothin' to bet with.
+L4882 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, you wanna bet?
+L4881 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You need five years training to handle a joint like...
+L4880 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I been in a lot of bars where a white cop rousted me and some of the brothers. All those clowns ever had going for 'em was a gun and a badge...
+L4879 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Bullshit.  Attitude and experience get you through...
+L4878 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ But you can handle it all right, huh? Real amazin' how far a gun and a badge can carry some cats...
+L4877 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ If they kick my ass, they'll sure as hell carve yours up...
+L4876 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Back you up?  Now why would I wanna do that?
+L4875 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ This part of town, they'll make us for heat the second we walk in. Just back me up like you've got a piece...
+L4874 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ It's a long shot, but...Billy used to tend bar here a few years back. I heard him talk about it.
+L4873 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Well?
+L4871 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ At least you took care of business and got the important part in before she came down on you...Tell me a little about her.  She got great tits?
+L4870 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Sure.  Then we had a fight this morning.
+L4869 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You have a good time?
+L4868 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Last night.
+L4867 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Last night, two nights ago, three?
+L4866 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't give out the details.
+L4864 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Mission District.  Gonna find us an Indian.
+L4863 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Now, where we goin', convict?
+L4861 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ She's got the same complaint as half the Goddamn population.  She can't get the job she's trained for and it pisses her off... Anyway, what the fuck do you care?
+L4860 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You really do have onoe, huh, Jack... what's her problem besides you?
+L4858 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Just get in the car and keep your mouth shut.
+L4857 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Who'd you call on the phone back at the booking station?
+L4855 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, I want mandolins, flowers... They move off down the corridor.
+L4854 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, I'm hungry too. I know of a place. Let's go eat.
+L4853 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Bullshit ... I ain't moving  till I get something to eat. You've been treating me like shit ever since I came out here.  If you don't like it, you can take me back to the penitentiary and kiss my hungry black ass good-bye.  And I want some food some place nice.. Some good people, nice music...
+L4852 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ We eat when I say we eat.
+L4851 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Speakin' of moans my Stomach is startin' to growl.
+L4850 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, well, my ass bleeds for you. And I didn't get you out so you could go on a Goddamn "trim" hunt... stop moaning.
+L4849 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Do you know how close I was to getting some trim.  And you fucked' it up.
+L4848 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ We're on the move. Let's go. As they walk toward a corridor.
+L4828 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ If you let him run around till Tuesday, he's gonna run right to Ganz and warn him. Ain't you, motherfucker?
+L4827 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He's gotta take that call ... if there is one.
+L4826 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I think you better put him on ice, man.
+L4825 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What do you think?
+L4816 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Want to try it again?
+L4815 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Thank you.
+L4814 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hey, this works pretty good.
+L4803 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Just throw me the Goddamn gun.
+L4802 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I got a whole thing about people pointin' guns at me.
+L4801 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'm tellin' you to drop the Goddam gun.
+L4800 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Quit playin' cop and undo this cuff, Jack, I need to talk to this man.
+L4792 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'm helpin' you, huh?
+L4791 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Luther ain't the reliable type. I don't want you shot yet, Cates ... not before you been a help to me.
+L4790 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Your pal nuts enough to take a shot at me?
+L4789 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Just up the street, the other side, over there ... Now, don't bother knockin' on the door. Luther ain't the kind of guy that looks for company.
+L4788 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I may call you worse than that.
+L4787 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Then what're you complainin' about? At least nobody's calling you shithead....
+L4786 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't give a damn.  It happens to be my name.
+L4785 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Just an expression man, don't mean nothin'.
+L4784 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I can read a police file, shithead, and quit calling me Jack.
+L4783 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What gang you talkin' about, Jack?
+L4782 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Luther was part of the gang?
+L4781 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Don't worry, I got a move for ya. An awesome move. A guy named Luther. Ganz'll be paying him a visit.  We go to him right away.
+L4780 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Okay, let's get down to it.  I did my part and got you out.  So now you tell me where we're goin'?
+L4779 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ It looks like you bought it off one of the brothers.
+L4778 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah.
+L4775 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Shit.  I'm already sorry.
+L4774 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Get this.  We ain't partners. We ain't brothers.  We ain't friends. I'm puttin' you down and keepin' you down until Ganz is locked up or dead.  And if Ganz gets away, you're gonna be sorry we ever met.
+L4773 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ No way to start a partnership.
+L4772 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You just don't get it, do your Reggie?  There isn't any deal. I own your ass.
+L4771 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, no way.  Take off the bracelets or no deal.
+L4770 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You got a girl... shit... the generosityof women never ceases to amaze me.
+L4769 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't need to hear your jive. I already got that department taken care of...
+L4766 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Listen, it may be a little out of date. You know, I got a reputation for lookingreal sharp with the ladies...
+L4765 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ We're supposed to be after a killer, not a string of hookers...
+L4764 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ What are you talkin' about?  This suit's mine.  It cost $900.
+L4763 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ This prison gives out $400 suits?
+L4751 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'll think about it.
+L4750 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ It's the only way you're gonna get Ganz.
+L4749 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Bullshit.
+L4748 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I got a lot to protect.
+L4747 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What's the big deal about you bein' on the street?
+L4746 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I can help you, man, but you gotta get me out.  I got to be on the street.  Get me outta here.
+L4745 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You're crazy.
+L4744 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I can deliver Ganz.  But you gotta get me outta here first.
+L4743 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah?
+L4741 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Didn't work out that way.  He busted out with a big Indian. They capped two guards on a road gang. Nice meeting you Reggie.
+L4740 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Ganz is in jail.  He's gonna be there two years after I'm on the street.
+L4739 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, I noticed...
+L4732 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Not likely, Reggie.  Maybe I just need some help.
+L4731 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You here to write my life story?
+L4729 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Sure, anything you want.
+L4728 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Try Cates.  And let's talk in private, okay?
+L4727 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ You got a name, cop?
+L5245 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'm taking my prisoner back to jail.
+L5244 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Where the Christ do you think you're going?
+L5243 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Just cause you say it with conviction don't mean shit to me... How you gonna take to a pink slip, huh?.
+L5242 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He's got more brains and more guts in one corner of his asshole than any cop I've worked with.
+L5104 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Too bad, it would've covered your ass.  Now you're in the shit and so's the department. In case you haven't noticed, this wasn't our finest hour... I told you everyone was watchin' on this one. Maybe you better start thinkin' about writin' tickets off a three wheel bike.
+L5103 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I didn't have the time.
+L5102 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Don't duck the bullet Cates. Why didn't you call in for backup instead of makin' a grandstand play?
+L5101 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Right.  I screwed up.  I fucked up. I messed up.  Anybody could have done better, especially you. I bet you're real good at hitting targets through crowds.
+L5100 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ What a screw-up.
+L5099 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ You couldn't get to him?
+L5098 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ The Indian.  I was about 30 yards away.
+L5097 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Which one pulled the trigger?
+L5096 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ They ran.  As fast as they could. Caught a train.
+L5095 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ How did they get away?
+L5094 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I lost them, that's what happened.
+L5093 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ What the bell happened?
+L4703 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'll keep it in mind.
+L4702 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Try not to get your ass shot to pieces. We got enough dead cops on this one.
+L4701 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah?
+L4700 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Jack?
+L4699 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You really know how to send a guy out with a great attitude. He starts to go.
+L4698 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Okay.  You're not a team player. You gotta do things your own way. Fine.  Nail this guy and make us all look good.  But you better watch your ass.  If you screw up, I can promise you, you're goin' down.
+L4697 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Being a hot dog's worked pretty well for me so far... Besides, I got a lead...
+L4696 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ You might be more of a team player and a little less of a hot dog on this one, Jack.
+L4695 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah.  It bothers me when cops get hurt while I'm makin' a play. I don't like it.
+L4694 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Anthing botherin' you besides losin' your gun?
+L4693 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah...
+L4692 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Jack, come on, there is an official department policy about cop killings. Cop killers represent a special priority because any man crazy enough to kill a cop is a greater threat to an unarmed civilian... In other words, we can't seen like we're in the revenge business... I know, we all know the truth's a little different.
+L4691 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hey, the bastard's got my gun.  I want it back.
+L4690 +++$+++ u70 +++$+++ m4 +++$+++ HADEN +++$+++ Yeah, I read the report...
+L4689 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I want to be left alone on this one. Algren was killed with my gun.
+L4644 +++$+++ u77 +++$+++ m4 +++$+++ YOUNG COP +++$+++ I guess when two cops die on account of your fuck up you want to keep it as quiet as possible...
+L4643 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Are you gonna tell me about police procedure?  Do me a favor, don't give me a bunch of crap.
+L4642 +++$+++ u77 +++$+++ m4 +++$+++ YOUNG COP +++$+++ Somebody steals your gun, you're supposed to file a report.
+L4639 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ The truth hurts, doesn't it, buddy?
+L4638 +++$+++ u77 +++$+++ m4 +++$+++ YOUNG COP +++$+++ But that's what you say about all of us all the tine ... we're always the ones fucking up when you tell it...
+L4637 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah.
+L4636 +++$+++ u77 +++$+++ m4 +++$+++ YOUNG COP +++$+++ That's what you say, Cates...
+L5163 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ I'm not paid to take your personal calls.  He was in some bar. .. off duty.
+L5162 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Jesus Christ.  Why the hell didn't you tell me before?
+L5159 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What?
+L5158 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ I almost forgot.  That pal of yours from the Vice Squad wants you to call him.
+L5145 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Okay.  See you in the morning... you know, you ought to get some rest...
+L5144 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I got to wait for a call.
+L5143 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ I'm heading out. How about you?
+L5142 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Bullshit red tape.
+L5138 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Nothing.
+L5137 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Nothing came in for me yet?  No calls?
+L5136 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Doesn't look like it.
+L5135 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Aw, bullshit, you heard wrong.
+L5134 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Long night, too, from what I heard ... Word's going around that in addition to losing Ganz for the second time, and in addition to Haden busting you back to Patrolman, some jig beat the crap out of you.
+L5133 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ So do you...been a long day.
+L5132 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ You look awful.
+L4687 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ One of  em's in the slam.
+L4686 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Here's the file. Cates checks the file.
+L4685 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I think I wanna have a discussion about it with any of the ones still walking.  Can we find them?
+L4682 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Hey ... Dick Tracy.
+L4681 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Tell me that's not the same guy.
+L4680 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Uhh ... Wong, Henry Wong.  He was in on the same job.
+L4679 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Wait a minute, wait a minute... who's this?
+L4678 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ They all pulled a bunch of jobs with Ganz about four years ago.
+L4677 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Who are all these?
+L4676 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Backup man from the East Bay. Worked with Ganz a few years ago and sprung him from the road gang.
+L4675 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Billy Bear...
+L4673 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Shit.
+L4672 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ This guy must have had a .44 like yours, Jack. Now he's got yours.
+L4671 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I'll help you out.
+L4670 +++$+++ u73 +++$+++ m4 +++$+++ KEHOE +++$+++ Every last bit of it.  The big guy's room was empty.
+L4669 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Is that what this guy Ganz had in the hotel?
+L4823 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I dunno ... he's gonna call me...
+L4822 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ When? How?
+L4821 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ He ... he wants me to help him skip town.
+L4819 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I don't know.
+L4818 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I think I met her.  Now tell us something we don't know, like where they stashed her.
+L4817 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Ganz and Billy got my girl, Rosalie.
+L4813 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Who gives a fuck what you think?
+L4812 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You just took a shot at me, asshole. I think you do know where he is.
+L4811 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Haven't seen him for years. That's the truth.
+L4810 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I sure ain't his fairy godmother... now I'm looking for Ganz...where is he?
+L4809 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ A cop...
+L5365 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's what I always say.
+L5364 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You're impossible...
+L5363 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ He's takin' care of the same business I'll be takin' care of - soon as I dry off.
+L5362 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Tell me.
+L5361 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Promised I'd turn my back while he... ah, never mind...
+L5360 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Where is he?
+L5359 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Three more hours...
+L5358 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, bein' a hard-ass all the time is a real drag, but it works.
+L5357 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I've been waiting a long time to hear you say that.
+L5356 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Usual bullshit.  You make one smart move and everybody wants to be your friend... You know somethin', shootin' guys sucks. Especially compared to this.
+L5355 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ How'd they take it back at headquarters?
+L5303 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Let's go, Reggie.
+L5302 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ What do I know?  I'm just a bartender.
+L5301 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Whaddya think?
+L5298 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Oh, yeah, well look where you came when you were down and out.
+L5297 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hey, Come on, shrink time's over. They wouldn't go see some old girlfriend.
+L5296 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ When a guy hurts you, then comes back bleeding on his hands and knees, who knows, he might just be irrestible.
+L5295 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ So what?
+L5294 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ It might pay to reexamine a few of your more primitive notions.  I was in bed with a girlfriend watching TV last week, Jack, and one thing we know about me is I happen not to be a lesbian ... Now, if this Indian's girlfriend got upset when you came looking for him, it could just be she's still vulnerable to him.
+L5293 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Come on, they were a little old for a slumber party.
+L5292 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ What makes you think they were lesbians, or as you so quaintly put it, dykes?
+L5287 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Jack, it's all over the papers. He's an obvious type.  But this Indian...
+L5286 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ How do you know?
+L5285 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Ganz is going to be hard to track. Just a pure schizo ... wires all crossed... totally without any pattern... kill anybody... The Indian... himself... anybody...
+L5284 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Nothing.  No sign of Ganz.  No sign of the Indian.  Airport's clean.  Train station. Bus station.  Docks... Shit...
+L5276 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I've been better...Dead end.  No Ganz, no Indian.
+L5275 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You real down?
+L5263 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ We and my pal here have been taking it on the chin for the last few hours...
+L5262 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I can see that.  Pardon me for saying so, but you look like shit.  What happened?
+L5261 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Don't.  We've had a hard night.
+L5260 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I ought to have you and your friend thrown out...
+L5259 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hiya, kid.
+L5258 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Hey, I don't believe it.
+L5221 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Fuck you.
+L5220 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hi, it's me...
+L5219 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Hello.
+L5169 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Just a second, that's all!
+L5168 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Jack, wait...
+L5167 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Elaine, I gotta put you on hold...
+L5165 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Jack?  What was that?
+L5164 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ The number ... what's the Goddamn number?
+L5153 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ So am I.
+L5152 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ No, it's I'm just surprised you called.
+L5151 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ No wonder you're so popular.
+L5150 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Elaine! I... I'm sorry... I was expecting somebody else... police business.
+L5149 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I'm at work, asshole.  Where else?
+L4840 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ This is not the way people who care for each other are supposed to behave.
+L4839 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Listen, Goddamn it if you think I'm happy about it, you're nuts. I just gotta take care of a few things, okay?
+L4837 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Elaine, look, I'm in the middle of sone stuff right now... I'm not gonna have time to come by. I don't know when I can get there.
+L4836 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Just one.  Some lady called.  Said she's a little hot-headed sometimes... But she still wants her occasional roommate. She'd like to talk it over after she gets off work tonight... if it's humanly possible....
+L4718 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I get that. The job first. Everything else, especially me, second. I get it. I don't like it.
+L4717 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's right.  I'm not like you. I'm not gonna sit on my ass wondering what's right and what's wrong... There's a psycho out there killing people with my gun and I'm gonna get him.  Because it's my job. And if you don't get that...
+L4716 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Here it comes again ... the sacred job...
+L4715 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I didn't get burned, two cops did. Listen, I'll tell you about personnel responsibility.  I like to get the job done right.  And if I don't get my job done right... I'm for shit.
+L4714 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Look, Jack, if you make everything your personal responsibility, you'll turn into a bad cop.  It's not a practical way to function...
+L4713 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Bullshit?  I'll tell you about bullshit.  My gun's a real weapon in the hands of a real maniac who knows how to use it.  It isn't my macho bullshit that's killing people, my gun is ...
+L4712 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Look, spare me the macho bullshit about your gun...
+L4709 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Sure, okay, fine, no problem... See, there's this kid in jail ... First thing I got to do is go up and see what he knows ...
+L4708 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Jack, are you okay?
+L4707 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, Guess it must have been a slow news day...
+L4706 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You made the front page.
+L4705 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Yeah, one of my favorites.
+L4704 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Great place for lunch.
+L4535 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Guess people ought to know who I am...
+L4534 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I think you forgot this. Hands him his wallet and badge...
+L4533 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Thanks for the coffee.
+L4532 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Yeah, for some reason, I'm sure...
+L4531 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ You sure you want me to?
+L4530 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Call me later.
+L4529 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's the way I see it, too.
+L4528 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You know something, Jack, you really are hopeless.
+L4525 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I wish you'd stop trying to make me mad so I won't care for you... I wish you'd give me a little more of a chance.
+L4524 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What do you want to know?  What difference does it make?  I'm the guy in your bed the last three months.  I make you feel good. You make me feel good.  What the hell else do you want from a guy?
+L4523 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ When you start with that attitude... it's like I don't know who you are.
+L4522 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Maybe you don't know what the hell you're talking about.
+L4521 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Maybe that makes a nice excuse.
+L4520 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Maybe I got a fairly crummy day ahead.
+L4519 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ That's a fairly crummy way to start a morning.
+L4517 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Maybe I would if I knew when you were coming back.
+L4516 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Maybe you ought to buy me one.
+L4514 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What makes you think I have any clean shirts at my place?
+L4513 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You know, if you let me come over to your place once in a while, you could put on a clean shirt in the morning.
+L4488 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I think you're ashamed to tend bar which is sad because you look great in that outfit they make you wear... You pull down four bills a week which is damn good, and you mix the best Pina Coladas I've ever had... I think that if you need bigger and better things ... then go for em.
+L4487 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Tell me--I'm dyin' to hear it.
+L4486 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hey, you know what I really think?
+L4485 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ If this is your idea of sympathetic interest in my problems, I'll take brutal indifference.
+L4484 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I do think all psychotherapy is bullshit. But just because I think it's bullshit doesn't mean I don't know something about it.
+L4483 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Aren't you the one that thinks all psychotherapy is bullshit?
+L4482 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Positive self-image problem all over again ... You are who you decide you are unless you're the type that lets assholes decide for you.
+L4481 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Then I sit back and I think, I mean, who's to say I'm not a dumb bitch.  I work in a bar, right? I can't read a list of my academic credentials to every booze-hound that comes in the place... You are what you do...
+L4480 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I guess he got the message...
+L4479 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Irrigated his face with the shot of J and B I'd just poured him. Then I tried to deck the sucker.
+L4478 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What'd you do?
+L4477 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ A guy in the bar called me a dumb bitch today.
+L4476 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ What's wrong with that?
+L4475 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I'm all wet.
+L4474 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ That's the way I see it, too.
+L4473 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ You're hopeless.
+L4472 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ Hey, you're right.
+L4471 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I still don't think it's loaded.
+L4470 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ This is a .44 Magnum, the most powerful handgun in the world. You gotta ask yourself just one question. Are you feelin' lucky?
+L4469 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I don't think your gun's loaded...
+L4468 +++$+++ u67 +++$+++ m4 +++$+++ CATES +++$+++ I don't answer questions, I ask 'em...
+L4467 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ What am I wanted for?
+L5289 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ In all due respect, he sounds kind of pathetic to me.  The kind of guy that runs home to his momma or some girlfriend.  Have you two ace detectives checked that out?
+L5288 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ He was the only one of my bunch that was my friend... He was loyal, went all the way for you...
+L5282 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ That's no bull.
+L5281 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hey, two days with him is enough.
+L5280 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ How would you know?
+L5279 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Hard man to live with.
+L5268 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Shrink major, not a shrink.
+L5267 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Well, I been workin' the other side of the street for the last few years.  And you don't exactly look like a shrink, wearin' that dress...
+L5266 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ I'm not so sure I can say the same thing...You don't look like a cop.
+L5265 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Name's Hammond, Reggie Hammond. I heard a lot about you. And any friend of Jack's is a friend of mine.
+L5264 +++$+++ u68 +++$+++ m4 +++$+++ ELAINE +++$+++ Who the hell are you?
+L4613 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ Alright, I'm coming...hold on.
+L4612 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Keep stallin'.
+L4610 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What do you want?
+L4609 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Stall.
+L4604 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Shut up.
+L4603 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What do you want?  What's goin' on?
+L4602 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ What the hell's wrong?  I didn't do anything.
+L4601 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Shut up.
+L4600 +++$+++ u74 +++$+++ m4 +++$+++ LISA +++$+++ Hey...
+L4500 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Sure, right.
+L4499 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ We'll follow you.  Take it slow,okay?
+L4498 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Yeah, old times.
+L4497 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ We got a lot to talk about.
+L4496 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Can't complain.
+L4495 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ How ya doin'?
+L4494 +++$+++ u72 +++$+++ m4 +++$+++ HENRY +++$+++ Hot?  Hey, they're not even room temperature.
+L4493 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ How hot are they?
+L5234 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ What are you talkin' about? I said I wouldn't hurt her.
+L5233 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Rosalie, you okay?
+L5231 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ First, the money.
+L5230 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Let her go.
+L4559 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You try to mess with us or go to the cops, I promise you, I'll put holes in her you wouldn't believe.
+L4558 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Come on, you can trust me. Please.
+L4555 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Honest. The place we stashed it opens Monday morning. I can't get it till then. Monday morning, that's when it opens. After that, I'll get the money to you right away...
+L4554 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You chickenshit punk...
+L4553 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I can't get it until Monday. Honest.
+L4552 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ When?
+L4551 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ No! Don't kill her.  I can get you the money.
+L4550 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Billy, go ahead, break it...
+L4549 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Don't give me this, we were partners.
+L4548 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Instead of worryin' about Reggie, you better worry about me...
+L4547 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ You want that Indian to snap her neck?
+L4546 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ I don't know what you're talkin' about.
+L4545 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ I want the money, asshole, what do you think?  The money that Reggie hid...
+L4544 +++$+++ u75 +++$+++ m4 +++$+++ LUTHER +++$+++ Whaddya want?  I thought you were locked up-
+L4543 +++$+++ u69 +++$+++ m4 +++$+++ GANZ +++$+++ Surprise, Luther.
+L5125 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'll got your money to you. No sweat.
+L5124 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Fuck you.  You got no right for this kind of play.
+L5123 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Try and take it.
+L5122 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Give it back.
+L5121 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Yeah, I know that, but this is me and we're old friends. I haven't got the money so what are you gonna do about it?
+L5120 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ This ain't a credit business.
+L5119 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Five.  On credit.
+L5118 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Five bills.
+L5117 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Don't mess with me. How much?
+L5116 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ This is clean shit.  No serial numbers and never been used...
+L5115 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How much?
+L5114 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ It's loaded... I got some shells in here.
+L5113 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How about some ammo?
+L5110 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ I'm sure.  Everybody here's looking at everybody else's ass.
+L5109 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ You sure?
+L5108 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ Naw, right here's okay.
+L5107 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ You want to go outside?
+L5106 +++$+++ u76 +++$+++ m4 +++$+++ SOSNA +++$+++ Not bad, not bad.
+L5105 +++$+++ u71 +++$+++ m4 +++$+++ HAMMOND +++$+++ How you doing, man?

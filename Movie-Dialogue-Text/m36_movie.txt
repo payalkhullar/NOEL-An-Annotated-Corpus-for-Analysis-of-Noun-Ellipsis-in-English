@@ -1,0 +1,689 @@
+L97520 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Aunt Barbara. I love you, but you're not gonna get it.
+L97519 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ Sometimes it helps to talk things over. For instance, many marriages are saved by.
+L97518 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't want to talk about it. Everything's okay now. I don't want to talk about it.
+L97208 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ Okay honey.
+L97207 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well, I haven't seen any. I wouldn't worry about it. Look, I better go.
+L97206 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ I've seen a few.
+L97205 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh yeah? Have you seen any?
+L97204 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ Okay honey. That sounds nice. Jeffrey. I think you've got termites in the house.
+L97203 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Will you tell Mom when she gets home from the hospital that I've gone to dinner at Sandy Williams' house?
+L96982 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ I'm not sick.
+L96981 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Doctor Gynde, my whole family's sick. What's going on?
+L96827 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, I'm just going to walk around the neighborhood. Don't worry.
+L96826 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ Jeffrey, you're not going down by Lincoln, are you?
+L96788 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Aunt Barbara. I'll try not to get depressed.
+L96787 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ I think it's important not to get depressed. Depression is a terrible thing. They say it can bring on illness.
+L96767 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. How's Dad?
+L96766 +++$+++ u568 +++$+++ m36 +++$+++ AUNT BARBARA +++$+++ You look good, Jeffrey. Did you have a nice flight?
+L96765 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I sent a trunk home yesterday. This is all I have.
+L97482 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Right Ben. LET'S GO FUCK. I'll fuck anything that moves.
+L97481 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ See you Tuesday, Frank.
+L97475 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ EXCUSE US por favor! Hey. Let Tits see her kid.
+L97474 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Frank, I have something for you. Excuse us everyone.
+L97466 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ If you like Frank. Here's to your fuck. Cheers.
+L97465 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Shit. Let's drink to something else. Let's drink to fuckin'. Say here's to your fuck Frank.
+L97464 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ To your health, Frank.
+L97458 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Darling, where are the glasses? Oh, here they are.
+L97457 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Fuckin' good, real fuckin' good. You know this little tid bit, Dorothy, and this thing, here,  is a neighbor. What the shit we're doin' with a neighbor, I don't know. Goddam!!!  This is the suavest guy I know. Look at you. You're one beautiful fucker, Ben. I love this jacket and that cigarette holder of yours. Shit, that is too fuckin' much. Where's those glasses. This beer's gonna get too warm. I can't stand fuckin' warm beer. It makes me puke.
+L97456 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Fine Frank. Fine. How are you?
+L97455 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Shit Ben! How the shit are ya?
+L97454 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Certainly Frank.  Darling, get some glasses. We'll have some beer with Frank. Won't you sit down?
+L97453 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Suave. Goddam are you suave, you fucker. You want some beer?
+L97452 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Fine. Welcome. Come sit down.
+L97451 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Hey, I brought some friends. And some beer.
+L97450 +++$+++ u569 +++$+++ m36 +++$+++ BEN +++$+++ Frank. Come in.
+L97681 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh my God. Is her son OK?
+L97680 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Not yet.
+L97679 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Does Dorothy know her husband is dead?
+L97678 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Because of your information I alerted internal affairs to check out Detective Gordon. I had to keep on with him as if nothing was different. He slipped off on his own when he found out we were going to raid Frank's place.
+L97672 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ We're ten minutes away and moving as fast as we can.
+L97671 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes it's me!!! Frank is on his way up to Dorothy's apartment.  Oh no. Frank has a radio and is hearing everything we say!!  Detective Williams. Hurry. I'm in the apartment. Hurry. I'm hiding in the back bedroom.
+L97670 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Detective Williams here. Is that you, Jeffrey?
+L97669 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Detective Williams!! Detective Williams!!
+L97548 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes sir.
+L97547 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ For now. Alright, you better be. And Sandy better not be involved with this, I can tell you. Be prepared to come in for further interrogation on this later.
+L97546 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes sir. I sure am.
+L97545 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ You're all through with this now?
+L97544 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Only you and the photo lab.
+L97543 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Who knows you have these?
+L97542 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, not at all.
+L97541 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Is Sandy part of this?
+L97540 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I can't tell you the whole story. I. I took it upon myself. I can't say more.
+L97539 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Well now Jeffrey, how did you come to get so involved?
+L97538 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I have no hard proof of any of this. Her address is also on the photos. I think these people are involved with drugs, and murder. I think Frank is killing drug dealers and...  ...and somehow Frank is getting all their drugs. I had to tell you I got slightly more involved in this than you wanted me to, but it's over now for sure. I had to tell you about these things in case it could help.
+L97537 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ And that man came out with a third man - this well-dressed guy. Here's the photo. I think a girl named Dorothy Vallens is in trouble with these people. I think Frank has taken her husband and her son.
+L97535 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, I gotta tell you. I've discovered some things. Anyway I have to show you some pictures and tell you some things about them. The first picture is this.
+L97534 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Okay?
+L97533 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah.
+L97532 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Okay, come on in. Looks like you had a bad face lift.
+L97531 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hi. Hi Sandy. I'm sorry to bother you, but I've got to talk to you.
+L97530 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Jeffrey! Come on in.
+L97444 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ It's blue. Blue velvet.
+L97443 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What color is it?
+L97268 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Blue. It's Blue Velvet.
+L97267 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What is this? What color is it?
+L97266 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I get it.
+L97265 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ I won't let the bastards get me up against the wall. It's an act of defiance.
+L97264 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Why do you do it?
+L97263 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Yes I have - so bad I wouldn't poison your mind by telling you.
+L97262 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess you've seen some bad things.
+L97261 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Yes.
+L97260 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Is that why you say it's horrible?
+L97259 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ The criminals are winning.
+L97258 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Anything you can tell me?
+L97257 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Okay.
+L97256 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ These are beautiful. How's the case coming?
+L97254 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ If you want to come up a minute, I'll show you some pictures.
+L97253 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes?
+L97252 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Jeffrey?
+L96857 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ And it's horrible too.  I'm sorry Jeffrey. That's the way it has to be. Anyway. I'm sure you do understand.
+L96856 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It must be great.
+L96855 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ I was the same way when I was your age. I guess that's what got me into this business.
+L96854 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I understand. I'm just real curious like you said.
+L96853 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Detective Williams here. Yeah. Tell him to go to Sergeant Milton. Yeah, copy.  Well, Jeffrey, you found something which is very interesting to us. Very interesting. I know you must be curious to know more.  But. I'm afraid I'm going to have to ask you not only not to tell anyone about your find, but also not to ask more about the case. One day, when it's all sewed up, I'll let you know all the details. Right now, though, I can't.
+L96850 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Excuse me, Mrs. Williams.
+L96849 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Come into the study a minute.
+L96820 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Come on. I'll drive you home. It's on my way.
+L96819 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Got it. Thanks for letting me in on as much as you did.
+L96818 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ By the way, Jeffrey, this story isn't going to the press and I'm going to ask you to consider all you've heard strictly confidential. Do not discuss this business with anyone, but me, or other police personnel. Got it?
+L96812 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Yep, that's right. Let's take a look at it.
+L96811 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I've got it here in this bag. I thought I should bring it to you.
+L96810 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ You did? A human ear?
+L96809 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ He's alright, I guess. I hope. They're doing tests, that's why I'm home from school. I was over at the hospital this morning and I was going home and in the field behind our neighborhood. There behind Vista, I found an ear.
+L96808 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Sure I do. I understand he's in the hospital. How is he?
+L96807 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ My name is Jeffrey Beaumont - I live near you. I believe you know my father, Tom Beaumont - Beaumont's Hardware Store?
+L96806 +++$+++ u570 +++$+++ m36 +++$+++ DETECTIVE WILLIAMS +++$+++ Yes.
+L96805 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Are you Detective Williams?
+L97645 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Hold me. I'M FALLING!
+L97644 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I promise, Dorothy. I promise.
+L97643 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ HELP HIM!! Promise me you'll help him!
+L97642 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Don? Where is he?
+L97641 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Hold me, Don.
+L97635 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Don. Help him. HELP HIM!! DONNY!!!!
+L97634 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Who, Dorothy?
+L97633 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ They hurt his head.
+L97624 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ My secret lover.
+L97623 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It's okay. It's okay.
+L97622 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Where have you been?  Oh God, they hurt him, Jeffrey. Jeffrey, Jeffrey, Jeffrey, hold me. HOLD ME. Oh God.
+L97618 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh God, Jeffrey, is that you? Oh God.
+L97617 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, it's me.
+L97424 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ No.  Hi baby.
+L97423 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh no.
+L97421 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You look beautiful to me.
+L97420 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I'm getting a little bit fat. I hate that.
+L97419 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What?
+L97418 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Okay. Soon? Do you think I'm too fat?
+L97417 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'll call you.
+L97415 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I think I better go.
+L97414 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I want you to stay with me.
+L97413 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess I should go.
+L97410 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. Not really.  But also because I really want you to be alright.
+L97409 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Why are you here?  HMMMMMMMM!!!! OK.
+L97408 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97407 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I did. Are you?
+L97406 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You called me Jeffrey.
+L97405 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ If I die, then they'll be free. It's getting late, isn't it? I can tell, it's a cold feeling when it's late. It's warm then it gets cold. Jeffrey. I feel it getting cold.
+L97404 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Dorothy. No!
+L97403 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ There's so much I want to tell you. I'm in so much darkness though with things moving. There is darkness sucking me. It's kissing me and darkness is entering me. In every hole. It's opening me to a death.
+L97402 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm glad you do.
+L97401 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Men are crazy. Then they put their craziness into me. Then it makes me crazy. Then they aren't so crazy for awhile. Then they put their craziness in me again.  It's burning me, but I love you. I do, I do. Did you know that? Did you know that I love you?
+L97400 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ There's no disease, I can tell you.
+L97399 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You put your disease in me. Your semen. It's hot and full of disease.
+L97398 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You what?
+L97397 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Shhhhhh. Now I have your disease.
+L97396 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I didn't mean to hurt you.
+L97394 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, it's not Don.
+L97393 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I love you Don with all my heart.
+L97390 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Just get outta my bed.
+L97389 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Wait a minute. Wait. Whatiya want? For cryin' out loud!
+L97388 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ And sometimes you think you don't?! Well, get away then!
+L97387 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sometimes I think I do.
+L97386 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I asked first.
+L97385 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Do you love me?
+L97384 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you love me?
+L97383 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Kiss me.
+L97382 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Look, snap out of it, will ya?
+L97381 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What if Frank came over here and found us?
+L97380 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Come on Dorothy.
+L97379 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Beeeee careful.
+L97378 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Shut up.
+L97377 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Does that scare you?
+L97376 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay. I know you've been scared. Now you want to scare someone.
+L97375 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Frank would open you.
+L97374 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That wouldn't be too good, would it?
+L97373 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What if I told Frank that you opened me?
+L97372 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97371 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You like to open me, don't you?
+L97370 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ No police!!!  No police!!
+L97369 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. I told you. I don't want to hurt you. I want to help you. I think I know some of what is happening to you.  Dorothy? Frank has your husband and son. Dorothy? Doesn't he? You have to do something Dorothy. Go to the police.
+L97368 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I want you to hurt me.
+L97367 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What do you want?
+L97366 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you want to do bad things?  Anything, anything.
+L97365 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Whatiya mean?
+L97364 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Are you a bad boy?
+L97363 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm doing it.
+L97362 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What do you want to do?
+L97360 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sure I do.
+L97359 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you like my body?
+L97358 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That's good.
+L97357 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I'm not crazy.  I know the difference between right and wrong.
+L97356 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I sure don't hate you.
+L97355 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ No. How could he? Don't go. You think I'm crazy, don't you? I want you to stay.  Don't hate me.
+L97354 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Frank is coming?
+L97353 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yes. Frank--
+L97352 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm sorry, maybe I better go Dorothy.
+L97351 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ It used to make me laugh, but.
+L97350 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hello.
+L97349 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Come in.
+L97200 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Please, please stay.
+L97199 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. I should go.
+L97198 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Or do you just want me? I'm going to let you enter me now.
+L97197 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97196 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Who are you? Maybe I'll need to. You like me, huh?
+L97195 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I came back to help you. You said do I let girls sneak into my house. You know where I live. If you need to, come to where I live, OK?
+L97194 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Why are you so interested? Why do you keep asking me?
+L97193 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. But you're in very big trouble.
+L97192 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Don? Are you in with them?
+L97191 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Who is Don?
+L97190 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. Please, Dorothy. Why are you in so much trouble?
+L97189 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Falling.
+L97188 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97187 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Look.
+L97185 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Take it easy. What's goin' on anyway? Why are you in so much trouble?
+L97184 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I can't. I can't. You think you know so much.
+L97183 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ There you go again. Stop saying that. You can make it.
+L97182 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh God. Don!!! Why can't I just die.
+L97181 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Who's it, you mean.
+L97180 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nice guy. Who's he?
+L97168 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I'm alright. Go hide. This won't take long. Be quiet.
+L97167 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Frank? Can you stand up?
+L97166 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh shit.
+L97165 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Same here.
+L97164 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I liked being with you last night.
+L97163 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That's not crazy. I like you too.
+L97162 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I looked for you in my closet tonight.  It's crazy, I don't know where you came from, but I like you.
+L97161 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I, uh.
+L97160 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Why are you here. Whatiya want?
+L97157 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yeah, hurry up though.
+L97156 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hi, can I come in?
+L97137 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ OK.
+L97136 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ It's a secret so don't tell anyone. Some day I'll show you where. I've gotta go to sleep now.
+L97135 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Don't say that.
+L97134 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Did I say that? I didn't mean it, or did I?  Sometimes I think it would be fun.  Go ahead, you better leave now. I can't open myself to you now. I'll tell you a little secret.  I want to die.
+L97133 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Then don't talk about killing.
+L97132 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Go then. I can't let you put it in me now but I want you. I like you.
+L97131 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Please don't talk like that. You're upset. I'm not helping you. I'm sorry for what I did. I better go.
+L97130 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Maybe you don't know. I know you though. You're Jeffrey Beaumont and I know where you live and I know ways to get you and I know ways to kill you.
+L97129 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. What is happening?
+L97128 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You don't?
+L97127 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97126 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you know?
+L97125 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Next Christmas. Is he Santa Claus who has left a present for Dorothy? What was it? An ear? Another ear?!!  What was it?
+L97123 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What?
+L97122 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ I made it go down the toilet.
+L97119 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You can be my special friend and come and put that in me.
+L97118 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes, I like you.
+L97117 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you like me?
+L97115 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, please. I won't.
+L97114 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You can hit me, if you want to.
+L97111 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You can kiss them if you want. Feel them. They're getting hard.
+L97110 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97109 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ See my nipples?
+L97108 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97107 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ See my breasts? See?
+L97106 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97105 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you like the way I feel?
+L97104 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It's okay. It's okay.
+L97103 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Thank you. honey.
+L97102 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Don. Hold me. I'm scared. Hold me. Please.
+L97101 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97100 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Don?
+L97099 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'll go then.
+L97098 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Sure I'm alright. 
+L97097 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nothing. Are you alright?
+L97096 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Don't.  I don't like that. What do you want?
+L97075 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Lie down on the bed.
+L97074 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97073 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you like talk like that?
+L97071 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97070 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Do you like that?
+L97068 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What do you want?
+L97067 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I, I don't know.
+L97066 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What do you want from me?
+L97062 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ No way.
+L97061 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Look. I'm sorry. Just let me leave.
+L97060 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ NO, you come on. Take off your pants. I want to see you.
+L97059 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. Come on.
+L97058 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ How'd you like it if someone sneaked into your house and watched you.  Get undressed. I want to see you.
+L97057 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Never before this.
+L97056 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ How many times have you sneaked into girls' apartments and watched them undress?
+L97055 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Then you got undressed.
+L97054 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ THEN WHAT?
+L97053 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well.
+L97052 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ That's right. That's what I said. You have a good memory. Then what?
+L97051 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You said hello, to Frank. You wanted to talk to someone? Don? And little Donny. You said something about Momma loves you. And something about a Meadow Lane. Something in an hour. I don't remember any more.
+L97050 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ The phone. What did you hear on the phone. Tell me. Word for word.
+L97049 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I saw you come in, talk on the phone. Get undressed.
+L97048 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Tell me what you saw tonight. TELL ME.
+L97047 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I sprayed your apartment. I took your key. I really didn't mean to do anything but see you.
+L97046 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ An experiment? Hey, I've seen you before.
+L97045 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I was an experiment. Just to see if I could do it.
+L97044 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Shit. You better tell me something.
+L97043 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nobody.
+L97042 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ What? Are you kidding me? Who sent you here?
+L97041 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I wanted to see you.
+L97040 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ You tell me!! Let me see that wallet.  Jeffrey Beaumont. What're you doing in my apartment, Jeffrey Beaumont?
+L97039 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Jeffrey nothing.
+L97038 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Jeffrey. Jeffrey what?
+L97037 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Jeffrey.
+L97036 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ GET OUT OF THERE!!! GET OUT!!! Put your hands up, on your head. GO ON!!! Get down on your knees - DO IT!! What are you doing? Who are you? What's your name? WHAT'S YOUR NAME?
+L96951 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yeah.
+L96950 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That oughta do it.
+L96948 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh yeah, that's good.
+L96947 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nope, it's new stuff. No smell.
+L96946 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh God, that stuff stinks.
+L96945 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Pest control, gotta do your apartment.
+L96944 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yes? What is it?
+L97179 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ Okay, I'm goin'. You'll see, I'll get you.
+L97178 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ No way, get out. I'm gonna tell Frank. I'm gonna tell him what you said.
+L97177 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ He's the reformed dealer though who wanted to turn himself in. He's the one that caused Frank to come and Frank's fucking us real good. I just feel so horny. I'm supposed to be here watching you why can't I be here fucking you. Listen. I know his cock's the size of a pin - let me give you the real thing. Let me wet my whistle, baby.
+L97176 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Oh he forced you, huh?
+L97175 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ Yeah, maybe so. Frank's got me, and you and really it's all thanks to Don, isn't it. Remember that. Your husband was the one who started fucking my mind with drugs.
+L97174 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ 'Cause he's comin' back, that's what for. Frank's got you really loaded tonight.
+L97173 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ He's comin' back? What for?
+L97172 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Alright, suit yourself.
+L97171 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ Bull.
+L97170 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yeah, but get outta here. He's comin' back.
+L97169 +++$+++ u581 +++$+++ m36 +++$+++ YELLOW MAN +++$+++ Frank gone?
+L97507 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Shut up. Gimme your lipstick.  Hey, pretty, pretty.
+L97506 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Frank, he didn't mean it. Leave him alone. Come on. He didn't mean it.
+L97501 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ If you want to.
+L97500 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Can I feel 'em?
+L97499 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Those are my breasts.
+L97498 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Don't say PLEASE, Fuckhead. WHAT ARE THESE?
+L97497 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Come on, Frank. Let's go. Please.
+L97496 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Look at these. What are these?
+L97491 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Then, shut up!
+L97490 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Yes, but.
+L97489 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ You want to see him too, right?
+L97488 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Frank?
+L97487 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Hey Tits, I'm taking your neighbor to the country. Maybe something for you too.
+L97486 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Where are we going, Frank?
+L97427 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ From the neighborhood?  Shut the fuck up.  You like telephones? Huh? You wanta go for a ride?
+L97426 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ He's a friend. From the neighborhood. We were just talking.
+L97425 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Who's this fuck?
+L97087 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Baby wants to fuck.
+L97086 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Mommy's here.
+L97085 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ MOMMY!
+L97080 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ My bourbon.
+L97079 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Hello, daddy.
+L97078 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Shut up. It's daddy, shit-head.
+L97077 +++$+++ u571 +++$+++ m36 +++$+++ DOROTHY +++$+++ Hello, baby.
+L97687 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I sure know that. Yeah, but how many more are out there?
+L97686 +++$+++ u572 +++$+++ m36 +++$+++ F.B.I. MAN +++$+++ We're going to leave that up to Detective Williams. I'll tell you though, you're okay. You shot a real son of a bitch.
+L97685 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I guess I did.  What's going to happen to me?
+L97684 +++$+++ u572 +++$+++ m36 +++$+++ F.B.I. MAN +++$+++ You seemed to see some very interesting things on your little escapade with Dorothy Vallens.
+L97683 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ He became obsessed with her. She hated him. He had to have her. He kidnapped them to control her. To make her do things. Then she wanted to commit suicide so he started cutting off ears as a warning to her to stay alive. I'm not kidding. Frank loved blue, blue velvet. He had to have Dorothy cause her whole life was blue.
+L97682 +++$+++ u572 +++$+++ m36 +++$+++ F.B.I. MAN +++$+++ We're looking for him. In your opinion, why did Frank kidnap Dorothy's son and husband?
+L97512 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ I'll send you straight to hell, Fuck!
+L97511 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97510 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Don't be a good neighbor to her or I'm gonna send you a love letter. Straight from my heart, fucker. You know what a love letter is? It's a bullet, straight from my gun, fucker. Once you get a love letter from me, you're fucked forever. Understand, Fuck?
+L97495 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Don't look at me, Fuck. I shoot when I see the whites of the eyes.  You like me?
+L97494 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nothing.
+L97493 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ What are you lookin' at?
+L97485 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Let's take our neighbor out. Let him fuckin' walk back. 
+L97484 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What?
+L97483 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Hey? You like to walk.
+L97470 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Do you see, Ben? I can make him do anything I fuckin' please.
+L97469 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Here's to Ben.
+L97468 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Hey neighbor. Here's to Ben.
+L97441 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ FUCK THAT SHIT. PABST BLUE RIBBON!!!
+L97440 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Heineken.
+L97433 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ A ride? Hell, that's a good idea. Okay, let's go. Hey, let's go.
+L97432 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ On a ride.
+L97431 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Go where?
+L97430 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't want to go.
+L97429 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ No thanks. What does that mean?
+L97428 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No thanks.
+L97309 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Speak to me Fucker.
+L97308 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hello?
+L97463 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Good, let's drink up.
+L97462 +++$+++ u579 +++$+++ m36 +++$+++ RAYMOND +++$+++ There ya go.
+L97461 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ No, I want ya to fuck it. Shit, yes, pour the fuckin' beer.
+L97460 +++$+++ u579 +++$+++ m36 +++$+++ RAYMOND +++$+++ Right here Frank. You want me to pour it?
+L97459 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Raymond! Where's the fuckin' beer?
+L97439 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ What kinda beer do you like?
+L97438 +++$+++ u579 +++$+++ m36 +++$+++ RAYMOND +++$+++ Okay Frank.
+L97437 +++$+++ u573 +++$+++ m36 +++$+++ FRANK +++$+++ Come on. I wancha to meet a frienda mine. Raymond, get enough beer for Ben too.
+L97144 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ You can't just stay out half the night and carry on, Jeffrey. There's got to be some order, Jeffrey. I thought it would have been nice to call your father when you got home but now it is much too late.
+L97143 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nothing. I'm fine.
+L97142 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Is something wrong? What's happened to your face?
+L97141 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ God, you scared me.
+L96985 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Of course, Jeffrey.
+L96984 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Can I use the car tonight?
+L96825 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Alright.
+L96824 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, I'm just gonna walk around.
+L96823 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Do you want the car?
+L96822 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm going out for awhile.
+L96786 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Jeffrey! Nobody wanted you to leave school and go to work in the store, maybe going back to school will be an option one day. I hope so.
+L96785 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Thanks a lot, Mom.
+L96784 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ It would be too much for him. So please let him think as he does, that you're home just to see him.
+L96783 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What?
+L96782 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ He doesn't know you're out of school. He thinks it's a vacation for you.
+L96781 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah?
+L96780 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Jeffrey, when you see your father.
+L96779 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well. Okay.
+L96778 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ I've made arrangements with Dr. Gynde for 10:30. But Jeffrey, you'll have to walk over; I need the car this morning.
+L96777 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What time are visiting hours?
+L96774 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Be right down.
+L96773 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Jeffrey, breakfast is ready.
+L96764 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ This is it.
+L96763 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Where's all your things, Jeffrey?
+L96756 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Mom.
+L96755 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ Jeffrey, honey. Your father's condition is serious. It's going to cost so much. We just won't have the money to keep you in school. I'm telling you this now, so that you can get your things together and check out of school, honey, or whatever you have to do, it'll save you another trip back. You're going to have to work at the store.
+L96754 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ For good? I can't Mom. Not right in the middle of the term.
+L96753 +++$+++ u577 +++$+++ m36 +++$+++ MRS. BEAUMONT +++$+++ I mean, for good, Jeffrey.
+L97630 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ I'll get a coat for her.
+L97629 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sandy?... Sandy, please.
+L97251 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Nice of you to offer, Jeffrey, but certainly not. Just relax and enjoy your coffee. I'm sure Sandy will be back soon.
+L97250 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sure thing, please don't worry about me. Can I help you with the dishes?
+L97249 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Please excuse me a moment, Jeffrey, and I'll get to the dishes.
+L97237 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Anyone else? Alright Jeffrey, just a minute.
+L97236 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That sounds great!
+L97235 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Here you are. Would anyone like coffee?
+L96860 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Say "goodnight" to Sandy.
+L96859 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Oh, you're welcome. Nice to finally meet you, Jeffrey.
+L96858 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Mrs. Williams? Thanks for the cake.
+L96845 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah.
+L96844 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ He comes over to study.
+L96838 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. okay.
+L96837 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ It's a real good chocolate cake. Duncan Hines' devil's food. Real good.
+L96836 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. No thank you.
+L96835 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Would you like a piece of cake?
+L96834 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, I know.
+L96833 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ I was sorry to hear about your father. I know your mother from church. It's such a shame.
+L96832 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Alright.
+L96831 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Really, he'll be home soon, would you like a cup of coffee?
+L96830 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I just wanted to ask him a few questions, that's all. Maybe I better go.
+L96829 +++$+++ u578 +++$+++ m36 +++$+++ MRS. WILLIAMS +++$+++ Oh, yes, Jeffrey. Come in. He'll be back any minute now. You're welcome to wait. Is it urgent?
+L96828 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hello, uh, my name is Jeffrey Beaumont. Is Detective Williams in?
+L97606 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Later Mike. I gotta take care of someone who's hurt here, in case you haven't noticed.
+L97605 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Hey, you ivy league shit. COME HERE!
+L97221 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Well, most guys don't. I mean that's the point. You all mind if I take my vitamins?
+L97220 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, well I never wanted to get slaughtered much.
+L97219 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ I mean, some guys play anyway but they usually get slaughtered.
+L97218 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No, you're right.
+L97217 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ I mean, you don't exactly have the build for a football. I mean, no offense.
+L97216 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well.
+L97215 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Looks like you'd make a good runner.
+L97214 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97692 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Good deal Dad.
+L97691 +++$+++ u576 +++$+++ m36 +++$+++ MR. BEAUMONT +++$+++ Hey Jeff. I'm feelin' so much better.
+L97690 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ How ya doin' Dad?
+L96802 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It's good to see you, Dad.
+L96801 +++$+++ u576 +++$+++ m36 +++$+++ MR. BEAUMONT +++$+++ Good to see you, son.
+L96800 +++$+++ u576 +++$+++ m36 +++$+++ MR. BEAUMONT +++$+++ Uh-uh.
+L96799 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Are you feeling okay?
+L96798 +++$+++ u576 +++$+++ m36 +++$+++ MR. BEAUMONT +++$+++ Uh-uh.
+L96797 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Looks like they've got you strapped in pretty good.
+L96796 +++$+++ u576 +++$+++ m36 +++$+++ MR. BEAUMONT +++$+++ Hey Jeff.
+L96795 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Hi Dad.
+L97694 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I just saw him outside. Maybe the robins are here.
+L97693 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Look Jeffrey.
+L97650 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes I'm going. I have to. I love you. I will, believe me.
+L97649 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ No Jeffrey!!
+L97648 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Please get to your father and send him and the police to Dorothy's apartment right away. Be sure your father comes. Something is happening over there. They're hurting someone, the guy she loves. Tell them to hurry. I'm going over right now.
+L97640 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Go ahead!
+L97639 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sandy?
+L97638 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Go ahead.
+L97637 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I should go with her, Sandy.
+L97632 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Shhh. I'll tell you.
+L97631 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Jeffrey? What's going on?
+L97614 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Right. Watch out for Mike, there.
+L97613 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay. Let's get her over to your father's.
+L97612 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Probably not. No. Why?
+L97611 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. Is Detective Gordon going to be at your house?
+L97610 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Take her to my house. My dad can get an ambulance faster than anyone. Do you have anything to put around her?
+L97604 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97603 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Dorothy Vallens?
+L97602 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Dorothy!... Dorothy!
+L97595 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Sandy, this guy is a killer!! I promise you.
+L97594 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ No.
+L97593 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ My father has a gun at home.
+L97590 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Frank!!!
+L97589 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Oh my God. What's wrong?
+L97586 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Okay.
+L97585 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You want to dance?
+L97583 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Just a minute.
+L97582 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Let's wait for some slow one.
+L97581 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ NO.
+L97580 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Really. You want to dance with someone else?
+L97579 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Really?
+L97578 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I can't dance fast.
+L97577 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You want to dance?
+L97576 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I like that idea, that's a real good idea.
+L97575 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Thank you. Whatiya say we just enjoy the evening?
+L97574 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You look beautiful.
+L97573 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ It's okay.
+L97572 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'd rather not talk about it. I'll tell you about it sometime.
+L97571 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Just go over to Gelford and up to Vista. It's not far. Can you tell me any more about what you learned?
+L97570 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Where to?
+L97569 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ It's good to see you.
+L97568 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Nothing, really! It's good to see you.
+L97567 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What was that all about?
+L97563 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Just some fatherly advice.
+L97562 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What is it?
+L97561 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay.
+L97554 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay. Great!
+L97553 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I should never had gotten you going on this.  Yes Jeffrey. Friday's on!
+L97552 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No.
+L97551 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You didn't tell him about me?
+L97550 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I think so. I just had to tell him some of what I knew. Is Friday still on?
+L97549 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Everything okay?
+L97525 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, but I promise I won't mention you. Okay? I'll see him at the police station, okay? See you Friday night, if not before.
+L97524 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Jeffrey, are they important things? Well forget me - you have to tell him. Jeffrey, I mean it.
+L97523 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Great. Hey, I've got a bit of a problem. I know some things that could help your father but you might get into trouble.
+L97348 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yes. Is that so surprising? Yeah I worry, a lot. I got you into this.
+L97347 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You worry about me really?
+L97344 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, you're a mystery. I like you. Very much.
+L97343 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You like mysteries that much?
+L97342 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm seeing something that was always hidden. I'm involved in a mystery. I'm learning. And it's all secret.
+L97341 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Jeffrey? Why?
+L97340 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah.
+L97339 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I can't believe what you are finding out. Are you going to continue with this. Are you going back to her apartment?
+L97338 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Then these guys told me the police will find a huge amount of drugs inside the dead man's place.
+L97337 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Jeffrey!!
+L97336 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Number two. I saw the Yellow Man come out. This time with a well- dressed man with an alligator briefcase. They drove down this factory building and stood on a staircase looking at something in the distance. Number three. Now get this. In the distance was a murder. A drug dealer shot to death and a woman with her legs broken.
+L97335 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Oh yeah?
+L97334 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Maybe. But I think the Yellow Man is on drugs. I think Frank supplies him.
+L97333 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Nothing really, but it's interesting. They know each other. They seem to like each other.
+L97332 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Number one. I saw the Yellow Man go into Frank's building, laughing with Frank. Now, the only trouble is, what does this prove?
+L97331 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Shoot.
+L97330 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That's what makes it so good. You wanta hear what I saw today?
+L97329 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You know, that cheese is practically all chemicals.
+L97328 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah, but I don't think it's going to do much good. Let's go. I'll try to talk to him later.
+L97327 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You want to go talk to him?
+L97326 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What am I going to do?
+L97325 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm really sorry.
+L97324 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You were late.
+L97307 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ See ya tomorrow.
+L97306 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Goodnight.
+L97305 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, okay.
+L97304 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You better not, Jeffrey.
+L97303 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Can I give you a kiss good night?
+L97302 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, Sandy.
+L97301 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Okay, be careful.
+L97300 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I will. I'll pick you up on the same corner at three thirty-five, okay?
+L97299 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ No, silly - I'm still in school you know. But I'll meet you after school and you can tell me what you've learned. You better be careful, Jeffrey.
+L97298 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess so. You want to help me watch Frank? I'm going to stake out Frank's place tomorrow with a camera.
+L97297 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ So are you.  I mean you're a neat guy. We better get back.
+L97296 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah I guess so.  You're a neat girl.
+L97295 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know. I had a dream. In fact, the night I met you.  In the dream the world was dark because there weren't any robins. You know, birds. Robins stood for love, and all of a sudden thousands of robins flew down and brought this blinding light of love. And it felt like that love would be the only thing that would make any difference. I guess, until the robins come there is trouble.
+L97294 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Why are there people like Frank. Why is there so much trouble in this world?
+L97293 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You're sure right. It is a strange world.
+L97292 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That's what I thought.
+L97291 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Who, me? Why should it?
+L97290 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That doesn't bother you, does it?
+L97289 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah?
+L97288 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. I mean a little, you know.
+L97287 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Did you see her undressed?
+L97286 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes.
+L97285 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Twice. Without her sensing anything?
+L97284 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Actually. I've been in twice.
+L97283 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You saw a lot in one night.
+L97282 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't see how I can, and I can't prove any of this. I got all this information illegally. Also it could get you in trouble.
+L97281 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Wow. Should you tell my father?
+L97280 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ OK. It's a strange world, Sandy. This is what I have found out. What I think I have found out. Dorothy Vallens is married to a man named Don. They have a son. I think the son and the husband have been kidnapped by a man named Frank who has now cut off both of Don's ears. I think he is holding them to make her do things for him. I think she wants to die. The ears were for her a warning to stay alive. There is another man involved. I call him the "yellow man". You saw his back the other day in the hall at her door. I don't know what he does but I think he's on drugs supplied by Frank. Frank is a very dangerous man.
+L97279 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You want to tell me about it?
+L97278 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No way. I'm about to blow up.
+L97277 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You want a Dairy Queen?
+L97276 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ It's okay. Don't worry about it.
+L97275 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm sorry, I didn't...
+L97274 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ He got a little jealous.
+L97273 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What's with Mike?
+L97242 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well.  Maybe we should discuss this somewhere else, you know what I mean?
+L97241 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What did you see?
+L97240 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well, I've found out some things, nothing really for certain. There are some strange people involved.
+L97239 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Well, how did it go? What happened?
+L97027 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Okay, okay. Bye.
+L97026 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ That's for me to know and for you to find out. I'll see you. I mean call you, okay?
+L97025 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know if you're a detective or a pervert.
+L97024 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, thanks.
+L97023 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I'll honk four times so you'll hear it and know she's on her way up. Okay?
+L97022 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Are you sure?
+L97021 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I'm going to wait here until she comes.
+L97020 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah.
+L97019 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Call tomorrow. It's okay. Good luck. I hope you can sneak out okay. You're going to wait until she's asleep?
+L97018 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Look, it can wait till Sunday.
+L97017 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Okay, yeah, call.
+L97016 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh, okay, can I call?
+L97015 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I, I don't want to see you tomorrow. Mike's coming over.
+L97014 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm going in, Sandy. I'll see you tomorrow and tell you how it went.
+L97013 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I wish you wouldn't do this. It doesn't make any sense. Let's go somewhere and have some coffee.
+L97012 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Could you wait a little while, this key may not fit.
+L97011 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ OK.
+L97010 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Leave it in the front of your house for me, okay?
+L97009 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah, but.
+L97008 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It'll be okay. I don't think you should wait out here though. I think you should go home. Can you drive this car?
+L97007 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ It's crazy and dangerous. My God, I shouldn't have told you.
+L97006 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Why not?
+L97005 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Jeffrey, I don't think you ought to do it.
+L97003 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I'll drink to that.
+L97002 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Here's to. An interesting experience.
+L96997 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Two.
+L96996 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ That sounds good.
+L96990 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ This is not my usual Friday night!
+L96989 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Then we'll drive back to her apartment and I will plant myself there.
+L96988 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Brilliant.
+L96987 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ First of all, we're going to the Slow Club to see Dorothy Vallens. We'll watch her for awhile. I'd like to hear her sing anyway, and then also we'll know she is there and not in her apartment.
+L96986 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What's the plan.
+L96974 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay. You better get out before someone sees us.
+L96973 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah, but don't pick me up. My father may think it's strange. I'll walk over to your house. I'll be there at eight o'clock.
+L96972 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Great. I'll pick you up around eight o'clock. Is that good?
+L96971 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I already know. The "Slow Club". It's on Route 7.
+L96970 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ First of all, we'll have a nice dinner. Try to find out where Dorothy sings.
+L96969 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I'll tell Mike I'm sick. There's a game tonight anyway and he'll never miss me. Afterwards he can go out with the guys. Just so the record is kept straight though, I love Mike. What do want me to do?
+L96968 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't want you to get involved, really, I mean, I do, but if something went wrong I mean, like you said, they may be involved in murder.
+L96967 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You really want to do this, don't you?
+L96966 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Well, it's Friday night and you're a beautiful girl. I guess you would have a date, that does that.
+L96965 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yes. I do.
+L96964 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You didn't goof it up, but you still owe me one. I want to sneak in tonight. It's Friday, do you have a date tonight?
+L96963 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I owe you, since I goofed up this one.
+L96962 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Pretty clever. Are you game for more?
+L96961 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ So, what's next?
+L96959 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah.
+L96958 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah, if it opens the door.
+L96957 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I didn't get a good look at him either, but he sure looked at me. I didn't have time to get a window, but I found this key.  Pretty nifty, huh?
+L96956 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ No. I only saw his back. He went down another stairwell at the end of the hall.
+L96955 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yes and no. Did you recognize him?
+L96954 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I was just about to go to the door, when that man did my job for me. Was it alright?
+L96953 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, let's get outta here. What happened?
+L96952 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Are you alright?
+L96941 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Alright. Good luck, yourself.
+L96940 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Thanks. Dorothy Vallens. Okay, goodluck. Three minutes, no sooner.
+L96939 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Oh brother. Dorothy Vallens, Seventh Floor. Look on the mailbox for her number, bright boy.
+L96938 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Okay, I'm going ahead. Wait a minute, what's her name?
+L96937 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Let's go.
+L96936 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Alright.
+L96935 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Now, we'll walk over so there's no license plates and you give me at least three minutes. I can stall if it's more, but I need time to find a good window, alright?
+L96934 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You've got a point there.
+L96933 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Let's just try the first part. If that goes well, we'll see about the rest. No one will suspect us, because no one would believe two people like us would be crazy enough to do something like this.
+L96932 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know, it sounds like a good daydream, but actually doing it is too weird. Too dangerous.
+L96931 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You will be a Jehovah's Witness. I have a few "Awake" magazines for you. You don't have to keep her very long. A few seconds is all I'll need. Whatiya think?
+L96930 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What will I say when she comes to the door?
+L96929 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Right out in the car I happen to have some old overalls and a bug spraying rig. I will go to her apartment and be the pest control man. I will spray her apartment. After a few minutes you will knock on her door, drawing her attention away from me and I will then jimmy a window.
+L96928 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Now, how are you going to do that?
+L96927 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Alright. the first thing is to get into her apartment and open a window that I could crawl into later.
+L96926 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ It wouldn't hurt to hear the plan, I guess.
+L96925 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Settle down. I have a plan which I think will work. There is very little for you to do, but I do need your help. Aren't you curious about my plan?
+L96924 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You said it was a strange world. And you're the strangest part of it. Are you crazy? She is possibly involved in murder. This gives me the creeps.
+L96923 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ There are opportunities in life for gaining knowledge and experience. Sometimes, in some cases, it's necessary to take a risk. I got to thinking. I'll bet a person could learn a lot by getting into that woman's apartment, you know, sneak in and hide and observe.
+L96922 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Alright, now tell me. What is it?
+L96921 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Ooooo, you are smart. Just don't get too smart.
+L96920 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess Mike's got some sort of sports practice in the afternoon.
+L96919 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I'm here, aren't I?
+L96918 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't want to cause any trouble.
+L96916 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Just a minute, pull over and wait a minute.
+L96915 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'd like to talk to you about something.
+L96914 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know.
+L96913 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You hungry or thirsty, or both?
+L96909 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah. Good bye.
+L96908 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I guess so. Like you said. It's a strange world.
+L96907 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess I'll see you sometime.
+L96906 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Thanks for the tour. It was nice talking to you.
+L96905 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I've gotta go in.
+L96904 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I don't know. He moved away.
+L96903 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ What happened to him?
+L96902 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It's not bad, but it's bad enough. It's a lot worse for my father.  I used to know a kid who lived there and who had the biggest tongue in the world.
+L96901 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Still, it must be kinda rough.
+L96900 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I have to help out in my father's hardware store. They're giving me sort of my own hours for a while, which is nice.
+L96899 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah, I guess so.  What are you going to do now that you're home?
+L96898 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ You really do hear a lot, don't you?
+L96897 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ My father is watching the businessman. The businessman had a partner who disappeared. Left his whole business and family, his wife and two kids. They think he's been murdered.
+L96896 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh yeah. What about those other people? Anything?
+L96895 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know, like I said, she's not my father's case.
+L96894 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Did they find out anything when they questioned her?
+L96893 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't know, you're not supposed to see them. They're supposed to see you.
+L96892 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Where are they?
+L96891 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ That's the building. She lives on the Seventh Floor. Don't stop to look long, the police are watching.
+L96890 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Not really, why?  You want to see the building? Come on, I'll show you.
+L96889 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I guess you have to get back home soon?
+L96888 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah. It's close by, that's what's creepy. They've had her under surveillance for a couple of months, except I don't know what they've found out because my father isn't in charge of her.
+L96887 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ It's a strange world isn't it? Do you know what building the woman lives in?
+L96886 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Maybe so.
+L96885 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ The ear is from a missing person maybe?
+L96884 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ No, this has been going on for some time. Several months. About six months ago some parts of bodies were found down by the river. They were from people who were reported missing. They never found one complete body, only parts.
+L96883 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Were all these people questioned this afternoon?
+L96882 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ There were at least three, maybe four. But a name that keeps coming up is this woman who lives in an apartment building very close to your house and also close to the field where you found the ear. There's also a business man over by the Franklin factory district that was questioned. And a musician. And some others.
+L96881 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Do you know who was brought in for questioning?
+L96880 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I don't really know much but bits and pieces. I hear things. My room is right above my father's office. The ear, there's no corpse in the morgue missing an ear, and it did come off a living person. That's direct from the Coroner's Office. The person is unknown. There are a couple of cases I get mixed up on, but I think there are some people who were brought in for questioning on a murder case that could have something to do with the ear. I heard some of the same names.
+L96879 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Come on, you brought it up. Do you know anything?
+L96878 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Didn't my father tell you not to talk about it? 
+L96877 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What do you know about the ear? Anything?
+L96876 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ That's too bad.
+L96875 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ I'm home from school. My father's in the hospital.
+L96874 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yeah. What are you doing now?
+L96873 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ What else is new? Right?
+L96872 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Terrible boring.
+L96871 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ How is Central these days?
+L96870 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Yes.
+L96869 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ No. You're not bothering me. You a senior?
+L96868 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Am I bothering you?
+L96867 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah I did, treasurer. Shouldn't you be studying or something.
+L96866 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You were pretty popular. Didn't you run for some office?
+L96865 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Oh yeah?
+L96864 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ I just know, that's all. I remember you from Central.
+L96863 +++$+++ u574 +++$+++ m36 +++$+++ JEFFREY +++$+++ Yeah, how did you know?
+L97601 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ You shut up. Nobody's talkin' to you. Hey who's that Jeffrey? Your mother?
+L97600 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Stop it Mike.
+L97599 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Hey come here, you stole my girl, you bastard. I'm gonna kick your ass, right in front of your stupid house.
+L97248 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Okay.
+L97247 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Come on out a minute, okay?
+L97246 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Sure, just a sec.  Excuse me.
+L97245 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Sandy? Could I talk to you a minute?
+L97234 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Mike. We don't have to watch it. Come on.
+L97233 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ I don't know why we have to watch TV.
+L97232 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ You can change it if you want to.
+L97231 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ What are watchin' this junk for?
+L96842 +++$+++ u575 +++$+++ m36 +++$+++ MIKE +++$+++ Yeah, nice meetin' you.
+L96841 +++$+++ u580 +++$+++ m36 +++$+++ SANDY +++$+++ Mike's gotta go.  Nice to meet you.

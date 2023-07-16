@@ -1,0 +1,206 @@
+L8729 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ You're not taking my baby!
+L8728 +++$+++ u129 +++$+++ m8 +++$+++ MRS. JORDAN +++$+++ We know you've been through a lot but there's more than your feelings at stake here.
+L8725 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ What are you talking about?  My "condition"?...
+L8724 +++$+++ u129 +++$+++ m8 +++$+++ MRS. JORDAN +++$+++ In your present condition, Alice, we're worried about your ability --
+L8722 +++$+++ u129 +++$+++ m8 +++$+++ MRS. JORDAN +++$+++ And ours.  It's our grandchild.
+L8721 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Look, I appreciate what you're offering, but no.  He is my responsibility.
+L8718 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ What I what?  Well, I've thought about it.  I plan to keep him.
+L8717 +++$+++ u129 +++$+++ m8 +++$+++ MRS. JORDAN +++$+++ Frankly, dear, we wondered what you intend to do with our baby?
+L8420 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ It's okay, Dan
+L8419 +++$+++ u129 +++$+++ m8 +++$+++ MRS. JORDAN +++$+++ Excuse us, dear.
+L8806 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ He says it's easy.  Especially with sad people.  With closed-off people.
+L8805 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ But how...?
+L8804 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ It's where he hides out.  Inside.  That's how he found me.
+L8803 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ What do you mean?
+L8802 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ He's inside you, where he hides.
+L8801 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Where is he?
+L8793 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Come on downstairs.  He won't hurt you. He needs us both.
+L8792 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ Mommy...?
+L8657 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ My friend, with the funny hand.
+L8656 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Who says I don't like you?
+L8654 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Who said I...wait, what?
+L8653 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ No you're not.  You don't even care about being a mom.  How come you don't think about me?
+L8652 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Oh...I'm sure that's not true.  I'll bet she's very worried about you.  I would be.
+L8651 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ She doesn't want me around
+L8650 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I don't think this is a nice place for you to be.  Maybe we should go find your Mom.
+L8649 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ No...
+L8648 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Is that who you're waiting for?
+L8645 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ Been having bad dreams.
+L8644 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Hi, you don't look very well.  Are you feeling all right?
+L8543 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ I could tell you were sad.  I just wanted to see if you were all right.
+L8542 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ How did you know that?
+L8541 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ I'm sorry your boyfriend got killed.
+L8540 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ My name is...
+L8539 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ It's lonely in there, in my room.
+L8538 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Shouldn't you be in your room, Jacob?
+L8536 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Huh?
+L8535 +++$+++ u127 +++$+++ m8 +++$+++ JACOB +++$+++ Hey...wake up.
+L8414 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Me too.
+L8413 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ There you go.  Love you.
+L8412 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ You're right.
+L8411 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ You don't dream him up, he can't hurt you.  Or me.  Or us.  Remember...
+L8410 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Yeah...I guess.
+L8409 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ You stopped it didn't you?  It was probably just a regular bad dream.
+L8408 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ No.  Well, not exactly...it's that...I felt like I wasn't in control.  For the first time since...all that.  I'm scared.
+L8407 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ About him?
+L8405 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ He'll show up.  C'mon, what's really wrong?
+L8404 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Nothing...it's just...I didn't see my father at the ceremony.
+L8403 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ Okay, babe.  What's the matter?
+L8402 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I know.
+L8401 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ They're coach seats, but the plane lands in Paris.  It's gonna be a helluva summer, hon!
+L8400 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ The tickets.
+L8397 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ Sorry, babe.
+L8396 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Jesus!  Don't do that!
+L8395 +++$+++ u125 +++$+++ m8 +++$+++ DAN +++$+++ Hi, beautiful.
+L8783 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Now.
+L8782 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ But Dad --
+L8781 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ No!  I won't have you running around in the middle of the night.  You're coming home.
+L8780 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I've got to go.
+L8779 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Alice!
+L8580 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ No, I'm not.  I sort of hope it's a boy. Be nice to have a boy playing in the house again.
+L8579 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ You disappointed in me?
+L8578 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Since my little girl became a mom...
+L8577 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Since when are you such a smart shopper?
+L8576 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Alice...
+L8575 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Very funny.
+L8574 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Sobering...
+L8573 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ How was the meeting?
+L8525 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Daddy, he's coming back...Krueger's coming back.  Make them understand.
+L8524 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ I'm so sorry, honey...
+L8451 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ It's just across the park.
+L8450 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ You sure you don't want a ride to work?
+L8449 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Thanks for everything, Dad.
+L8447 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ To take a picture.
+L8446 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ Where are we going?
+L8444 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ It's the model you've been saving up for. I wanted you to have it for your trip.
+L8443 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Dad!
+L8442 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ No.  A deal's a deal.
+L8441 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ That's in the past.  Unless you've stopped going to the meetings.
+L8440 +++$+++ u124 +++$+++ m8 +++$+++ ALICE'S DAD +++$+++ I watched from behind the stands.  Didn't want to embarrass you, ya know.  "The drunk showed up", that kind of thing...
+L8439 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I was afraid you weren't coming.
+L8819 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ That's okay.  He's got the rest of his life to catch up on his sleep.
+L8818 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ He sure loves to stay awake.
+L8817 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ So did Dan.
+L8816 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ You do good work, Alice.
+L8778 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ We've got to go to the asylum and find her body.  Mark said her soul's trapped with it -- that's why she can't come to me.  It must be!
+L8777 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ But how are we gonna --
+L8776 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Jacob.  We've got to get to Amanda before it's too late.
+L8775 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ What?
+L8770 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ If they actually bothered to bury her.
+L8769 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ You think that's the place she's buried?
+L8760 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Yeah...So that's him.  And you're not crazy.
+L8759 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Are you alright?
+L8705 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ That's the only reason you're alive...
+L8704 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Look...we're all tired.  None of us had any sleep since Friday night...
+L8700 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Goddamn it, Yvonne!  You don't just run away from this guy!  He finds you in your dreams.
+L8699 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ All I know is that you are not doing yourself or the baby any good by acting like a crazy woman.  Why don't you take off - leave Springwood and cool out somewhere for a while?
+L8698 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ What do you think I'm doing?  Look.  Whether you believe it or not, Krueger is back.  He's after the baby and if I don't try to do something about it, who will??
+L8697 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ And so is your baby.  You've got more than just yourself to think of now!
+L8696 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Krueger is reality.
+L8695 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ I am your friend, and I'm worried sick about you.  But, you're like a locked safe.  You've gotta start dealing with reality.
+L8677 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I just can't figure out how he's getting in when I'm awake...
+L8676 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ I really think you need to calm down now, okay?
+L8675 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Mark knows I'm not crazy.  Ask him to show you his hands.
+L8674 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Oh, Alice...no.  Honey, I love you but you're going to have to get a hold of yourself...
+L8673 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I think Krueger's trying to do something to it.
+L8672 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ You had me scared on the phone.  What's wrong with the baby?
+L8621 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Why don't you two stick to reality.
+L8620 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I don't understand what's happening. Krueger has to use my dreams, but he got to Dan and Greta while I was awake. How's he doing it?
+L8614 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ No accident.  I tried to warn all of you about Krueger.
+L8613 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ It was just an accident.  Like with Dan.
+L8565 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ When Dan died you weren't even asleep. You said so.  End of story.
+L8564 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ What's that got to do with it?
+L8552 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ They're waiting for us...but let's keep this dream stuff between you and me.
+L8551 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Did everyone call everyone?
+L8547 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ He must've wandered up from the children's ward.  I just wondered what was wrong with him.
+L8546 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ There aren't any little boys on your floor.
+L8545 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Have you visited the little boy on my floor?  Jacob, the one who looks kind of sad?
+L8523 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Alice, it's no dream.  I'm sorry...Dan's dead.
+L8522 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ It was no accident.  It was Krueger.  He used to get in through my dreams, but not anymore.  He's found some other way.
+L8394 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Yeah, before they revoke his diploma.
+L8393 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Good to see you again, Mr. Grey.  I've got to go find Dan.
+L8365 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ No, the Dan part was nice...
+L8364 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Dan keeping you up again?  Put a lock on that window, girl.
+L8363 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Had kind of a long night.
+L8362 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Hey, what's wrong with you -- let's see a smile.
+L8743 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ She killed herself.  Her soul's gonna be in torment.
+L8742 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I don't understand.
+L8741 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ No shit.
+L8740 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Poor woman...
+L8739 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Empty plot.  Memorial stone.  Vacant. They never did put her under.  Cool, huh?
+L8738 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ But I've seen her grave.
+L8737 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ They couldn't prove it.  No body!  Nuns bumping themselves off is bad for business.
+L8736 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Meaning?
+L8735 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ That's what the newspapers thought.  She spent the rest of her life in the asylum. After Krueger's trial she flipped out and hung herself, so they thought.
+L8734 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ No, it's our problem, Mark.  If I don't deal with this, they really might try to take Jacob.  You said she committed suicide?
+L8733 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ That's their problem.
+L8732 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ They think I'm nuts.
+L8711 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Then we'll find another way.
+L8710 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I couldn't do that, Mark.  He's my last link with Dan...No, I want him.
+L8671 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I'm going to see what else I can find out about Mr. Fred Krueger
+L8670 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Where are you going?
+L8668 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I don't know!
+L8667 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Whoa, slow down.  How're you gonna hide from a guy like that, leave the planet?
+L8665 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ What, you named it already?
+L8664 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ My baby!
+L8663 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Who's Jacob?
+L8640 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Why don't I go make some coffee.  There's a lot to tell.
+L8639 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Tell me some more about this Krueger guy.
+L8638 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ It wasn't her mother.  The only reason we're still here is that none of us has slept since the grad party.
+L8637 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Maybe it was her mother who killed her, with all that Polly Perfect shit.
+L8634 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Nobody thinks that.
+L8633 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Do you think I'm an idiot...for being in love with her?
+L8627 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Mark!
+L8626 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Then get out!
+L8617 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ She must've fallen asleep at the table...
+L8616 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I thought about that.
+L8612 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I'm very fucking sorry, but Greta is dead today.  Could we interest you in someone else?
+L8611 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ I want to talk to both you guys about Greta.  And...
+L8610 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Yeah.  I'm just aces.
+L8609 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Mark, are you okay?
+L8557 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ That's why it's my fault Dan's dead.
+L8556 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I've got to write some of this down.
+L8424 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Well we gotta do something!
+L8423 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ My dad's got this thing about drinking in the house.
+L8383 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Greta, come on.  One burger with me?
+L8382 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Not to mention the heartbreak of psoriasis.
+L8377 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I think I'm starting to wear her down.  Have some anyway.
+L8376 +++$+++ u123 +++$+++ m8 +++$+++ ALICE +++$+++ Give up, Mark, it's hopeless.
+L8495 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ I don't believe this... All that gore you paint in the comics and you're squeamish?
+L8494 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Oh man!  I could've gone all night without looking at that.
+L8490 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Oh, he was this ancient guy I read about who like, killed his kids 'cause they didn't want to run the kingdom the way he thought they should.
+L8489 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Who?
+L8488 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ He's right.  Sometimes I feel like I'm living with Melicertes.
+L8422 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ You know my mother -- get real.  What about Alice's?
+L8421 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ That club sucks, they card everybody. Let's just party at your place.
+L8381 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Pimples, heartburn, cellulite... and no modeling career.
+L8380 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Meet me later.  Milkshakes.  Cherry pie. Banana splits.  And no mom!
+L8375 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ My undying love.  Have some.
+L8374 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Next life.  Oh, what's that?
+L8373 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Yeah, when are you gonna come to your senses?
+L8571 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ All of us.  Right?
+L8570 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Bottom line, Alice.  Anybody, supernatural or not, that wants to hurt you - he'll have to go through us first.
+L8563 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Pushy parents can make you more than a bit crazy.
+L8562 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Look.  Dan's parents were pushing him. Pushing him hard.  He was bitching about it at the party last night.  He was under pressure.  We all are.
+L8559 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ I want to talk about the baby.
+L8558 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Stop saying that, it's bullshit.
+L8484 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Nah.  It's getting too cold for me, and my wonderful mother will kill me if I screw up my hair.  She's got some model agency guy coming to dinner tomorrow night.
+L8483 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Naah, I'm done.  Got to be on shift in a couple hours.  Aren't you going in?
+L8482 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Have another one, sounds like you need it.
+L8427 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ That means they're gonna give me the key to the pool so I can lock up when I'm done.
+L8426 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ Yeah...
+L8425 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ All right kids, I tell you what we're gonna do.  I've got swimming practice until six-thirty today...
+L8367 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Makes you look like a nun--
+L8366 +++$+++ u126 +++$+++ m8 +++$+++ GRETA +++$+++ These things are wild...  What do you think?
+L8703 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ He invited me to his house last night.
+L8702 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ You, too?
+L8630 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Stick around, please?
+L8629 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ It's okay.
+L8625 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ I can't listen to this.
+L8624 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ I'm not finished - I loved Greta.  A lot. And if maybe, just maybe, someone or some thing killed her, I'd like to hear about it!
+L8623 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Mark...
+L8622 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Why don't you shut up and let her talk! Two of us died in the last two days, does that strike you as particularly normal?!
+L8499 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Faint.
+L8498 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Vomit?
+L8481 +++$+++ u130 +++$+++ m8 +++$+++ YVONNE +++$+++ Two hours a day, six days a week.
+L8480 +++$+++ u128 +++$+++ m8 +++$+++ MARK +++$+++ Dan.  And he's taking Alice with him -- pretty good dive Yvonne.  You've been practicing.

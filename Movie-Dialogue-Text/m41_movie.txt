@@ -1,0 +1,440 @@
+L117640 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ When I asked Evan about his drawing, well, he didn't remember doing it.
+L117639 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What?
+L117638 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Of course. There is one more thing, Mrs. Treborn. And I feel bad for mentioning it...
+L117637 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Thank you for showing it to me first. I'll... I'll take care of it. Can I have the picture?
+L117635 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Yesterday I had all the children draw pictures of what they wanted to be when they grew up. Most of them made drawings of what their parents did, but this...
+L117634 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What is it?
+L117633 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ I was going to show this to the principal, but I wanted to talk to you first.
+L117630 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I'm sorry, but can it wait til tonight? I'm already late for work --
+L117629 +++$+++ u653 +++$+++ m41 +++$+++ MRS. BOSWELL +++$+++ Mrs. Treborn! I need to speak with you!
+L118342 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ The hemorrhaging... the neural damage is irreparable. I'm frankly surprised he still has use of his motor functions.
+L118341 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ No dances, just tell me.
+L118162 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ So what did you find.
+L118161 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Actually, these tests weren't available twenty years ago.
+L117772 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Nine, ten. And you're awake! Open your eyes, dammit!
+L117771 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Evan wake up, oh please wake up!
+L117707 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ How soon?...
+L117706 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It's worth a shot. I can arrange a controlled meeting. A careful dose of sedatives for Jason, some security, you and I monitoring. Evan comes in for a quick visit and with any luck, no more missing father complex.
+L117705 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Well, he has been pushing me to meet his father, but I've been putting it off.
+L117704 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ You'd be surprised how often they are.
+L117703 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Come on, I doubt the answer's that simple.
+L117702 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Plenty. Who knows? Maybe he's got severe coping problems about not having a father. Did you say the last blackout occurred when he was with his friend's dad.
+L117701 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ But he's seven. What kind of stress can he have?
+L117700 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ If I had to guess, I'd say the blackouts are stress related.
+L117699 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ But you must have something to go on?
+L117698 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Unfortunately, we've got nothing to work with. It's harder playing detective now.
+L117697 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ And the bad news?
+L117696 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Well, the good news is that the results are negative. I've found no evidence in the way of lesions, hemorrhaging, tumors...
+L117668 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It could be extremely useful to jog his memory. See if he remembers anything new the next day. And I'll have the test results back in a few days.
+L117667 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Why? What for?
+L117666 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ A journal. Just have him write down everything he does.
+L117665 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Anything.
+L117664 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Look, Andrea, I'm sure he'll test negative for brain disorders. But there's something else you can try to monitor his memory.
+L117663 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Just tell me that Evan doesn't have Jason's illness...
+L117653 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hold it, hold it, Andrea. Let's not jump to conclusions. I'll run some preliminary tests, see what we can rule out.
+L117652 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Not according to his teacher. It just got me thinking about Jason and what if Evan's inherited his father's condition?
+L117651 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ And you say he doesn't remember any of it?
+L118302 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Don't worry. I'm gonna get you out of here.
+L118301 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Just. Like. Jason.
+L118300 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You told me that on Parents' Weekend. Remember? Wait, that wasn't me. Or you.
+L118299 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ How. Did you. Know that?
+L118298 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Come on, Mom. Just 'cause Dad was my age when he started going crazy doesn't mean that I'm nuts.
+L118297 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You're. Acting. Like your father.
+L118292 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I just need the entry about the blockbuster. Wait, shit, no arms. I never even got the chance to write it.
+L118291 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Fix?
+L118290 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ There must be a way to fix this.
+L118167 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ He's saying it's like forty years worth of new memories have been jammed in my brain since last year. Overload city. 'Sat about the gist of it, doc?
+L118166 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ What does that mean for Evan?
+L118158 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Cute, Evan.
+L118157 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Okay, doc. What's the damage? How much time have I got?
+L118105 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Fine. You'll get them, Evan. But I think it's far more important to focus on your case right now.
+L118104 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Damn it, Mom. I told you I need them all!
+L118103 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I found these. The others are still in storage.
+L118101 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ How's Kayleigh doing? She all right?
+L118100 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I don't know. These things take time.
+L118099 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ How long will I be in here?
+L118098 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ ...I spoke to your new lawyer about the appeal. He's sure he can get you off on self-defense, so if you're patient.
+L117926 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What? What could he do?
+L117925 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ And then, just before it got so bad that he had to be committed, he said that he could...
+L117924 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Sure...
+L117923 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I couldn't tell if they were real memories or just phantoms. You know, he might only have thought he actually remembered them...
+L117922 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ When he was around your age... almost exactly your age. He said he figured out a trick to remember the past.
+L117921 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No, it's just weird with him being such a brain and all, I just wondered if he was ever able to remember stuff he'd forgotten.
+L117920 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Why do you ask?
+L117919 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Ma? Did he ever say that he figured out a way to recall a lost memory years after he blacked it out for the first time?
+L117918 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Please. He got straight A's without ever touching a book. That was the one area where his memory never failed him.
+L117917 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Did Da -- Jason --- get good grades?
+L117916 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I can't help it. I'm just so proud of you. You've got the highest grades in all of your classes.
+L117915 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Please, mom. People will talk.
+L117750 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Don't try to use your blackouts to get out of this one!
+L117749 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I... I blacked out.
+L117748 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Something must've happened! What set him off?
+L117747 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I don't know... I don't remember.
+L117711 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Okay.
+L117710 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Now your father may seem sleepy to you, but that's just because of his medicine, okay?
+L117676 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I... I don't remember.
+L117675 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Honey. What were you doing with that?
+L117674 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What happened?
+L117671 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Great. I'll see you soon.
+L117670 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ These'll bring you luck, Crockett.
+L117660 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ My father has a bad memory, too?
+L117659 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ That's why I wanted you to come here, Evan. Dr. Redfield already has a background in memory loss.
+L117656 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You'll be fine. Dr. Redfield just wants to give you some tests. You'll like him.
+L117655 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I don't like this place, Mom. It's creepy. Please can we go? I promise I won't make any more bad pictures!
+L117625 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Good. Because I've been waiting to see your art projects all week and I'd feel terrible if all you thought about was your father not being there.
+L117624 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No.
+L117623 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ I get the point, kiddo. But I'm not so bad, am I?
+L117622 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ All the dads are gonna be there.
+L117620 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ But Lenny said that his dad's coming... and Tommy and Kayleigh's dad...
+L117619 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ We've been over this a hundred times. It's too dangerous for him.
+L117618 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Can't he come out for one day?
+L117617 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ You know the answer to that.
+L117616 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Um... can dad come this time?
+L117615 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Darn it!
+L117614 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ Thanks. Don't worry Evan, you'll have plenty of time.
+L117613 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Righty-tighty, lefty-lucy.
+L117612 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We're putting up pictures for Parent's Night.
+L117611 +++$+++ u643 +++$+++ m41 +++$+++ ANDREA +++$+++ When did you ever care about getting to school on time?
+L117610 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We're gonna be late again.
+L118133 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So you believe me?
+L118132 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Signs of the Lord. They just appeared out of nowhere. I thought you were loco!
+L118131 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What did you see? What did it look like?
+L118125 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Marks, scars, I dunno. Anything could happen I guess.
+L118124 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Weirder than this?
+L118123 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Just tell me if anything weird happens.
+L118120 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ You need to see the prison shrink, man.
+L118119 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So when I'm out, I need you to watch my face and hands closely.
+L118117 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I ain't bullshitting. Jesus speaks to me in my dreams.
+L118116 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Shit. I knew you were crazy.
+L118115 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Because I think he sent me to your cell on purpose. For you to help me.
+L118114 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Straight up.
+L118113 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You're religious Carlos, you believe that bit about "the Lord works in mysterious ways?"
+L118097 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Jesus himself couldn't make me take on the Brotherhood. When they come, just put your mind in another place, man. Be somewhere else.
+L118096 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Can you protect me?
+L118095 +++$+++ u644 +++$+++ m41 +++$+++ CARLOS +++$+++ Best not bitch up. Wind up someone's luggage that way.
+L118339 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Photos?
+L118338 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ You remind me of your father. He always screamed for a photo album even though he never had one.
+L118337 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ But I... I need those books.
+L118336 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Think Evan. You've invented a disease that doesn't exist. Alternate universes with colleges, prisons, paraplegia...
+L118334 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ My journals! Where are they?
+L118333 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Books?
+L118332 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Where are my goddamn books?
+L118331 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hey, Evan. What's the big rush? We don't meet for another hour.
+L118164 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Lemme guess. Would that be where the memories are stored?
+L118163 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ This is where we're finding most of the hemorrhaging. The outer lining of the cerebral cortex.
+L118160 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Are you sure? Not even with my father?
+L118159 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ It's a little complicated. I haven't seen results exactly like these before.
+L117765 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It's coming... argh! I can't!
+L117764 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ The car doesn't vanish Evan. The movie in your head has broken, that's all. But now I've re-spliced it and I want you to tell me about the car.
+L117763 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I can't... the car vanishes and all of a sudden I'm on the ground in the woods.
+L117762 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Go on. Nothing can hurt you. Remember, this is only a movie. You're completely safe.
+L117760 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I see a car.
+L117759 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Okay. Then go a little forward in time. What do you see now?
+L117758 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No, protecting her.
+L117757 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Are you hurting her?
+L117756 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm standing next to Kayleigh, my hands are over her ears.
+L117755 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Where are you now?
+L117754 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yes.
+L117753 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Now I want you to go back to the time you were in the woods with Lenny. Think of it like a movie. You can pause, rewind, or slow down any details you wish. Understand?
+L117709 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Not in this wing, actually. No.
+L117708 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Dad lives here?
+L117658 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You know my father?
+L117657 +++$+++ u645 +++$+++ m41 +++$+++ DR. REDFIELD +++$+++ Hello, Evan. It's very nice to meet you.  He's as handsome as his father.
+L118241 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Sorry, dude. Just figured it'd be okay with you bein' sick and all.
+L118240 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Get out. Both of you.
+L118023 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Fuck off, frat boy.
+L118022 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Huh?
+L118021 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Whasamatter? Lost your Rolex?
+L117933 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Shucks, I dunno. But maybe there's a reason why you've repressed the one day when some old lecher had you in your tighty whities, dammit!
+L117932 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What?
+L117931 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Are you stupid or what?
+L117930 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Shhh! I need quiet for this.
+L117929 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ What the fuck are you doing?
+L117928 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I never wanted to be in the movie anyway and it was cold so I wanted to wear my clothes but Mr. Miller took his shirt off --
+L117897 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ All I know is that I might be able to unblock some of my repressed memories.
+L117896 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ You really think he wanted to kill you?
+L117855 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ That's probably why Hannibal Lecter's so smart.
+L117854 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Just by absorbing the first worm into its cellular structure, it gets all of the worm's memories.
+L117851 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ Like Ozzy.
+L117850 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It's an experiment with flatworms and a maze. You take a flatworm and run it through the maze until he's memorized it. Then you put a new flatworm in the maze. He's clueless. Banging into walls, getting lost, whatever.
+L117842 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ This is bigger. Seven years to the day. No blackouts.
+L117841 +++$+++ u655 +++$+++ m41 +++$+++ THUMPER +++$+++ I thought you were a December baby.
+L117840 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Get dressed, Thumper, you're taking me out for my birthday.
+L118280 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Why not? But that's not how things wound up. I'm with Lenny, Lenny's your friend. And there it ends.
+L118279 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Then you think it might have worked out?
+L118278 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Well a lot of things cross my mind. I've always been a fast thinker, Ev. I can play out the movie of our entire lives in under a second. Boom -- we fall in love -- get married -- two kids, your keen analytical insight matched to my generous nature -- kids grow old as do we, relatively stable relationships, matching burial plots, the whole bit. It took a lot longer to spit out than to imagine.
+L118277 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ And...?
+L118276 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It's crossed my mind from time to time.
+L118275 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I never knew that. So then you still sometimes think of us... together?
+L118274 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ When my folks split, they gave me and Tommy a choice who we wanted to live with. I couldn't stand my dad, but I knew if I moved to my mom's I'd never see you again.
+L118273 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I don't get it.
+L118272 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ That's why when I was little I never went to live with my mother.
+L118271 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I was?
+L118270 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Sure, Evan, why not? You were the first person I really ever cared about.
+L118269 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Kayleigh? Do you ever think about "us?" I mean, wonder if it could ever have been different between the two of us?
+L118268 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yeah, I think I gotta get these fixed or something.
+L118267 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Is something the matter?
+L118266 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ He saved Mrs. Halpern? Please, the twisted fuck.
+L118265 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ You know how spiritual he's gotten ever since he saved Mrs. Halpern and Katie.
+L118253 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Stop! Take me back!
+L118252 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ We have to get you to Sunnyvale. You're having one of your famous hemorrhages.
+L118251 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Where are we going?
+L118238 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Well, don't give up now, Slick. You've already done so much for me. Hell, why don't you go back in time and save Mrs. Halpern and her baby. Then maybe Lenny wouldn't freak out and ruin my family.
+L118237 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm over it. Whenever I try to help anyone it all turns to shit.
+L118236 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Off to change everyone's life again, is that it? Maybe this time you'll pop up in some mansion while I wind up in Tijuana doing the donkey act.
+L118235 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Don't think I'll need it where I'm going.
+L118234 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Sure you don't want your wallet?
+L118233 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ There is no fuckin' way on this planet or any other that I was in some fuckin' sorority.
+L118232 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Which is?
+L118231 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ There's one major hole in your story.
+L118230 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ That I didn't leave you there to rot.
+L118229 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Know what?
+L118228 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I just thought you should know.
+L118226 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Then forget that. How about... you prefer the smell of a skunk to flowers, you hate cilantro because for reasons unknown to you, it reminds you of your step-sister.
+L118225 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Anyone with fifty bucks could tell you that.
+L118224 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Shit. I dunno. How would I know about the twin moles on your inner thigh?
+L118223 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh? There's proof now?
+L118222 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I couldn't give a shit if you believe me or not, and frankly I'm too tired to prove it to you.
+L118221 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I'm the only person you've told? That's a great line. Does that make other girls swoon? Do they actually eat up this bullshit?
+L118220 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I never thought you would. That's why I've never bothered to tell a soul until now, and why I never will again.
+L118219 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ You're right, Evan, I don't believe you.
+L118218 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Do you remember when I was a kid and I had those blackouts?
+L118217 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ On the bridge. How did you know that Tommy had your dog? That was no fucking hunch.
+L118216 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yeah?
+L118215 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Let me ask you a question. Just a little one that's been gnawing at me for years.
+L118214 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Different? How?
+L118213 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Because you're... different.
+L118212 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Why's that?
+L118211 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I've seen some sickening shit. I don't blink twice anymore, especially in your case.
+L118210 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You wouldn't believe me. I mean, people always say, "You wouldn't believe me", but in this case, it's not even worth trying.
+L118209 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ What's happened to you?
+L118208 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ The bottom. When you're just a piece of meat waiting for the next attack.
+L118207 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Ha! Where's that?
+L118206 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No. Just that you need to hurt me with it. I've been where you've been.
+L118205 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh, I'm sorry. Does my line of work make you uncomfortable, precious?
+L118204 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I get it. You can drop it now.
+L118203 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ So how's tricks? Sorry, occupational humor.
+L118197 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Nice to see you, too. Can I come in?
+L118196 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh, I thought you were my eight o'clock. Make it fast, I'm expecting someone.
+L118147 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Now's the only time!  Today you get a chance to redeem yourself. Start over with a clean slate. Tabula rasa --
+L118146 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Evan. Stop it. It's not the time.
+L118145 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I want you to take this, Lenny. Today's your day of atonement. I know how guilty you feel about that woman and her baby --
+L118091 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ He's a fucking maniac!
+L118090 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Evan, stop! You're gonna kill him!
+L118080 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What?
+L118079 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Wait. Something's not right. Isn't that your jacket?
+L118078 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I know I've been actin strange lately. It's just that... I don't want anything to happen to us.
+L118077 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I can't put my finger on it, but everything's a bit off. Even the dinner tonight. It was beautiful, but...
+L118076 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I walk differently?
+L118075 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I don't know. You seem... different. You make weird jokes. Your accents changed. You don't even walk the same.
+L118074 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Like how?
+L118073 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It's just... you've been acting kinda strange, you know?
+L118072 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What do you mean?
+L118071 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Are you okay?
+L118069 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ My father never laid a hand on me. It's like the prick saved it all up for Tommy.
+L118068 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Don't give me this Oprah-book club bad upbringing shit, because you turned out fine.
+L118067 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It's not his fault, Evan. You knew how bad he had it when we were kids.
+L118066 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yeah, right. Tell that to Crockett.
+L118065 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Please, Evan. Don't even joke. He wouldn't hurt you. He's just trying to scare you away from me.
+L118064 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Might'a been nice.  Like this is gonna do any good. Maybe one of the frat guys has a gun.
+L118063 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It's my fault. I should have told you he was released a few weeks ago.
+L118055 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Simple math. When I woke up this morning and saw your smile... I knew that I wanted to spend the rest of my life with you.
+L118054 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Why are you doing all this for me?
+L118053 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Go on. Sit down.
+L118052 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I don't know what to say. It's beautiful.
+L118051 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You'll see.
+L118050 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I don't understand, where are you taking me?
+L118043 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ As if my dad could've stopped me from seeing you. What's he gonna do to me?
+L118042 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What do you think it is about us that makes us so perfect? Like, looking back, whatever gave you the nerve to sneak out and visit me after I moved away?
+L118039 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Yeah, if you call multiple orgasms weird.
+L118038 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So it didn't feel... weird?
+L118037 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh my God, that was good. Where'd you learn all those new tricks?
+L118015 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I dunno.  Just being weird.
+L118014 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Well I remember he had one... but he, like, put it away after the first day. Why would that freak me out?
+L118013 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Hey, uh, don't go freaking out on me over this, but do you remember when your dad first got his video camera?
+L118006 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Those are your clothes, silly.
+L118005 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Where... where are my clothes?
+L118004 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Mmmm... You give good compliment. Clean up and come back to bed.
+L118003 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Jesus, Kayleigh, you're...  Incredible.
+L117969 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Who are you trying to convince, Evan?! You come all the way out here to stir up my shit just because you had a bad memory!? You want me to cry on your shoulder and tell you that everything's all better now? Well fuck you, Evan! Nothing's gonna be all better! Okay?! Nothing ever gets better!
+L117968 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You can't hate yourself just because your dad's a twisted freak.
+L117967 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Just shut up, Evan. You're wasting your breath.
+L117962 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No, but I think something really bad might've happened to us.
+L117961 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Is that why you came all the way back? To ask a lot of stupid questions about Robin Hood?
+L117960 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I know, but...
+L117959 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It was a long time ago.
+L117958 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It's just... did he... what happened in the basement?
+L117957 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ What do you want to know, Evan?
+L117956 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ When we were kids. Your dad was making a movie. Robin Hood or something?
+L117955 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Well, sure. I'll try to remember. Shoot.
+L117954 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Well, lately some of the memories have begun to come back and I'd kinda like to talk to you about one of them in particular. It'd be a big help.
+L117953 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Of course.
+L117952 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Remember when I was a kid I had all these blackouts?
+L117951 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Me? Are you kidding? Why?
+L117950 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Actually, Kayleigh, the reason I came back to town was to talk to you.
+L117949 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ She had a new family. Not enough space for me. Said I should have moved in with her when we were kids. But... whatever.
+L117948 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Couldn't you have moved in with your mom?
+L117947 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Not if you remember my dad.
+L117946 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Wow. That must've taken some courage.
+L117945 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ No. I emancipated myself when I was fifteen.
+L117943 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ They kept him in juvy for a few years. Now he works over at Dale's Autobody.
+L117942 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So how's Tommy?
+L117941 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I've stopped a hundred times.
+L117940 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Not since we were kids.
+L117939 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm going to State now. Things are going okay. I guess. Mom's good...
+L117938 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ No, Evan. I don't know. It's been a long time. Fill me in.
+L117937 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Oh, comme si, comme ca, you know...
+L117936 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ God, Evan! I never thought I'd see you again. How've you been?
+L117815 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Hi, Lenny.
+L117814 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Welcome home. Thought you might like some fresh air for a change.
+L117809 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ He must be. They're letting him go, right?
+L117808 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Did your mom say if Lenny was... okay?
+L117807 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Duck, here they come.
+L117806 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ He's been acting real strange lately. He won't even look me in the eyes anymore.
+L117805 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I can't believe Tommy's still pissed at me. He knows I'm moving away, right?
+L117795 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What are you talking about? What you deserve is a better brother and father. All they do is make you feel like shit.
+L117794 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I deserve a lot worse.
+L117793 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Damn. Your dad did this?
+L117792 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ It's not your fault. Mrs. Kagan called dad and blamed us for what happened to Lenny.
+L117791 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm sorry.
+L117790 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Ouch.
+L117787 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ You really don't remember anything that happened?
+L117786 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm sorry Kayleigh. This was a bad idea.
+L117743 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Shit, Lenny. What's happened to you! We've gotta get help!
+L117742 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh God... what did we do?
+L117722 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ So let's go. This place creeps me out.
+L117721 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ We should go soon. If Dad catches us smoking down here, we're dead.
+L118326 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Been there, done that.
+L118325 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ That's dangerous! You could blow your hands off!
+L118324 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ And I'll tell the Child Protective Services about your kiddie porn endeavors. One step closer and I'll shove this up your ass!
+L118323 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ Easy does it, Evan! Don't be a bad boy or I'll tell mommy you were naughty.
+L117995 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Listen close then, fuckbag. You screw up again and I swear I'll flat out castrate you.
+L117994 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ ...yes.
+L117993 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Let's just say you're being closely watched, George. Your other option is to get your porn off the rack and treat Kayleigh like... oh, let's say like how a loving father treats his daughter. Sound okay to you, Papa?
+L117992 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ Who -- who are you?
+L117991 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It'll change your daughter from a beautiful child into an empty shell whose only concept of trust was betrayed by her own sick pedophile father. Ultimately, it'll lead to her suicide. Nice work, daddy.
+L117990 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ What's happened to -- How are you doing that?
+L117989 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Wrong answer, fuckbag. This is the very moment of your reckoning. In the next thirty seconds you're going to open one of two doors. The first door will forever traumatize your own flesh and blood.
+L117988 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ It's time for you to stand where the hell I told you.
+L117987 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What time is it?
+L117694 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Kayleigh? What happened?
+L117693 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ Quit acting like some retard or I'll call your mother and tell her what a naughty little shit you've been.
+L117692 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I was just somewhere else -- how did I get here?
+L117691 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ Calm down, kid. Stand still.
+L117690 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Where am I? What happened? Where did we all go?
+L117687 +++$+++ u652 +++$+++ m41 +++$+++ MR. MILLER +++$+++ That's right, Evan, and you get to be the star.
+L117686 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We're really gonna be in a movie!?
+L118184 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Bullshit. I'll send you a postcard when I've made everything perfect again.
+L118183 +++$+++ u649 +++$+++ m41 +++$+++ JASON +++$+++ You can't play God, son. It must end with me. Just by being here, you may be killing your mother.
+L118182 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Who's to say you can't make things better?
+L118181 +++$+++ u649 +++$+++ m41 +++$+++ JASON +++$+++ There is no "right". When you change who people are, you destroy who they were.
+L118180 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ But it didn't. And now I need info to make things right again and you're the only one who can give it to me.
+L118179 +++$+++ u649 +++$+++ m41 +++$+++ JASON +++$+++ I was praying this curse would have ended with me.
+L118178 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Look, Jason, I need some fast answers if I'm ever gonna fix what I've done.
+L118177 +++$+++ u649 +++$+++ m41 +++$+++ JASON +++$+++ Are you okay? You looked like you were somewhere else for a second there.
+L117713 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Uh-huh. Mom says I have your eyes and your --
+L117712 +++$+++ u649 +++$+++ m41 +++$+++ JASON +++$+++ It's okay. I won't bite. You've seen pictures of me, right?
+L118036 +++$+++ u648 +++$+++ m41 +++$+++ HUNTER +++$+++ I'd say blow me. Get the pledges to do it.
+L118035 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Thanks. Wow. Hey, I want to do something really special for Kayleigh tomorrow. If I said I needed some help from you and the brothers...
+L118034 +++$+++ u648 +++$+++ m41 +++$+++ HUNTER +++$+++ Damn, Evan, on the D.L.
+L118033 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ You're kidding. Are these the answers?!
+L118032 +++$+++ u648 +++$+++ m41 +++$+++ HUNTER +++$+++ Me neither.
+L118031 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ We'll find out soon enough.
+L118030 +++$+++ u648 +++$+++ m41 +++$+++ HUNTER +++$+++ Evan, you're hysterical. You study for this?
+L118028 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ The answer's 'no', Mr. Treborn. Now take a seat. The exam's about to begin.
+L118027 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Evan Treborn.
+L118026 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ And you are...?
+L118025 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I still owe you an essay from last week. Is there any way I could get an extension?
+L118024 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ Remember, everyone! Only two weeks until your science projects are due.
+L117914 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I won't let you down, Professor Carter.
+L117913 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ Just don't drop the ball, okay?
+L117912 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ I know, I know. Who can think of worms when your libido's in full swing, right?
+L117911 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Oh, fine I guess. It's been kind of crazy lately with my mom coming up, so I haven't...
+L117910 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ Whoa! Didn't mean to scare you, Evan. Just wanted to know how the flatworms project was coming.
+L117834 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Hey, I got no choice.
+L117833 +++$+++ u654 +++$+++ m41 +++$+++ PROFESSOR CARTER +++$+++ Typical psych major. A complete wise ass. And how's your project coming? Still planning to change the way we humble scientists view memory assimilation?
+L117832 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'm not sure. I might have gotten some stories mixed up. Did Pavlov condition his dogs to lick his nuts?
+L117884 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Maybe because they never do.  So Don Juan, you pass out on all your dates?
+L117883 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It didn't feel like a dream.
+L117875 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ It was like Tommy was possessed or something. There was a hate in his eyes that I couldn't really call human.
+L117874 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Come on, go on...
+L117871 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Deal. Now read me something.
+L117870 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Freeze! No "worm-boy". No "Mr. Worm," and no "Worm-Master-General!" Once you get a nickname like that you can't shake it. And I don't want everyone thinking I've got tapeworms coming out of my ass or something, okay?
+L117867 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Wow... read something.
+L117866 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yeah. I've been keeping journals since I was seven.
+L117865 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Most guys tuck their porn under here, but all you have are... comp books.
+L117863 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ You're kidding. He's so... big.
+L117862 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Thumper had a busy afternoon.
+L117861 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ Smells like sex in here.
+L117857 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Maybe if I can figure out how the memories of a simple worm function, it'll help me understand the complexities of the human brain.
+L117856 +++$+++ u647 +++$+++ m41 +++$+++ HEIDI +++$+++ So what's the point?
+L118312 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ If I hadn't blown my arms off, Mom never woulda started smoking in the first place. Now shhhh.
+L118311 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Destroy it?
+L118310 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Shhh. I need to concentrate on the blockbuster if I'm gonna destroy it.
+L118309 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ What?
+L118308 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Duly noted. Now I'm gonna ask you for one last favor.
+L118307 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ What do you need it for? I don't get you lately.
+L118305 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ My mom packed for me. I think she sent everything I ever owned. So we'll see.
+L118304 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Are you sure you even packed it?
+L118262 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Forget it. What's the point of Psych now? Tomorrow I could wake up as some dirt farmer in Bangladesh.
+L118261 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Uh, we should be getting to class now.
+L118174 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Y... yes. I guess I did.
+L118173 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ You knew the whole time, didn't you?  When you put the blade in my hand, you knew something big was going to happen. Didn't you?!
+L117891 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Drop it or I'll slit your mother's throat in her sleep.
+L117890 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Yeah, good, what else do you remember?
+L117889 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ I couldn't cut the rope.
+L117736 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Gee, thanks friend.
+L117735 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ That should buy you ten minutes at least.
+L117650 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Sure. I was gonna make a new one, anyway.
+L117649 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Can... can... Can I have this?
+L118296 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ I think I'll go check out the chapel.
+L118295 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Mom. Don't cry. I can change this.
+L118288 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Sorry, Mrs. T. He's been out of sorts lately.
+L118287 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Lung cancer?
+L118260 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Oh goody, nothing like spinning my chair around to a techno mix of Hava Nagila til I puke.
+L118259 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ I did what you said, man! We're pooling our student funds with Hillel House and we're going to have an Awareness Dance.
+L118153 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I'll do whatever you want. You don't want me to ever see Kayleigh again, fine. Just let Crockett go. Besides, you kill him now and they'll stick you in juvy for sure. And I know you'd never leave your sister alone with your father.
+L118152 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Listen to me good, Evan...
+L118089 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Right, Evan. I believe you just said "sick fuck."
+L118088 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ No one thinks you're a piece of shit, Tommy.
+L118087 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ It wasn't enough that the whole world loves you, but you had to take away the last person on earth who didn't think I was a piece of shit.
+L118086 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What the hell are you doing?
+L118083 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Get this "us" shit. As if I was gonna lay a hand on my own sister. You've done nicely for yourself, Evan. Nice friends, nice life, not to mention you're fucking my sister. Not a bad piece of ass if I say so myself.
+L118082 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Leave us alone you sick fuck!
+L117823 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What's wrong with you?!
+L117822 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Look what you made me do!
+L117741 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ What happened?? Where are we?!
+L117740 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Hurry! Let's go! Get him up, Evan! Come on!
+L117720 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Hold your horses, man. It's here somewhere. I saw it when I was a kid.
+L117719 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Tommy, I'm bored shitless over here. What's up already?
+L117647 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Fat little baby, crying for mommy.
+L117646 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Hey, what'd you do that for?
+L118191 +++$+++ u657 +++$+++ m41 +++$+++ WAITRESS +++$+++ Sorry. Never heard of her.
+L118190 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ None taken. Hey, uh, does Kayleigh Miller still work here?
+L118189 +++$+++ u657 +++$+++ m41 +++$+++ WAITRESS +++$+++ Meant no offense.
+L118188 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ I come from a big family.
+L118187 +++$+++ u657 +++$+++ m41 +++$+++ WAITRESS +++$+++ Nothing. Just that my brother did a stint in the pen and he used to eat like that.
+L118186 +++$+++ u646 +++$+++ m41 +++$+++ EVAN +++$+++ Huh?
+L118185 +++$+++ u657 +++$+++ m41 +++$+++ WAITRESS +++$+++ Just get out, didja?
+L118085 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Aw, hey now, that was a compliment.
+L118084 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Shut up, Tommy!
+L117906 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Oh my God oh my God...
+L117905 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Lenny? Come on!
+L117775 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ I'm sorry.
+L117774 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Wipe that sad-assed look off your face before you get us all busted. You see the way Evan's mom was looking at you?
+L117729 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Just blow something up? Are you nuts? There's an art to mass destruction. Would you just paint the Mona Lisa? No. Besides, we're here already.
+L117728 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Where the hell are you taking us anyway? Just blow something up already.
+L117727 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ What did I say about mentioning that bitch?
+L117685 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ You are, silly. He's a bad sheriff.
+L117684 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ I thought I was the bad guy!
+L117683 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Quit it, Tommy. Evan gets to be Robin Hood. I'm gonna be Maid Marian, and you're the Sheriff of Nottingham!
+L117682 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ I don't think Evan gets to be in it --
+L117681 +++$+++ u650 +++$+++ m41 +++$+++ KAYLEIGH +++$+++ Evan, guess what? Dad got a new video camera and we're all gonna be in a movie.
+L117900 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Yeah, you do that, Lenny.
+L117899 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Maybe it went out. Should someone check it?
+L117733 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ Ain't gonna work this time, buddy. Look how small that fuse is! I'll get killed.
+L117732 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ The hell you aren't. Anyone of us does it, you'll puss out and narc for sure.
+L117731 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ What? No frigging way, man. I'm not touching that thing.
+L117730 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ Here you go, buddy.
+L117643 +++$+++ u656 +++$+++ m41 +++$+++ TOMMY +++$+++ You're such a retard!
+L117642 +++$+++ u651 +++$+++ m41 +++$+++ LENNY +++$+++ You put the mommy too far away. Mrs. Boswell has macaroni and glue if you wanna fix it.

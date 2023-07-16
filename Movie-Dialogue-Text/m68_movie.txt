@@ -1,0 +1,574 @@
+L229753 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ You'll forgive my impertinence, sir, but even though we had never before met, always considered you as a father to me.
+L229752 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Don't speak, Quellek.
+L229751 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ ... It has been my greatest honor to serve with you.  LIving by your example these years, my life has had meaning.  I have been blessed.  Sir, I... I...
+L229750 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ No, don't talk like that, son. We're going to get you fixed up.
+L229749 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I... I don't think I'm going to make it Sir...
+L229748 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Not so bad. We'll get you to medical quarters. You're going to be fine.
+L229746 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I'm... I'm shot.
+L229745 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Okay, Quellek, let's get back to the command deck and-Suddenly we hear a PISTOL BLAST and Quellek's chest turns RED. Alexander and Quellek look down at the blood, horrified.
+L229740 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Open.
+L229739 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Sir! The pressure.  It's normalizing.
+L229647 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Come with me. I'll explain on the way.
+L229646 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I avoided capture using the Mak'tar stealth haze.  Where is everyone?
+L229645 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Quellek. What are you doing in there?
+L229644 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Sir, it's you  Thank Ipthar!
+L229345 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Right... Sorry, sir.
+L229344 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Uh uh! What did we talk about?
+L229343 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Good luck on your mission, Sir. By Grabthar's Hammer, by the Suns of Warvan I wish you-
+L229342 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Thanks.
+L229341 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Dr. Lazarus, here is your surface mapper.  I have programed it to the coordinates of a Beryllium Sphere of sufficient density.
+L229133 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Yes sir... The use of your waste facilities were strangely absent from the historical records, so we had to extrapolate purely on the basis of your anatomy.
+L229132 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Is that the bathroom?
+L229131 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Just as on your home planet, sir. If I may say, it took me three years to master the spikes, but now I sleep with a peace I never thought possible...
+L229130 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Where's my bed?
+L229129 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Yes sir. Marvelous, isn't it? Completely distractionless.
+L229128 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ This is it?
+L229127 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ ...Yes sir.  Your quarters sir.
+L229126 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Just don't.
+L229125 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ I'm sorry, sir, I was only-
+L229124 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Don't do that. I'm not kidding.
+L229123 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ By Grabthar's Hammer, Dr. Lazarus, I-
+L229122 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Well good, that's very... nice.
+L229121 +++$+++ u1047 +++$+++ m68 +++$+++ QUELLEK +++$+++ Dr. Lazarus... I hope that I'm not breaching protocol but.. I am so very humbled to stand in your presence... I have studied your missions extensively... Though I am Thermian, I have lived my life by your philosophy, by the code of the Mak'tar.
+L229847 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No time to worry about that, Alex. Tommy, let's get this thing slowed down... Gwen, see if you can calculate the impact point. Guy, cet down to deck C and make sure tne injured are secured. Also lets-
+L229846 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Jason, before we entered the black hole, my instruments detected strange energy surge from Sarris' shiD~ similar to...
+L229784 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay... Let's go, buddy, they can take It from here... I'mo-
+L229783 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes. Good was done this .....
+L229782 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ ~hex!  Alex, are you oKav?
+L229609 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I had the shot...
+L229608 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Sense memory. I see you got to win the fight...
+L229607 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I was staying in character.  "Egomaniacal sonofabitch?"
+L229606 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Purple skinned monstrosity...?"
+L229604 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Shut up.' Just shut up you purple skinned monstronsity,
+L229603 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Hundreds dead, all so you could play at being the Commander.' You've murdered us all you egomaniacal sonofabitch!
+L229541 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Am I crazy, or do you actually have something there?
+L229540 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ That's your problem.  You were never serious about the caraft...  "I'm a rock... I just want to be a rock... Still. Peaceful.. Tranquil.." ..."Oh, but what's this?  Something's making noise... No, not noise, no... MOVEMENT.  VIBRATIONS.  Make the vibrations stop, they go straight into me like a knife!... I must CRUSH the thing that makes the vibrations..."
+L229539 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's a DAMN ROCK MONSTER!!! It doesn't HAVE motivation!
+L229538 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ... . Well  you have to figure out what it wants... What's its motivation?
+L229537 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ ALEXANDER??? PLEASE? You're my advisor, advise me!
+L229530 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ KILL IT? Well I'm open to ideas!...
+L229529 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Fred's no good, Jason. You're going to have to kill it
+L229512 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I heard something. A squeal.
+L229511 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Nothing.
+L229510 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What?  What?
+L229465 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh, of course, I forgot! YOU have to be the hero, don't you?... Heaven forbid anyone else get the spotlight once! Oh no, Jason Nesmith couldn't possibly-
+L229464 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You go first! There's no time!
+L229463 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Go ahead!
+L229390 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Must be some sort of mining facility.
+L229389 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ There it is. The Beryllium sphere.
+L229378 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ THIS much.
+L229377 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What's the scale?  Is that ten miles? A hundred miles?
+L229376 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ About this much.
+L229291 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ KEEP GOING! KEEP GOING!
+L229290 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ DON'T BE INSANE, STOP! FULL STOP!
+L229289 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ NO!  WE'RE ALMOST THROUGH!
+L229272 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Like YOU know?
+L229271 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You don't hold a thruster down! It's for quick boosts
+L229270 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We stop we die. Keep holding the thruster down Tommy!
+L229269 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ We've got to stop!
+L229101 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Like throwing gasoline on a fire...
+L229100 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ At ease men.
+L229093 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Just!?"
+L229092 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Calm down everybody.   We're just here to negotiate General Sarris' surrender.
+L229044 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ COME IN PROTECTOR... PROTECTOR...
+L229043 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ God, what an ass.
+L228944 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Leadership....
+L228943 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ... to camera center no matter whose shot you're blocking...
+L228942 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I'm glad you asked... To me the most important qualities of a Galaxy Explorer are loyalty...
+L228907 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ ...Damn you!  Damn you!
+L228906 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ "The show must go on."
+L228905 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ I won't and nothing you say-
+L228904 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You WILL go out there.
+L228899 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Friend. You stole all my best lines.  You cut me out of episode two entirely!..
+L228898 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Come on, old friend...
+L229423 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ As a matter of fact, I do. Look at their eyes. They're obviously nocturnal. Come sundown they will go into the forest to hunt. So our plan is simply to wait for nightfall instead of mounting an insane assault in full daylight simply because we did it that way in episode 31.'
+L229422 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You have a better plan, Alex?
+L229421 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ This is ludicrous.  Why are you listening to this man?  Must I remind you that he is wearing a costume, not a uniform?...  He's no more equipped to lead us than THIS fellow.  No offense.
+L229385 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ ...Sleeves rolled halfway up the biceps...
+L229384 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ And note the sucked in gut.
+L229368 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Hey, watch that "Laredo" shit.
+L229367 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You think you could do better "Laredo?"
+L229366 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You know, with the makeup and everything1 I actually thought he was smart for a second.
+L229365 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Shut up.
+L229364 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You were holding it upside down weren't you?
+L229294 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ The engines are dead. We're drifting.
+L229293 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ What's happened?
+L229283 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ They're drifting toward me... I think they're magnetic!...
+L229282 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Could you possibly try  not to hit  every  single  one!
+L229214 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ No, Jason, that's a wrap!  There's nothing to think about!
+L229213 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He wants to THINK!?
+L229089 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Jason, what have you gotten us into?
+L229088 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ What the hell is going on?!!?
+L228877 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ No. I can't go out there! I won't say that ridiculous catch phrase one more time. I won't.  I can't!
+L228876 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Settle down, Alex...
+L228873 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ I played Richard III...
+L228872 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Not again...
+L228861 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Oh, and did you hear he booked another fan appearance without us?
+L228860 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He's a twit!
+L229891 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ By Grabthar's Hammer, this is true. 159	NT. LIVING ROOM - SOMEWHERE - NIGHT	159
+L229890 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ He always has to make the big entrance.
+L229487 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes you did.
+L229486 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ No I didn't.
+L229485 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Back there. You said "the Commander is down there with a bunch of cannibals."
+L229484 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What?
+L229483 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ You said "the Commander.
+L229470 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Down there.
+L229469 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He knocked me out the sonofabitch. Where is he?
+L229448 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ It doesn't make sense... Surely they could have fortified the compound against those creatures...
+L229447 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Those blue things ate everybody here?
+L229432 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Nobody was WATCHING?
+L229431 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I don't know.
+L229395 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Could they be the miners?
+L229394 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Look at that... Will you LOOK at that... They look like little children...
+L229303 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ To see if there's a pub.
+L229302 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Alex? Where are you going?
+L229301 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ "Go into the cloud! ...
+L229288 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ FRONT ARMOR IS GONE! JUST SLOW IT DOWN A LITTLE!
+L229287 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ WE'VE HAVE TO STOP!
+L229279 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ The ships are gaining...
+L229278 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ May I get the check?
+L229267 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Shit! I'm doing it! I'm repeating the damn computer!
+L229266 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ We heard it the first time!
+L229085 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ All this from watching the.. historical records?
+L229084 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh my god, It's real.
+L228979 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Yes, poor Jason. As we speak he's probably out somewhere talking rubbish to a roomful of hangers-on. While here I sit eating Christmas cheese in Spring.
+L228978 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I don't know... It just wasn't like him.
+L228977 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ A boy comes to the door.
+L228976 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You could order something in.
+L228975 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ I still haven't got this bloody thing off.
+L228974 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Why didn't you stop at the market?
+L228973 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh good, there's nothing to eat.
+L228897 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Oh can't I? Watch me!
+L228896 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Alex you can't -just leave.
+L228871 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ Dear God.... How did I come to this?
+L228870 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Oh Alex, get away from that thing...
+L228865 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ The guy is terminally selfish!
+L228864 +++$+++ u1036 +++$+++ m68 +++$+++ ALEXANDER +++$+++ He's a miserable twit!
+L229659 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ We'd better get everybody online.  And Kyle, Stop downloading porn.  Your frame rate is unacceptable.
+L229658 +++$+++ u1043 +++$+++ m68 +++$+++ KYLE +++$+++ I have sectors 1-28.  I think Hector has the upper levels.
+L229657 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ You've got the utility systems walkthrough, right?
+L229656 +++$+++ u1043 +++$+++ m68 +++$+++ KYLE +++$+++ Oh.  Okay.
+L229655 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ No time for pleasantries, Kyle. We have a level five emergency. The Commander needs us to get him to the core and shut it down before it overloads.
+L229654 +++$+++ u1043 +++$+++ m68 +++$+++ KYLE +++$+++ Hi Brandon.
+L229036 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ He probably... Has some very important business to attend to...
+L229035 +++$+++ u1043 +++$+++ m68 +++$+++ KYLE +++$+++ He dissed us AGAIN, Brandon!
+L229765 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Yeah. What's wrong? JASON ~~othIno. I -ust oncuont ot wou~o oc oomooooateo onan onat.
+L229764 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ That's It?
+L229763 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Raise the glass and push the blue button.
+L229762 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I'm at the control oaneh. What do I do?
+L229730 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Berithium lava coming through. Use the handholds above you.
+L229729 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What?  Up?
+L229728 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Up.
+L229727 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Go. They're off again.
+L229725 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ GO Commander.
+L229724 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Shit! Go!
+L229723 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Lt. Madison, GO.
+L229722 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No, wait, are you-
+L229721 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Wait two seconds then go.
+L229720 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay, now. But-
+L229719 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Commander, you and Lt. Madison will have to go through the crushers one at a time in three second intervals. Tell me when the first crusher hits the bottom...
+L229707 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Yes Commander... All right, you're almost there. Just go through the chompers and over the pit.
+L229706 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ BRANDON!	TIME TO GO!
+L229700 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ My cousin's boyfriend's sister went out with the screenwriter. His favorite movie is the Omegaman.  He's seen it 13 times...
+L229699 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ How did you come to that conclusion?
+L229698 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ No,  I am of the firm belief that in reality it is not a matter killer, but a matter REARRANGER, converting all molecules to the exact state they existed thirteen seconds previous to activation thus effecting a thirteen second time jump to the past.
+L229697 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ But you don't?
+L229696 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ It's been the subject of an extremely heated debate on the internet for years. Many believe that is a matter collapser, a bomb capable of destroying all matter in the universe in a chain reaction lasting 13 seconds.
+L229695 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What do you mean?
+L229694 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Well, that's the big question, isn't it?
+L229693 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What does the Omega 13 do?
+L229692 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Yes Commander?
+L229691 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Brandon.. Just in case I die, there's something I have to know...
+L229670 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Okay, that's where you want to be.
+L229669 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yes...?
+L229668 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Okay, so do you see a door marked "CORE UNIT?" Should be down at the far end to your left.
+L229667 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We'd never have the budget for this.
+L229666 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Commander, do you have a camera?  I'd die to see this in person... All they showed on T,V was a machine here, and a wall here... I don't know why they didn't show the whole thing.
+L229665 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Now make a right, you'll see a doorway that opens on the central manufacturing facility.  The bowels of the ship.
+L229664 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay...  Okay, now what.
+L229663 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Okay, now left at the next turn... Past the oxygen units.  Make a right there. Then go through the antimatter vent...
+L229653 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Okay, you can go on in... I'm going to get Kyle. He knows the utility tunnel system better than anybody alive.
+L229652 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay, we got it.
+L229642 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Brandon.. . The crew and I are in trouble and we need your help.
+L229641 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ I knew it!... I KNEW it!...
+L229640 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's real, Brandon. All of it, It's real.
+L229639 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ ... But I want you to know that I am not a complete braincase, okay? I understand completely that It's just a TV show. There is no ship, there is no Beryllium Sphere, no diagital conveyor... I mean, obviously it's all just a-
+L229638 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's okay. Listen-
+L229637 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Yes, I know, and I want you to know I thought about what you said... I know you meant it constructively but...
+L229636 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Brandon, I remember you from the convention, right?... You had a lot of little technical observations about the ship, and I spoke sharply to you...
+L229635 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Brandon.
+L229634 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What's  your name, son?
+L229633 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Oh... Oh, I see. Oh.
+L229632 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We accidently traded Vox units when we bumped into each other on Saturday.
+L229631 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ ... Yes?
+L228970 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ There IS no quantum flux and there Is no auxiliary... There's no goddamn ship  Do you get it?
+L228969 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Yes but, we were wondering-
+L228968 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's a television show. Okay? That's all. It's just a bunch of fake sets, and wooden props, do you understand?
+L228967 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Commander, as I was saying... In "The Quasar Dilemma", you used the auxiliary of deck b for Gamma override. But online blueprints indicate deck b is independent of the guidance matrix, so we were wondering where the error lies?
+L228949 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Excuse me guys.
+L228948 +++$+++ u1037 +++$+++ m68 +++$+++ BRANDON +++$+++ Commander, please settle a dispute that my crew and I are having. In "The Quasar Dilemma", the Sentient had taken control of the ship's guidance systems, however-
+L229857 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ All systems are working, Commander. ,~ -cc	PINK) -' C -
+L229856 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Systems register functional.
+L229843 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ All systems are working, Commander.
+L229842 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Systems register functional.
+L229317 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ No, we don't have an extra Beryllium sphere.
+L229316 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Negative, no reserve Beryllium sphere exists onboard.
+L229311 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We need another one.
+L229310 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Negative. The Beryllium sphere will have to be replaced.
+L229307 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ It's fractured...
+L229306 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ The Beryllium Sphere has fractured under stress.
+L229305 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Computer, what about our engines? Why don't we have power?
+L229265 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ The enemy is matching velocity.
+L229264 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ The enemy is matching velocity.
+L229257 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Guys, we're sustaining structural damage!...
+L229256 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ The ship is sustaining structural damage.
+L229142 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I never get tired of that joke.
+L229141 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ There is no weather in space.
+L229140 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What's the weather like outside?
+L229139 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Yes?
+L229138 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I just can't believe it. Any of it!  Look at this room!.. They designed it based on the Tuaran Pleasure ship from "historical document" thirty seven.  Oh and wait, wait, listen to this!  Computer?
+L228849 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We're getting major structural damage.
+L228848 +++$+++ u1038 +++$+++ m68 +++$+++ COMPUTER +++$+++ Structural damage at 68 percent.
+L229115 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ OK!
+L229114 +++$+++ u1046 +++$+++ m68 +++$+++ NERVOUS TECH +++$+++ So our solution is to introduce a bonding substrate! - A two molecule compound sharing a free electron - and bombard the ions with their reflective isotopes!
+L229113 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ Covalent... Right. So...
+L229112 +++$+++ u1046 +++$+++ m68 +++$+++ NERVOUS TECH +++$+++ What does that mean?!!!  Yes, I see! Yes... It means that perhaps... the... bonding molecules have become covalent?!...
+L229111 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ ... What does that mean?
+L229110 +++$+++ u1046 +++$+++ m68 +++$+++ NERVOUS TECH +++$+++ That possibly... The valence bonds have shifted bi-laterally?
+L229109 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ U.... What do you think?
+L229554 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Hopkins can't drink your bathwater Fred.
+L229553 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ As good as Hopkins?
+L229549 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ You worked with Hopkins? I worship Hopkins.
+L229548 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Fred, I worked summer stock with Hopkins. Regional theater with Hoffman. But I swear to God I have never met an actor who could hit his mark, or nail his lines with the professional consistency of a Freddy Kwan. You're Mr. Dependable... You can do this.
+L229546 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Listen Fred. You did this for four years on the show. You can do it now... Put your hands on the controls..
+L229545 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ No, I'll kill you. .
+L229498 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I'll take my chances with Gorignak.
+L229497 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ Right.
+L229496 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ The digital conveyer?  You mean I'm going to get diced into cubes and sorted up there in a thousand pieces?
+L229427 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ No, no... I'll think on it...
+L229426 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Never mind, Fred....
+L229425 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ A hologram...
+L229339 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I...Well, uh... Yes, absolutely.
+L229338 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ Hey Commander. Listen, we found some Beryllium on a nearby planet. We might be able to get there if we re-configure the solar matrix in parallel for endothermic propulsion. What do you think?
+L229678 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ Maybe you're the plucky comic relief, you ever think of that?
+L229677 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ I'm just a glorified extra, Fred.  I'm a dead man anyway. If I'm going to die, I'd rather go out a hero than a coward.
+L229676 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ It's suicide.
+L229675 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Listen, I'll go in, create a distraction. have this...  may be able to hold them back long enough for the aliens to escape.
+L229674 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ We've got to get that valve turned off. Their oxygen Is almost gone...
+L229481 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Of course... We'll just zap him up with the digital conveyor!
+L229480 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ ...The digital conveyor.
+L229399 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ I don't like this... I don't like this at all...
+L229398 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ You Okay, Alex?
+L228930 +++$+++ u1039 +++$+++ m68 +++$+++ FRED +++$+++ Oh I make it up. Use lots of "k"s and "v"s.
+L228929 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ How do you remember this stuff?
+L229416 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ We're doing episode 31, Jason?
+L229415 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ How the hell is Fred supposed to project a hologram?
+L229408 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Let's get out of here before one of those things kills guy.
+L229407 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ I am SO SICK of being right.
+L229401 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Of course they're cute NOW. But in a second they're going to turn MEAN and UGLY somehow and then there are going to be a million MORE of them!...
+L229400 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Oh, they're so cute.
+L229392 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Something BAD happened here.
+L229391 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Where are the miners?
+L229356 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Do I? DO I?  For all you know I'm just "CREWMAN #6"!  Okay, it's FLEEGMAN! Guy FLEEGMAN! There! Now I'm a whole person! I can't die! FLEEGMAN! THEY CAN'T KILL ME NOW, CAN THEY? CAN THEY?
+L229355 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Guy, you HAVE a last name. We just don't KNOW it.
+L229191 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ The lost footage. At the convention. The mysterious device in our last episo--historical document.
+L229190 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ The Omega 13... Why does that sound so familiar?...
+L229082 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ It's ... incredible.
+L229081 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ THAT'S why you built this ship?
+L229075 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You... know us?
+L229074 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ "Crewman #6"... Call me Guy.
+L228923 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Sure, Guy, If you can stand the excitement.
+L228922 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Listen, I was wondering, would you guys mind if I sit in today? See if anybody's interested in an autograph? Never know.
+L229808 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No. Keep all energy to the armor.
+L229807 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ We~re oetting hammered, Jason.  Return fIre?
+L229536 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ A LATHE??? Get off the line, Guy.'
+L229535 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ I know...  You contruct a weapon.  Look around, can you form some sort of rudimentary lathe?...
+L229420 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ BECAUSE I DIED IN EPISODE 31!
+L229419 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's a rough plan, Guy! What does it matter if we're doing episode 31 or not?!
+L229418 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Jason, are we doing Episode 31 or not?
+L229417 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It doesn't have to be a hologram... Just a diversion.
+L229388 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Let's just pick up the pace a little, shall we?
+L229387 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ That's it, that's what's going to kill me.
+L229370 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right, let's all settle down.  If we're going to get through this we're going to have to exercise self control.
+L229369 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ We're screwed... We're so screwed...
+L229354 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ No. Nobody does. Do you know WHY? Because my character Isn't IMPORTANT enough for a last name. Because I'm going to DIE five minutes in, why bother to come up with a last name for me?
+L229353 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's... I don't know.
+L229352 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Yeah, what is it?
+L229351 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Your last name.
+L229350 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Oh, I'm not? I'm not? Then what's my last name?
+L229349 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Guy, you're not going to get killed on the planet, okay?
+L229261 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We should have a turbo. I'm always saying "activate turbo boosters", right?...
+L229260 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ They're still behind us...
+L229240 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right. Put me back on with him.
+L229239 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ ...Okay
+L229854 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ We made it. Commander, we made it.'
+L229853 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ ~e're alive!
+L229841 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ We made It. Commander, we made it.' m ALEXANDER sort ov) By Grabtnar' s h~mmer, we  ove to te   ono 'tale.
+L229840 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ We're alive!
+L229442 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ I think he just likes pointing at things.
+L229441 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Not a clue. You?
+L229440 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You have no idea what a perimeter is, do you?
+L229430 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Where'd they go? Back inside?
+L229429 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ They're gone.
+L229414 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Whatever, the one with the hologram. The wall of fire.
+L229413 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ We're doing episode 31?
+L229412 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ "Assault on Voltareck III."  Episode... 31 I think.
+L229174 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Hey, YOU want to drive?
+L229173 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ More to the left... Stay parallel...
+L228921 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Guy... You probably don't remember me do you?   I was on the show in '82.  Episode 31?  Got killed by the lava monster before the first commercial?  "Crewman #6?"
+L228920 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Hey. Thanks for one nice intro... uh.
+L228919 +++$+++ u1040 +++$+++ m68 +++$+++ GUY +++$+++ Hi everybody.
+L229824 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ TOMMY, 270 DEGREE TURN TO PORT!
+L229823 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ never doubted you for a second.
+L229814 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mark 12.
+L229813 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ He's accelerating to Mark 6.
+L229718 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Well forget it!  I'm not going.  This episode was badly written!
+L229717 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Because it was on the show!
+L229716 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We shouldn't have to DO this!  It makes NO LOGICAL SENSE! Why is it HERE?
+L229715 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Gwen...
+L229714 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What IS that thing? It serves no useful purpose to have a bunch of CHOPPY CRUSHY things in the middle of a CATWALK!?.'
+L229651 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Wait... Jason, Here!...
+L229650 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ There's no hatch.  There's no hatch!
+L229623 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No I don't. But I know somebody who does.
+L229622 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Uh... I hate to break it to you Jason, but I don't know how to shut down a neutron reactor, and unless you took a Learning Annex course I don't know about, I'm pretty sure you don't know how to shut down a neutron reactor either.
+L229621 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Right.
+L229620 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ So... We get to shut down the neutron reactor?
+L229523 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What the hell are you talking about?
+L229522 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Jason?...  I don't think the pig lizard was Gorignak...
+L229520 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Turn on the translation circuit.
+L229519 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Wait, the pig lizard is gone. Why are they still chanting for the pig lizard?
+L229502 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Nothing. Hold please.
+L229501 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What?  What did he say?
+L229495 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Jason, we're going to use the digital conveyer to get you out of there.
+L229494 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yeah. But I've got Gorignak staring me in the face. I think I can take it though...
+L229493 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Thank God. Are you okay?
+L229492 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yes. Yes, I'm here!
+L229491 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Jason.. Can you hear me?
+L229452 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Will you stop RIDING ME?!
+L229451 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Clenched jaw...
+L229444 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It helps.
+L229443 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ How does the rolling help, actually?
+L229411 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Why does this sound so familiar?
+L229410 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right... here's the plan:  First, Fred, we need a diversion to clear those things out of the compound, then Gwen, Alex, Fred and I go down to get the sphere.  Any of those things come back, give a signal. Guy, you set up a perimeter.
+L229383 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Don't be ridiculous.
+L229382 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You're playing your good side.
+L229373 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I could have held on to YOU! ...
+L229372 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Did it ever occur to you that if you had been a little more supportive you could have held on to me?
+L229371 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Self control?  That's funny coming from the guy that slept with every Moon Princess and Terrakian slave girl on the show!...
+L229315 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Computer, do we have a replacement Beryllium sphere onboard?
+L229314 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Do we have a replacement Beryllium sphere onboard?
+L229309 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Computer, can it be repaired?
+L229308 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Can it be repaired?
+L229296 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ No, I don't think so... Wait. They're not but...  Something is.  Oh my god.
+L229295 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Are they behind us?
+L229275 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I don't think that's a cloud...
+L229274 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Maybe we can lose them in that cloud.
+L229245 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Listen, Sarris, you can't blame me for trying...
+L229244 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I thought It was the "We're dead" gesture! I was agreeing! Like I know where the hold button is???
+L229243 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I made the CUT THE LINE gesture. You nodded okay.'
+L229238 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You just keep pushing those buttons, those there, send everything at him, okay?
+L229237 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ JASON...
+L229236 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We're going to fire everything we've got at him, all right?
+L229235 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Jason..
+L229234 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right, now nobody panic, I've dealt with this guy before and believe me, he's as stupid as he is ugly.
+L229221 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mathesar, maybe we should get some of your crew up here.
+L229220 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ There's nobody here. Jason...
+L229212 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Let me think. I need time to think.
+L229211 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We're leaving, Jason. We're leaving NOW.
+L229157 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Gwen... Gwen, c'mon, wait, no!
+L229156 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We have no right to do this. They deserve to know.
+L229155 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Hey... Hey where are you going?
+L229154 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Ninty-nine percent of ACTING is commitment. ACTING.  Stella Adler never manned a resonance cannon, she taught ACTING...
+L229153 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's not the STUFF. I mean, anybody can learn the STUFF...  The important thing is COMMITMNT. 99% of anything is just committing to it.
+L229152 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Well you have to tell them.  What if something happens? We're actors, not astronauts... We can't do this stuff!
+L229151 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Are you kidding? I'm not going to tell them.
+L229150 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Who we are. Don't you think they're going to be PISSED?
+L229149 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Tell them? About...
+L229148 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Wait. When are you going to tell them?
+L229147 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ C'mon, we're wanted up on the command deck.
+L229146 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ On the show I talk to the computer and repeat what it says. So that's what they built.
+L229145 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ But I'm the Commander!
+L229144 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Only answers to me.
+L229143 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Let me try.  Computer?  Computer?...
+L229137 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Oh come on, it's not like I haven't-
+L229136 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ One minute   I'm -  Hey, I'm dressing.'
+L229135 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's Jason...
+L229048 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You know it's one thing to treat us this way, but how can you do this to your fans?...
+L229047 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ This isn't mine. Wait, where is that kid?...
+L228955 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You smiled at me.
+L228954 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What?
+L228891 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ What do you want me to say, Gwen?... They wanted the Commander.
+L228890 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ How much of a nothing? Not enough to split five ways kind of a nothing?
+L228889 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ A few fans built a little set in their garage.  .  I come in for an hour at most. It's a nothing.
+L229881 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ I see them!  I see them! RD STREET	PASADENA 57
+L229880 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Tommy, look!  Those lights...
+L229801 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ What are you doing? What are thev doino? ~7C INT. SARRIS' SHIP	h37C
+L229800 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Closer?  I can try.
+L229799 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ JASON  You think you could-get any closer to those mines?
+L229489 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Is this really the most important thing we could be talking about right now?
+L229488 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ I heard it too.
+L229479 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Wait, Fred, what about your thing, you know... "Digitize me, Sergeant Chen!"
+L229478 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ That thing's not going to get us down there fast enough.  Face it, he's dead.
+L229477 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ We got the Sphere but the Commander's down there with a bunch of cannibals!  Teb, reset the pod, we're going back.
+L229468 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ I can't...  It's on autopilot!...
+L229467 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Oh my god! Tommy! Stop the pod! Stop the pod!
+L229320 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Sure, no problem.
+L229319 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I have ONE job on this lousy ship. It's stupid, but I'm going to DO it. GOT IT?
+L229318 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You know, that's really getting annoying.
+L229054 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ I don't know guys... I mean, he almost looked... sincere. I know, it's bizarre!
+L229053 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You should have let me hit him.
+L229046 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Don't do it, Tommy. He's not worth it.
+L229045 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ That's it, It's go time.
+L228941 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Almost as much as he loves himself.
+L228940 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You gotta admit, they do love him.
+L228888 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You are so full of shit
+L228887 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ Unbelievable.
+L228863 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Tomorrow morning, before the store opening.
+L228862 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ You're kidding. When for?
+L228859 +++$+++ u1041 +++$+++ m68 +++$+++ GWEN +++$+++ This is great!  They're going to start eating each other out there.
+L228858 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Where the hell is he?  An hour and a half late.  An hour and a half!
+L229812 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ This is embarrassing, really.   I shan't tell this story when I return home.
+L229811 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Accelerate to Mark 4, Tommy.
+L229584 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Yes... You understand THAT, don't you, Mathesar?...
+L229583 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We.. We lie.
+L229582 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Simpler.
+L229581 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We pretend...
+L229580 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Our dimwitted friends don't understand the concept of acting. They have no theater, no imagination these scientists.
+L229579 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ My name is Jason Nesmith. I'm an actor. We're all actors.
+L229575 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Gwen. The show. There's no choice. Do it.
+L229574 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Explain -
+L229573 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Please, don't hurt them, it's not their fault. I'm not the Commander, I don't know anything.
+L229572 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Wait. What did you say?
+L229570 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Do you think I'm a fool? That the Commander does not know every bolt, every weld of his ship?
+L229569 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ No! I swear I don't know! Please!
+L229568 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Prepare a tear harness for the female...
+L229567 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Stop, please! I don't know!
+L229566 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Is it a bomb?  A booby trap?  Tell me!
+L229565 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I don't know.
+L229564 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Then tell me one thing... What does it do, the device? The Omega 13.
+L229563 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yes.
+L229233 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right. You got it. You win. I'll deliver it now.  Just give me a moment to set it up.
+L229232 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ You have ten seconds.
+L229231 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Listen, I'd like to, but frankly.. I'm not even sure where it is, or even...
+L229230 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Deliver the device now or I will destroy your ship.
+L229229 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Right.  Well... Listen, I'm  I'm sorry about that whole... thing.. before. It was kind of a misunderstanding.  I'm sure we can work this out like reasonable people... How's the uh...  ... that going to heal up? God, I hope so, I feel just awful about that.
+L229228 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Better than my Lieutenant.  He failed to activate ship's neutron armor as quickly as I'd hoped on our last encounter.
+L229227 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yes... Hi Sarris... How are you doing?
+L229011 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okey dokey, let's fire blue particle cannons full. Fire red particle cannons full. Fire gannet magnets left and right. Fire pulse catapults from all chutes. And throw this thing at him too, killer.
+L229010 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ First, I require the Omega 13... Second-
+L229834 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You can oc that?
+L229833 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ The ship is a model... As big as this!... A very clever deception indeed! He oan't oontaln hIs lauchter.  A belle-----TOMMY Set a course for home, lommander?
+L229591 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's difficult to... On our planet we pretend in order to... entertain.
+L229590 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ But...Why?
+L229589 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Sections of rooms made of plywood. Our Beryllium Sphere was painted wire and plaster. The digital conveyor was Christmas lights... Decorations.  It's all a fake.  I'm not him...  I'm a nothing. A nobody.
+L229588 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ But... Inside, I have seen-
+L229587 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ A model, only as big as this.
+L229586 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ But there it is!...
+L229585 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I'm not a Commander, there is no National Space Exploration Administration. There is no snip.
+L229336 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ We have become aware of these concepts only recently. In our dealings with Sarris. Often Sarris will say one thing, and do another. Promise us mercy and deliver destruction... It is a concept we are beginning to learn at some great cost.  But if you are saying that any of you could have traits in common with Sarris.
+L229335 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Well... Sort of...
+L229334 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ "Deception..." "Lies."
+L229323 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ We have seen you victorious in many more desperate situations. The fault must lie with us, with the ship...
+L229322 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ You what?.. What are you talking about?
+L229321 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ A thousand apologies. We have failed you.
+L229277 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ It's the Tothian mine field left standing from the Great War of 12185.
+L229276 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mathesar? What is that?
+L229217 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mathesar, I need you to prepare pods for my crew.
+L229216 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Commander...
+L229205 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ I'm sorry. You deserve to be shown.
+L229204 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Former Commander?
+L229203 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Our former Commander was not... Strong.
+L229202 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Then how did he find out about the device?
+L229201 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ NO, Thank God he has not.
+L229200 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mathesar?. .. Has Sarris seen the.. historical records?
+L229179 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Wherever a distress signal sounds among the stars, we'll be there, this fine ship, this fine crew. Never give up, never surrender!
+L229178 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ To our brave guests.  Few in this universe have the opportunity to meet their heroes.  We are blessed to count ourselves among them.
+L229096 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ ... Maintenance facility...
+L229095 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's perfectly safe. I promise.
+L229094 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Weapons storage...
+L229027 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It was a lot of fun. You kids are great.
+L229026 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ How can we thank you, Commander. You- You have saved our people.
+L229025 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Thanks
+L229024 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ An interstellar vox.
+L229023 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I would but I am REALLY running late and the 134's a parking lot after 2:00.  But listen, the guy gives you any more trouble, just give a call...
+L229022 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ He has a very powerful ship. Perhaps you would like to wait to see the results of-
+L229021 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Oh, I don't think so. I gave him both barrels.
+L229020 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ But what if Sarris survives?
+L229019 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Long live Theramini.  Take a left here?
+L229018 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Theramin.
+L229017 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Right. Long live... What's your planet?
+L229016 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ But Commander... The negotiation... You... You... You fired on him.
+L229015 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Yeah. "Earth." Time to get back to "Earth," kids.
+L229014 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ You... You mean Earth?
+L229013 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Home.
+L229012 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Commander?... Where are you... going?
+L229000 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ As you wish.
+L228999 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mind If we skip that?  I have to get back pretty quick for this thing in Van Nuys.
+L228998 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Commander... Welcome to the Protector II.  Would you like to don your uniform?
+L228983 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Oh, right! The thing with the thing. Come on in, I'll get some pants on.
+L228982 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Sir, I understand this is a terrible breach of protocol, but please, I beg you to hear our plea. We are Thermians from the Klatu Nebula.  Our people are being systematically hunted and slaughtered by Roth'h'ar Sarris of Fatu-Krey. Sarris wants the Omega 13. We are to meet in negotiation. However our past efforts in this regard have been nothing short of disastrous. The flames, the death...  Please Captain, you are our last hope.  We have secured a limousine.
+L228959 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Catch me later, okay?
+L228958 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ I... certainly, but-
+L228957 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Right, If this is about the thing tomorrow you can hammer out the details with my agent, but make sure I have a limo from my house, they jammed me into a Toyota the last time I did one of these
+L228956 +++$+++ u1045 +++$+++ m68 +++$+++ MATHESAR +++$+++ Commander, I must speak to you. It is a matter of supreme importance... We are Thermians from the Klatu Nebula, and we require your help. I beseech you to come with us, back to our ship. A great many lives hang in the balance...
+L229879 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ I'm trying Commander... Everything's a blur, but as long as I stay locked to that vox signal...
+L229878 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Hold course, Laredo!
+L229839 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Mark 20 Into the black hole,  areao.
+L229838 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Commander?... Call me Laredo?
+L229837 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Let's do it, Tommy.
+L229794 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Pedal to the metal...
+L229793 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Pedal to the metal Tommy...
+L229618 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Practice driving, Tommy.
+L229617 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Jason? What about me? What do I do?
+L229616 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right guys... Uh... Gwen and I are going to have to get to the core and shut it down manually. Fred, you and Guy need to get that air valve back on.  Alex, see if you can get the prison doors open downstairs in case Fred and Guy can't get the oxygen back in time.
+L229558 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ We've got to get out of here.  C'mon, hurry
+L229557 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ NO NO NO.
+L229534 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It's a ROCK. It doesn't HAVE vulnerable spots!
+L229533 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ The throat, the mouth... Its vulnerable spots.
+L229532 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ It doesn't have eyes.
+L229531 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Go for the eyes. Like in episode 22 with-
+L229508 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Hey I was doing okay with the pig lizard.
+L229507 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ How about the pig-lizard?
+L229506 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay... On what?
+L229461 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Good work, Tommy.  Let's go!
+L229460 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Sorry Guys... It just went off.
+L229439 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Okay, let's go.
+L229438 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Oh, right, sorry.
+L229437 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Tommy, we have these...
+L229436 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Okay, I'll do this...  "Caw Caw!"
+L229435 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Anything.
+L229434 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ What kind of signal?
+L229433 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ All right, Gwen, Alex, Fred, follow me.  Guy, set up the perimeter. Tommy, you keep a lookout, make a signal if they come back.
+L229281 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Oh god...
+L229280 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Do your best, Tommy...
+L229263 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Push It. Hold it down.
+L229262 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Could be this.
+L229259 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ It's as far as it goes!
+L229258 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Faster Tommy. Get us out of here!
+L229254 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Just GO! GO! DAMMIT PUNCH GO!
+L229253 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Where?
+L229197 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Why don't you just turn it on and see?
+L229196 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Well, it's... This was a device we...  discovered on an alien planet.  We don't know what it does either.
+L229170 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ They designed the ship from watching you. So... Take her out, Lieutenant...
+L229169 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Excuse me?
+L229161 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I think we're going to exit the space port.
+L229160 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ What's going on?
+L229071 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ Twenty third quadrant of gamma sector.  I can show you on a map.
+L229070 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ Wh... Where are we?
+L229069 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ That's right... Just keep shaking it out... Here, have some gum, It helps.
+L228946 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ And determination.
+L228945 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ ... to make sure craft service keeps those little butter cookies, and plenty of them-
+L228886 +++$+++ u1042 +++$+++ m68 +++$+++ JASON +++$+++ I didn't say that.  I said "wouldn't it be great if we could always, work together." That's what I said.
+L228885 +++$+++ u1049 +++$+++ m68 +++$+++ TOMMY +++$+++ You said we do appearances together, or not at all.'
+L229806 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Fire at will. hI~D  NT. PROTECTOR
+L229805 +++$+++ u1044 +++$+++ m68 +++$+++ LATHE +++$+++ Because they're coming right at us.
+L229804 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ WHAT? WH
+L229803 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Get oacK on their tail.
+L229802 +++$+++ u1044 +++$+++ m68 +++$+++ LATHE +++$+++ enerao, I've host them. The maanetlsm o: the field Is disrupting our onstru- ~ait. There they are
+L229686 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Find them.
+L229685 +++$+++ u1044 +++$+++ m68 +++$+++ LATHE +++$+++ But sir, my MEN. The core implosion is not reversible...
+L229684 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Find them.
+L229595 +++$+++ u1044 +++$+++ m68 +++$+++ LATHE +++$+++ The core could be hardwired to overload without much effort.
+L229594 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Lieutenant Lathe, I confess I am beginning to feel a bit foolish myself. Chasing across the universe to obtain what is, I am now certain, a bauble of fiction. Tell me how best to obliterate this vessel? I would like nothing to remain.
+L229285 +++$+++ u1048 +++$+++ m68 +++$+++ SARRIS +++$+++ Patience, Lt. . Patience.
+L229284 +++$+++ u1044 +++$+++ m68 +++$+++ LATHE +++$+++ Continue forward, sir?

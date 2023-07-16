@@ -1,0 +1,824 @@
+L279684 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Technically, I'm number one.  I went out with her a week before Kevin did.  Her first boyfriend.  Me.
+L279683 +++$+++ u1312 +++$+++ m88 +++$+++ ALISON'S MOM +++$+++ I beg your pardon?
+L279682 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Really?  Married Kevin?  Her junior high sweetheart... What chance would I have had against that?  None, no chance.  That's just fate.
+L279681 +++$+++ u1312 +++$+++ m88 +++$+++ ALISON'S MOM +++$+++ That's right.  Kevin.  She's Mrs. Kevin Bannister.  She lives in Australia.
+L279680 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You gotta be kidding me.
+L279679 +++$+++ u1312 +++$+++ m88 +++$+++ ALISON'S MOM +++$+++ I hate to quibble with you Rob, but she married her first boyfriend. Kevin Bannister.
+L279678 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Rob.  Rob Gordon.  Circa junior high...
+L279677 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Long time ago.  I was just thinking about her.  I was her first boyfriend.
+L279676 +++$+++ u1312 +++$+++ m88 +++$+++ ALISON'S MOM +++$+++ Really.
+L279675 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Alison's.
+L279673 +++$+++ u1312 +++$+++ m88 +++$+++ ALISON'S MOM +++$+++ I don't know.
+L279672 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Do I know you?
+L280038 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ That's what we want.  Reaction.  And if Laura's bourgeois lawyer friends can't take it, then fuck 'em.  Let 'em riot, we can handle it.  We'll be ready.
+L280037 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You'll be going over the fucking edge if you come anywhere near me next Friday night.
+L280036 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I owe it to myself to go right to the edge, Rob, and this group does exactly that.  Over the edge, in fact.
+L280035 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Barry, you're over thirty years old. You owe it to yourself and your friends and to your parents not to sing in a group called Sonic Death Monkey.
+L280034 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What do you think?  Dick likes it.
+L280033 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Sonic Death Monkey.
+L280032 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We're not called Barrytown anymore, by the by.  They got sick of the Barry/Barrytown thing.  We're called SDM.  Sonic Death Monkey.
+L280031 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You couldn't be.  Look, Barry. There's going to be people from Laura's work there, people who own dogs and babies and Tina Turner albums.  How are you going to cope with them?
+L280030 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We're not as bad as you think, Rob.
+L280029 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ 110%.  That's my final offer.  I'm not kidding.  That's how much it means to me not to hear you play.
+L280028 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ No.  We need the gig.
+L280027 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What is she doing?  Okay, 20%.
+L280026 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We're getting that anyway.
+L280025 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'll give you 10% of the door if you don't play.
+L280024 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Laura said we could.  If we helped out with the posters and stuff.  And we did.  And we are.
+L280023 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Like fuck you are.
+L279983 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ HELLO.  DO YOU SEE ANYONE ELSE around here with a band, Mr. Branson?  Mr. Phil Spector?
+L279982 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So?  You even said they're good.
+L279981 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I heard you, man.  Don't give me that "what" shit.  You just told them that you're gonna put out a record with them.
+L279980 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What?
+L279979 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What the fuck is that?
+L279964 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Yes way.  It's really...
+L279963 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No way.
+L279962 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ The little skate-fuckers.
+L279835 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Not really.
+L279834 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh.  Right.  But I'd forgotten about that.  I wasn't biting the idea.
+L279833 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Liar.  We saw it in the Lawrence Kasdan double-bill with Body Heat.
+L279832 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Haven't seen it.
+L279831 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Because it's in The Big Chill.
+L279830 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I'd want "One Step Beyond" by Madness. And "You Can't Always Get What You Want."
+L279829 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fuck off, Barry.
+L279828 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Whatever.  Okay. "Tell Laura I Love Her." That'd bring the house down. Laura's mom could sing it.
+L279827 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It was Jan, and it was a long time after--
+L279820 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Ooh.  Drag.
+L279819 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Laura.  Her dad died.
+L279818 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What's up?
+L279768 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Bitter?  Because I'm not in Barrytown? You should be shot like a lame horse, you jerk.  Just keep that out of my window.
+L279767 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ So much for friends, then.  You're a bitter bastard, Rob, you know that?
+L279766 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Of course I'm not coming.  Do I look like I'd want to listen to some terrible experimental racket played in some hideous cave?  Where is it?  The fucking Bucktown Pub?  Ha!
+L279765 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ You're not even coming?
+L279764 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ None.  Christ!
+L279763 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ How many tickets can I put you down for?
+L279762 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Great!  That's fucking great!  They only asked you to sing because of your name!  You can stick it above the browser racks over there.
+L279761 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ That was one of the reasons they asked me to join originally, yes. But --
+L279760 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Isn't it?
+L279759 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That's why you got the gig, isn't it?
+L279758 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ They were fucking called that before I was in it, okay?  It wasn't my idea.
+L279757 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You can't be called Barry and sing in a group called Barrytown.
+L279756 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I didn't make up the name.  It's the Steely Dan song.  And it was in The Commitments.
+L279755 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Barrytown.  Barrytown?  Is there no end to your arrogance?
+L279754 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Thanks for your support, Rob.  Really appreciate it.
+L279753 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You are not in a band, Barry.  You are not a musician.  And no posters.
+L279752 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ The band that found me and asked me to join.
+L279751 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What band?
+L279750 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ My band.
+L279749 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What the fuck is that?
+L279748 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Hey.
+L279617 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Terrific.
+L279616 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Suck my ass.
+L279615 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Don't be sad, Barry.  You'll find true love someday.
+L279614 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Yeah, you would say that, wouldn't you?  You two have to stick together now.  Boners United.  United in getting some.
+L279613 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Shut the fuck up, Barry.
+L279608 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh come on, Rob.  What am I, an idiot? I'm more bothered by Dick's thing. How did this happen, Dick?  What rational explanation can there possibly be?  What's her name?
+L279607 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ How do you know about that?
+L279606 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Un-fucking-believable.  Dick's out on a hot date, Rob's boning Marie LaSalle, and the best-looking and most intelligent of all of us isn't getting anything at all.
+L279600 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Ha.
+L279599 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Fine by me.  I still want pay to 7 o'clock.
+L279598 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Let's pack it up.  We haven't had a customer in four hours.
+L279597 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I never thought I would say this, but can I go work now?
+L279596 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Because it's a brilliant film.  It's funny, violent, and the soundtrack kicks fucking ass.
+L279595 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Why would they care?
+L279594 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ How the fuck am I supposed to know that?  You might get sick of people telling you you've really gotta go see the movie.
+L279593 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But in your opinion, would I definitely go?
+L279592 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ ...But the word "yet..." Yeah, you know what, I'd get the impression that you wanted to see it.  Otherwise you'd say you didn't really want to.
+L279591 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Well... you couldn't have been desperate to see it, otherwise you'd have already gone...
+L279590 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Would you... would you get the impression that I wanted to see it?
+L279589 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ "-- I haven't seen Evil Dead II yet," yeah, yeah, I hear you --
+L279588 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Just listen to me.  If I said to you --
+L279587 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I'm sorry, Rob, but I'm struggling here.  I don't understand any part of this conversation.  You're asking me what I would think if you told me that you hadn't seen a film that you've seen.  What am I supposed to say?
+L279586 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, but would you think, from that one sentence.  That I was going to see it?
+L279585 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I'd think you were a cinematic idiot. And I'd feel sorry for you.
+L279584 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, yeah, I know.  But say I hadn't seen it and I said to you, "I haven't seen Evil Dead II yet," what would you think?
+L279583 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ To me, it would mean that you're a liar.  You saw it twice.  Once with Laura -- oops -- once with me and Dick.  We had that conversation about the possibilities of the guy making ammo off-screen in the Fourteenth Century.
+L279582 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Just... come on, what would it mean to you?  That sentence? "I haven't seen Evil Dead II yet?"
+L279581 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ -- Barry, if I were to say to you I haven't seen Evil Dead II yet, what would that mean?
+L279580 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ -- You're like a little squirrel of music, storing away dead little nuts of old garbage music, musical lint, old shit, shit, shit --
+L279579 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ There's something different about the sound of her voice... And what did she mean last night, she hasn't slept with him yet.  Yet.  What does "yet" mean, anyway?  "I haven't seen... Evil Dead II yet." What does that mean?  It means you're going to go, doesn't it?
+L279569 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Ooh!  A kind of recent record!  Rob's sly declaration of new classic-status slipped into a list of old classics! Nice! "Let's Get It On?" Couldn't you make it more obvious than that?
+L279568 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Shut up. "Let's Get It On," Marvin Gaye, from Let's Get It On. "Airbag," Radiohead, from OK Computer.
+L279567 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh no, Rob, that's not obvious enough. Not at all.  Dick, did you hear that?
+L279566 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ "Thunder Road," Bruce Springsteen, from Born to Run. "Smells Like Teen Spirit," Nirvana, Nevermind.
+L279565 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Ehh.
+L279564 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay.  Top five side one track ones. Number one... "Janie Jones," the Clash, from The Clash.
+L279420 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What am I missing?  What do you have to be happy about?
+L279419 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm not snickering.  I'm smiling. Because I'm happy.
+L279418 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What are you snickering about?
+L279417 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What do you mean, "what?"
+L279416 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What?
+L279317 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's not my car, now is it?  It's Laura's car, and thus Laura has it. So it's an ass-bumping double- transferring bus ride through bumblefuck or a fat wad on a cab. Wow.  Fucking great.
+L279316 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We can take your car.
+L279315 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That's fucking great, Barry.  We can spend fifteen bucks on a cab to save five each.  Fantastic, Barry!
+L279314 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We're only on the fucking list for Marie's gig at the Pulaski Pub, that's all!  All three of us.
+L279293 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I didn't know it was classified information.  I mean, I know we don't have any customers, but I thought that was a bad thing, not, like, a business strategy.
+L279292 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What did you tell her about the shop for?
+L279270 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ ...Maybe a picture of me in the liner notes...
+L279269 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I wanna live with a musician.  She'd write songs at home, ask me what she thought of them, maybe even include one of our private jokes in the liner notes.
+L279268 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ I wanna date a musician...
+L279261 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But now I kind of like it.
+L279260 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Yeah.
+L279194 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh, now you're defending that motherfucker?  You're going soft in your old age, Rob.  There was a time when you would have chased him out of the store and up the street.  Now all of a sudden I'm offending your golf buddy.  You're right, Rob.  I am so sorry. How are we ever going to make enough money to get you and Laura into the country club?
+L279193 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It wasn't even his terrible taste. It was his daughter's.
+L279192 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ He offended me with his terrible taste.
+L279191 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What did he ever do to you?
+L279190 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Bullshit.  The guy was going to buy one record -- which we didn't even have -- and leave and never come back again anyway.  Why not have a little fun?  Big fucking deal.
+L279189 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Barry, I'm fucking broke!  I know we used to fuck with anyone who asked for anything we didn't like, but it's gotta stop.
+L279188 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ "Our customers?" You think that Mr. L.L. Bean out there is going to be a regular?
+L279187 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't want you talking to our customers like that again.
+L279186 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh, so what's the point then?
+L279185 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Not the point.
+L279184 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We didn't even really have it.  I happen to know for a fact that the only Stevie Wonder single we have is "Don't Drive Drunk." I was just goofing on the straight, and it never cost you a penny.
+L279183 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You just drove a fucking customer away, Barry.
+L279182 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Rob.  Top five musical crimes perpetrated by Stevie Wonder in the '80's and '90's.  Subquestion -- is it in fact unfair to criticize a formerly great artist for his latter- day sins?  "Is it better to burn out than to fade away?"
+L279181 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Nice, Barry.
+L279160 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Well what's the point in that?
+L279159 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ We'll do it next Monday.
+L279158 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Great.  That's the fun of working in a record store.  Playing crappy pap you don't want to listen to.  I thought this tape was going to be, you know, a conversation stimulator. I was going to ask you for your top five records to play on a Monday morning and all that, and you just had to ruin it.
+L279157 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Since you brought that bullshit tape in.
+L279156 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Since when did this shop become a fascist regime?
+L279155 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ How can it be bullshit to state a preference?
+L279146 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ "Little Latin Lupe Lu."
+L279145 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Say it.
+L279144 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Play it.
+L279143 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What's next?
+L279142 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Don't you want to hear what's next?
+L279141 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, well it's fucking Monday afternoon.  You should get out of bed earlier.
+L279140 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ But it's my new tape.  My Monday morning tape.  I made it last night just for today.
+L279139 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't want old sad bastard music either.  I just want something I can ignore.
+L279138 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Public Enemy!  All I'm trying to do is cheer us up.  Go ahead and put on some old sad bastard music see if I care.
+L279137 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't want to hear Public Enemy right now.
+L279136 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What are you doing?
+L279135 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ IT WON'T GO ANY LOUDER.
+L279134 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ TURN IT OFF, BARRY.
+L279388 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ NO--!
+L279387 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ I have a television.
+L279386 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ That is perverse.  Do not tell anyone you don't own fucking Blonde on Blonde.  What about Television?
+L279378 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Do not get ahead of yourself.
+L279377 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ Well what about the new Echo --
+L279376 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ They always seemed what?  They always seemed really great, is what they always seemed.  They picked up where your precious Echo left off, and you're sitting here complaining about no more Echo albums.  I can't believe that you don't own that record. That's insane.
+L279375 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ They always seemed...
+L279374 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh really.  Well what about the first Jesus and Mary Chain?
+L279373 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ I have all of the others.
+L279372 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ It's almost impossible to find, especially on CD.  Yet another cruel trick on all of the dumbasses who got rid of their turntables.  But every other Echo and the Bunnymen album --
+L279177 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Do you even know your daughter? There is no way she likes that song. Or is she in a coma?
+L279176 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ What's your problem?  What did I... Why are you --
+L279175 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Because it's sentimental tacky crap, that's why not.  Do we look like the kind of store that sells "I Just Called To Say I Loved You?" Go to the mall and stop wasting our time.
+L279174 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ Why not?
+L279173 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ No, you can't.
+L279172 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ Great.  Can I have it then?
+L279171 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh yeah.  We got it.
+L279170 +++$+++ u1316 +++$+++ m88 +++$+++ CUSTOMER +++$+++ I'm looking for a record for my daughter.  For her birthday.  "I Just Called To Say I Love You." Do you have it?
+L279826 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ -- It was Dean, you fucking idiot.
+L279825 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Did you know that after that song was recorded, Jan himself crashed his --
+L279824 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Okay, okay -- "Leader of the Pack." The guy fucking cracks up on a cycle and dies right? "Dead Man's Curve," Jan and Dean...
+L279722 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ He's not worth it!
+L279721 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Don't do it, Rob!
+L279612 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Anna Moss.  Mossy.  The Mossy Thing. The Swamp Thing.  Is she all green and furry?
+L279611 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Anna Moss.
+L279610 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Anna who?  Anna Green Gables?  Anna Conda?
+L279609 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Anna.
+L279604 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Nobody.
+L279603 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Who are you going to see?
+L279602 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Why?
+L279601 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I can't go to the club tonight, guys.
+L279288 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ You'd love it!
+L279287 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ We work there!
+L279286 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ A couple blocks!  About six!
+L279285 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ On Clark Street!
+L279284 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ He's got one!
+L279267 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ You can be and are wrong.
+L279266 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ It's a reference to a Chinese meal in Toronto and I think that there is a "The."  But I could be wrong.
+L279265 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ No, no, no, you said "The Number Four With a Smile," and there's no "The" at the front of the title of the album.
+L279264 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ That's what I said.
+L279263 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Isn't her album called "Number Four With A Smile?"
+L279262 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ She shouldn't done it on "The Number Four With a Smile."
+L279154 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Bullshit.
+L279153 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Nothing.  I just prefer the other one.
+L279152 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ No, not nothing.  What's wrong with the Righteous Brothers?
+L279151 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Nothing.
+L279150 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ What?
+L279149 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Oh well.  Nevermind.
+L279148 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ No.  The Righteous Brothers.
+L279147 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Mitch Ryder and the Detroit Wheels?
+L279130 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ It's the new --
+L279129 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Holy Shiite!  What the fuck's this?
+L279989 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Just that Rob seems to think it would be wiser to start a record label by putting out a record with business- crippling Nazi Youth shoplifters than with someone he knows in his bitter jealous heart is a musical visionary.  That's all.
+L279988 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What are you talking about?
+L279987 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ The Malcolm McClaren of Clark Street is in his executive suite.  Do you have an appointment?
+L279986 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Where's Rob?
+L279985 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ Oh, hi.
+L279984 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hey, Barry.
+L279844 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ No.  No.  Mom wants you to come to the funeral.  It's on Friday.
+L279843 +++$+++ u1313 +++$+++ m88 +++$+++ BARRY +++$+++ "Somebody's Gonna Die" by Blitz. "Bella Lugosi's Dead," Bauhaus. It's got that creepy Halloween feeling.
+L280091 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Haha.  Right.  It's no problem.  I love making tapes.
+L280090 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Would you?  Really?  Wow.  I could have deejay Rob Gordon play in my own home.
+L280089 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, well, the Kinky Wizards are -- you know what?  Why don't I just make you a tape?
+L280088 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ And the new label?  And the Kinky Wizards?
+L280087 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, you know... a lot of people aren't too old for clubs but they're too old for acid jazz and garage and ambient and all that.  They want to hear old funk and Stax and New Wave and Old School Hip Hop and some new stuff all together and there's nowhere for them.
+L280086 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Okay. "Dance Music For Old People?"
+L280085 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Look, I'm sorry about this, but I'd like "the Upsetter" by Lee "Scratch" Perry, in there.  Instead of "Sin City."
+L280084 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ "Music for Old People." What does that mean?
+L280083 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Who?  Oh.  My friend.  My friend is Laura.  A girl.  A friend who's a girl.
+L280082 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ What's his name?
+L280081 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.
+L280080 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Nice friend.
+L280079 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well it was a friend's idea, really, and the record release party seemed like a good place to do it.  So...  I should really put a James Brown in there --
+L280078 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ That's five.  So.  Why did you decide to deejay again?
+L280077 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Sure, but is that it for the list?
+L280076 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Well, I wouldn't mind a quick chat, if you got the time.
+L280075 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Is that it?
+L280074 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Fine.  That's great.
+L280073 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, I'm sure I can manage something... "Sin City." "New Rose," by The Damned. "Hit It and Quit It" by Funkadelic. "Shipbuilding," Elvis Costello, Japanese import, no horns, or different horns, anyway... um... "Mystery Train" by Elvis Presley... And... "Spaced Cowboy" by Sly and the Family Stone.  A bit controversial, I know, but...
+L280072 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Look if you can't think of anything, it doesn't matter.  I'll do one.  My five favorite from the old days at the Dodger.
+L280071 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Can I go home and work this out and let you know?  In a week or so?
+L280070 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Well if one of them is this "Sin City" thing --
+L280069 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What do you mean, four more?
+L280068 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Nevermind.  Any five.  So four more.
+L280067 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ OF COURSE... Well yeah, a bit. "Sin City" by the Flying Burrito Brothers is an all-time top five, but I wouldn't play it at the club.  It's a country-rock ballad.  Everybody'd go home.
+L280066 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Is there a difference?
+L280065 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh boy... In the club, or at home?
+L280064 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Your desert island top-five.
+L280063 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Pardon me?
+L280062 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Yeah, well... Let's see... What are you're all-time top five records?
+L280061 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.  I could show it to you if you want to come over and see it.
+L280060 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Right.  So.  You must have an enormous record collection.
+L280059 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ So.  Is now a good time?
+L280058 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What I mean is, I didn't mean you look young.  You don't.  You don't look old either.  You look just as old as you are.  A bit younger maybe, but not a lot.  Not much.  Just right.
+L280057 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Huh.  You used to come to the club? I shouldn't have let you in.  You must have only been about sixteen.
+L280056 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ I thought I would ask you a few questions if that's okay.
+L280055 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh.  Okay.
+L280054 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ Well, I used to go to the Dodger on your nights, and I saw you're doing it again and that your putting out a record, and it's sort of a then-and- now story against the backdrop of the Chicago music scene with the emphasis on now.
+L280053 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Right.  Why?
+L280052 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ I'm Caroline Fortis from The Reader. I want to do a story on you.
+L280051 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Uh.  That's me.
+L280050 +++$+++ u1314 +++$+++ m88 +++$+++ CAROLINE +++$+++ I'm looking for Deejay Rob Gordon.
+L280049 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ May I help you?
+L279746 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Oh God, no.  I didn't want to hurt his feelings.
+L279745 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Did you tell that to Marco when he did his what-does-it-all-mean thing with you?
+L279744 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ It's all kind of lost in the... in the dense mists of time now... It wasn't that I really liked Marco more.  In fact I thought you were more, shall we say, attractive than him.  It was just that he knew he was good-looking and you didn't, and that made a difference somehow.  You used to act as if I was weird for wanting to spend time with you, and that got kind of beat, if you know what I mean.  Your self-image started to rub off on me and I ended up thinking that I was strange.  And I knew that you were kind and thoughtful... you made me laugh, and I dug the way you got consumed by things you loved... and Marco seemed a bit more, I don't know, glamorous? More sure of himself?  Less hard work, because I felt like I was dragging you around, sort of.  A little sunnier.  Sparkier.  I don't know.  You know what people are like at that age.  They make very superficial judgements.  Do you think that's superficial?  He was a clown, if it's any consolation.
+L279743 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ C'mon, just answer the question. You can say what you like.  What the hell?
+L279742 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ There's been a rash of them, recently. I find it a little unnerving.  In fact Marco called a few months back, and he wanted to see me, and rehash the past as they say, and I wasn't really up for it.  Do all men go through this?
+L279741 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Huh?
+L279740 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Fuck!  I knew it!  You're going through one of those what-does-it- all-mean things.
+L279739 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Why did you break up with me for Marco?
+L279738 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Hey Rob.
+L279737 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey Charlie.
+L279736 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Great.  Gotta go.  See you then.
+L279735 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Uh...yes, at the moment.
+L279734 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Fantastic but I'm a little busy right now.  Listen.  Do you want to come to dinner Saturday?  I'm having some friends over and I need a spare man. Are you a spare man?
+L279733 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.  A billion.  Right... How are you?
+L279732 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Good.  Great.  Yeah... Wow.  Rob Gordon.  Seems like a 100 million years ago now.
+L279731 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, sure...
+L279730 +++$+++ u1315 +++$+++ m88 +++$+++ CHARLIE +++$+++ Rob, hi, so sorry I missed your call. In LA on business.  You know how it gets.
+L279961 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Who's that?
+L279960 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ It's Vince and Justin.
+L279959 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What is this.
+L279842 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ "Abraham, Martin, and John." That's a nice one.
+L279841 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Can I do anything?
+L279822 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You're a horrible person, Barry.  I mean it.
+L279821 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I'm sorry, Rob, that's, it's --
+L279619 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Yeah... Well... I'll see you tomorrow, Rob.
+L279618 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Don't worry about it, Dick.  Barry's an asshole.
+L279422 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah but more than that.  I'm happy because I'm proud of us.  Because although our talents are small and peculiar, we use them to their best advantage.
+L279421 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Well we rang $900 today.
+L279390 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Do it.  Do it.
+L279389 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I will now sell four copies of Cats and Dogs by the Royal Trux.
+L279313 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ -- FUCK OFF!
+L279312 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Rob --!
+L279305 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Marie LaSalle is in the store!  Here, she's here, and now!
+L279304 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Liz, hold on a second --  What?
+L279303 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Rob.
+L279275 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I want a tape.
+L279274 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Let's not.
+L279259 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Yeah.
+L279258 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I always hated this song.
+L279206 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Sure.  'Course.  Rob, look.  Do you want to... talk about it, that kind of thing?
+L279205 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I understand, Dick.
+L279204 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Or rather, bad news and good news, because he likes this person playing tonight.  I mean, he liked Laura too, I didn't mean that.  And he likes you.  It's just that --
+L279203 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I'll start with your news before I tell him mine, obviously.  Mine isn't much, really, just about Marie LaSalle  playing at Lounge Ax tonight.  I like her, you know, she's kind of Sheryl Crowish... but, you know, good.  So I'll tell him before that. Good news and bad news kind of thing.
+L279202 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fine.
+L279201 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I've ah... got some other stuff to tell him anyway, so it's no problem. I'll just tell him about, you know, Laura, when I tell him the other stuff.
+L279200 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ 'Course I will, Rob.  No problem. No problem at all.  I'll tell him next time I see him.
+L279199 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.  I'm sorry... Look Dick, Laura and I broke up.  She's gone.  And if we ever see Barry again maybe you can tell him that.
+L279198 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Are you all right?
+L279162 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Can I help you?
+L279161 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey.  Didn't you steal that one already?
+L279127 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ The new Belle and Sebastian.  Like it?
+L279126 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What's this?
+L279125 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay.
+L279124 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Well, I'll just make it for you.
+L279123 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, I haven't really absorbed that one.
+L279122 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ 'Cause you like their second one, you said, Pop, Girls. etc.  The one with Cheryl Ladd on the cover.  You didn't see the cover though.
+L279121 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, that's okay.  Really.
+L279120 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ I'll tape it for you.
+L279119 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Great.
+L279118 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Yeah, OK.  I found the first Licorice Comfits album at Vintage Vinyl.  The one on Testament of Youth.  Never released here.  Japanese import only.
+L279117 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Good weekend?
+L279116 +++$+++ u1317 +++$+++ m88 +++$+++ DICK +++$+++ Oh, hi.  Hi, Rob.
+L279115 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ 'Morning, Dick.
+L279669 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Nothing to resolve, Ian.  Let's get a drink.
+L279668 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Conflict resolution is my job, Laura.
+L279667 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Mmmm, no.  Not a good idea.
+L279666 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Maybe I should talk to him.
+L279665 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm upset, but I'm fine.
+L279664 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ You look upset.
+L279663 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yeah, I'm fine.  I'm off the phone.
+L279661 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I am fine...  I gotta go.  Goodbye.
+L279660 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Laura?  Are you okay?
+L279726 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Think about it, Rob.
+L279725 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I dunno.
+L279724 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ So shall we leave it at that then?
+L279720 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ We won't leave it, Ian.  Not ever.
+L279719 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Good.  So shall we leave it at that then?
+L279718 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I've already left it, you pathetic rebound fuck!  Now get your patchouli stink out of my store.
+L279717 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Good.  So shall we leave it at that then?
+L279716 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Think about it, Rob.
+L279715 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I dunno.
+L279714 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Good.  So shall we leave it at that then?
+L279713 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.
+L279712 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ We've noticed and we're glad.  But, you know... how are we going to make peace here?  We want to make things easier for you.  What can we do? Obviously I know how special Laura is, and I know things can't be good for you at the moment.  I'd hate it if I lost her.  But I'd like to think that if she decided she didn't want to see me anymore, I'd respect that decision.  Do you see what I'm saying?
+L279711 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, well, I've stopped all that now.
+L279710 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ We are not talking jokey understatement here, Rob.  We're talking actionable harassment.  Ten phone calls a night, hanging around outside my house...
+L279709 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Funnily enough I haven't been too thrilled about it.
+L279708 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Come on, Rob.  My relationship with Laura has obviously disturbed you a great deal.
+L279707 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What needs sorting out?
+L279705 +++$+++ u1318 +++$+++ m88 +++$+++ IAN +++$+++ Hello, Rob.  Remember me?  I'm Ray. Ian.
+L279704 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Can I help you?
+L280133 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ It's gonna be fine.  These people are ready for anything.
+L280132 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm an idiot.  I should have played the record first.  This place is about to get burned down.
+L280129 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well, you've asked.
+L280128 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I dunno.  Didn't think about it, really.  It was the asking that was the important thing.
+L280127 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I mean, maybe you're right.  But were you really expecting me to say yes?
+L280126 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Shut up.  I'm only trying to explain.
+L280125 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I've changed my mind.  That's the most romantic thing I've ever heard. I do.  I will.
+L280124 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ This stuff.  Love and marriage.  I want to think about something else.
+L280123 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ About what?
+L280122 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm just sick of thinking about it all the time.
+L280121 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ So?
+L280120 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fair enough.
+L280119 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ No.  I don't think so.  I'm just curious about how one goes from making tapes for one person to marriage proposals to another in two days. Fair enough?
+L280118 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Are you persuadable?
+L280117 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Very persuasive.
+L280116 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't know.
+L280115 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Don't sulk.  What brought all this on?
+L280114 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Right.  Okay, then.  Shall we go?
+L280113 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ No.  Probably not.
+L280112 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Would you marry me if I was?
+L280111 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well forgive me if I don't think of you as the world's safest bet.
+L280110 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Not in love, exactly, but...
+L280109 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sorry.  But two days ago you were in love with that girl who interviewed you for The Reader, weren't you?
+L280108 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, well thanks a fucking bunch.
+L280107 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I know.
+L280106 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I mean it.
+L280105 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Ha ha ha.  Hoo hoo hoo.
+L280104 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm going to talk to you about whether you want to get married or not.  To me.
+L280103 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What are you going to talk to me about?
+L280102 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Right.
+L280101 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm going to talk to you.
+L280100 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Are you going to talk to me, or shall I get my paper out?
+L280099 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Not really.
+L280098 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Are you worried about tomorrow night?
+L280046 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I know.  I don't get it.
+L280045 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ That's okay.  You seem pissed off all the time, though.
+L280044 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm sorry I've been acting like a jerk.  I do appreciate what you've done for me, and I know you've done it for the best possible reasons, and I do love you, even though I act like I don't.
+L280041 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ We took care of that.
+L280040 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's no joke.  I'm responsible for what happens, you know.  Embarrassment aside, there's a lot of money and effort in this, at least by my standards.  I have to put down a deposit for the room.  I have to pay the pressing plant for the records, sleeve them, sticker them --
+L280039 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ They'll go on early.  Nobody will even be there yet and I told them they can't play for more than a half hour.
+L280022 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yeah.  His band is playing a set.
+L280021 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Barry?  Barry knows about this?
+L280020 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Barry said its done.
+L280019 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That's not the point.  I mean, what if the single isn't done in time?
+L280018 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What do you ever do that can't be cancelled?
+L280017 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You had no right.  Supposing I was doing something that couldn't be cancelled?
+L280016 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I had that idea when I was living with Ian and it was such a good idea that I was annoyed we weren't together anymore.  It might even be why I came back.
+L280015 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ And the "triumphant return of DJ Rob Gordon?" "Triumphant?" "Return?"
+L280014 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Just local, of course.
+L280013 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ WHAT?
+L280012 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yeah, and he said it's a good way to break out a record.  Especially for what he said, and I quote, "would be a highly anticipated event, locally." He helped me put out a press release.
+L280011 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Has Drag City Records, I know, I know.  You told Dan Koretzky about this?
+L280010 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I called Dan Koretzky because he --
+L280009 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I tricked you into meeting some people you'd think were great.  I thought it would be fun to introduce you to someone with a Tina Turner album and then see whether you still felt the same way.
+L280008 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You did that deliberately.  You knew all along I'd like them.  It was a trick.
+L279998 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Ha.
+L279997 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I know.  But you've never met.  It just seems like a stone unturned in your relationship with him.
+L279996 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh.  Well.  We don't really get along. Paul and I.
+L279995 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ At Paul and Miranda's.  Paul from work.
+L279994 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Where?
+L279993 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Wanna go to dinner?
+L279992 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Nothing.
+L279991 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hi.  What are you doing?
+L279990 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi.
+L279958 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No use.
+L279957 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ All I'm saying is, you have to allow for things to happen to people, most of all to yourself.  Otherwise, what's the use?
+L279956 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ How?  What would be the difference between you having a record label and me going from legal aid to private practice?
+L279955 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You're being stupid.
+L279954 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yeah, you're alright.  But you're certainly not happy.  So what happens if you get happy?  And yes I know that's the title of an Elvis Costello album, I use the reference deliberately to catch your attention. Should we split up because I'm used to you being miserable?  What happens if you, I don't know, start you're own record label, and it's a success? Time for a new girlfriend?
+L279953 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm alright.
+L279952 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Less neurotic.  Are you intending to stay the same for the rest of your life?
+L279951 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Harder.
+L279950 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ More confident, maybe.
+L279949 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You're tougher.
+L279948 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I can't go to work with my hair dyed pink.  And I can afford to go shopping more now, and I've met a couple people I like over the last year or so.
+L279947 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ And hairstyles and clothes and attitude and friends and...
+L279946 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You haven't changed so much as a pair of socks in the years I've known you.  If we've grown apart, then I'm the one who's done the growing, and all I've done is change jobs.
+L279945 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But why doesn't it matter that we're not the same people we used to be?
+L279944 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ But what?
+L279943 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, but...
+L279942 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Because I'm not allowed to.  I still do, after work.  So, what?  Should we just break up?  Is that what you're saying?  Because if you are, I'm going to run out of patience.
+L279941 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well, you were the kind of person who came to the Artful Dodger and I was the kind of person who deejayed at the Artful Dodger.  You wore jeans and T-shirts, and so did I.  And I still do, and you don't.
+L279940 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ How?  How were we the same people?
+L279939 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But it wasn't supposed to be like this.  When I met you we were the same people and now we're not, and...
+L279938 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Money does not matter.  I do not care how much you earn.  I'd just like you to be a little happier in your work, but beyond that you can do what you like.
+L279937 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fantastic.  The Girlfriend Lottery.
+L279936 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'll pay for you.  Even though you owe me money.  We have to do something with the money I earn.  I need to. I deserve it.  You can just think of it as winning the lottery.
+L279935 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey, great idea.  What I'll do is, tomorrow I'll get a hold of a box full of mint Elvis Presley 78s on the Sub label, and I'll pay for it that way.
+L279934 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ ... Like Mexico.  Or Jamaica.  Or New York, even.
+L279932 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay.
+L279931 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Look, Rob.  If great sex was as important as you think it is, and if I was having great sex with him, then we wouldn't be lying here now. And that is my last word on the subject, okay?
+L279930 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, great...
+L279929 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ To make you feel better.
+L279928 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well why the fuck would you want to lie, anyway?
+L279927 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well I was gonna lie and now I can't, because you'd know I was lying.
+L279926 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, c'mon, Laura.  Just say something. Lie, if you want.  It'd stop me asking you questions and it'd make me feel better.
+L279925 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay, that's cool, okay.  But the nice time we just had... was it nicer, as nice, or less nice than the nice times you were having a couple of weeks ago?
+L279924 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Look, we're okay now.  We just had a nice time.  Let's leave it at that.
+L279923 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You know the difference.
+L279922 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What's the difference?
+L279921 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Was it like good sex or was it like bad sex?
+L279920 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ It was like sex.  What else could it be like?
+L279919 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What it was like.
+L279918 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Want to know what, exactly?
+L279917 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ C'mon.  I want to know.
+L279915 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay.
+L279914 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Let's go home.  Okay?
+L279913 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I know it's not very romantic, but there will be romance again at some stage, I'm sure.  I just... I need you, Rob.  That's it.  And we know each other and we care for each other, and you've made it clear that you want me back, so...
+L279912 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Mission accomplished.
+L279911 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Ray's a disaster.  I don't know what that was all about, except that sometimes you need someone to lob into the middle of a bad relationship like a hand grenade, I guess, and blow it all apart.
+L279910 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What about Ian?
+L279909 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Everything's too hard.  Maybe another time I would have the guts to be on my own, but not now I don't.
+L279908 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So if you had a bit more energy we'd stay split.  But things being how they are, what with you wiped out, you'd like us to get back together.
+L279907 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm too tired not to go out with you.
+L279906 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Laura...
+L279904 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I lived with you.  You were my partner just a few weeks ago and now you're worried I might kill you, and you're entitled to worry.  Isn't that a terrible thing?  Isn't that sad?
+L279903 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Look, we can do other things.
+L279902 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I didn't mean that.  I mean... was that all you used?
+L279901 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yes, of course.  There's nothing to worry about.
+L279900 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, no.  It's not... are you still on the pill?
+L279899 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Oh, Rob, we're not going to go through that again.
+L279898 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You know, with Ray...
+L279897 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I knew there was a reason I wore a skirt today.
+L279896 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi.
+L279895 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hello.  It doesn't seem so long ago that I looked at you from here.
+L279894 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ It'll have to be sex, then.
+L279893 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I've only got a couple left.  I'm saving them for later.
+L279892 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I want to feel something else than this.  It's either that or I go home and put my hand in the fire.  Unless you want to stub cigarettes out on my arm.
+L279891 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What?
+L279890 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I don't know.  Sometime.  Later. Listen, Rob, would you have sex with me?
+L279889 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ When are you going back?
+L279888 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ C'mon.
+L279887 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What do you want to do?
+L279886 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I don't want to go back.
+L279885 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Sure, I understand.  Look, I don't want to take up any more of your time.  You get back, and I'll wait here for a bus.
+L279884 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I didn't mess things up because I was scared.  I slept with Ray because I was sick of you.  And I needed something to snap me out of it.
+L279883 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What do you mean?
+L279882 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Thank you.  I appreciate it.  I can't reciprocate.
+L279881 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I can see why you say that.  Look, I'm sorry.  I really am.  The last thing I wanted was... that's why I left, because... I lost it, and I didn't want to blow my top in there, and... look, the reason I fucked everything up was because I was scared.  I just wanted you to know, that's all.
+L279880 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You're also an idiot.
+L279879 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Mmnn.
+L279878 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You're soaking.
+L279877 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Uh... No.
+L279876 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Are you going to lie in that flower bed all night?
+L279852 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Sure.  I'll see you on Friday.
+L279851 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Liz'll give you a lift.  She knows where to go and everything... I don't have time to talk, Rob.  I've got too much to do.
+L279850 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yes, of course.
+L279849 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Look, are you coming or not?
+L279848 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I don't care.  As long as you don't expect me to hold your hand.
+L279847 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Do you want me to be there?
+L279846 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ My dad liked you.  And Mom never told him we'd split, because he wasn't up to it and... oh, I don't know.  I don't really understand it.  I think she thinks he'll be able to see what's going on.  It's like...  He's been through so much, what with dying and everything, that she doesn't want to upset him any more than she has to.
+L279845 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Me?
+L279839 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ In a minute.  When I get it together.
+L279838 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, no.  When are you going home?
+L279837 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sorry.
+L279817 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ My dad died.  My dad, my dad.
+L279816 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Who the fuck's Pig?
+L279815 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Pig died.
+L279814 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Don't worry about it.  Just get into bed.  Worry about that when you're better.
+L279813 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Pigsty.
+L279812 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Are you alright?
+L279811 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ God, that's a cold and a half.  Maybe you should bet back in bed.
+L279810 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I can't talk right now.
+L279809 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Guess who I just saw, right by my store?  Ian.  In Starbuck's.  Neat, huh?
+L279808 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey, how ya doin'?
+L279807 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hello.
+L279804 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well, think about it.
+L279803 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I guess I am.
+L279802 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You're being deliberately obtuse.
+L279801 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I got it.  You like Sting but you don't like Gram Parsons, because you've never heard of him.
+L279800 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sorry to go on about it.  But, I don't know, there's a lesson here somewhere, and I want to make sure you get it.
+L279799 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Okay, okay.  I get the picture.
+L279798 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ They're not really, though, are they? I know you bought them for me, and that was really sweet of you, but that was when you were trying to turn me into you.  I can't take them, I know they'd just sit around staring at me, and I'd feel embarrassed by them and... they don't fit in with the rest of what's mine, do you understand?  That Sting record you bought for me... that was a present for me.  I like Sting and you hate him.  But the rest of this stuff...  Who the hell is Nick Lowe?  Or Gram Parsons?  Or the Boredoms?  I don't know these people.  I...
+L279797 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Sure they are.
+L279796 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Those aren't mine.
+L279795 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Don't forget your CDs.
+L279792 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Oh ho, so very infrequently.
+L279791 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You know that I can cook my ass off when I feel like it.
+L279790 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Mmm hmm.
+L279789 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You know I'm a good person.
+L279788 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You make me laugh much more than Ray does, if that's what you're getting at.  But I already knew you could make me laugh.  It's everything else I don't know about.
+L279787 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ This is where you're supposed to say that you haven't laughed this much in ages, and then you see the error of your ways.
+L279786 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I hate him too.  So I just call him "Mavis." Or "Sissyboy." Or "Mavis the Sissyboy."
+L279785 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Ray.  I hate Ian.
+L279784 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm sorry, but can we get this straight?  What is his fucking name, Ian or Ray?  What do you call him?
+L279783 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You know I didn't mind.  And it's not as if Ray's place is any better.
+L279782 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'll bet you can't remember what you were doing here, can you?  I mean, how much are you making now?  Sixty? Seventy?  And you were living in this shitty place.
+L279781 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Fix it up.  It'll make you feel better.
+L279779 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You know what I mean.
+L279778 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That bad, eh?
+L279777 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I don't really want to talk about it, to be honest.
+L279776 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You still together?  Going all right?
+L279775 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sure.
+L279774 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It was kind of funny.
+L279773 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ He's at home.  Listen, I can't believe he went to the store.  I'm mortified, actually.  I'm really sorry.  He had no right to do that, and I told him so.
+L279772 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Those look heavy.  Where's Ian?
+L279771 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yep.  I might have missed some stuff. I'm so used to some things being here that I don't even notice them.
+L279770 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Is that the last of it?
+L279769 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I called and called but you were out.  I thought I'd be gone before you got back.
+L279659 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No... not really... I mean, I think about it... but no, I don't really think about it.
+L279658 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You don't ever think about other people?
+L279657 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't want to.  Don't need to.  I love you.
+L279656 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm not experimenting.  Why don't you go experiment.
+L279655 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Think about what I said.  I mean, if you want to experiment, or whatever --
+L279654 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Jesus.  I do not know.  I'll talk to you later.
+L279653 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Are you still in love with me?
+L279651 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm not -- hold on...
+L279650 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I think the big question here is where are you, if you don't mind my saying so, and I think I know where you are.  You're running.  On the run.  You're running from a point that everyone hits in any relationship, and you're just going to hit it again with Ian but it's going to be with a World Music bunny- rabbit-looking earth-shoe-wearing "Doctor Who"-watching twit who doesn't really understand you, not the way that I do and will more in the future, and you'll have just wasted more time and arrive in the exact same place that you're in now, only later. And with... him.
+L279649 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I figured it was.  Where are you?
+L279648 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's me.
+L279647 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hello.
+L279642 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You do, huh.
+L279641 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Call me at work.  We can arrange to meet properly.  I don't want this to be the last conversation we have.  I know what you're like.
+L279640 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't have your number.
+L279639 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Will you call me?
+L279638 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Look, I gotta go.  I work too, you know.
+L279637 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ We can meet for another drink if you want.  So I can explain it better. I owe you that much.
+L279636 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Nothing.
+L279635 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ And anyway, I keep trying to tell you, that's not really the point, is it?  The point is we got ourselves into an awful mess, Rob...  Are you there?  What are you thinking?
+L279634 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You must have known it would happen. You couldn't have been entirely unprepared.  Like you said, I've been living with the guy.  We were bound to get around to it sometime.
+L279633 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You kind of have to start with Elvis Costello, but where? "Motel Matches?" "I Want You?" "I Hope You're Happy Now?" "Green Shirt?" His records should be sealed in cases that say "in case of vicious betrayal, smash glass." "Where Did You Sleep Last Night," sure, but by Robert Johnson or by Nirvana?  Maybe a Liz Phair track.  There are a couple to get angry at instead of being angry with. Some devil's advocate stuff.  The Silver Jews could be good when you're ready to start putting it all behind you...  But I think we're getting ahead of ourselves there.  Ah.  Dylan. Bob fucking Dylan.  Now Bob Dylan would --The phone rings.  He pulls off his headphones and picks it up but says nothing.
+L279630 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I want you to say that you haven't, and I want it to be the truth.
+L279629 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Oh, Rob.  What do you want me to say?
+L279628 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I guess.
+L279627 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Is that why you wanted to see me?
+L279626 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, not -- I mean have you, you know --
+L279625 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I told you I slept with him.
+L279624 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Have you slept with him yet?
+L279623 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ So, how are you?
+L279577 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Great... That's great.
+L279576 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ We'll talk some other time.
+L279575 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fine, I'm sure it's in the file at home.  I'll call you when I find it, and then we'll talk.
+L279574 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sorry to call, but I need that stuff...
+L279573 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'll look for 'em.  How you doing?
+L279572 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hi.  I've been looking for an envelope of my receipts from last month and I'm thinking I didn't take them with me.  Have you seen them around?
+L279571 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi.
+L279513 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Will you please just go?
+L279512 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ The sleeping together is better but not the sex because you haven't done it was him yet.
+L279511 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ No.  I was living with you, remember? We've slept together but we haven't made love.  Not yet.  But I'll tell you one thing.  The sleeping together is better.
+L279510 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But not even before, when he was living upstairs?
+L279509 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I haven't felt like it.
+L279508 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Never?
+L279507 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well the answer is that I don't know either.  We haven't done it yet.
+L279506 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't know.
+L279505 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You really think it would make a difference either way?
+L279504 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Of course it is.
+L279503 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Jesus Christ, Rob.  Is that really what's bothering you?
+L279502 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well.  Sex, I guess.  Is sex with him better?
+L279501 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Is what better?  Better than what?
+L279500 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Is it better?
+L279499 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Just ask it!
+L279498 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You won't like it.
+L279497 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Nevermind.
+L279496 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It sounds stupid.
+L279495 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Fine.  One.
+L279494 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No problem.  If I can ask one question.
+L279493 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm too tired for this now.  I know I'm asking a lot, but will you take off for a while so I can get my stuff packed up?  I need to be able to think while I do it and I can't think while you're here.
+L279492 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.  Great.
+L279491 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Okay, okay, we have a nine percent chance of getting back together. Does that clarify the situation?
+L279490 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well if you could tell me roughly it would help.
+L279489 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ -- I don't fucking know what chance you fucking have!
+L279488 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey, I just want to know where I stand.  What chance --
+L279487 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Oh, Rob, shut up.
+L279486 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So we have a chance of getting back together again.
+L279485 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I suppose so.
+L279484 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well, if you don't know, there's a chance, right?  It's like, if someone was in the hospital and he was seriously ill and the doctor said, I don't know if he's got a chance of survival or not, then that doesn't mean the patient's definitely going to die, now does it?  It means he might live.  Even if it's only a remote possibility.
+L279483 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I don't know.
+L279482 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So, what, you haven't definitely decide to dump me?  There's still a chance we'll get back together?
+L279481 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Look.  Maybe you'll grow up and we'll get it together, you and me.  Maybe I'll never see either of you again. I don't know.  All I know is that it's not a good time to be living here.
+L279479 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well then why don't you quit it while you seem to not be ahead?
+L279478 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I am not living with him.  I've just been staying with him for a few days until I work out what I'm doing. Look, this has nothing to do with anyone else.  You know that, don't you?  I left because we weren't exactly getting along, and we weren't talking about it.  And I suddenly realized that I like my job, and I like what my life is could be turning into, and that I'm getting to a point where I want to get my shit together and I can't really see that ever happening with you, and yeah, yeah, I sort of get interested in someone else, and that went further than it should have, so it seemed like a good time to go.  But I have no idea what will happen with Ian in the long run.  Probably nothing.
+L279477 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Why is that childish?  Your living with the guy!  I'm just asking how it's going.
+L279476 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Rob.  Don't be childish.
+L279475 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No.  So.  Is it working out with Ian?
+L279474 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Did you say something?
+L279473 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What, what?
+L279472 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What?
+L279470 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No.
+L279469 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I guess it's not that obvious, then.
+L279468 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't know.
+L279467 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What's the obvious stuff?
+L279466 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Just the obvious stuff.
+L279465 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What were the others?
+L279464 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I don't know.  It's one of the things I thought of.
+L279463 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ What?  Gimme a fucking break.  Is that what you think?  That your not big enough a deal for me?  Jesus, gimme a little credit, Rob.
+L279462 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Good.  So.  Is it my job?
+L279461 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I'm sorry.  I haven't been very fair to you.  That's why I came here to the store this evening.  I feel terrible, Rob.  This is really hard, you know.
+L279460 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Had to work it out for myself, though, didn't I?
+L279459 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I think you know that.
+L279458 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So.  Where have you been staying for the last week?
+L279456 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Don't you think there are more important things to talk about than my record collection?
+L279455 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Have you tackled the Great Reorganization yet?
+L279451 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Not really.
+L279450 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ And do you like it that way?
+L279449 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yes.  Look at me.  Look at our -- the apartment.  What else do I have, other than records and CDs?
+L279448 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ You really believe that?
+L279447 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But Laura... that's me.  That's all there is to me.  There isn't anything else.  If you've lost interest in that, you've lost interest in everything.
+L279446 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yeah, sure.  More so then than I am now.  That's life though, isn't it?
+L279445 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So you weren't interested in music at all?
+L279444 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Well, I liked you.  You were a deejay, and I thought you were hot, and I didn't have a boyfriend, and I wanted one.
+L279443 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You used to care more about things like Marvin Gaye than you do now. When I first met you, and I made you that tape, you loved it.  You said -- and I quote -- "It was so good it made you ashamed of your record collection."
+L279441 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I remember the song.  I just couldn't remember who sang it.
+L279440 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But don't you remember?
+L279439 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Is that right?  I'd like a word with him.
+L279438 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hey!  Marvin Gaye! "Got to Give It Up!" That's our song!  Marvin Gaye is responsible for our entire relationship!
+L279437 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ -- and who says I like Marvin Gaye, anyway?
+L279436 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ -- Alright, alright but --
+L279435 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ -- whatever, and the Israelis and the Palestinians don't.  Art Garfunkel and Marvin Gaye are not engaged in a bitter territorial dispute, and the Israelis and the Palestinians are. Art Garfunkel and Marvin Gaye --
+L279434 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ -- Made.  Made.  Marvin Gaye is dead, his father shot him in --
+L279433 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ It's not like saying that at all, actually, Rob.  Art Garfunkel and Marvin Gaye make pop records --
+L279432 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ How can you like Art Garfunkel and Marvin Gaye?  It's like saying you support the Israelis and the Palestinians.
+L279429 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ My house?
+L279428 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Yes.  Well, I'm coming over to your house to get some things.
+L279427 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Are you coming home?
+L279426 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I thought I could give you a lift back.
+L279425 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi.
+L279424 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ Hi.
+L279423 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Shit!
+L279324 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ I should be so lucky.
+L279323 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Jeez.  He goes on long enough.
+L279096 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well stay for tonight, then.
+L279095 +++$+++ u1319 +++$+++ m88 +++$+++ LAURA +++$+++ We've done the hard part now.  I might as well, you know...
+L279094 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You don't have to go this second. You can stay until whenever.
+L279874 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ If by "we" you are referring to men, then I have to say that just the once would do.
+L279873 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Only because it's never the time.  I can't go on apologizing my whole life, you know?
+L279872 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ Maybe I've been a little unfair. But is this really the time?
+L279871 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I know I can't speak now because Laura's father died, and I just have to take it because otherwise I'm a bad guy, with the emphasis on guy, self-centered.  Well, I'm fucking not, not all the time, anyway, I'm really sorry Jo.  But you know, Liz... I can either stick up for myself or believe everything you say about me and end up hating myself.  And maybe you think I should, but it's not much of a life, you know?
+L279870 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ Enough of what?
+L279869 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Enough, Liz.
+L279860 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Isn't that how it is for everybody?
+L279859 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ No.  They don't know him.  And Ken liked you.  Rob, Ken didn't die for your benefit, you know.  It's like everybody's a supporting actor in the film of your life story.
+L279858 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Is Ray going?
+L279857 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ What difference does it make?
+L279856 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You're kidding.  A crematorium? Jesus.
+L279855 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ It's a crematorium.
+L279854 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So the minister says nice things, and then, what, we all troop outside and they bury him?
+L279369 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well she --
+L279368 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ Rob!  Two years ago you got Laura pregnant; you then proceeded to cheat on her!  You borrowed money from her and never paid a dime back!  And then, just a few weeks ago, you told her you were unhappy with her and were "kind of looking around for somebody else!"
+L279367 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's true!
+L279366 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ To think I sympathized with you for two seconds!  Poor Rob!  Laura left him out of nowhere for the schmuck upstairs.  You let me believe that!
+L279365 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ -- No, no, no, don't even.  I talked to Laura, Rob.  I talked to her and she gave me a little background. And you're a fucking ASSHOLE.
+L279364 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What's the -- hey, Liz --
+L279302 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ Yeah.  Like I said, I don't want to take sides.  And I like Laura with you.  She's more fun, more open. You guys are good together.  I just wish you two could, I don't know.  I don't think much of this Ian guy --
+L279301 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Actually, I'm fine.  I'm great. Last night I got to thinking, "you know what?  Maybe it is time to move on.  Maybe we're just not right for each other.  Or maybe we are.  But time will tell and at this point I'm going to be fine with whatever's meant to be." You know?
+L279300 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ How're you holding up?
+L279299 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.  I just wanted to thank you for that message last night.  It made me feel like... like less of an asshole.
+L279298 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ You called this morning?
+L279297 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What's happenin'.
+L279296 +++$+++ u1320 +++$+++ m88 +++$+++ LIZ +++$+++ Hey.  It's Liz.
+L279295 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Rob here.
+L279563 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Right.
+L279562 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'll call you.
+L279561 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ And so it is.  I'll talk to you later.
+L279560 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That way.
+L279559 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ That way.  You?
+L279558 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Which way are you going?
+L279555 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ God, you ask a lot of questions.
+L279554 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Would you like me to turn the lights out?  Or would you like them on?
+L279552 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Good.
+L279551 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah.
+L279550 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ So you'll stay?
+L279549 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I use it but I don't understand it when other people use it.
+L279548 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Jesus, so much for delicacy.  I pegged you for a master of understatement, beating around the bush and all that buzz.
+L279547 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, right.  Alright.
+L279546 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ I'd like it if you could stay the night.
+L279545 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ When I said before that I hoped it wasn't the end of the evening, I was, you know... talking about breakfast and stuff.
+L279544 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'd better go.  I gotta get up early. Go over to my parents'.
+L279543 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Tops off two whiskeys and starts into the other room where she sees Rob, standing and holding his jacket.
+L279542 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Whiskey.
+L279541 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Good.  In that case, I'll fix us something else to drink.  You sticking to the whiskey or you want coffee?
+L279540 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm sure it isn't.
+L279539 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ For now.  But I wouldn't be if I thought this was the end of the evening.
+L279538 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yes.  You?
+L279537 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Are you okay?
+L279535 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Nor have you!
+L279534 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ You haven't even seen it!
+L279533 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Exactly!  Fucking ex-actly!
+L279532 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ The Conformist.
+L279531 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah, but you know what's his best film and nobody's even seen it?
+L279530 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Books, records, films -- these things matter.  Call me shallow but it's the damn truth, and by this measure I was having one of the best dates of my life.
+L279529 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Yeah, I know the Crumblers!  I bought a used Blasters album in New York about ten years ago and somebody left a Crumblers single in it.  My everything changed for a couple of weeks.
+L279528 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ What do you mean, the Crumblers? You know the Crumblers?  Nobody's heard the Crumblers.  Except me.
+L279527 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Yeah, but if you heard this band called the Crumblers, you'd --
+L279526 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Awhile back, Dick and Barry and I agreed that what really matters is what you like, not what you are like...
+L279525 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I understand completely.
+L279524 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ No way!  I'd cramp his style.  And I wouldn't want to listen to all that stuff happening on the other side of the bedroom wall.  I'm way to unattached for that.
+L279523 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ You share a place with T-Bone?
+L279522 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Yup.
+L279521 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Is that why you came to Chicago in the first place?  Because of, you know, dividing up your record collection and stuff?
+L279520 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Thank you.
+L279519 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's a great song.
+L279518 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ God, I hate that time.  That pick up stuff time.  I just went through that before I came here.  You know that song "Patsy Cline Times Two" I play?  That's about me and my ex dividing up our record collections.
+L279517 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ She just wanted to pick up some stuff. No big thing.  A relief, actually.
+L279516 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Everything go alright?
+L279515 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi, Marie.
+L279310 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ No, no, I love, it's just, thinking you're, you must be so sick of it... Well.
+L279309 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Don't you like that?
+L279281 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Yup.  Not far from here, actually.
+L279280 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So you live in Chicago now?
+L279279 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Good.
+L279278 +++$+++ u1321 +++$+++ m88 +++$+++ MARIE +++$+++ Good.  'Cause I'm enjoying myself.
+L279253 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ Well I don't know what happens now, apart from you meet someone, you move in, she goes.  You meet someone, you move in, she goes.
+L279252 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Mom!  For the last fucking time, I'm telling you Laura didn't want to get married!  She is not that kind of girl!  To use a phrase.  That's not what happens now.
+L279251 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ So you say.  I'd like to hear her side of it.
+L279250 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's got nothing to do with marriage, if that's what you're getting at.
+L279249 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ What did Laura say?  Do you know why she left?
+L279248 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Then what are you getting so upset about?
+L279247 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ I knew this was going to happen.
+L279246 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Meet a nice girl and have children. I promise the next time we talk I'll have it all sorted out.
+L279245 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ And after that?
+L279244 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm going to drink this bottle of wine watch TV and go to bed.  Then tomorrow I'll get up and go to work.
+L279243 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ I knew this would happen.  What are you going to do Rob?
+L279242 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Well it fucking should be, shouldn't it?
+L279241 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ You know that's not what's upsetting me.
+L279240 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm all right, if that's what's upsetting you.
+L279239 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hello?  Anybody there?
+L279237 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ She just called.  She doesn't even know.  It's probably the last time I'll ever hear her voice.  That's weird, isn't it?  You spend Christmas at somebody's house, you know, and you worry about their operations and you see them in their bathrobe, and... I dunno...
+L279236 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ Well call her mother.
+L279235 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ How would I know?  Gone.  Girlfriend. Leave.  Not say where gone.  Laura move out.
+L279234 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ What do you mean?  Where did she go?
+L279233 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ She left.  She's gone.
+L279232 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ Your lucky Laura's doing so well. If it wasn't for her, I don't think either of us would ever sleep...
+L279231 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ So so.  Up and down.
+L279230 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ How's the store?
+L279229 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Great.  Super-fantastic.
+L279228 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ Everything all right?
+L279227 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Hi, Mom.
+L279226 +++$+++ u1322 +++$+++ m88 +++$+++ MOM +++$+++ Hi, Rob.  It's your mother.
+L279225 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Yeah?
+L279361 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Okay.  Because you took the trouble to come up here.  And because you've got principles.  But that's it.  I'm not selling them to you one by one.
+L279360 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh, come on!  Let me give you ten dollars for this, and you can give the rest away for all I care.
+L279359 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Sure.  Ten cents.
+L279358 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Can I buy this Otis Redding single off you?
+L279357 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Fine.
+L279356 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I'm sorry but I think you better talk to someone else.
+L279355 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ With eleven hundred he could come home, and that's the last thing I want.
+L279354 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ And I won't take a penny over ninety.
+L279353 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Eleven-hundred.  That's my lowest offer.
+L279352 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Seventy-five.
+L279351 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Thirteen hundred.
+L279350 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Sixty.
+L279349 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ That's why I'm trying to compromise. What about fifteen-hundred?  They're worth five times that.
+L279348 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Suit yourself.  There are plenty of others who will.
+L279347 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Look... I... I'm sorry.  I don't want to be any part of this.
+L279346 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ That wasn't part of the deal.  I want to be poisonous but fair.
+L279345 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Look.  Can I pay you properly?  You don't have to tell him what you got. Send him forty-five bucks and blow the rest.  Give it to charity.  Or something.
+L279344 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Years.  This collection is as close as he's ever come to an achievement.
+L279343 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It must have taken him a long time to get them together.
+L279342 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ He's in Jamaica with a twenty-three- year-old.  A friend of my daughter's. He had the fucking nerve to call me and ask me to borrow some money and I told him to fuck off, so he asked me to sell his singles collection and send him a check for whatever I go, minus a ten percent commission. Which reminds me.  Can you make sure you give me a five?  I want to frame it and put it on the wall.
+L279341 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ And you must not be getting along too well right now, huh?
+L279340 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ I must have nothing.  Their my husband's.
+L279339 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ But you must have --
+L279338 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ I know what they're worth.  Give me fifty and get them out.
+L279337 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ These are worth at least, I don't know --
+L279336 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ Give me fifty bucks and they're all yours.
+L279335 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's the best collection I've ever seen.
+L279334 +++$+++ u1325 +++$+++ m88 +++$+++ WOMAN +++$+++ What do you think?
+L279977 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ What's the name of your label?
+L279976 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Nice.
+L279975 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ We saw this ad in the personals for two swingers lookin' for a Renaissance fair.
+L279971 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Whatever.
+L279970 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ I'm Vince.
+L279969 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ We're not there yet, Justin.
+L279968 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ Wait a minute.  Island Records charged U2 a million five against their overhead for one plane ride.
+L279967 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ It's rough.  But it shows promise. We record a couple of songs right, in a studio.  I'll take care of the rest.  I'll put out your record. Any profits after recouping expenses get split down the middle, between us and you guys.
+L279414 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Fuck off.
+L279413 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ Records are those big round black things, right?
+L279412 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Uh, yes I, like, do... It's simple. You make the tracks -- recording studio -- deliver them to the pressing plant where a master is cut, the master is then dubbed to submasters, which are the "mothers," as their called, for each press in the plant. You press the CD's or records, put in your cover art, and that's it.
+L279409 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ No, we...
+L279408 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Jesus.  That thing's been in the bargain bin for six months!  Was it just your criminal nature or what? Hell, I would've given it to you for free.
+L279407 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I can't frisk you but the cops can.
+L279406 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ Well we don't.
+L279405 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ I think you have more.
+L279402 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Oh really.  You two are slamming to Nico now?
+L279401 +++$+++ u1324 +++$+++ m88 +++$+++ VINCE +++$+++ Naw.  Those are for us.
+L279400 +++$+++ u1323 +++$+++ m88 +++$+++ ROB +++$+++ Eno import.  Sigue Sigue Sputnik. Break beats.  Serge Gainsbourg. Ryuchi Sakamoto, Syd Barrett... What's going on here?  Are you guys stealing for other people now?

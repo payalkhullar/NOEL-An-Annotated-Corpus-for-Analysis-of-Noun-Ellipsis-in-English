@@ -1,0 +1,554 @@
+L294971 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ It's going famously, son, famously!
+L294970 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ Tell him, Harold.
+L294497 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ Son, your mother and I are doing a production of The Gin Game at the local community theater. We forgot to take off our make-up.
+L294496 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ Tell him, Harold.
+L294445 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ And think about what you've done.
+L294444 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ And?
+L294443 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ No "buts." Go to your room now.
+L294442 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ Harold! Tell the boy again.
+L294437 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ That is the wrong fork, young man.
+L294436 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ That is the wrong fork, young man.  Harold, tell the boy.
+L294331 +++$+++ u1402 +++$+++ m93 +++$+++ FATHER +++$+++ Uh...  We must never act like apes, son. For you see, The ape is our closest biological relative -- specifically the pygmy chimp.  A single chromosome separates us. But you know what truly separates us from the apes, what makes us better than apes?
+L294330 +++$+++ u1406 +++$+++ m93 +++$+++ MOTHER +++$+++ And furthermore... Tell him, Harold.
+L294347 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ You're fucked up, Lila.  Why don't you fucking try electrolysis or something? Figure it out for chrissake.
+L294346 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Why, because I'm a freak and you are beautiful, and you are being nice enough to come down to my freak, nonbeautiful level and act concerned about my repulsive troubles?
+L294345 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ Look, if you're going to be like that... You should be appreciative that I'm interested.
+L294344 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ How is that helping, Natalie? How exactly?
+L294343 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ Well, don't jump down my throat. I'm just trying to help.
+L294342 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yeah, Natalie. It's hair. It grows.
+L294341 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ It's not so bad.  So, it just keeps growing?
+L294340 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It's embarrassing, okay?
+L294339 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ I don't know why you didn't tell me about this.
+L294337 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Nothing! I'll be out in a minute!
+L294336 +++$+++ u1403 +++$+++ m93 +++$+++ FEMALE ROOMMATE +++$+++ Lila, what are you doing in there? I need to get ready for my date.
+L295058 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Oui.
+L295057 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ French?
+L295056 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Let's go eat, I'm starved.
+L295055 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hush. No, it is never terrible to be in love. Nathan's memory lives on in our sacred union.  I'm not sorry she killed him either. Nathan was wonderful. He was erudite and sophisticated and charming. You are all that, too. But you have something more. You have a bit of the animal in you.
+L295054 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ As much as I loved Nathan, I'm not sorry she killed him, if it means I can have you. Is that a terrible thing to say, my sweet?
+L295052 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Woof.
+L295051 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You remind me so much of Nathan plus so much of my little mongrel doggie.
+L295050 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Like father, like son.
+L295049 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You remind me so much of Nathan.
+L295048 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Gabrielle.
+L295047 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Say my name.
+L295046 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Great.  God, I've wanted you forever.
+L295045 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui. Nathan's silk suit, just like you asked.
+L295044 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Hey, ma. Did you bring any clothes? I'm freezing my ass off.
+L295043 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hello, my little boy.
+L294990 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Okay.
+L294989 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No.
+L294988 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Please let me go with you.
+L294987 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ A little resistance would be nice, damn it.
+L294986 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Okay, my sweet. Good night.
+L294985 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm going alone. This could be dangerous.
+L294984 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You better believe they're dirty! And smelly! And messy! And they don't know their forks from their assholes!
+L294983 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ That is horrible. Apes are dirty. No?
+L294982 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I have some thoughts. I think that hairy bitch is somewhere trying to turn him back into an ape.
+L294981 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Where do we look for little lost Puff?
+L294980 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I know. And that's great. But it would be great in a better way, not a better way but a different way, if I could find him and bring him back.
+L294979 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ We still have you and I.
+L294978 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That bitch. I worked so hard. We worked so hard, you and I. He would've made us famous.
+L294977 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui.
+L294976 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I want our boy back.
+L294975 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I don't know.
+L294974 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Yes, please, somebody ask him what is wrong.
+L294967 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I don't know. Something's missing.
+L294966 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ A penny for your thoughts, mon cheri.
+L294927 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ That's Lila?
+L294926 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Lila?
+L294910 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Terrific. We're all going to be rich and famous.
+L294909 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ So we've got seventeen new bookings for speaking engagements, my wonderful men.
+L294902 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Don't be silly!  And you were wonderful, too! I loved the way you said " au revoir."
+L294901 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Was I? I wasn't a tad stiff?
+L294900 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You were wonderful!
+L294858 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You hurt me, you know, when you made Nathan's Choice. Does that not even matter to you, you pig?
+L294857 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Just give me some time to let Lila down easily. She's a really nice girl and I don't want to hurt her more than is necessary.
+L294856 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hunh.
+L294855 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Of course not, that Swedish thief! He's a thief of hearts!  I love you, Gabrielle.
+L294854 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ That's not how he tells it.
+L294853 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That goddamn Neanderthal? I'm the one who gave him the idea for the combination bug spray-sun screen! Did you know that?!
+L294852 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I've been seeing Johannsen in chemistry.
+L294851 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No!
+L294850 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I've moved on.
+L294849 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm... I'm going to leave Lila. I can't stop thinking about you.
+L294848 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Anyway. Come already to the point.
+L294847 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No. You look so beautiful.
+L294846 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Please. I look a mess.
+L294845 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ God, you're beautiful.
+L294844 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Well?
+L294841 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Well, look, I'm sorry to have bothered you.
+L294840 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You heard me! You make me sick when you pretend to not understand what I am saying to you! Go away from here!
+L294839 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What?
+L294838 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You think too much. I need a man who doesn't think so much but acts more than he thinks... is what I need!
+L294837 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Well, I think...
+L294836 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ What for?
+L294835 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Well, I think it would be easier if I could talk to you in person.
+L294834 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Like what?
+L294833 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I've got some things to tell you.
+L294832 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Why? You've made your decision, Mister Stinky American! Now I hate you! No, I don't hate you; I don't even think about you!
+L294831 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Please. Just one minute of your time.
+L294830 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ We have nothing to say! You are a rotten bastard, that's what!
+L294829 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I just want to talk.
+L294828 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Call you back.  You bastard! What do you want?
+L294827 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Hi. It's Nathan.
+L294826 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Yeah? What?
+L294762 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Take me, darling! Tame your little monkey of love!
+L294761 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Urgh.
+L294760 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ The way you are taming him, it sends chills down my girlish spine and... everywhere else, too.
+L294759 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Unnhh.
+L294758 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You were wonderful today, darling. Such authority with the ape-man boy. It made me so hot for you.
+L294730 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ But I don't know how to leave Lila.
+L294729 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ But?... But? There is a "but," Nathan.
+L294728 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I love you so much, Gabrielle.
+L294727 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ No! It is now that you must decide.  I love you, Doctor Nathan...  ...but I will not wait. I will not be your chippy. I will not be your little Mademoiselle Parlez-vous side dish.  My love. I want to have a sweet tiny baby inside my belly... from you.
+L294726 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Gabby, you know I'm trying to sort things out.
+L294725 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You have to choose Nathan. It's like Sophie's choice. Only it is Nathan's choice. Did you ever see that movie, Sophie's Choice? It is like that. Only it is this.
+L294724 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What is it?
+L294723 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Stop. Get away.
+L294722 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ My little French.
+L294721 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Very well.
+L294720 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Not in front of the boy.
+L294719 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Fine.
+L294718 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hmmph. Hmmph.  Nathan, we have to talk, you and I.
+L294717 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Gabby, what is it?
+L294716 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hmmmph.
+L294715 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Isn't Puff doing spectacularly, honey?
+L294686 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Funny. I thought that's exactly what you did. You just don't have the courage to admit it to yourself.
+L294685 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You don't abandon somebody because they have a physical problem.
+L294684 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I don't know, Nathan. What are you supposed to do?
+L294683 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yeah. Okay. Be home around seven. Bye.  What? I'm sorry. What was I supposed to do?
+L294676 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Shit.  Hi, honey.
+L294675 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Dr. Bronfman's line. Yes. One moment please.  Lila.
+L294670 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Nothing, my darling. All is right with the world.
+L294669 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ What is wrong, my darling?
+L294662 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Shh.
+L294661 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ So soft. So smooth.  I'm sorry. It's just...
+L294659 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You are sweet.
+L294658 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It's true. I wouldn't lie.
+L294657 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Thank you so much. Merci. It's very wonderful to hear a man say such a nice compliment.
+L294656 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Really? No. Not at all. You're a very pretty girl. You should know that. You should be confident.
+L294655 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Really? I always think myself so ugly. No, not ugly, but plain. A wallflower.
+L294654 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I shouldn't say this, but you're pretty, Gabrielle. It's unprofessional, I know.
+L294653 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I am sleepy.
+L294652 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm fine. Life is funny, that's all.
+L294651 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Yet you look so sad. A great man like you should not be sad.
+L294650 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yes. Happy happy.
+L294649 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ It's nice, yes. I'm glad I ran into you, both in our silly pajamas. It is two happy coincidences, no?
+L294648 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Maybe we should just sit for a while. It's very peaceful.
+L294647 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Shall we close up, then?
+L294645 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That would be good.
+L294644 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui.
+L294643 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ When you were a little French girl?
+L294642 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I should turn them off.  Maybe I sing him a lullaby my mama sang to me when I was a little girl.
+L294641 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Our...? Oh!  He seems fine. I guess we woke him. The lights and all.
+L294640 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Coincidence, yes?  And how is our son?
+L294639 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm in my p.j.'s, too. Funny, huh?
+L294638 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I was in my p.j.'s when I remembered I left some papers I need to go over.  See? I rushed right out of the house. I must look a mess. I'm so embarrassed.
+L294637 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Oui.  Now you've got me talking French.
+L294636 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Is everything fine?
+L294635 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No. I just got distracted. I'm so sorry.
+L294634 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui. Perhaps I called at a bad time. I am sorry.
+L294633 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Gabrielle. No, I'm sorry if I startled you. I came to think.  God, Did I hang up on you?
+L294632 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oh, Doctor. I did not know. I'm sorry to disturb you. I just came for some papers I left.
+L294607 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I like it when you say my name. Is that stupid?
+L294606 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Listen, you're the best assistant I've ever had... Gabrielle.
+L294603 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ You're so sweet. Oh, why are there not more men out there like you?
+L294602 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Of course not.
+L294601 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I have had such a difficult time in my personal life and you seem to be such a nice man... but I'm talking too much again, no?
+L294600 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Not at all.
+L294599 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Thank you so much for accompanying me.
+L294598 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ I am a foolish little thing. I am pink in my face, no? It is only that I have been so lonely lately and... I am ashamed. I'll see you tomorrow, okay? Unless... Am I fired now?
+L294597 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No. Don't be silly. It's just...
+L294596 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Now I am truly embarrassed. Forgive me. I should not have asked such a stupid question. I know you are a very important man and...
+L294595 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Well, I don't know. I'm actually on my way to...
+L294594 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Merci. I... Do you... would you like to go get a cup of coffee, perhaps?
+L294593 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No. Don't be. I really enjoy hearing that. You're a terrific assistant.
+L294592 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Hi. I just wanted to tell you that I very much enjoy working with you.  Now I'm embarrassed that I say this.
+L294591 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Oh, Hi, Gabrielle.
+L294588 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Good morning, Puff Bronfman. I'm Dr. Bronfman and this is my assistant Gabrielle. We're your mommy and daddy while you are here.
+L294587 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui. Perfect!
+L294586 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Puff it is then. Puff Bronfman. Is that okay?
+L294585 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Really? My day? Well, I had a sweet little mongrel puppie named Puff when I was a girl. This one reminds me of my dog, all shaggy! So cute!  I loved my doggie very much, monsieur.
+L294584 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You decide. Today is your day.
+L294583 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui.
+L294582 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Good morning...  We need a name for him, don't we?
+L294581 +++$+++ u1404 +++$+++ m93 +++$+++ GABRIELLE +++$+++ Oui, doctor, oui.
+L294580 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Only three shocks. A chimp takes fifteen. This is going to be tres simple, no, Gabrielle?
+L295029 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Okay. If you think it will help.
+L295028 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ But first I'll live among them, just long enough to testify before congress about the waywardness of humankind.
+L295027 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ That's what I'm counting on.
+L295026 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Then I'll live for both of us, Lila. I'll be the most free, truest animal in the whole forest. For both of us.
+L295025 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No. Go back to the woods. This is a sacrifice I need to make. In my world we have something called penance. It's another abstraction, but I had the concept drummed into my head during my years in the convent. It doesn't exist for you, and it shouldn't. See, I could never be free again anyway, so I might as well be in jail.
+L295024 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I won't let you do that. I shot the bastard. And I'm glad.
+L295023 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Puff, what happened to you is as much my fault as Nathan's. Maybe more so, because I knew it was wrong and I went along with it anyway. I'm taking responsibility for the murder. I want you to go back to your old life.
+L295022 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Forget him, Lila. We'll disappear. We'll never talk about it again. We'll never talk again period. I love you.
+L295021 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No. This is the end of the road. There's a dead human being here. For all of his faults, he was a human being, and certainly a victim of his culture as much as anybody.
+L295020 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ We bury the body. We disappear into the woods. Nobody knows.
+L295019 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ He's dead.
+L294963 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ What an enchanting picture you paint of our future together.
+L294962 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You'll thank me eventually, Puff. Well, you won't thank me, because we won't be speaking, but you'll sort of thank me with a special look, the look a dog gives you to let you know he loves you.
+L294959 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Talking is to be kept to a minimum. Eventually, when we are ready, there will be none. Language was invented so that people could lie to each other and to themselves. There is no other reason.
+L294958 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Nice night.
+L294957 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Good. I'll show you how, apey.
+L294956 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I want to be the way I was before.
+L294955 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You what?
+L294954 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ But I like being human now.
+L294953 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ We're going back to nature, you and I. I'm going to retrain you. I'm going to make you free again if I have to kill you doing it.
+L294801 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Very well.
+L294800 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Very well.
+L294782 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It's an animal urge, Puff. It's nothing to be ashamed of.
+L294781 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ It shan't happen again. I swear it. I'm just getting my sea legs, you know.
+L294773 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Shan't happen again.
+L294772 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It's okay, Puff.
+L294771 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ My apologies, madam.
+L294946 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ No you won't. But it's okay. You have stuff you gotta do.
+L294945 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'll be in touch.
+L294942 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm really glad you two found each other.
+L294941 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ I like you so much, with or without hair.  But don't spread that around. Bad for business.
+L294940 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Shut up, you.
+L294939 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ And I'm going to miss the lifestyle having you as a client has afforded me.
+L294938 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, Rosie.
+L294937 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ I'm going to miss you.
+L294936 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ With pleasure.
+L294935 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Uh, tie them up, Rosie. If you will.
+L294908 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Ready!
+L294907 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Done!
+L294892 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Let's get you out of here. Come stay with me until you get your strength back.  Free electrolysis, if you want it! We'll get that face of yours cleared up in no time.
+L294891 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, Rosie.
+L294890 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ I don't know, honey. I don't know. Maybe he just didn't want to get involved.
+L294889 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Why didn't your brother tell you that Nathan was having an affair?
+L294888 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Yeah, although I'm not going to turn him in. I like hearing the dirt.
+L294887 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Your brother should have his license revoked.
+L294886 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Nathan told my brother.
+L294885 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ How'd you know where I was?
+L294884 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Lila, I want to help you.
+L294883 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Rose, please go away.
+L294882 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Please, honey, let me in.
+L294881 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Go the fuck away, Rosie.
+L294880 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Lila, it's Rosie.
+L294879 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No maid service! For God's sake, can't you read the fucking "do not disturb" sign on the fucking doorknob?
+L294489 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Stand on a stepladder sometimes.
+L294488 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ And I think I'm going to.
+L294487 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Yeah. My brother told me.
+L294486 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Rose, Nathan's no midget, but he's asked me to move in with him.
+L294485 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Be still my crotch.
+L294484 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Three foot one.
+L294483 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Oh?
+L294482 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I have a friend you might like to meet.
+L294481 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Let me tell you, honey, midgets are the best kept secret in male companionship. They're portable. They're controllable. They're eager. And they're exactly the right height for a little covert oral fun on the dance floor.
+L294480 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I didn't know you were into that sort of thing.
+L294479 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Well he wasn't really a midget. He was on the cusp of midgethood. That's what made it cheap. Had he been an actual midget, there would've been nothing cheap about it, my dear.
+L294478 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Marrying a midget was a cheap thrill?
+L294477 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ No. I married a midget.
+L294476 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ One night stand?
+L294475 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Don't throw that away. I had that once with a guy. But I threw it away for a cheap thrill.
+L294474 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ He's so cute. I even like his cute little penis. It's like a little pig's penis or something.  Rose, we connect on every level. I've finally found someone I can feel completely safe with.
+L294473 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Yeah?
+L294472 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I cannot believe how in love I am with this man.
+L294471 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ My brother says things are going really well between you and Nathan.
+L294431 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Yeah. Says he likes you even more than he likes his own mother. And according to my brother Nathan's abormally close with his mother.
+L294430 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Really?
+L294429 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ My brother says he likes you, too.
+L294428 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I really like him, Rose. He's so...  ...passionate about his work.
+L294427 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ So?
+L294397 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Yeah, well my brother is his shrink.
+L294396 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ God, he must be really close to your brother to tell him such personal stuff.
+L294395 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ My brother says the guy's a thirty- five year old virgin, so maybe he won't know how women usually feel. Plus he's got bad eyesight, almost legally blind, which is helpful in this situation. Plus he's got an extremely small penis, of which he is "mortifyingly ashamed", so chances are he'll be so grateful for any non- judgmental attention, that he'll be yours forever.
+L294394 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Won't he be able to tell?
+L294393 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ My brother is discreet.
+L294392 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Holy shit. Your brother didn't tell him about the nature of our relationship, did he?
+L294391 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Somehow it came up that you were a friend of mine. Mr. handsome, animal- loving psychologist said he would love to meet you.
+L294390 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ What do you mean?
+L294389 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Loves animals. Loves you.
+L294388 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Loves animals? Ouch. Must love animals, Rose.
+L294387 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Handsome, thirties, psychologist...
+L294386 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Shut up and tell me.
+L294385 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ I don't get that. Is that sexual?
+L294384 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Tell me. I could use someone up my alley.
+L294383 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Cause there's this guy. My brother knows him. Might be right up your alley.
+L294382 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Always. Ow.
+L294381 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ You still in the market for a real boy?
+L294380 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I love it, Rose. I'm getting to be a real girl.
+L294379 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Oh yes, honey. Getting to be smooth smooth smooth all over. Smooth as a baby's butt.
+L294378 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Ouch. Yeah?
+L294377 +++$+++ u1410 +++$+++ m93 +++$+++ ROSE +++$+++ Progress!
+L295004 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Don't worry, Lila. You can stay. I don't have any interest in you anymore.  C'mon, monkey boy.
+L295003 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Ooka.
+L295002 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Shut up!  I gave you... life. I created you in my image, Puff. I took you from this primordial ooze and brought you into the world of culture and art and manners. And this is how you repay me? By heading back to the ooze first chance you get? I should leave you here with Lila the ape woman. It would serve you right, you ungrateful piece of crap. But I'm not going to. You're too valuable to me. Totally selfish of me. You serve my purpose. But if you had any smarts you would realize that I serve your purpose as well. Life is so much more delightful when lived in a silk suit.
+L295001 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oook. Oook.
+L295000 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Look at you two. You both disgust me.
+L294995 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Ugnh.
+L294994 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Aha! Finally. I've covered almost the entire seaboard and parts of eastern Ohio.
+L294930 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Eat shit, thumbtack dick!  Thank you, Frank. You're the best.
+L294929 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Lila, you don't intend to hurt us, do you?
+L294928 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Shut up! Yeah, this is Lila, cunt. And don't let the hirsutism fool you. I know more about being a woman, and more about the black hearts of men than you, in your pretty little powdered, bullshit fantasy world, can ever imagine. I know the darkness and cruelty of nature, sweetie pie.
+L294876 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Lila...
+L294875 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ How the hell would you know anything about the human heart?
+L294874 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yeah, well, I'm sorry. The human heart is a strange thing.
+L294873 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I gave up my soul, my beliefs. I gave up my body hair!
+L294872 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yes.
+L294871 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Do you know what I gave up to be with you?
+L294870 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I fucked her! Okay? I fucked her. I'm sorry. But that's what the hell I did.
+L294869 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ And what did you do tonight, honey?
+L294868 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I've fallen in love with somebody else, Lila.
+L294867 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ And what did you do tonight, honey?
+L294866 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Shit.
+L294865 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ That's funny because, you know, I just went and picked him up at some flophouse on the lower eastside. He called here when he ran out of his "mad" money after spending an entire evening drinking, watching strippers, and fucking a whore!  Oh, and what did you do tonight, honey?
+L294864 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Seemed fine. Quiet evening enjoying his new digs.
+L294863 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ So he's doing okay?
+L294862 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yeah. Puff and I got into a big, philosophical discussion. He's really quite well read, considering he's only been literate for a month now. He's going to make us famous, Lila.
+L294861 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You were gone a long time.
+L294823 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Ummm. It's good.
+L294822 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Nah. You just relax. How's the book?
+L294821 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Should I come with?
+L294820 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm going to go down and check on Puff. See how he's holding up.
+L294808 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Absolutely!
+L294807 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Puff, I'm proud of you! You did remarkably well under difficult circumstances.
+L294785 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Thank you very much for that.
+L294784 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You just have to control it. We're not apes.
+L294766 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh boy!
+L294765 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I think he's ready.
+L294757 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ That was wonderful!
+L294756 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Bravo to you, Puff!
+L294754 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I let her sell her soul. I stood by as she did it. It's inexcusable.  At the time though I thought it might help.
+L294753 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I had sold my fucking soul.
+L294752 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Such as my man and how to please him!  Such as making wonderful dinners for my man!  Such as looking pretty for my man!  And I'm writing an article on quilting for the Ladies Home Journal!
+L294751 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Such as what womanly things?
+L294750 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Who needs it? I have you and I have being a woman and I have thinking about womanly things! I love being a woman because...
+L294749 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ How come?
+L294748 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yes! And I want to help. You won't have to pay me, and I was thinking of giving up that crazy nature writing anyway.
+L294747 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Really?
+L294746 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh yes, baby! I think that this is a wonderful project you're doing, taking this poor unfortunate, uncivilized creature and turning him into a human being! What a wonderful wonderful compassionate man you are!
+L294745 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Have you?
+L294744 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Hey! I could come work for you! I know I haven't been all that supportive of this project, but I've come around.
+L294743 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I guess.
+L294742 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, baby. I'm sorry. Can't you hire somebody else?
+L294741 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ My assistant quit today. Okay? He was highly valuable to the project.
+L294740 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No. I don't want your work to be cruddy.
+L294739 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Cruddy, okay? Are you satisfied?
+L294738 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ How's work?
+L294736 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'll make it.  I'm so happy, Nathan! Everything's going to be so great! Scotch on the rocks, right?  Just kidding. I know what you drink, mister. I know what you drink.  Voila!
+L294735 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Nothing. Hard day. Gonna have a drink.
+L294734 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You remember that from my book? I'm touched!  What's wrong?
+L294733 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ ...the back door of a movie theater. Yes, indeed.
+L294732 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh!  I didn't see you there, sneaky boy!  You're like a boy sneaking in...
+L294704 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, Nathan, let's have a baby!
+L294703 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That's great. It's a great color for you.
+L294702 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I've signed up for a ballet class. And look at my nails! A real girl!
+L294701 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That's great.
+L294700 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Because I'm really trying, you know. Rosie says maybe only another two years of the elctrolysis.
+L294699 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Sure. Of course.
+L294698 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Really?
+L294697 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Shh. It's okay.  It's okay, Lila. You're what I want. You know that. You're exactly what I want.
+L294696 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm trying, you know.  I'm trying to be what you want. I want to be what you want, Nathan. All I want is to be what you want.
+L294695 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yeah. It's nice. It's really good.
+L294694 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Do you like my new look?
+L294693 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm just preoccupied.
+L294692 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Because, you know, you seem so distant. And you work late every night. And we hardly ever have sex, and when we do, it's... I don't know. It feels different.
+L294691 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No.
+L294690 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It would just be helpful to know.
+L294689 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Of course not.
+L294688 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Are you seeing somebody else, Nathan? I just have to know.
+L294681 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Please, Nathan. I really need this. You've been working late a lot.
+L294680 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Everything's fine, honey. We don't need to talk. Besides I have to work late.
+L294679 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Honey, can we talk tonight? You know, about stuff? Things have been so strained for the past three weeks, since you know, and I just want to talk.
+L294678 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Good. Making progress.
+L294677 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ So, how's it going today?
+L294667 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm glad you're female.  Do you think our boy witnessed the primal scene?
+L294666 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I love being female because it, how do you say, allows me to be close to men.
+L294665 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Really? Wow! That's that's terrific to hear from someone so... feminine, so female.
+L294664 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You are an animal.
+L294663 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Was that okay? I mean, was I able to... satisfy you?
+L294629 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I have to think! I have to think!
+L294628 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm the same person I was before you knew, damn it! Oh God!
+L294627 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Mad? I'm I'm... disgusted!
+L294626 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm sorry. Please don't be mad at me for this.
+L294625 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Don't quibble. You know what I mean.
+L294624 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Apes don't shave, you son of a bitch!
+L294623 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You have to shave? Like an ape?
+L294622 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm getting electrolysis. It's working, but it takes time. So meanwhile I have to...
+L294621 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Your entire body?
+L294620 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It's hormonal, Nathan. I can't help it. I'm sorry.
+L294616 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Excuse me one second, would you, Gabrielle?
+L294615 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Who from work?
+L294614 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Absolutely, Gabrielle.  Someone from work!  Sorry about that, Gabrielle. Uh-huh. Exactly.
+L294613 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Who is it?
+L294612 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Uh-huh. Right, Gabrielle. Right.
+L294611 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Who is it?
+L294609 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Nothing. Be right out.
+L294608 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What are you doing in there?
+L294577 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Great. Grab his feet. We'll throw him in the trunk.
+L294576 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ All right.
+L294575 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ ...what is it that makes us human, if not the knowledge that we are indeed human? Think of this poor soul's education as the greatest gift we could bestow upon...
+L294572 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Freedom's just another word for nothing left to lose, Lila, to quote Janet Jackson.
+L294571 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You'd be taking away his freedom, Nathan.
+L294570 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Is he, Lila? Is he happy living filthy and naked alone in this tick infested wilderness? Never to know the love of a good woman, never to revel in the pitter-patter of little feet, never to read Moby Dick, or marvel at a Monet, or just sit back after a day of hard but rewarding work, smoke a pipe, and wonder about the nature of reality.
+L294569 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I won't allow you. It's wrong. He's happy here.
+L294568 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Don't you see? He's my Tabula Rasa, my Eliza Dolittle. He's my ticket to the top of the Behaviorist food chain. He's going to make me famous.
+L294567 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh no. You can't take him from his home, Nathan.
+L294566 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Forget mice! Actually forget guinea pigs, cats, monkeys, and chimps also. I'm on to stage five: The human subject.
+L294565 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Nathan, what the hell are you talking about?
+L294564 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It's perfect!
+L294563 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Look at him. He doesn't understand English. He moves like an animal.
+L294562 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Feral, huh? Totally uncontaminated?
+L294561 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ What?
+L294560 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Actually, I just had an amusing thought.
+L294559 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I don't understand you. This is fascinating and you just want to run away. I mean, here we have a human being totally uncontaminated by civilization, totally free, and all you want to do is run back to your...
+L294558 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I think we should go. Please. Before he wakes up and, I don't know, eats us, or whatever feral things do.
+L294557 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ He looks perfectly fine.
+L294556 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Feral? Don't touch him! He might be diseased! He might... My God, rabies!
+L294555 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I think he's feral.
+L294554 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You'll catch cold. It's cold.  What do you suppose he is, a survivalist?
+L294543 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ If it's a person, why should we go see it? It's not like it's nature or anything. It's just a person.  Sometimes people who live in the woods don't want to be seen. They live in the woods because they're anti-social, Lila. We have to respect that.
+L294542 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Come on.
+L294541 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It might behoove us to turn back at this point.
+L294540 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No. Too... upright. Might've been a person.
+L294539 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ A deer?
+L294538 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I don't know. Something.
+L294537 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What?
+L294536 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Did you see that?
+L294533 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I love you so much.
+L294532 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ That's very funny.
+L294531 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ We could call it "Quit Bugging Me, Sunny."  Get it? Sunny. S-u-n-n-y.
+L294530 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Absolutely.
+L294529 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Flares?
+L294528 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yes.
+L294527 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I think I'll get Johannsen in chemistry on that.  Oh! Did you bring the first aid kit?
+L294526 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yes, darling.
+L294525 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Perfectomundo! We are ready!  Say, wouldn't it be wonderful to have an insect repellent lotion that also worked as a sun block? Think of all the time one would save.
+L294524 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Fifteen.
+L294523 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What SPF, sweetie?
+L294522 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Of course.
+L294521 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Oh, and the sun block?
+L294520 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yes, darling.
+L294519 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Darling, did you bring the insect repellent lotion?
+L294518 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I don't think so.  Why?
+L294517 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Shaving cream?
+L294516 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Terrific. Can't wait!
+L294515 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It'll be wonderful! I'll show you my old stomping grounds!
+L294514 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ That's a great idea.
+L294513 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, darling. I'm so relieved. Let's celebrate with a long hike in the woods tomorrow!
+L294512 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Why certainly!
+L294511 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Do you? Oh do you, darling?
+L294510 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Of course.  I simply love the... naturalness of it all.
+L294509 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Do you?
+L294508 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I was simply attempting to keep the evening light. You know that I feel similarly to you about nature.
+L294507 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You didn't seem sorry when you were laughing at all your mother's stupid, tasteless, cruel animal jokes.
+L294506 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm sorry about my parents.
+L294505 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'll be out in a minute.
+L294504 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ What are you doing in there?
+L294495 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Nathan!
+L294494 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Actually, Mother and Father, you look very, very old. You look terrible.
+L294469 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I don't care. I don't care!  Like what, for example?
+L294468 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Yeah  But I have some peculiarities also.
+L294467 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You do?
+L294466 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I like you, too, Nathan.
+L294465 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It's just that I have some peculiarities, and...
+L294464 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yes.  Please don't talk with food in your mouth, Lila. Please. You're so pretty and it only mars your... I'm sorry. I'm being critical.
+L294463 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You really enjoy my company?
+L294462 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yes, and...
+L294461 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You do?
+L294460 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It's only that I really enjoy your company and...
+L294459 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ No, I'm sorry. I'm really backward in certain areas.
+L294458 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I'm sorry that I became so upset.
+L294457 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Boy, this is good!
+L294456 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No biggie.
+L294455 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Oh, I'm sorry.  I'm sorry, Nathan. I never really learned those things.
+L294454 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Tell her, Harold...  It's just that... It's nothing. It's just that the outside fork is the salad fork. One goes from the outside in as the dinner progresses.
+L294453 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm sorry?
+L294452 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ My God! The fork! The fork!
+L294451 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Um-mmm. Oh Nathan, this salad is delish...
+L294450 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ You look wonderful. I'm on top of the world tonight, Lila. Work is going splendidly and my personal life is ...
+L294449 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ It looks wonderful.
+L294426 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Ergo if I can teach table manners to mice, I can teach them to humans. If I can teach table manners to humans, I can save the world.
+L294425 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ We are animals after all.
+L294424 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Courtesy, decorum, manners, are all sadly lacking from our daily intercourse. Rudeness, vulgarity, meanness are the norm.
+L294423 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm not sure.
+L294422 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ The truth is most people don't have table manners today. And when the foundations of civilized society crumble and disappear, civilized society in its entirely follows closely at its heels.
+L294421 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Going out on a limb, aren't you, Nathan?
+L294420 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ It's my thesis that if table manners can be taught to mice, they can be taught to humans.
+L294419 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ What's the larger experiment?
+L294418 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I hope you don't think me daft. It's important work. It's part of a larger sociological experiment. I'm federally funded.
+L294417 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Paper or cloth?
+L294416 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Quite well, really. It's a lot of work. A lot of reinforcement, mostly positive. Right now I've gotten two of my subjects to use napkins. Tiny napkins of course.
+L294415 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ How's it going?
+L294414 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Heavens no. My work now is... Right now I'm teaching mice... well, table manners, to be candid.
+L294413 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I hope you don't perform any of those dreadful torture experiments, Nathan.
+L294412 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No no. I'm a psychologist, but I do research. I'm a behaviorist. I work with animals. Mice at the moment.
+L294411 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You are a therapist, right?
+L294410 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I love that you said that. It makes me feel a bit lighter. I've been rather heavy lately. Thinking about my childhood. Realizing how much a product I am of my upbringing.  I've been seeing someone. A therapist.
+L294409 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ I'm not sure we can escape our natures. Believe me I've tried. I'm not even so sure anymore that we should want to.
+L294408 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Yes. I suppose not. But still. One would like to move along. To move beyond.
+L294407 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ That's not necessarily a bad thing.
+L294406 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Slugdom. Sluggishness. Whatever you'd call it. I'm not there yet. I still have many human characteristics.
+L294405 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Where?
+L294404 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I have to say that I'm not there yet.
+L294403 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ You've got to respect that.
+L294402 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ They don't seem to be especially ego driven, this is true.
+L294401 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ They're so even keel. They forge ahead with slow determination. They don't get distracted or side-tracked. They don't care what they look like. They don't care that people look at them and go, "Ewww. A slug."
+L294400 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ As do I.
+L294399 +++$+++ u1405 +++$+++ m93 +++$+++ LILA +++$+++ Thank you so much. I love slugs. All slugs, not just banana slugs.
+L294398 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Meditations on a Banana Slug was a delightful read.
+L295013 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No.
+L295012 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ You did create me in your image, Nathan. Before you I was a simple, happy, complete being, in harmony with the world around me. After you I became duplicitous, cynical, angry, anal, totally out of touch with my surroundings. In a word, Nathan, I became you. Lila has reintroduced me to myself. And, incidentally, what I'm about to do, kill you, is something that would never have occurred to me to do as a creature of the Earth. Before when I killed, it was for food or in self-defense. Now I will kill for revenge. Revenge is an abstract concept, Nathan. And I learned abstract thinking from you.
+L295011 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I have to talk. Is that okay?
+L295010 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Look, why don't you and Lila stay here and have your natural life. I'll just go on my way. You'll never see me again.
+L295009 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Unka unka unka unka unka.
+L295008 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Let's be reasonable human beings here. We're all reasonable human beings, aren't we?
+L295007 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Ounpoo. Ungh.
+L295006 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Puff, put the gun down.
+L294999 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Down from the tree. Both of you. Keep your hands where I can see them. Don't want you pulling any weapons out of your fur.
+L294998 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Unn.
+L294997 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Oh please, is that as articulate as you can be after all the time I spent teaching you? We've discussed Wittgenstein, for Christ's sake. Not that you ever had anything very original or challenging to say on the subject.
+L294996 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Ugnh.
+L294921 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Now, my diminutive friend, what can I do for you?
+L294920 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Interesting.
+L294914 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ here, here.
+L294913 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ And of course to you, my sweet, for your... moral support.
+L294912 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Thanks to you, Buddy. And your diligence and intelligence and perseverance.
+L294911 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Thanks to you, Nate.
+L294898 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ It would be my pleasure, doctor.  Distinguished gentlemen and ladies of the psychological community, I stand before you today, a living testament to the amazing skill of Dr. Nathan Bronfman. To say that he took me from crayons to perfume would be a vast understatement. Dr. Bronfman took me from playing with my own feces, then to crayons, and then to an appreciation of the complex works of Franz Kline, Joseph Beuys, and Marcel Duchamp. From compulsive masturbation to...
+L294897 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Puff, why don't you say a few words to the assemblage.
+L294819 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Got it.
+L294818 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Good. Remember, when in doubt: Don't ever do what you really want to do.
+L294817 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Oh, I will!  Your very trust has instilled an enormous sense of responsibility in me. I don't want to disappoint you.
+L294816 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I trust that you'll make good, mature decisions. I trust that you'll do the proper thing.
+L294815 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ It's wonderful! Do you think I'm ready? Do you really?
+L294814 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Free to come and go as you please. There's some "mad money" in the night table drawer.
+L294812 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Even better.
+L294811 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Extra dessert?
+L294810 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ And because you did so well, we have a little surprise for you.
+L294809 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Did I? I tried so hard! I really concentrated! Oh, I'm so happy!
+L294797 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Tomorrow, the acid test.
+L294796 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Yahoo!
+L294795 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Excellent work, Puff. Extra desert tonight.
+L294789 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Lila?
+L294788 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I bow to your expertise in these matters.
+L294787 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Humor me, Puff. It's essential that I am able to trust you to function independently in the world.
+L294786 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I don't think this aversion therapy is really necessary, doctor. I understand the problem.
+L294775 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I'm loving this. It's such a treat to be out and about. What a wonderful invention a city is. The immense buildings of glass and steel glinting in the afternoon sun, the smartly dressed women in their best summer frocks, the colorful street vendors.
+L294774 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ This is great, Puff. You're doing fine.
+L294769 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Okay. That's fair.
+L294768 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Now, Puff, we're leaving on the electronic collar. I don't think we'll need to shock you, but just in case.
+L294767 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Oh boy!
+L294714 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Bravo, Puff! Bravo!
+L294713 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Good-eve-n-ing-lay-dees-and-gent- elmen.
+L294712 +++$+++ u1411 +++$+++ m93 +++$+++ WENDALL +++$+++ And how do you feel about Gabrielle?
+L294711 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ I love Lila. I mean, she's a wonderful person. And... she loves me! That's no small potatoes. I mean she really loves me. She's sacrificed so much to be in this relationship with me. And she's a good person. A truly good person. How rare is that in this world, eh? And how could I stop loving somebody because of a little physical imperfection, if it can even be called that. I mean, God knows I'm not perfect! What about my eyesight? It's lousy, that's what! Lila's not going to leave me because of my eyesight. What about my penis?
+L294710 +++$+++ u1411 +++$+++ m93 +++$+++ WENDALL +++$+++ I just think it might be important to explore your feelings for Lila.
+L294709 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ Oh, I see. Yes, that's something to think about. That's very good. That's what you get the big bucks, right? Ha ha.
+L294708 +++$+++ u1411 +++$+++ m93 +++$+++ WENDALL +++$+++ Well, it seems that since Lila broached the subject of children, you've been on edge and I know you have an issue with the, uh, body hair.
+L294707 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ No, why?
+L294706 +++$+++ u1411 +++$+++ m93 +++$+++ WENDALL +++$+++ Do you suppose it has anything to do with Lila's unusually hairy body?
+L294705 +++$+++ u1407 +++$+++ m93 +++$+++ NATHAN +++$+++ So anyway, that's the nightmare I've been having lately.
+L295042 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ I'm an ape, mom. I'm an ape. And apes don't drop lines.
+L295041 +++$+++ u1408 +++$+++ m93 +++$+++ OLDER WOMAN +++$+++ I'm in the book, if you ever want to drop me a line or something.
+L295040 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Yes.
+L295039 +++$+++ u1408 +++$+++ m93 +++$+++ OLDER WOMAN +++$+++ Yes, I suppose so. I suppose I knew that was going to be what you would say. It's good to see you again though.
+L295038 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ It's a pleasure to meet you, mother. But I'm an ape like dad was...  And I have to go back into the woods now... forever.
+L295037 +++$+++ u1408 +++$+++ m93 +++$+++ OLDER WOMAN +++$+++ Yes... Derek.
+L295036 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Mother?
+L295035 +++$+++ u1408 +++$+++ m93 +++$+++ OLDER WOMAN +++$+++ I saw you on C-Span. I've been looking for you for thirty years. Then there you were, such a beautiful, beautiful grown man.
+L295034 +++$+++ u1409 +++$+++ m93 +++$+++ PUFF +++$+++ Yes?
+L295033 +++$+++ u1408 +++$+++ m93 +++$+++ OLDER WOMAN +++$+++ Wait!

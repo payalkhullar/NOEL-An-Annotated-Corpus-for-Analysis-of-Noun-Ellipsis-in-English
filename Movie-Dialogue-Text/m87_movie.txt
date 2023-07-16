@@ -1,0 +1,508 @@
+L274691 +++$+++ u1301 +++$+++ m87 +++$+++ 1ST MAN +++$+++ Who are you calling a fucking ass- hole? It's this bastard bed that's your fucking problem!
+L274690 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You fucking ass-holes.
+L274689 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ My fucking hand!
+L274688 +++$+++ u1301 +++$+++ m87 +++$+++ 1ST MAN +++$+++ What's the problem?
+L274687 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Christ!
+L274612 +++$+++ u1301 +++$+++ m87 +++$+++ 1ST MAN +++$+++ Oh, sod you.
+L274611 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Just take it slowly.
+L274610 +++$+++ u1301 +++$+++ m87 +++$+++ 1ST MAN +++$+++ Look, do you want the bed in or not?
+L274609 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Wait! Wait! Watch the fucking paint work.
+L274701 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Sure.
+L274700 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Will you sign for the bed?
+L274696 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Where's my father?
+L274695 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ We're leaving.
+L274694 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ What's happening?
+L274626 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Not much.
+L274625 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Want to buy a bed?
+L274624 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Hi.
+L274623 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ It's my lucky day.
+L274646 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Damn right. Now are we going to move the bed or not?
+L274645 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Lucky man.
+L274644 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Julia's my second wife.
+L274643 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Oh.
+L274642 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Her mother's dead.
+L274641 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Got her mother's looks.
+L274640 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Uh-huh.
+L274639 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ That your daughter?
+L274617 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Do you really need this bed, lady?
+L274616 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Alright, let's give it another try.
+L274614 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ It'll go in.
+L274613 +++$+++ u1302 +++$+++ m87 +++$+++ 2ND MAN +++$+++ Eh, Chas, slow it down like the man says.
+L275289 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You can keep them.
+L275288 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ We've got such sights to show you --
+L275287 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Stay the fuck away from me.
+L275286 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ Just in time.
+L275242 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No. That wasn't the deal.
+L275241 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ We want the man who did this --
+L275196 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I could lead you right to him. You could take him back to Hell instead of me.
+L275195 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ Suppose he HAD slipped us. What significance has that?
+L275192 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ HE did. I've seen him.
+L275191 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ Nobody escapes us.
+L275188 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ To a man called Frank Cotton?
+L275187 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ Many times.
+L275186 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You did this before, right?
+L275185 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ No time for argument.
+L275183 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ No tears please. It's a waste of good suffering.
+L275182 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Let me alone, will you?
+L275166 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No!
+L275165 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ He doesn't see us, or hear us. We belong to you, Kirsty. And you to us.
+L275159 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ You solved the box. We came. Now you must come with us. Taste our pleasures.
+L275158 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ This isn't for real.
+L275156 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Well, I didn't mean to open that thing. You can go back wherever you came from.
+L275155 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ Cenobites. Explorers in the further regions of experience. Demons to some. Angels to others.
+L275154 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Who are you?
+L275153 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ It's a means to summon us -- it's called the Lament Configuration.
+L275152 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ It's just a puzzle box.
+L275151 +++$+++ u1303 +++$+++ m87 +++$+++ CENOBITE +++$+++ The box... you opened it. We came.
+L275123 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ We'll get you a phone as long as you promise to stay put.
+L275122 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh Christ.
+L275121 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ Well the police are going to want to speak to you. You know that.
+L275120 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I don't remember.
+L275119 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ You were holding onto it like grim death.
+L275115 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ First things first. You can have a telephone when we've talked. Do you know who did this to you?
+L275114 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Please listen to me --
+L275113 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ You took quite a beating. You must lie down.
+L275112 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ It's important.
+L275111 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ That's easily arranged. But first, back into bed.
+L275110 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I have to speak to my father.
+L275109 +++$+++ u1304 +++$+++ m87 +++$+++ DOCTOR +++$+++ Please. Get back into bed.
+L275273 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ That's right. This is Frank you're talking to, remember? FRANK.
+L275272 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Frank --
+L275271 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Hush now. It's all right Frank's here.
+L275270 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Bastard.
+L275269 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Poor baby.
+L275268 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You bastard --
+L275267 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Don't mourn him. He was dead long before we laid a finger on him.
+L275266 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh my God.
+L275100 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Some things have to be endured...
+L275099 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ This isn't happening.
+L275098 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Come to Daddy.
+L275092 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You want it?
+L275091 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ One last time. Give me the box.
+L275090 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No.
+L275088 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I used to tell myself that. Used to try and pretend I was dreaming all the pain. But why kid yourself? Some things have to be endured. Take it from me. And that makes the pleasures so much sweeter...
+L275087 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ This isn't happening.
+L275086 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I bet you make your Daddy proud, don't you? Beautiful.
+L275085 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ What? What will you do? What CAN you do?  There's nothing to be frightened of.
+L275084 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Don't touch me. Or so help me --
+L275081 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Come to Daddy.
+L275080 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No.
+L275079 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You remember.
+L275078 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No.
+L275077 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Kirsty. It's Frank. It's Uncle Frank.
+L275075 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Kirsty?
+L275074 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Julia!
+L275135 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I need a skin. Then we leave --
+L275134 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Well we can't just stay here --
+L275133 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Like this? Look at me! LIKE THIS?
+L275132 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Maybe we should just leave --
+L275131 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ There's very little I can do about it.
+L275130 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Don't you care?
+L275129 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Maybe.
+L275128 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ That's probably her now. Or the police.
+L275127 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I don't think so. She'll want Larry first.
+L275126 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ She'll tell them everything...
+L275060 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Then find me somebody else, before they come looking.
+L275059 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I said no.
+L275058 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ So where's the harm?
+L275057 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I don't.
+L275056 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You can't love him.
+L274994 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Yes. They'll never find us.
+L274993 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ It gave me a little chance, and I took it. They won't get me back. I'm going to live, and you're going to help me. Yes?
+L274992 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ And the blood let you out?
+L274991 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ They took my body, but my spirit... they left that here. In the boards, in the walls. Watching the world, but not able to TOUCH it.
+L274990 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ No. They gave me experiences beyond the limits. Pain and pleasure, indivisible.
+L274989 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ So you were cheated.
+L274988 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You would be. They tore me apart.
+L274987 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You're still afraid.
+L274986 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ The Cenobites. The creatures the box set free.  Sometimes I think they're still here. Just behind the walls. Them and their hooks and their beasts. Just waiting to break out again. Except that I've got the box.
+L274985 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Who did?
+L274984 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Sure. Somewhere safe.  Safe. Christ! They tortured me here. In this room.
+L274983 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ And you came back here to solve the puzzle --
+L274982 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I was bored. I'd done everything. I'd gone to the limits. There was nothing left to experience. At least nothing I could buy on earth.
+L274981 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Hell...
+L274980 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ To experience beyond anything ever known. At least that's what I was promised when I bought it. Pleasure from Heaven or Hell. I didn't much care which.
+L274979 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What kind of doors?
+L274978 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Don't touch it. It's dangerous. It opens doors.
+L274977 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Let me see.
+L274976 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ It's not any box. It's called the Lament Configuration. It's a puzzle.
+L274975 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ A box?
+L274974 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ This is what began it.
+L274973 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You promised me an explanation.
+L274972 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ A long time.
+L274969 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Tell me, damn you.
+L274968 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Not know.
+L274967 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I want an explanation first. I want to know what happened to you.
+L274966 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ What?
+L274965 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Later.
+L274964 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Better. Very much better. I'd like something to wear. And some cigarettes. Will you bring me some?
+L274963 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Well?
+L274945 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You won't cheat me will you? You'll stay with me. Help me. Then we can be together, the way we were before. We belong to each other now, for better or worse...
+L274944 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You're hurting.
+L274943 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Ssh. Don't want babe to hear.
+L274942 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Keep your voice down.
+L274941 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Poor Larry. Obedient as ever.
+L274937 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ The Cenobites. It's only a matter of time before they find I've slipped them. I have to get away from here.
+L274936 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Who?
+L274935 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ -- to heal me completely. Then we can be away from here, before they come looking.
+L274934 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ One more. Maybe two --
+L274933 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Good.
+L274932 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ My nerves... are beginning to work again.
+L274931 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Hurting.
+L274930 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I'm hurting
+L274792 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ The blood brought me this far. I need more of the same. Or I'll slip back...
+L274791 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What do you want me to do.
+L274790 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You can't let me stay like this. Please. You can't.
+L274789 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Ssh!
+L274788 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ ...somebody...
+L274780 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Just help, will you? Please God, help me --
+L274779 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Back from where?
+L274778 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ His blood... on the floor... It brought me back.
+L274777 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What happened to you?
+L274776 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Believe me. It's me. It's really me.
+L274775 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No. God no.
+L274774 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Frank.
+L274773 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Tell me who you are.
+L274772 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Help me.
+L274771 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I said: don't look.
+L274770 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Who are you?
+L274769 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Don't look at me.
+L274768 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Oh my God.
+L274767 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Julia.
+L274733 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Sure you are.
+L274732 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'm very happy.
+L274731 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Wedded bliss?
+L274681 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Forget him.
+L274680 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What about Larry --
+L274676 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I don't want to see the dress.
+L274675 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ But you said --
+L274674 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I don't want to see the dress.
+L274673 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Well?
+L274660 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'm sorry. Of course. You're very welcome.
+L274659 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ Well can I come in or not?
+L274658 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Oh.  Oh yes.
+L274657 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ There is going to BE a wedding?
+L274656 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I came for the wedding.
+L274655 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Oh.
+L274654 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ I'm brother Frank.
+L274653 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ That's right. Who are you?
+L274652 +++$+++ u1305 +++$+++ m87 +++$+++ FRANK +++$+++ You're Julia, right?
+L275258 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh my God.
+L275257 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No, damn you --
+L275220 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'm sorry, I don't follow. What was there to see?
+L275219 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I saw everything.
+L275218 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ This afternoon.
+L275217 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I was here this afternoon.
+L275216 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You look terrible. Have you had an accident?
+L275215 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Of course. There's no need to shout.
+L275214 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I have to see my father.
+L275213 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What's the problem?
+L275212 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Where's Daddy?
+L275211 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Kirsty? It's very late.
+L274722 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ The keys are in the kitchen.
+L274721 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Sure.
+L274720 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just an accident. He's all right. Will you drive? He needs stitches.
+L274719 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ What happened?
+L274667 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just to your left.
+L274666 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Which is where?
+L274665 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ There's a towel in the bathroom.
+L274664 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Hi. I got soaked.
+L274663 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Kirsty.
+L275231 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ He was insane, baby: a mad dog. I put him out of his misery --
+L275230 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Dead.
+L275149 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ It's better you see for yourself --
+L275148 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What are you talking about?
+L275147 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I don't know where to begin...
+L275146 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What's wrong?
+L275038 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Please. I can't bear it...
+L275037 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What's wrong with you?
+L275036 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Please...
+L275035 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Huh?
+L275024 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Come with me then.
+L275023 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Don't go upstairs.
+L275022 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Oh baby.
+L275016 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What's wrong with you?
+L275015 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Larry...
+L275013 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ No. I'll do it.
+L275012 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ -- I'll go see.
+L275005 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Only I'll turn it off --
+L275004 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Fine.
+L275003 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Are you all right?
+L275002 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I've seen worse.
+L275001 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Is this upsetting you?
+L274958 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Kirsty.
+L274957 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Who was it?
+L274940 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ O.K.
+L274939 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just a moment. Put on some music will you babe?
+L274928 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ O.K.
+L274927 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'll be down in a minute
+L274926 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Sure.
+L274925 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Maybe a brandy.
+L274924 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Can I get you anything?
+L274923 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'll be O.K. Just leave me be a while.
+L274922 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Oh, babe...
+L274921 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just feeling a bit sick.
+L274920 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Are you all right?
+L274919 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Sweetheart... I've been calling you.
+L274918 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I'm here.
+L274917 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Julia?
+L274754 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Are you O.K.?
+L274753 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Would you excuse me? I think I'm going to go to bed.
+L274729 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Anyway, it's bad luck to see too much of the bride before the wedding.
+L274728 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Larry....
+L274727 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Look, I'm going to have to leave you guys to keep each other company.
+L274718 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No you won't.
+L274717 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I'll be scarred for life.
+L274716 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You're done worse.
+L274715 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ So damn stupid.
+L274714 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Take it slowly.
+L274712 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No, you're not.
+L274711 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I'm going to throw up.
+L274710 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ It's probably going to need stitches.
+L274709 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Let me see.
+L274708 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Shit.
+L274707 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You're NOT going to faint.
+L274706 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I don't know, I haven't looked. You know me and blood.
+L274705 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Is it deep?
+L274704 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I cut myself.
+L274703 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What have you done?
+L274619 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ It looks like a bomb's dropped.
+L274618 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ How are you doing through there?
+L274606 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ We'll move in Sunday.
+L274605 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Why not?
+L274604 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Well?
+L274568 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ He's BEEN here. There's stuff in the kitchen. He must have made a hasty exit.
+L274567 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ He's here?
+L274564 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ In here.
+L274563 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Where are you?
+L274562 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I hear you.
+L274561 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Larry!
+L274558 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Oh Christ. Julia...
+L274557 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No argument.
+L274556 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ So what's the argument?
+L274555 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ All right.
+L274554 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You wanted to come back to London. We came back.
+L274553 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No. I'm not.
+L274552 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You're still blaming me.
+L274549 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You mean we're moving in?
+L274548 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You know we have to let Kirsty see this place, before we do anything to it. She'll love it.
+L274547 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ He won't complain. He can pay off some of his creditors.
+L274546 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I thought half of it was your brother's?
+L274545 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ We'll sell it. Sell everything.
+L274544 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Not exactly modern.
+L274542 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I don't know. Probably wanted a hideaway.
+L274541 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Why didn't he want to sell it?
+L274537 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ The best part of ten years.
+L274536 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ How long since you were here?
+L274534 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ It's just been empty a while.
+L274533 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ It smells damp.
+L274529 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Ah!
+L274528 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just a thought --
+L274527 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Like who?
+L274526 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Maybe somebody changed the lock.
+L274525 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ O.K. O.K.
+L274524 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ We're going to freeze to death.
+L274523 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ It's ONE of these.
+L274896 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Too much drink. Better empty my bladder.
+L274895 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What's wrong?
+L274894 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Oh Christ.
+L274893 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ You know you are. Loveliest woman I ever set eyes on.
+L274892 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Am I?
+L274891 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ You know, you're very beautiful.
+L274890 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Maybe I will.
+L274889 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Why don't you do the same?
+L274888 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Yeah, why don't I?
+L274887 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Why don't you take off your jacket? You're warm.
+L274886 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ That's right.
+L274885 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ First time for everything.
+L274884 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I prefer the floor.
+L274883 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ I suppose not.
+L274882 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ We don't need a bed, do we?
+L274881 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ What's going on?
+L274880 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No.
+L274879 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ This isn't the bedroom.
+L274878 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ That's right.
+L274877 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ No personal details?
+L274876 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Let's keep it that way, shall we?
+L274875 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ No, not much.
+L274874 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Do you care ?
+L274873 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Is this your place ?
+L274872 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ That's more like it.
+L274871 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ No. No. Let's go upstairs.
+L274870 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ So, what's your problem? Let's get to it.  You're not going to change your fucking mind ?
+L274869 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ I... suppose so, yes.
+L274868 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Well, isn't it?
+L274866 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ I'm already way over my usual limit. You know, it's funny. I feel like I've known you for years.
+L274865 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ You want something to drink?
+L274864 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ I suppose that's right.
+L274863 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ There's a first time for everything.
+L274862 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ You know it's not often I... you know...
+L274861 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Oh?
+L274860 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ That depends.
+L274859 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ I try not to drink at lunch-time. Makes me sleepy in the afternoon. You like to keep a clear head, eh?  One soda, one whisky.  I do it anyway. No will-power. Got a busy afternoon?
+L274858 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Please.
+L274857 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Plain soda?
+L274856 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Just soda.
+L274855 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ What are you drinking?
+L274852 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ I wonder, maybe...
+L274851 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ Not much.
+L274850 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Drinking alone.
+L274849 +++$+++ u1306 +++$+++ m87 +++$+++ JULIA +++$+++ What?
+L274848 +++$+++ u1310 +++$+++ m87 +++$+++ PRUDHOE +++$+++ Not much fun, is it?
+L275144 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Steve.
+L275143 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ Well, if you change your mind. What's this friend's name?
+L275142 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ Try me.
+L275141 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You wouldn't believe me.
+L275140 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ Of course. This isn't a prison you know.  Look if you'd prefer to tell ME what happened, instead of a policeman --
+L275139 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I called another friend of mine and he's coming over. Will you let him in?
+L275138 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ I'm afraid you'll have to wait until the police have spoken to you. Keep trying your father; he'll answer eventually.
+L275137 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ My father doesn't answer. I have to go find him.
+L275136 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ What a pretty tune.
+L275108 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ I won't be a moment.
+L275107 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Who brought me in here?
+L275106 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Wait a moment --
+L275105 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ I'll get the doctor.
+L275104 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ What happened to me?
+L275103 +++$+++ u1309 +++$+++ m87 +++$+++ NURSE +++$+++ You're awake. Good girl.
+L275251 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I have to get out.
+L275250 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Where are you going?
+L275249 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ It isn't. I know what's going on here, and it isn't over --
+L275248 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ No. It's all over.
+L275247 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ PLEASE. You're in danger.
+L275246 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What's the problem?
+L275245 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Get the fuck out of here.
+L275240 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Show her.
+L275239 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Yes!
+L275238 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ No you don't.
+L275237 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I want to see.
+L275236 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I'm afraid it's true.
+L275235 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I don't believe it.
+L275234 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Poor Frank. He's better off dead.
+L275229 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Gone?
+L275228 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ He's gone.
+L275227 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Finished?
+L275226 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Whatever Frank did was his error. And it's finished with now.
+L275225 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No. You don't understand. Your brother -- Frank -- he's here in the house. And he's --
+L275224 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ It's all right, sweetheart. Julia's told me everything; and it's all right...
+L275223 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Of course.
+L275222 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I have to talk to you.
+L275055 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Maybe all she needs is some company.
+L275054 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Sure.
+L275053 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Would you... maybe call round sometime? Try to make friends.
+L275052 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I don't know. I don't know. It's beyond me.
+L275051 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ What?
+L275050 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ It's like she's waiting for something.
+L275049 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Really?
+L275048 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ She doesn't even want to leave the house.
+L275045 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You don't like her at all do you?
+L275044 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ She's not like Mom. She's... I don't know... moody. I thought that was what you liked about her.
+L275043 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I guess.
+L275042 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Maybe you should give it some time.
+L275041 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ ...maybe we should never have come back.
+L274956 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I love you too.
+L274955 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I love you, honey.
+L274954 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Yeah.
+L274953 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Never better. You sleep well.
+L274952 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I just wanted to be sure you were O.K.
+L274747 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Steve?
+L274746 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I've forgotten.
+L274745 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What are you drinking, love?
+L274651 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Sure.
+L274650 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Are you O.K.?
+L274638 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Kitchen's through on your left.
+L274637 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ O.K. I'll be nice. You get on with the muscle work. I'll make myself some coffee.
+L274636 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Kirsty.
+L274635 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Surprise.
+L274634 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Upstairs.  Treat her gently, huh? She hates moving.
+L274633 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Is Julia here?
+L274632 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I'll show you around when we've got this damn bed moved.
+L274631 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Me like.
+L274630 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You like?
+L274629 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Big house.
+L274603 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I will. See you.
+L274602 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Call me tomorrow.
+L274601 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Take care, Dad.
+L274600 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ O.K.
+L274599 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Of course. Every day.
+L274598 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You will keep in touch.
+L274597 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I'll come over and see you in the next few days. You can show me the mansion. O.K.?
+L274596 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I do. I'd just feel happier if you were with us.
+L274595 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ It's not a gesture. I want to do this on my own. Come on, trust me a little will you?
+L274594 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What for, honey? You know we can look after you. You've made the gesture --
+L274593 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Maybe later in the week. First I've got to find myself a job.
+L274592 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Well come over, will you? See the place?
+L274591 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Great.
+L274590 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I'm not going to change my mind, Dad.
+L274589 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Well I want you to see the house.
+L274588 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Do you want me to come over?
+L274587 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ YOU'D like my room.
+L274586 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ You'd like the house.
+L274585 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No Dad.
+L274584 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ I thought you were going to stay with us for awhile?
+L274583 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I said: I found a room.
+L274582 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ What did you say?
+L274581 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I found a room.
+L274580 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Where are you?
+L274579 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I got through.
+L274578 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Kirsty?
+L274577 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Daddy?
+L274576 +++$+++ u1308 +++$+++ m87 +++$+++ LARRY +++$+++ Who's there?
+L275179 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ 'Bye.
+L275178 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ 'Bye.
+L275177 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Sure. Why not?
+L275176 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I'll come back later, huh?
+L275175 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Will you GO, damn you?
+L275174 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ What did I say?
+L275173 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Just go. PLEASE. I'll be O.K. I'm going to go see Dad. He'll look after me --
+L275172 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ What?
+L275169 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I won't let anybody take you.
+L275168 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Don't let them take me, Steve --
+L275167 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ What's wrong?
+L275164 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ What things?
+L275163 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ These THINGS... they want to take me --
+L275162 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ What happened to you?
+L275161 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Steve. Thank God you came.
+L274847 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ It's a fetish of mine.
+L274846 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ As long as you don't mind the smell of fur --
+L274845 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Can I lend you a hand?
+L274844 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Just trying to get my apartment in order.
+L274843 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Are you busy after work ?
+L274842 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ No, it's good to see you.
+L274841 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I'm sorry, I shouldn't have surprised you.
+L274840 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ If I make it through the day.
+L274839 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Your father told me you were working here.
+L274838 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I've been better.
+L274837 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Are you alright ?
+L274836 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh!
+L274820 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Well you've just been talking to the wrong people.
+L274819 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ It's not what I heard.
+L274818 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Oh no.
+L274817 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh no?
+L274816 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ We're not all frigid.
+L274815 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ There ya go.  I beg your pardon?
+L274814 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I beg your pardon?
+L274813 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Oh, I don't know. Up-tight. Frigid.
+L274812 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Meaning what?
+L274811 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ She's so damn... English.
+L274810 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I see.
+L274809 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Yeah, there's room. And there's Julia.
+L274808 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Why don't you stay at Larry's house? There's plenty of room.
+L274807 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ We walk.
+L274806 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ What do we do if there isn't?
+L274805 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ If there's a train.
+L274804 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ All right.  No. That's nice.
+L274803 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Please. I want to see you home. All right?
+L274802 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Not that late.
+L274801 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ It's late.
+L274800 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ You know I do know the way home.
+L274799 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I'm coming!  Sleep well.
+L274798 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ I thought we'd lost you.
+L274797 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I'm here.
+L274784 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I AM house-trained.
+L274783 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ Need any help?
+L274782 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ Just upstairs.
+L274781 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ You're not going?
+L274752 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ So lie down.
+L274751 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ I won't be able to stand.
+L274749 +++$+++ u1307 +++$+++ m87 +++$+++ KIRSTY +++$+++ That's right. Cointreau.
+L274748 +++$+++ u1311 +++$+++ m87 +++$+++ STEVE +++$+++ We're on the Cointreau.

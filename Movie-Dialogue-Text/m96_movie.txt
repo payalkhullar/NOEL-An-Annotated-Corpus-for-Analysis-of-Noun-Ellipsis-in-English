@@ -1,0 +1,175 @@
+L307676 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Better now, son?
+L307675 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I was so scared.
+L307674 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I know, Ellen.  We'll settle down soon.
+L307670 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ It was all made of stuff that's happened to you in the last few days.  The sand pit in back of the house, and the meteor shower, and meeting your teacher and the colonel at school, and being afraid of the new kids because you don't know them ...
+L307669 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ It was so real, Dad.
+L307668 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ That's a doozy of a dream, son.
+L307667 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ ... And then everything blew up. And then I woke up.
+L307664 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ First lemme look at your necks.
+L307663 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ What, Jim, what?
+L307662 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I had an awful dream.
+L307298 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Was there anything over the hill?
+L307297 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I lost it.  It's kind of muddy out there.
+L307294 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Sure ... fine.
+L307293 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Are you all right, Dad?
+L307288 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I'll go take a look when the rain lets off.
+L307287 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I don't know, Dad.  But it was big.
+L307286 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Are you sure you saw that?  In the rain -- it may have <u>looked</u> like it changed shape --
+L307285 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ It was -- it was -- it changed shape. First it was big and round, then it was flat, then it was long and thin.
+L307284 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ What did it look like?
+L307283 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ It was big -- and it glowed -- and it went down over there -- behind the hill.
+L307282 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ You've got to come see -- a big thing went down over the hill!
+L307281 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Jim -- what's wrong?!
+L307277 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Okay.
+L307276 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Well, son?  Should we call it a night?  I for one have had a long day.
+L307271 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ That's Mars.  The closest planet to us, now.  That's why it's more than just a point in the sky.
+L307270 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Which one's that?  The dull, red one.
+L307268 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ And that one -- to the right of Rigel?
+L307267 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ ... and Rigel.
+L307266 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ There's Cassius ...
+L307265 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ This should be the heaviest shower of the year.
+L307264 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ There are more this year than last.
+L307244 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Because the sky is so clear out here.
+L307243 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Why, Dad?
+L307242 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ It's that time of year again. We should get a pretty good show out here.
+L307241 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ A meteorite, Dad, look!
+L307236 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Let's see what's on the other side. Maybe we'll find some copper.
+L307235 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ It's got a name.  Copper Ridge. There used to be a copper mine near here.
+L307234 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Wow.  There's the town.  And there's the air base.  This is a great hill.
+L307233 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Let's check it out, Dad.
+L307232 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ If we want it, it is.
+L307231 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Is the hill ours too?
+L307230 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ This can be your room if you want it. What do you say?
+L307229 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Wow.  Look at the mountains.
+L307221 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ That's the Air Force Base.
+L307220 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What's that, Dad?
+L307218 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ You'll meet new friends.  I know ... it's rough.  But I have to move, son.
+L307217 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I'll have to go to a new school -- again.
+L307216 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I know, son.  But you'll like it where we're going.  I'm getting a good job.  It's a pretty part of the country.
+L307215 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Do we have to?
+L307214 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ We're going to be moving, son.
+L307213 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Yes.
+L307212 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Son ... are you awake?
+L307678 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Good night.
+L307677 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Better get some sleep, son, or you'll be pretty tired at school tomorrow.
+L307384 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ It's his nightmare.  He still hasn't gotten over it ... about the other side of the hill.
+L307383 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ What's wrong, Ellen?
+L307377 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ George, you're acting very strangely.
+L307376 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ You know, it really is beautiful up there.  Let me show you.  We'll take a walk after dinner.
+L307374 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Yes -- but ...
+L307373 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I'm home now.
+L307371 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ You did?  Why? Where were you? They said you left hours ago. We were worried.
+L307370 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I left it at work.
+L307369 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Where's your car?
+L307368 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ That's Ed.  Ed works with the Bell Telephone switching division.
+L307367 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ What happened to you?  Who was that?
+L307313 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I will.  But isn't that odd -- about my dream ... ?
+L307312 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ It's probably the solenoid.  Take it back to Gleason's, they said they'd fix it if we found anything wrong.
+L307308 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ You don't have to.  The school bus stops right outside here, at 7:30. I've got to run.
+L307307 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ I'll take you to school.
+L307306 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I have to go over to the town this morning and do a lot of shopping. This house needs just <u>everything</u>. I'll probably be gone all day. Jimmy, hurry up and eat or you'll be late.
+L307451 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why, yes.  Why?
+L307450 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ Is that all he said?
+L307449 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ He was upset with moving, I believe.
+L307448 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ What did he talk to you about?
+L307447 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ I'm sorry, Mr. Gardner.  I was out of my office for a minute and when I got back -- he was gone.
+L307446 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ What do you mean -- gone?  What the hell kind of a nurse are you, anyway?
+L307437 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Yes, Mr. Gardner.
+L307436 +++$+++ u1427 +++$+++ m96 +++$+++ DAD +++$+++ We'll be by to pick him up in ten minutes.
+L307435 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Of course.
+L307434 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ I'm not particularly interested, <u>Ms.</u> Magnuson, in what you think is correct. My wife and I are going away on a business trip this afternoon and we want Jimmy with us.  Keep him in your office until we arrive.
+L307433 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Mr. Gardner, I don't think this is the place to discuss this matter.
+L307432 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ You people have a lot of nerve, taking it on yourselves to encourage young children to speak out of turn. I'm of a mind to pull him out of school if this is your idea of how to handle ... What sort of training do you have anyway?
+L307431 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Mr. Gardner, I --
+L307430 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ I don't know what he's told you --  What <u>has</u> he told you?  Would you like to tell <u>me</u> -- ?
+L307429 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Children often have trouble adjusting to a new school.
+L307428 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ About what?
+L307427 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ We were having a little talk.
+L307426 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ May I ask why?
+L307425 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Yes, I do, Mr. Gardner.
+L307424 +++$+++ u1428 +++$+++ m96 +++$+++ DAD'S VOICE +++$+++ I understand, Miss, that you have my son in your office.
+L307423 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Hello, this is Ms. Magnuson speaking.
+L307534 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ They didn't find any signs of life on the Viking missions.
+L307533 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ You're looking for life?
+L307506 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Let's try.
+L307505 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ There was a man named Colonel Wilson, from the Air Force Base.  He was talking in our class.  He said we could visit him any time we wanted.  I'll bet he could do something.
+L307504 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ We can't do this alone.  We've got to get help.
+L307503 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I'm not.  They must be tunneling under the whole town.
+L307502 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Don't go in.
+L307500 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Yes ... yes, but I'm not sure what I saw anymore.
+L307499 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ But you saw -- the men go under the sand ...
+L307498 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ I don't know.  I don't know what I'm doing here --
+L307497 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What is it?
+L307491 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I know a way.
+L307490 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Damn.
+L307489 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Hide the car.
+L307488 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ No one comes here after dark.
+L307486 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ All their lines were busy.
+L307485 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Did you call the State Police?
+L307482 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ The State Police.
+L307481 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Who are you calling?
+L307480 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Stay here.  I'm going to make a phone call.
+L307473 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Maybe -- it landed in the bushes.
+L307472 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Does it look to you like anything landed here?
+L307469 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ We'll be very careful.  But we have to see.  If something landed there, there would be a big scar in the ground. Wouldn't there?
+L307468 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ They'll get us.
+L307467 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Let's go look at the sand pit behind your house.
+L307466 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No.
+L307465 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ But it's not, Jimmy.
+L307464 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I swear it was here.
+L307462 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No, but it was here.
+L307461 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ I don't see anything.
+L307460 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ This is where it was -- the tunnel opening.
+L307457 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ If we go and look and there's nothing there, you'll have to admit to me that this is all in your mind.
+L307456 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Behind my house, up on the ridge.
+L307455 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Where, Jimmy?
+L307454 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I got trapped in Mrs. McKeltch's van -- and she went to the tunnel and went down there with them -- behind my house.  I saw them.
+L307453 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Jimmy, calm down!  What happened? Tell me what happened!
+L307442 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ This shows how to get to my home. I'm giving you back roads and footpaths, so there's less chance of you being seen.
+L307441 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Yes.  I can even read star maps.
+L307440 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Do you know how to follow a map?
+L307414 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ 'Cause he wouldn't lie.
+L307413 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why?
+L307412 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I'd believe him.
+L307411 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What would you think if somebody told you a story like this?
+L307410 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ She said the frog came from around the Copper Ridge.  She must've been behind the hill.
+L307409 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ How did it get Mrs. McKeltch?
+L307408 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ A UFO lands in back of your house and puts something in your Dad and Mom's necks.  Then it gets the police, and your teacher too.
+L307407 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Yes.
+L307406 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ That's quite a story.  You know that, don't you?
+L307201 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Can you tell me about that?
+L307200 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I don't have many friends.  Dad's all the time moving.
+L307199 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why not?  Moving is hard for anybody.  Was it hard for you to leave all your friends?
+L307198 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No.
+L307197 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ This is a new town for you.  Do you like it here?
+L307673 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Oh, I can't remember.  But people do have bad dreams when their routine is disturbed.
+L307672 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What kind, Mom?
+L307671 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ It's all this moving from place to place.  We're never settled.  I'm having nightmares myself.
+L307396 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I'll pack us a lunch.  Hamburgers. You always like that, don't you.
+L307395 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ I have school.
+L307394 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ This afternoon.  It's wonderful up there -- you still haven't seen the best part.
+L307393 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ When?
+L307380 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Don't go over the hill, Mom. Please.
+L307379 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ What?
+L307378 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Mom.  I gotta talk to you.
+L307344 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ The back door was open.
+L307343 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Hi.  Sorry I'm late.
+L307304 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What? -- I... 
+L307303 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Your father asked you a question.
+L307296 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ What happened to your other slipper?
+L307295 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ George, where have you been?
+L307290 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ No, Mom.  It wasn't a plane.
+L307289 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ What do you think he saw?  Could it have been something from the air base?
+L307274 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ I know.  But you have a full day of school tomorrow --  You, too.
+L307273 +++$+++ u1429 +++$+++ m96 +++$+++ JIMMY +++$+++ Mom -- this is the best show all year.
+L307272 +++$+++ u1431 +++$+++ m96 +++$+++ MOM +++$+++ Well, come on, you two.  Time to go to bed.
+L307422 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ All right.  I'll be right back.
+L307421 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Jimmy's father is on the phone.  I wonder if you'd take the call.
+L307420 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ Why, yes.
+L307419 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Ms. Magnuson, is Jimmy Gardner with you?
+L307184 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ They're from out of state.  Father's an engineer at the nuclear power plant. I really don't know much about them.
+L307183 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What's his family background?
+L307182 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Oh?
+L307181 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ His teacher brought him in to see me. Said he'd been acting up in class. Creating a disturbance.  I couldn't get a thing out of him.
+L307180 +++$+++ u1432 +++$+++ m96 +++$+++ PRINCIPAL +++$+++ Gardner?  Oh, um -- he's a new student. Just moved here.  Why?
+L307179 +++$+++ u1430 +++$+++ m96 +++$+++ LINDA +++$+++ What's the story on Jimmy Gardner?

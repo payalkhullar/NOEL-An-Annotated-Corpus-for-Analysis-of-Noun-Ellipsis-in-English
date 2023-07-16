@@ -1,0 +1,559 @@
+L154570 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This.
+L154569 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ How I make my living, what's your point?
+L154568 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Okay, okay.  I can explain... You ever have to do something you really don't want to?
+L154567 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ No... Cause tonight the girls are here in a more or less professional capacity. All of them work for me, and you don't... Let's go.
+L154566 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No?
+L154565 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ But see tonight wives and girlfriends aren't invited.
+L154564 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah.
+L154563 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ Oh, yeah?
+L154562 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Bruno's girlfriend.
+L154561 +++$+++ u744 +++$+++ m48 +++$+++ BLONDE +++$+++ Who are you?
+L154664 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This won't hurt.  Triple dose of insulin, you'll go into a coma, couple minutes you'll stop breathing and on a busy night, the coroner will probably mistake it for an O.D.  Plus, it's way classier than blowin' your brains out.
+L154663 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ None of your business.
+L154662 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Who's Camille?
+L154661 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What the hell are you doing?
+L154660 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Ass like your, I can see why he's worried you'll punk.
+L154659 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ He's got exposure.  He sees you starin' at fifteen to life, there's a chance you could roll over, cop a plea, who knows? Man's figured the odds...and he can't take a chance.
+L154658 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ But the boss knows I always been loyal.
+L154657 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This is what your life's worth, Bruno.
+L154656 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm outta Portland.  Sonrisa didn't want local talent.
+L154655 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ How come I never hearda you before?
+L154654 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Security camera got you coming outta the stairwell, weapon in your hand, going to room one-oh-four and greasing the patient.  It's embarrassing to the professional community, is what it is.
+L154653 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ That's a lotta crap.
+L154652 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm hired to do a piece of work, my mark goes down and stays down.  Your's makes it to the hospital where you then gotta go finish the job.  Only the cops got the whole thing on video tape.
+L154651 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What're you talkin' about?
+L154650 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You can hardly blame him, the way you've been taking care of business...or should I say, not taking care of it.
+L154644 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ You're in the last two seconds, you don't cut the crap.
+L154643 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ See what you don't know is you're already in the last two minutes of your life.
+L154642 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You haven't figured this out yet, have you?  You walk in here thinking you're gonna cap her then cap me and take the money back to your boss with your tail wagging... But see it's really the other way around.  You think I'm the whack, when actually you're the whack.
+L154641 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Call the skank now or I start redecorating.
+L154639 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What the hell are you talkin' about? Call her.
+L154638 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's not why we're here.
+L154637 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ What?
+L154636 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Actually, that's not gonna be necessary.
+L154635 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Fine.  So call her.  Get her over here.
+L154634 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I like to keep it professional, that's all.
+L154633 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Man, you got a bad attitude.
+L154632 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Sooo...whattya think?  Maybe after I betray the woman who trusts me and you take her and her daughter out and execute them...we could go on a date.  Play a little miniature golf or somethin'.
+L154631 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ You're attractive, you're smart.  Stand on your own two feet, know what I mean? And you got a wicked sense of humor. Man, you really zinged the boss a couple times, it was all I could do--
+L154630 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah?
+L154629 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ I never woulda done it.  Probably not, anyway.  I mean, I actually think you're pretty cool.
+L154628 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, sure, I understand.
+L154627 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Look, that thing about the pliers, I was just doing what the man pays me to do. Ya know?  Comin' off hard.
+L154595 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Or we could go another way 'cause your boss seems to like my face just the way it is.
+L154594 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Or we can work on your face with a pair of pliers for a couple of hours and you tell us where she is.
+L154593 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Now that that's out of the way... You want the woman, here's how it works.  You pull fifty large out of your mattress or wherever, and I make a call to bring her in.
+L154592 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ No wire.
+L154575 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Guess again.
+L154574 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm on a break.
+L154573 +++$+++ u745 +++$+++ m48 +++$+++ BRUNO +++$+++ Mr. Sonrisa saw you on the cameras.  He wants you to come see him.
+L154172 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Where?
+L154171 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Move it.
+L154163 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ No.
+L154162 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Can I say something in my defense?
+L154161 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Leave.  Now.
+L154160 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Nothing happened between me and Tia.
+L154157 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ You know each other?
+L154156 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You didn't tell me you lived with her.
+L154155 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Some of us are trying to sleep.
+L154055 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Could you give us a moment.
+L154054 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ And when the fog lifted, there's Darren with his head under Justine's skirt.
+L154053 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Trying to have a relationship with you, Max, is like standing in a fog bank.  You know you're in the middle of something only you have absolutely no idea where you are.
+L154052 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ She was there...
+L154051 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Do you know why I went after Justine?
+L154050 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Justine was not an unwilling participant.
+L154049 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ 'Cause you went out the back door and nailed her girlfriend?  Who would take offense to that?
+L154046 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You're not still pissed?
+L154045 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You mean until you showed up?
+L154044 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ How're ya doin', Max.
+L154177 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Don't look down.
+L154176 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ But I'm afraid of--
+L154175 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Unless you wanna end up in jail, let me and Kendra handle the cops.
+L154174 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ No way.
+L154173 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Out there.
+L154170 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No time.
+L154169 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ Lemme put some clothes on.
+L154168 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What?  Where're we going?
+L154167 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's a sweep.  C'mon.
+L154166 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Police drone.
+L154165 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What is it?
+L154154 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ You're roommates?
+L154153 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I live here... Guess I don't have to ask what you're doing here.
+L154152 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ What are you doing here?
+L154058 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ I see the perimeter defense system is still fully intact... At least I tried.
+L154057 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm really glad we're having this conversation.  You're right.  I was angry at you.  But talking about it-- The scales have fallen from my eyes and I see now that it was all my fault.  Can you ever forgive me?
+L154056 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ I was crazy about you...am crazy about you.  But you keep everyone at arm's length like there's some great big dark something going on that-- I don't know... It's just that the more I tried to get close to you, the more you pulled away.
+L154048 +++$+++ u746 +++$+++ m48 +++$+++ DARREN +++$+++ It was a complicated situation which could have been misconstrued, causing you to maybe take offense.
+L154047 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Why would I be pissed?
+L154713 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Theo rode for this place a long time, man.
+L154712 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ What're you lookin' at me for?  I'm not his next of kin.  Anyway, I don't got that kind of cash lyin' around.
+L153986 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Yeah, well around here, I'm the Most High... From now on, before you do anything, call in for instructions.
+L153985 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ It concerns only Jah.  But, in this case, I was the instrument of the Most High.
+L153984 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Which is none of your business...or mine.
+L153983 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Like de prophets say, "Only the unrighteous husband sends expensive gift- wrapped underpants to another woman."
+L153982 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ So you just decided to return it to the sender.  Or, in this case, the sender's wife.
+L153981 +++$+++ u747 +++$+++ m48 +++$+++ HERBAL +++$+++ Nobody there to sign for it, mon.  What's a bruddah s'posed to do, ride around all day with the damn package?
+L154491 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I got overhead...
+L154490 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ So Max, what do you do with all your money?
+L154489 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Am I?
+L154488 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You're light a deuce.
+L154487 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's a rule.
+L154486 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I'll make it worth your while.
+L154485 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't get involved with guns.
+L154484 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I shouldn't do this.  But I got a client lookin' to score some fire power.  Maybe you'll keep your eyes open for me.
+L154483 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Later.
+L154482 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ I'll give you seventy-five bucks for it.
+L154481 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I ain't mad at you...
+L154480 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Which means I gotta fence it for two. Who's got that kinda scrilla lying around, these being the worst of the times.
+L154479 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A grand.
+L154478 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ What're you looking for?
+L154477 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Thought I'd let you have first crack... Later.
+L154476 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Same old story.  Not interested.
+L154475 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Thought so.  Turned out he wanted me for something else though.
+L154474 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Must think you're pretty special laying this on you.
+L154473 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I didn't.  It was a present from a guy.
+L154472 +++$+++ u748 +++$+++ m48 +++$+++ INGA +++$+++ Where'd you clip this?
+L154191 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Every week.
+L154190 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ You didn't...
+L154189 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Just thought maybe he'd like a little coffee with his saliva.
+L154188 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ What's with you?  Every week this scumbag puts the squeeze on us and every week you roll out the welcome wagon like he's family.
+L154179 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And for all his cattin' around, not much of a stick man either.
+L154178 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ What a creep.
+L154159 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Yech...
+L154158 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ He's a mistake I made about six months before you did.  But don't feel bad. Justine made the same mistake, along with Renee, Jada, Tia, Brooke--
+L153967 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, me too.
+L153966 +++$+++ u749 +++$+++ m48 +++$+++ KENDRA +++$+++ Thanks, it's starting to kick in.  I feel almost human.
+L153965 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I made you coffee.  That oughta help you cope with the injustice of the world a little.
+L154611 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Hang on, Lauren.  We're conferencing in Sophy.
+L154610 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Hello...
+L154609 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Look, we gotta keep the momentum up here, not give her a chance to think.  If she hears her kid's voice...
+L154557 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Like I said-- This isn't my regular line of work so I'm making it up as I go.
+L154556 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ What else can we do?
+L154555 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ We're not going that route.  Sonrisa's not someone you make deals with.
+L154554 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ If I give myself up in exchange for Sophy, would you make sure she's okay?
+L154551 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Look, I'd really like to...
+L154550 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Can you help me get her back?
+L154549 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Your daughter's the only leverage they have to keep you quiet.
+L154547 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ I couldn't get to her.  It all happened so fast.  Logan had her, and I saw him fall...then Peter told me to run.  And then he...and I remember so clearly, thinking it's me they want.  If I run, maybe they'll come after me.  Maybe they won't think about her... So I ran...
+L154546 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I know.
+L154545 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ They took my daughter.
+L154544 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Damn... Are you alright?
+L154123 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ SHHH!  Don't do that!
+L154122 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Oh my God!  In here!  IN HERE!
+L154621 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ There's nothing to be afraid of. Everything's going to be alright.
+L154620 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ Mommy, I'm scared.
+L154619 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Soon, baby.
+L154618 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ When?
+L154617 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Don't worry, I'm coming to get you.
+L154616 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ Mommy, where are you?
+L154615 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Sophy?  Are you okay?
+L154442 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ Then I'm gonna do what you do to make me feel better when I'm sad.
+L154441 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Pretty much the same reasons I was crying.  But things will be better when we move to a new place.
+L154440 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ If I'm sad, or tired, or sometimes when I'm angry or when somebody's being mean to me.
+L154439 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ What makes you cry?
+L154438 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ Then how come last night I heard you talking to Logan and you were crying?
+L154437 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ No...
+L154436 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ Are we in some kind of trouble?
+L154435 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Because we can't.  There's nothing here for us anymore.
+L154434 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ But why can't we stay here?
+L154433 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ I know, Honey, but just think how exiting it will be-- new house, new school, new friends--
+L154432 +++$+++ u758 +++$+++ m48 +++$+++ SOPHY +++$+++ I don't want to move away.
+L154431 +++$+++ u750 +++$+++ m48 +++$+++ LAUREN +++$+++ Goodnight Bears.  Goodnight chairs. Goodnight kittens.  Goodnight mittens. Goodnight clocks.  And goodnight socks. Goodnight little house.  And goodnight--
+L154748 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Zack... He made it... He's alive...
+L154747 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ That was taken nine years ago... I.D.'d as Michael Hanover.  Sentenced to 18 months in the state penn at Rawlins, Wyoming for armed robbery.  He escaped from custody after 4 days.  Hasn't been seen or heard from since.
+L154746 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ And whether you want to believe it or not, you already fired the first shot.  On another matter, Federal Corrections used to keep records on distinguishing marks-- scars, tattoos.  I did a search and came up with this.
+L154745 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Civilization as we know it is unraveling before our eyes.  But Logan and Max, with a song in their hearts are gonna march into battle to keep that from happening.
+L154744 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ With your help.
+L154743 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And you still think you can do something to change that.
+L154742 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Maybe we got screwed outta living in a time when we could sit in a cafe, sipping our lattes wearing two thousand dollar wrist watches while we plan our next vacation.  But the world got a whole lot meaner all of a sudden.  Wasn't s'posed to, but it did.  And it's back to the law of the jungle.  You got your predators and you got your victims.
+L154741 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ We're quoting Mom again.
+L154740 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You are involved.  By being alive you're involved.
+L154739 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And I feel real bad about all that but it doesn't mean I need to get involved.
+L154738 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ These girls, kidnapped during the last month and sold overseas to the highest bidder.  The oldest is twelve.  The youngest about the same age you were when you escaped.
+L154737 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Look, thank you for this but--
+L154736 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Forty-seven people drowned last night off the coast of Vancouver after paying smugglers twenty thousand apiece to get into Canada so they could get work in order to eat.  Only they got marched overboard at gunpoint instead.
+L154735 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Deeds, not words.  I need your help.
+L154734 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't know what to say.
+L154733 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ It turned up on the black market.  One of my sources thought I might be interested.
+L154732 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Open it.
+L154731 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What's this?
+L154730 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's what soldiers do, right?
+L154729 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ On accounta you, Sonrisa didn't get to buy off the jury, or kill the judge. He's gone.  Once and for all.  It was war, Max, and you won.
+L154728 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Well, not me personally.
+L154727 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I've never been much for trying to understand why bad things happen, I just know they do.  So the job's to figure out how to deal with the consequences.  Which you did... You took that sonuvabitch out.
+L154726 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You believe that?
+L154725 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ My mother used to say the universe is right on schedule.  Everything happens like it's supposed to.
+L154724 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm sorry.
+L154723 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Not in any pain...the good and bad news of a blown out spinal cord.
+L154722 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I would've come sooner, but...I didn't... How're you doin'?
+L154721 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Somebody's got to.
+L154720 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ See you're back and still rocking the boat.
+L154471 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's deep.  But before you lecture me about the meaning of life maybe you oughta get one...ta ta.
+L154470 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You're a soldier, Max.  That's what you were put here for.  But soldiers need a mission otherwise they tear themselves up.
+L154469 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ They've lost track of me and I plan to keep it that way.
+L154468 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ They want me...bad.  Or at least they don't want me grabbed up by the Chinese or whoever.  Best case, I wind up back in that facility.  More likely, it's a long drive out in the country, if you know what I mean.
+L154467 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ She's put her life on the line, and her faith in me.
+L154466 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I didn't make it this far by attracting a lot of attention.
+L154465 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ So, you know the lengths he'll go to keep her from going public... I'm turning Lauren over to Canadian law enforcement tomorrow.  They'll put her in witness protection, but if you're with her the risk of her safety goes way down.
+L154464 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, I catch your hacks.  He's Satan's lap dog, or something.
+L154463 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ She's prepared to testify that she was instructed to do this by one of Edgar Sonrisa's managers.  You know who Sonrisa is?
+L154462 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's low, but this effects me how exactly?
+L154461 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ The woman you met, Lauren.  She supervised workers removing cortodiazapine from gel caps by hand and replacing it with powdered sugar.  The real drug was shipped out of the country. The placebos were distributed to County VA Hospital and six veterans' clinics in the area.
+L154460 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I already don't like the sound of this.
+L154459 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Your help.
+L154458 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What's in it for you?
+L154457 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I need to find this technician, or anyone else who knows about Project Manticore. They would've used surrogate mothers to carry you after the in-vitro work... If I can track down one of them.
+L154456 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You said you could help.
+L154455 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Like extra virgin olive oil, the best of the best.
+L154454 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Christmas is a snap when you got no parents or relatives, just a bunch of gene sequences from probably twenty different people.
+L154453 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Hardly...
+L154452 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Your basic hodge-podge.
+L154451 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ A girl.
+L154450 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah...a made-up creature.  Like in mythology...with the head of a lion, the body of a goat and the tail of...
+L154449 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ The technical term for you is "chimera"...
+L154448 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I know they made me.  Even got the label on my neck to prove it.
+L154447 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ How much do you know?
+L154446 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I remember fine.  I just didn't understand what was going on.  They never told us anything except what to do.  It took me a long time afterwards to figure things out.
+L154445 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ How well do you remember the lab?
+L154444 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ We got separated right away.  I never knew how many made it.
+L154427 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ The bar code on your neck, Max.  I know who you are and I know who you're running from.
+L154426 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Not that I don't enjoy a good urban legend now and then but what does any of this have to do with me?
+L154425 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ He was working on something called Project Manticore, which was using recombinant DNA to produce a superior human...a warrior...an advanced infantry soldier.
+L154424 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't know what kind of game you're playing here but I'm out because you are a whack-job.
+L154422 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You did go through my stuff.
+L154421 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ L-Triptophane...a neurotransmitter sometimes used in homeopathy to control seizures.  Then the lightbulb went off.
+L154420 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ C'mon, Max.  First I watch you dive headfirst out the window fifteen stories up like you're Rocky the flying squirrel. Then, I found this in your apartment.
+L154419 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You lost me.
+L154418 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ The other one like you...
+L154417 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ The other ones?
+L154416 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Suppose I could help you locate the other ones.
+L154413 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Only when I meet someone I have to know everything about.
+L154412 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Expensive gifts, surprise late-night visits, over-the-top flattery... You always come on this strong?
+L154410 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ No, I meant this.
+L154409 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Gold leaf, art nouveau, French, early nineteen hundreds... I could probably fence this for three or four grand.
+L154408 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ C'mere, I want to show you something.
+L154407 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You need to get out more.
+L154406 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I haven't been able to get you off my mind.
+L154405 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You'd think a guy who's taken on the job of saving the world would have a few more important things to do than traipse around after some girl.
+L154404 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I'm sorry.  It wasn't my intention.  But I had to see you.
+L154403 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yes on all counts.
+L154402 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Look, if I made you nervous or uncomfortable or creeped you out--
+L154399 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ We are not fine.
+L154398 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ It's alright, Peter, we're fine.
+L154397 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Whoa there, Tex!  We've been through all this.
+L154396 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You're that nervous, you're welcome to stay here.
+L154395 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How'm I s'posed to ever sleep there again knowing some pervo's probably touched everything I own?
+L154394 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ That would be appropriate, yes.
+L154393 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Am I s'posed to be grateful?
+L154392 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ So saw my hands off, I left you a present.
+L154391 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How do I know you didn't?
+L154390 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You make it sound I pawed through your priceless collection of underwear.
+L154389 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Bent.
+L154388 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Bent?
+L154387 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Completely different situation.  I steal things in order to sell them.  For money. It's called commerce.  But some stranger sneaking into a girl's bedroom is...bent.
+L154386 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Me?  You're the one who tried to rip off this piece.
+L154385 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You got a lotta nerve.
+L154384 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ It was open.
+L154383 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Like following me around and pestering the people I work with wasn't bad enough, but breaking into my apartment--
+L154382 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I'm not a half bad cook.
+L154381 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I won't be staying.
+L154380 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Ever notice how cats always seem to turn up around dinner time?
+L154313 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Yeah...
+L154312 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Is the social studies class over for today?
+L154311 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You accept the way things are, you're an active participant in making it worse.
+L154310 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Personally, I'm more interested in going fast on my motorcycle or climbing the Trans American building with my pals. Instead of giving myself a headache over stuff I can't do anything about.
+L154309 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Something.
+L154308 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ So what are you gonna do about it?
+L154307 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ People had a choice, even if they took it for granted.  And now they don't.
+L154306 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You miss the good ol' days.  Even though there were still poor people who died from diseases when they didn't have to. And rich people spent obscene amounts of money redecorating their houses to match the cat.  Those good ol' days?
+L154305 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Look around at all this...  Built by people who got up every morning and worked hard trying to make a better life.  Then the bomb happened and everyone got scared.  They blinked and before they knew it they'd given away the store to a bunch of thugs who were happy to take it off their hands.  Overnight the government, the police, everything intended to protect the people had been turned against them.
+L154304 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ So, what, you just like the sound of your own voice?
+L154303 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Fortunately, my needs are met in that department.
+L154302 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What's your shot in all this?  Being a famous, anonymous, underground, pirate, cyber-journalist can't be much of a payday.
+L154301 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ One of my sources.  Her husband was murdered by Edgar Sonrisa.
+L154300 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Girlfriend?
+L154299 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Lauren's not my wife.
+L154298 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How does Mrs. Eyes Only like being married to a guy on everybody's hit list?
+L154297 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Too early to tell.
+L154296 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ So now you tracked me down.  What d'ya think?
+L154295 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Now you know who I am, where I live.  I figured I better find out who I'm dealing with in case you were looking to hurt me.
+L154294 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Am I s'posed to be flattered by all the attention?
+L154293 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Wasn't that hard.
+L154292 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How'd you find me?
+L154290 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ The one you're wearing?
+L154289 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Lemme get my coat.
+L154287 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Can we go somewhere and talk?
+L154286 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Sorry about your window.
+L154284 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Logan Cale.
+L154283 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Original Cindy, say hi to my good friend--
+L154282 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ We didn't get a chance to finish our conversation the other night.
+L154281 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ So this guy walks into a bar and says...
+L154144 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ The goddess who comprehends all goddesses, eye of Ra, protector, avenger, and destroyer, giver of life, who lives forever... I could keep going.
+L154143 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Who is...
+L154142 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No, because it's the Egyptian goddess Bast.
+L154141 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ So, what, you liked it because it was shiny?
+L154140 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Whoever that is.
+L154139 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You have good taste.  French, 1920's, attributed to Chitarus.
+L154138 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ We're just a little tense right now...  It's okay.
+L154137 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm sorry if I caught you at a bad time.
+L154136 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You're lucky.  I almost pulled the trigger.
+L154135 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Guess it wasn't the pizza delivery guy.
+L154134 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I was expecting someone else.
+L154133 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ First time I ever heard that.
+L154132 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Thank God.
+L154131 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Girl's gotta make a living.
+L154130 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ You're a thief?
+L154265 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I'll wait.
+L154264 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ None.
+L154263 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Any idea when she'll be back?
+L154262 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Max something.  I got no clue where she stays.
+L154260 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Can't help you.
+L154259 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I need to talk to her.
+L154258 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ She may be easy on the eyes but she's trouble, trust me.  Hot run to two-oh-two Sansomme.
+L154257 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ But she does work here?
+L154256 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ You don't want to.
+L154255 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ Know where I can find her?
+L154254 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Ladies would be elsewhere.
+L154253 +++$+++ u751 +++$+++ m48 +++$+++ LOGAN +++$+++ I'm looking for a lady who works here.
+L154361 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And if I ever catch you coming near my man again...
+L154360 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ I understand.
+L154359 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Say the words, "I understand."
+L154358 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ Okay, okay.
+L154357 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Now, here's how it's gonna be, Lydia. You're gonna take your threats and your acrylic nails, and you're gonna go home and figure out your marriage, instead of trying to make other people feel as miserable as you do, understand?
+L154356 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ Help... Lemme go... No, don't let me go... Help...
+L154354 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ Let go of my hand.
+L154353 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ This is not a place you wanna go.
+L154352 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ Not before we get something straight you prissy little bitch.  I decide when I'm done with your boyfriend.  Not him, and certainly not you.  Unless maybe you want to find out just how sharp these nails really are.
+L154351 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I think you should go now.
+L154350 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ You're also a fool.
+L154349 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Big part of loving someone's being able to forgive them.
+L154348 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ How sweet.  Standing by your man, even after what he did.  You're a very understanding person.
+L154347 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Well, it's over between you and him. We're getting married next month.
+L154346 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ Oh?
+L154345 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And so should you.  Sketchy told me I could expect a visit from you.  I know all about how you threatened him.  That if he didn't break it off with me, you'd save him the trouble.
+L154344 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ I thought it was important for you to know the facts.
+L154343 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Look, I don't know what you want--
+L154342 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ He been sleeping in a T-shirt lately?  That's so you won't see the fingernail marks on his back.  Bet you didn't know your boyfriend finds a little pain exciting.  He didn't either...at first.
+L154341 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How do I know you're telling the truth?
+L154340 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ With me, where he's been after work, three, sometimes four nights a week for the last two months... We have what you might call an intimate relationship.
+L154339 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You said you knew where my fiance was the other night.
+L154338 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ My name's Lydia.  And it seems you and I have a lot in common.
+L154337 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Who are you?
+L154336 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ To set the record straight about where he was the other night when he said he was working late.
+L154335 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What do you want?
+L154334 +++$+++ u752 +++$+++ m48 +++$+++ LYDIA +++$+++ A friend of your fiance's.
+L154333 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Who is it?
+L154676 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm on my way.
+L154675 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ One-seven-four-nine-five Natoma.
+L154674 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Just give it to me.  I'll remember.
+L154673 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Got a pencil?
+L154672 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Zero... C'mon, Dan I don't have all day.
+L154669 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Just do it... Five-seven-five-oh- eight...
+L154668 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Sure you wanna be havin' this conversation over the phone?
+L154667 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I need a favor... I need you to trace a number for me.
+L154510 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You and me both.
+L154509 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I'm sorry I couldn't come up with something more positive.
+L154508 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Bastard...
+L154507 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Your fiance has four previous wives.  His M.O. is to clean 'em out and take off.  Which is what you oughta do.
+L154506 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I'm you, I take that money and get outta town while you can.
+L154505 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You're crazy.
+L154504 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Hardware's too sophisticated.  It's gotta be the government.  And why do I think they're looking for you?
+L154503 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Like you said, maybe somebody's tracking one of your investigations.
+L154502 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ They lifted my wallet to make it look like a robbery.  But there's a bug in my computer keyboard, a tap on the phone and a mike in the light fixture.
+L154501 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How's this about me?
+L154500 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Whoever tossed this place wants you.  And I'm looking to stay outta the line of fire.
+L154499 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Here's your money.
+L154498 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I don't know what your story is and I don't want to.
+L154495 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I'll live... Regarding your case...I'm afraid I've come up with some bad news on your fiance.  Lemme get the file.
+L154494 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ As long as you're okay.
+L154115 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ More money... Like I'm shocked to hear you say that.
+L154114 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Nothing so far from arrests, hospital admissions or coroners.  This kind of search...it's heavy spadework.  I'm gonna need--
+L154113 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You were gonna run through the law enforcement databases for a match on identifying marks.
+L154112 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ They don't exactly have a search engine for finding a bunch of kids with bar- codes on their necks, which is something I'm not even going to ask about--
+L154111 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What about the other kids?  You get anything on them?
+L154110 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Only a last name would be nice.  Or the nearest town to this...clinic.
+L154109 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ She was a nurse.  She must've lived near there, somewhere, near the...  ...the clinic.  There must be some registry of nurses or medical technicians or whatever for Wyoming.
+L154108 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ A nuclear airburst wipes out every record of every kind in every computer east of the Rockies, and you want me to find some woman you met when you were seven, whose last name you don't even know... Maybe if you could give me something more on her...anything you can remember, some detail...
+L154107 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Nothing on Hannah?
+L154106 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Then what?  That's it.  That's all I got.
+L154105 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Then what?
+L154104 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Guy says he made the trade in Gillette, Wyoming sometime in the fall of oh-nine.
+L154102 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ He says he got it from a woman.  Doesn't remember her name but she fits the description you gave like a glove.
+L154101 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Thank you.
+L154100 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ He got the car in a trade for his old pick-up and some food...no bill of sale or nothing.  It was right after the pulse so all the DMV records were wiped.  So we don't get anything on the seller.  Except I actually managed to find this guy, six hours on the phone... Say thank you.
+L154099 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Who's this guy?  This isn't who we're looking for...her name was Hannah.
+L154098 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Sorry, I was seven at the time.
+L154097 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I got a hit on the car.  An oh-five Tahoe, blue, with Wyoming tags... AGT349... It wasn't easy 'cause you were off in one of the numbers.
+L154096 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ Right here someplace.
+L154095 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ My name's not kid.  It's client.  As in the person who pays for your opulent lifestyle.  Now, you got something for me or not?
+L154094 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ You got a punk-ass mouth on you, kid.
+L154093 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, does kinda break the elegant atmosphere you got goin' on here.
+L154092 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ You drive away business roarin' in like that.
+L154091 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You did.
+L154090 +++$+++ u760 +++$+++ m48 +++$+++ VOGELSANG +++$+++ I asked you to keep that thing outside.
+L154280 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ But, of course, there's nothing self- serving in that scenario.
+L154279 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ I say hang the bastard out to dry, let her see him for the heel he is, then maybe she'll step to the all-girl team and let mama-licious ease her pain.
+L154278 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Besides, think of the drama I'm sparing Natalie.
+L154277 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Only one I can think of.
+L154276 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ They don't have a lot of moving parts.
+L154275 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ So are dogs.
+L154274 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ They're prisoners to their genes.
+L154273 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Please...
+L154272 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And because I actually kinda feel sorry for guys sometimes.
+L154271 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Friends don't help other friends cheat.
+L154270 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And because he's my friend.
+L154269 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Unlikely.
+L154268 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, 'cause maybe he's learned his lesson.
+L154267 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You're actually gonna bail Sketchy out.
+L154089 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's a secret.
+L154088 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Where?
+L154087 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Gotta go.
+L154086 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ More like a mystery... Which isn't bad. It's just kinduv...mysterious...
+L154085 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A fog bank.
+L154084 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ And back at ya.  Only there's a part of you that's... I don't know--
+L154083 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Because you're probably my closest friend in the whole world.
+L154082 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Long enough for you to pretty much read me like a book, right?
+L154081 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A long time.
+L154080 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ How long you and me known each other?
+L154079 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ If I knew what you were saying, I wouldn't be asking.
+L154078 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You know what I'm saying.
+L154077 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A little what?
+L154076 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Hell yeah.  There's not the slightest grain of truth in anything that idiot was saying.  You are a totally down-ass female and a straight-up friend who happens to be a little...
+L154075 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah.
+L154074 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ He was just trying to blame you 'cause he's a slut.
+L154073 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ No.
+L154072 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You're not seriously buying into Darren's nonsense.
+L154071 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Tell me the truth.  Am I a female fog bank?
+L154070 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ What?
+L154069 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ That's odd...
+L154062 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I just don't go in with any expectations.
+L154061 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ You're way more philosophical than I could ever be.
+L154060 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What guys do.  'Nother order.
+L154059 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Craps all over everything and everyone and then wants mommy to forgive him.
+L154005 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Shame, wastin' a girl like that on a guy, but what're you gonna do?
+L154004 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Straight.
+L154003 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Now, why can't I find a girlfriend like that?  Brings him lunch everyday, thoughtful, sweet, legs from here to there--
+L154002 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ No, but I broke a nail giving him a cranium crack and that just sort of wrecks your day, know what I'm saying?
+L154001 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ At least he didn't swing with your ride.
+L154000 +++$+++ u755 +++$+++ m48 +++$+++ ORIGINAL CINDY +++$+++ Caught some son-of-a-bitch stealing my bike.  Used a car jack to blow out my U lock and bent a bunch of spokes.  So now I gotta get my wheels fixed.
+L153999 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Morning, Sunshine...
+L154625 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Okay...idea.  Compromise, right?  Bruno here comes with me.  He holds the money until mommy shows up, then we close escrow.  What you do with her after I'm gone doesn't keep me awake nights.
+L154624 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ You get it when I get her.
+L154623 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Can you put that in a bag or something?
+L154608 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ She's gonna want to hear for herself.
+L154607 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ She's got my word.
+L154606 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ She's gonna need to know that her little girl's alright.
+L154605 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ Make the call.
+L154604 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I have sincere eyes.
+L154603 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ And she bought that?
+L154602 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I told her it's just business to you, that all you want is a reasonable solution to this.  You give her daughter back, she agrees to leave the country.  I play the guarantor, drive her down to Mexico tonight, and put her on a train to Brazil or wherever.
+L154601 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ So, how do you get the woman to come to me?
+L154598 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ Pull the cash.
+L154597 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Look, you're a player... I'm bringing you this on a plate, and my fee is just the normal cost of doing business.
+L154590 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What, you gonna put me on your Christmas card list?
+L154589 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ Who are you?
+L154585 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You're gonna pay me fifty thousand dollars...
+L154584 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ I actually know how this works.
+L154583 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Only way you're ever gonna find out is reincarnation... Fact is, you are gonna pay me, and I am gonna provide you with a service.
+L154582 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ Quite a mouth on a girl so young...  ...but my guess is talking is not what it does best.
+L154581 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Right after you change your wardrobe, your personality and drop about thirty pounds.
+L154580 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ Not right now?  Okay, when?
+L154579 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Not right now.
+L154578 +++$+++ u757 +++$+++ m48 +++$+++ SONRISA +++$+++ I'll bet you can.  Sit.
+L154577 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Yeah, I can see to it your winning streak continues.
+L154209 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You can tell 'em yourself tomorrow.
+L154208 +++$+++ u759 +++$+++ m48 +++$+++ THEO +++$+++ Tell everybody hey.
+L154207 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Here's the dealio on Eyes Only.  He's probably some wack rich dude sitting around in a trick-ass apartment, bored stupid.  So he gets off on scarin' the poop outta folks like you-- I gotta go.
+L154206 +++$+++ u759 +++$+++ m48 +++$+++ THEO +++$+++ What if he's on the level?
+L154205 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Don't believe everything you hear on TV.
+L154204 +++$+++ u759 +++$+++ m48 +++$+++ THEO +++$+++ I know what I got, Max.  They put me back on that drug they're giving the other vets.  Only the guy does those cable hacks says the stuff's no good.
+L154203 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Probably a touch of what's going around.
+L154202 +++$+++ u759 +++$+++ m48 +++$+++ THEO +++$+++ Feel like the dog's dinner.
+L154201 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Playing hooky again?
+L153973 +++$+++ u759 +++$+++ m48 +++$+++ THEO +++$+++ You're the best, Maxie.
+L153972 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ It's payday, need me to pick up your check?
+L154524 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Shut-up...
+L154523 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ That was extreme!  Did you see that one guy--
+L154373 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Say the words, "I understand."
+L154372 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Okay, okay, okay--
+L154371 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You were trying to have it both ways and you were being completely selfish.  And if I ever find out you're going out the back door on Natalie again, you're the one who's gonna be hanging by your ankles three stories up.  Understand?
+L154370 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ True, but--
+L154369 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ None of this would've happened if you had exercised even a smidgen of good judgement or self-restraint, which you didn't.
+L154368 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She was the one--
+L154367 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You would be making a mistake to come away from this thinking she's the villain in the piece... You are.
+L154366 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She's toxic...monster in bed, but toxic.
+L154365 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Lydia may not have been one of humanity's finer specimens but--
+L154364 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ No, I'm serious.  That psycho got exactly what she deserved... Yes.
+L154363 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Easy Sketchy.
+L154362 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ You rock, Max.  You... Rock...
+L154328 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You don't.
+L154327 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Max, what did I do to deserve a friend like you?
+L154326 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'll give it my best shot.
+L154325 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She came by the apartment once already. Fortunately, I'd disconnected the doorbell as a precaution... Lydia's not gonna back off until she gets her pound of flesh.
+L154324 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And we're sure Lydia's gonna make her move?
+L154323 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Convinced her she needed to visit her mom in San Mateo.
+L154322 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How'd you get her out of town?
+L154321 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ I just don't want Natalie to ever find out.  She deserves better.
+L154320 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Or, I dissolve into an angry, hysterical wreck who never wants to see your lying ass again, which is probably what would really happen.
+L154319 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ But you explain that you're a compassionate and understanding person who can find it in your heart to forgive me.
+L154318 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ --a philandering pig.
+L154317 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She tells you how I've been--
+L154316 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You set up on Lydia.  When she's on her way over to the apartment you give me the heads up.  I answer the door and pretend to be Natalie.
+L154315 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ So you're straight on how this is gonna go down.
+L154250 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Look Max, I made a terrible mistake.  One I'll never, ever make again.  Natalie and I are soulmates.  I know that now.  She's the woman I want to spend the rest of my life with.  I guess it took the thought of losing her for me to understand that.
+L154249 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And why should she?
+L154248 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Even if she doesn't dump me, which is unlikely, she'd never be able to trust me again.
+L154247 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What happens if you level with her?
+L154246 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Who either doesn't care, or could have me killed.  Either way, Natalie's still gonna find out.
+L154245 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Fight fire with fire.  Threaten to go to her husband.
+L154244 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She's as much as said so.  But she doesn't want to share her toy with anyone else... It's just an ego thing with her.
+L154243 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ A toy?
+L154242 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ I'm a toy to her.
+L154241 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And Lydia telling Natalie the truth makes you a victim in what way?
+L154240 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Lydia.
+L154239 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Does this person have a name?
+L154238 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ She had me followed the other day and found out about Natalie.  Now, this person's demanding I blow her off or she'll do it for me by telling Nat about us.
+L154237 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Then a sympathetic mouth, then a sympathetic--
+L154236 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Exactly.
+L154235 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ And you were a sympathetic ear.
+L154234 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Hear me out.  This person I've been seeing is a Jam Pony client who happens to be married--
+L154233 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Really?
+L154232 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ I'm the victim here.
+L154231 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Here it comes.  The part where the guy turns everything around.
+L154230 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ But there's another side--
+L154229 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You left out condescending.
+L154228 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Lame, self-serving, arrogant...guilty as charged.
+L154227 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Or do you think we're just so grateful to have one of you idiots we'll look the other way, which is arrogant and condescending.
+L154226 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Max--
+L154225 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Do guys actually believe their lame, self- serving excuses?
+L154224 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ I know what you're thinking.  But the truth is, this other person is not someone I'm in love with.  As a matter of fact, after what she just did, she's not even someone I like much.  So in a technical sense, I'm not sure you could call me and her cheating...officially.
+L154223 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't see how you cheating on Natalie involves me.
+L154221 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Not half as pissed as she's gonna be when she finds out why I blew her off... I need your help, Max.
+L154220 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ You blew off your girlfriend last night, even though it was the big one-oh.  I'd be pissed off too if I was her.
+L154218 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What's up?
+L154217 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ We gotta talk.
+L154216 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Hey, Sketchy--
+L154030 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ But I'll take a rain check...
+L154029 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Right, the big one-oh.
+L154028 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ I gotta meet Natalie for dinner.
+L154027 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Quitting time.  Grab a cold one?
+L154018 +++$+++ u756 +++$+++ m48 +++$+++ SKETCHY +++$+++ Later.
+L154017 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Catch you back at the wall.
+L154521 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Theo's dead.
+L154520 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Hot run to 842 Beulah, corner of Haight... And you can tell your pal Theo he just got his worthless ass fired. Not that he cares but the wife and kid might.
+L154332 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I'm taking the rest of the day off 'cause I'm not feeling so hot.
+L154331 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ What about this?
+L154330 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ Tell him I took the day off 'cause I wasn't feeling so hot.
+L154329 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ Fourteen-thirteen Market.  Get a signature, then take it to this address... By the way, that guy who was in here sniffing after you yesterday called twice already.
+L153998 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't know how to break this to you, Normal, we're all looking for another job.
+L153997 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ You tell Theo he's not in tomorrow he can start looking for another job.
+L153996 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ How 'bout you don't break my sneakers on this.  The guy is seriously not well.
+L153995 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ For a change.
+L153994 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ He's sick.
+L153993 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ And Theo can't pick up his own check because?...
+L153992 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I don't sleep... Theo asked me to pick up his check.
+L153991 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ More like deployed in bed asleep.
+L153990 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ What's the difference if I'm on call here or deployed in the field.
+L153989 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ I want you on call here.
+L153988 +++$+++ u753 +++$+++ m48 +++$+++ MAX +++$+++ I was on call. 
+L153987 +++$+++ u754 +++$+++ m48 +++$+++ NORMAL +++$+++ This is a hot run.  Beat it.  You're late.
